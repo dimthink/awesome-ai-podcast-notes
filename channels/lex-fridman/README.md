@@ -1,0 +1,27 @@
+# Lex Fridman
+
+共 23 篇。
+
+- 2026-05-29 · [Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497](2026-05-29-biggest-mysteries-in-physics-antimatter,-dark-energy-&-toe-don-lincoln-lex-fridman-podcast-1M3Vdl6DRkU.md)
+- 2026-05-06 · [FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496](2026-05-06-ffmpeg-the-incredible-technology-behind-video-on-the-internet-lex-fridman-podcast-496-nepKKz-MzFM.md)
+- 2026-04-09 · [Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495](2026-04-09-vikings,-ragnar,-berserkers,-valhalla-&-the-warriors-of-the-viking-age-lex-fridman-podcast-iKx3gAODybU.md)
+- 2026-03-23 · [Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494](2026-03-23-jensen-huang-nvidia-the-$4-trillion-company-&-the-ai-revolution-lex-fridman-podcast-494-vif8NQcjVf0.md)
+- 2026-03-11 · [Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493](2026-03-11-jeff-kaplan-world-of-warcraft,-overwatch,-blizzard,-and-future-of-gaming-lex-fridman-podca-H9rF1CSSh-w.md)
+- 2026-03-06 · [Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486](2026-03-06-michael-levin-hidden-reality-of-alien-intelligence-&-biological-life-lex-fridman-podcast-4-Qp0rCU49lMs.md)
+- 2026-03-04 · [Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fridman Podcast #482](2026-03-04-pavel-durov-telegram,-freedom,-censorship,-money,-power-&-human-nature-lex-fridman-podcast-qjPH9njnaVU.md)
+- 2026-03-04 · [Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA | Lex Fridman Podcast #481](2026-03-04-norman-ohler-hitler,-nazis,-drugs,-ww2,-blitzkrieg,-lsd,-mkultra-&-cia-lex-fridman-podcast-SvKv7D4pBjE.md)
+- 2026-03-04 · [Julia Shaw: Criminal Psychology of Murder, Serial Killers, Memory & Sex | Lex Fridman Podcast #483](2026-03-04-julia-shaw-criminal-psychology-of-murder,-serial-killers,-memory-&-sex-lex-fridman-podcast-7OLVwZeMCfY.md)
+- 2026-03-04 · [Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488](2026-03-04-infinity,-paradoxes,-gödel-incompleteness-&-the-mathematical-multiverse-lex-fridman-podcas-14OPT6CcsH4.md)
+- 2026-03-04 · [Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487](2026-03-04-deciphering-secrets-of-ancient-civilizations,-noah's-ark,-and-flood-myths-lex-fridman-podc-_bBRVNkAfkQ.md)
+- 2026-03-04 · [David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485](2026-03-04-david-kirtley-nuclear-fusion,-plasma-physics,-and-the-future-of-energy-lex-fridman-podcast-m_CFCyc2Shs.md)
+- 2026-03-04 · [Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479](2026-03-04-dave-plummer-programming,-autism,-and-old-school-microsoft-stories-lex-fridman-podcast-479-HsLgZzgpz9Y.md)
+- 2026-03-04 · [Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480](2026-03-04-dave-hone-t-rex,-dinosaurs,-extinction,-evolution,-and-jurassic-park-lex-fridman-podcast-4--Qm1_On71Oo.md)
+- 2026-03-04 · [Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | Lex Fridman Podcast #484](2026-03-04-dan-houser-gta,-red-dead-redemption,-rockstar,-absurd-&-future-of-gaming-lex-fridman-podca-o3gbXDjNWyI.md)
+- 2026-03-01 · [Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492](2026-03-01-rick-beato-greatest-guitarists-of-all-time,-history-&-future-of-music-lex-fridman-podcast-1SJiTwbSI58.md)
+- 2026-02-25 · [Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE](2026-02-25-khabib-vs-lex-training-with-khabib-full-exclusive-footage-KGVpKPNUdzA.md)
+- 2026-02-18 · [Origin story of OpenClaw: From 1-hour prototype to 180,000 stars of GitHub | Peter Steinberger](2026-02-18-origin-story-of-openclaw-from-1-hour-prototype-to-180,000-stars-of-github-peter-steinberge-0ch2xoBzf3A.md)
+- 2026-02-17 · [Name-change drama behind Clawdbot, Moltbot, OpenClaw | Peter Steinberger and Lex Fridman](2026-02-17-name-change-drama-behind-clawdbot,-moltbot,-openclaw-peter-steinberger-and-lex-fridman-jSZrIPMTDLg.md)
+- 2026-02-12 · [OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491](2026-02-12-openclaw-the-viral-ai-agent-that-broke-the-internet-peter-steinberger-lex-fridman-podcast-YFjfBk8HI5o.md)
+- 2026-01-31 · [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](2026-01-31-state-of-ai-in-2026-llms,-coding,-scaling-laws,-china,-agents,-gpus,-agi-lex-fridman-podca-EV7WhVT270Q.md)
+- 2026-01-13 · [Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489](2026-01-13-paul-rosolie-uncontacted-tribes-in-the-amazon-jungle-lex-fridman-podcast-489-Z-FRe5AKmCU.md)
+- 2024-03-18 · [Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419](2024-03-18-sam-altman-openai,-gpt-5,-sora,-board-saga,-elon-musk,-ilya,-power-&-agi-lex-fridman-podca-jvqFAi7vkBc.md)
