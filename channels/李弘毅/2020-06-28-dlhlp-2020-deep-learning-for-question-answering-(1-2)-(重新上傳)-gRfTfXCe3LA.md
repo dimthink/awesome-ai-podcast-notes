@@ -18,6 +18,10 @@ duration: "42:12"
 - **TL;DR:** 李弘毅教授深入剖析QA系统演进，从简单问答到多模态，强调BERT影响及“不回答”的智慧。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-06-28-dlhlp-2020-deep-learning-for-question-answering-(1-2)-(重新上傳)-gRfTfXCe3LA.transcript.md)
+
 ## 材料信息
 
 - **标题**：[DLHLP 2020] Deep Learning for Question Answering (1/2) (重新上傳)

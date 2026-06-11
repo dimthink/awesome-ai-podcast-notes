@@ -18,6 +18,10 @@ duration: "20:16"
 - **TL;DR:** GPT与Midjourney结合创造开放世界文字冒险游戏，展现AI动态叙事潜力，但需精细指令控制难度与伦理边界。
 - **Rating:** 4
 
+## 版本
+
+- [原始文稿](2023-02-24-【生成式ai】用-chatgpt-和-midjourney-來玩文字冒險遊戲-A-6c584jxX8.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

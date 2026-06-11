@@ -18,6 +18,10 @@ duration: "45:49"
 - **TL;DR:** 策略梯度通过加权分类视角优化期望奖励，引入Baseline和优势函数解决采样偏差和信用分配问题，是PPO等先进RL算法的基石。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-06-09-drl-lecture-1-policy-gradient-(review)-z95ZYgPgXOY.transcript.md)
+
 # 深度解析：策略梯度（Policy Gradient）与PPO的基石
 
 ## 材料信息

@@ -18,6 +18,10 @@ duration: "22:15"
 - **TL;DR:** LLM有专才（Finetune+Adapter）和通才（Prompting）两种范式，前者性能优异，后者灵活高效，共同驱动AI发展。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-03-10-【生成式ai】finetuning-vs.-prompting-對於大型語言模型的不同期待所衍生的兩類使用方式-(1-3)-F58vJcGgjt0.transcript.md)
+
 ## 内容深度重构与阐述
 
 **材料信息**

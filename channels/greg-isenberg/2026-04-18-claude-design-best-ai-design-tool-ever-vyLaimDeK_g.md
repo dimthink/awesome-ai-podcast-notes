@@ -18,6 +18,11 @@ duration: "1:00:00"
 - **TL;DR:** Claude Design的线框图和演示文稿能力一流，视频能力平庸；用AI快速验证产品想法的工作流比工具本身更重要
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-18-claude-design-best-ai-design-tool-ever-vyLaimDeK_g.structured.md)
+- [原始文稿](2026-04-18-claude-design-best-ai-design-tool-ever-vyLaimDeK_g.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

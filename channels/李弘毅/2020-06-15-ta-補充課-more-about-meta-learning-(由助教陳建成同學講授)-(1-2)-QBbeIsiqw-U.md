@@ -18,6 +18,10 @@ duration: "44:09"
 - **TL;DR:** Meta Learning通过“学会学习”使机器能快速适应新任务和解决Few-shot问题，其模型可分为黑盒、基于优化和基于度量三大类，是通向通用AI的关键技术。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-06-15-ta-補充課-more-about-meta-learning-(由助教陳建成同學講授)-(1-2)-QBbeIsiqw-U.transcript.md)
+
 ## 内容深度重构与阐述
 
 **材料信息**

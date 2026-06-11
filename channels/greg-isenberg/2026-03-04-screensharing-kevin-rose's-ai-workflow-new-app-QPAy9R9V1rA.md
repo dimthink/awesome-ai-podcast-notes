@@ -18,6 +18,11 @@ duration: "56:25"
 - **TL;DR:** 为自己而建：传奇黑客Kevin Rose手把手教你用AI一周复刻Techmeme
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-04-screensharing-kevin-rose's-ai-workflow-new-app-QPAy9R9V1rA.structured.md)
+- [原始文稿](2026-03-04-screensharing-kevin-rose's-ai-workflow-new-app-QPAy9R9V1rA.transcript.md)
+
 好的，我将遵循您的系统指令，对提供的 YouTube 视频字幕进行深度重构，输出一篇完整的深度文章。
 
 ---

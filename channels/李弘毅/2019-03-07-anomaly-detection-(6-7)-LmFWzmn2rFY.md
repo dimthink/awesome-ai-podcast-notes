@@ -18,6 +18,10 @@ duration: "12:20"
 - **TL;DR:** 通过最大似然估计学习高斯分布来定义“正常”，进而识别偏离常态的异常数据点。
 - **Rating:** 4
 
+## 版本
+
+- [原始文稿](2019-03-07-anomaly-detection-(6-7)-LmFWzmn2rFY.transcript.md)
+
 **材料信息**
 
 - **标题**：Anomaly Detection (6/7)

@@ -18,6 +18,11 @@ duration: "33:18"
 - **TL;DR:** Seedance 2.0重新定义了AI视频——不是生成器而是编辑器，通过多输入融合实现虚拟试穿、翻译换脸、AI网红等商业化应用，提示词的秘诀是描述肌肉运动而非情绪标签。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-17-i-tested-seedance-2.0.-wow-Uz1ZSxSYkB8.structured.md)
+- [原始文稿](2026-04-17-i-tested-seedance-2.0.-wow-Uz1ZSxSYkB8.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

@@ -18,6 +18,11 @@ duration: "29:45"
 - **TL;DR:** AI不会消灭工作，而是让公司更小、个人更强：用代理替代繁琐，人类专注创造与梦想。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-06-openclaw,-claude-code,-and-the-future-of-software-peter-yang-on-the-a16z-show-UE8jx4dvlSQ.structured.md)
+- [原始文稿](2026-04-06-openclaw,-claude-code,-and-the-future-of-software-peter-yang-on-the-a16z-show-UE8jx4dvlSQ.transcript.md)
+
 # OpenClaw、Claude Code 与软件开发的未来：Peter Yang 在 a16z 的深度对话
 
 **材料信息**

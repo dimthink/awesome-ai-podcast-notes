@@ -1,0 +1,19 @@
+---
+title: "ML Lecture 8-3: Keras Demo - 原始文稿"
+channel: "李弘毅"
+published: "2017-10-15"
+source_url: "https://www.youtube.com/watch?v=L8unuZNpWw8"
+video_id: "L8unuZNpWw8"
+variant: "transcript"
+---
+
+# ML Lecture 8-3: Keras Demo - 原始文稿
+
+- **Channel:** 李弘毅
+- **Published:** 2017-10-15
+- **Source:** https://www.youtube.com/watch?v=L8unuZNpWw8
+- **Main:** [ML Lecture 8-3: Keras Demo](2017-10-15-ml-lecture-8-3-keras-demo-L8unuZNpWw8.md)
+
+臺灣大學人工智慧中心 科技部人工智慧技術暨全幅健康照護聯合研究中心 http://aintu.tw 現場打一下，有同學可能會問說 怎麼不在家事先寫好這樣子 就是這個要現場寫才潮這樣子 在這裡可以讓你知道說 這個 task 有多麼的簡單 這個字會不會太大，我們把它縮小一點 有人就覺得說，這個 deep learning 聽起來這麼潮的東西 它應該非常非常的複雜 它應該非常難實作，但其實不會 因為，現在 toolkit 的 framework 都非常的方便 我覺得它就像是那個 二向箔一樣，隨手拿出來就可以給別人降維打擊 沒有人知道二向箔是甚麼就算了 這個就是隨手就可以拿出來的東西 那你要 import 一些東西 你就自己回去 import  一下 那你能這邊先寫了一個 load data 的 function 這個內部的細節，你就不用管了 那你就先 call 一下 load data 的 function 把 data 先 load 一下 我們現在要做的是手寫數字的辨識 然後，load data 等一下，我們先看一下 x_train 跟 y_train 這邊是 call TensorFlow，那你可以看到它這個 有說 using TensorFlow backend 我們來看一下 x_train 呢 長甚麼樣子，我們打 x_train.shape 那這告訴我們說，x_train 是一個二維的向量 那它的第一個維度是一萬 那第二個維度的 dimension 是 784 那這甚麼意思呢？這告訴我們說 現在 training data 總共一萬筆，每一筆呢 它是由一個 784 維的 vector 所表示的 那我們來把第一個 vector 拿出來看 它長的就是這個樣子 它是一個很長的 vector，有 784 維的 vector 那在這個 vector 裡面，多數的值都是 0 那有少部分的值，你會發現說它 是介於 0~1 之間 那這些介於 0~1 之間的值就代表說 現在這個 pixel 它有沒有被塗黑 塗得最黑就是 1 所以，這邊這個數值代表說這個 pixel 的顏色有多深 其實，你很難從這個 vector 裡面就看出說，它是哪一個數字 這樣你很難看出說它是哪一個數字 所以，我們來看一下它的 label 才會知道它是哪一個數字 來看一下 label label 一樣第一個 dimension 是一萬維 第二個 dimension 是 10 維 那我們把第一筆 data 它的 label 拿出來看看 那你看第一筆 data 它的 label 是 它總共有 10 維 那你會發現說，多數的數字是 0 只有某一個維度的數字是 1 只有某一個維度的數字是 1 那你今天算一下，它是從 0 開始算的 這個是對第一個 dimension 這個就對應到 0，0, 1, 2, 3, 4, 5 對應到 5 的那個維度是 1 意味著說我們剛才看到的那一串數字 其實代表一個數字 5 雖然，你很難看出來它是甚麼 不過，我們用這種方式告訴 machine 說 剛才那個 vector，它對應的就是數字 5 接下來，就是實際的寫一下了 那其實呢 非常非常快，現場秒寫 其實，現在是有錄影的啦 Bandicam 免費版只能錄 10 分鐘 剛才已經過 5 分鐘，所以還有 5 分鐘 要在 5 分鐘以內把它寫完 好，網路有點卡 input dimension 是 28*28，然後 unit 等於 就胡亂設個值，就 33 你就隨便挑一個你喜歡的 activation function 比如說，sigmoid 好，行，然後再加一層 然後，第二層你就不需要再給它 input dimension 你就看 unit 要設什麼，比如說，633 如果我有拼錯的話，記得告訴我 (activation function = sigmoid) 然後，再加一層 也是 633 這樣 然後，最後 output 的 layer 呢 我們就一定要是 10 維 弄別的它不會給你過 一定只能有 10 個 unit activation function 其實你選別的也行 不過，我們就 用傳統的方法選 softmax 這樣 network 就建完了，再來就是下 config model.compile 然後，我們選一個 loss function 選甚麼好呢？ 我們就選 mean square error 你可能會問說為甚麼選 mean square error 呢 因為它數字最短，打起來最快 optimizer 就 SGD，我們都學過 SGD 了 然後，要設一下，SGD 這邊指的就是 Gradient Descent learning rate 設 0.1 learning rate 你是要手調一下的 然後，接下來
+
+matrix compile 也完了，再來就是 train 它 fit 這樣，非常快 然後，有兩個 flag 要下 這個在 video 裡面有說明 我們有說明甚麼是 batch_size 甚麼是 epochs 下 20 好了 最後，然後下完這行之後 你就可以假設你的 model 已經 train 完了 到目前為止，才過了一分半而已這樣子 再來，我們就是要把 拿 model 來做 evaluate，看它作的怎麼樣 我們就是把 testing data 拿出來 其實 fit function 裡面你也可以 call 你也可以放 validation set 它可以自動幫你做 validation 你只要再查一下怎麼用就可以了 把輸出導出來，然後 印一下輸出 這樣我就寫完了 花不到兩分鐘 接下來呢，我們就是 實際執行一下 那你可能會問說 聽說做 deep learning 要 GPU GPU 在哪裡呢？ 不要管那麼多 TensorFlow 會幫你處理這個問題的 你就 train 很快這樣子 我知道為甚麼了，這邊怎麼會打成 score 呢 太羞愧了，好，result 要不要看一下正確率是多少在 testing 上 正確率是 11% 這樣 因為是手寫數字辨識阿，所以 random 猜也要 10% 這樣 怎麼辦呢？怎麼辦，這時候就開始焦躁了 調一下參數 我知道，一定是 633 不吉利這樣 改成 689 這樣 胡亂改、亂改 好，再 train 一次 其實 train 這個，還滿快的啦 不過這是因為這是手寫數字辨識 用別的 corpus 的話，你 train 一次 一天就過去了，三天就過去了 你就焦躁到不行這樣 欸，好一點是嗎？ 好一點是嗎 那接下來，我再覺得說 你知道 deep learning 就是要很 deep 這樣子 剛才怎麼才三層，不夠 deep for 迴圈加十層 Keras 是可以 call for 迴圈的 好，十層，你說時間快到了是嗎？ 啊！結果還是 10% 這樣子 然後，你就開始焦躁不安 你可能會這樣，就是 你的老師告訴你說 deep learning 很潮 回去還不趕快給我做個 application 出來 而且 Keras 又這麼簡單 你回去還不給我寫個 10 個、8 個，然後 你 train 一次三天就過去了，再 train 一次三天又過去了 然後，把它改成很 deep 三天又過去了 然後，過了一個禮拜，你就發現說你什麼都沒有做出來 然後，你參數就調來調去 你就發現說，欸，怎麼做都做不起來 然後，最後你就只好從入門到放棄 所以 很多人會擔心說 人工智慧會不會統治世界啊？ 取代人類啊？我覺得在問這個問題之前 你要不要先把這個很簡單的 task 做好 而且你都做過作業一了 我相信做過作業以後 你一定不會有人工智慧統治這個世界這個問題 你會說怎麼連 Linear Regression 都做不起來呢？ 就是這個樣子，所以我們今天沒有做起來 然後，到底要怎麼把它做起來呢？ 就是請看介紹的錄影，會告訴你說 deep learning 有甚麼樣的 tip 當你做不起來的時候，在放棄之前 有什麼事情是你可以做的 今天就講到這邊，謝謝大家，謝謝！ 臺灣大學人工智慧中心 科技部人工智慧技術暨全幅健康照護聯合研究中心 http://aintu.tw

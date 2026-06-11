@@ -18,6 +18,10 @@ duration: "49:44"
 - **TL;DR:** 可解释机器学习不仅关乎信任与合规，更通过揭示模型“作弊”行为和内部机制，指导模型改进，其目标是提供令人满意的解释。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-13-ml-2021-(english-version)-lecture-25-explainable-ml-(1-2)-4rVD1EOaAX4.transcript.md)
+
 ## 材料信息
 
 - **标题**：[ML 2021 (English version)] Lecture 25: Explainable ML (1/2)

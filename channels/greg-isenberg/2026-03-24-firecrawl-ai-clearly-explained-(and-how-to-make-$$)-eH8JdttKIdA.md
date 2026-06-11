@@ -18,6 +18,11 @@ duration: "27:28"
 - **TL;DR:** Firecrawl 是 AI 的眼睛和手，通过垂直化、利基化的商业模式，创业者可以基于它构建高利润的 AI 代理服务，抓住下一代 AI 应用的浪潮。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-24-firecrawl-ai-clearly-explained-(and-how-to-make-$$)-eH8JdttKIdA.structured.md)
+- [原始文稿](2026-03-24-firecrawl-ai-clearly-explained-(and-how-to-make-$$)-eH8JdttKIdA.transcript.md)
+
 好的，遵照您的指示，我将对这段关于 Firecrawl 的 YouTube 视频内容进行深度重构，将其转化为一篇结构完整、阐述深入的深度文章。
 
 ---

@@ -13,6 +13,10 @@ duration: "55:49"
 - **Published:** 2026-02-14
 - **Source:** https://www.youtube.com/watch?v=rePS9g26dhU
 
+## 版本
+
+- [原始文稿](2026-02-14-e225-硅基员工已来,saas业数千亿市值蒸发-ai如何变革组织架构-rePS9g26dhU.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

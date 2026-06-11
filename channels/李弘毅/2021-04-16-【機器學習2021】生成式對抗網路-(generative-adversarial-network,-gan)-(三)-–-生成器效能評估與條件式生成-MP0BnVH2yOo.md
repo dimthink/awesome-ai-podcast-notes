@@ -18,6 +18,10 @@ duration: "49:47"
 - **TL;DR:** GAN训练因对抗平衡脆弱而艰难，文本生成更因梯度问题挑战重重；评估需兼顾质量与多样性，FID是常用指标但仍存局限；条件式GAN通过引入条件输入实现可控生成，应用广泛。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-16-【機器學習2021】生成式對抗網路-(generative-adversarial-network,-gan)-(三)-–-生成器效能評估與條件式生成-MP0BnVH2yOo.transcript.md)
+
 ## 材料信息
 
 - **标题**：【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (三) – 生成器效能評估與條件式生成

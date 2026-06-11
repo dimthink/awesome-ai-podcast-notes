@@ -18,6 +18,11 @@ duration: "40:41"
 - **TL;DR:** 通过确定性工具调用修复和品味系统，开源模型在编码代理中可以超越最强闭源模型；潜力藏在系统层而非模型本身。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.structured.md)
+- [原始文稿](2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.transcript.md)
+
 # 材料信息
 
 - **标题**：⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai

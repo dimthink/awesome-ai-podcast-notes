@@ -18,6 +18,11 @@ duration: "14:00"
 - **TL;DR:** AI代理成为新用户，所有SaaS都值得为它重建。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-06-02-the-next-$100b-market-selling-to-ai-agents-MlptIfpoLlw.structured.md)
+- [原始文稿](2026-06-02-the-next-$100b-market-selling-to-ai-agents-MlptIfpoLlw.transcript.md)
+
 # 深度内容重构
 
 ## 材料信息

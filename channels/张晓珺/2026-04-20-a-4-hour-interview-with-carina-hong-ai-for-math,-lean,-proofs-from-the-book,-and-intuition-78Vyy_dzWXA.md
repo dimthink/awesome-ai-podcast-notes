@@ -18,6 +18,11 @@ duration: "4:23:11"
 - **TL;DR:** 一位自认“蛮力型选手”的00后华人女孩，通过AI让普特南数学竞赛迎来98年来第六个满分，并正在尝试用形式化验证重新定义数学发现的边界。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-20-a-4-hour-interview-with-carina-hong-ai-for-math,-lean,-proofs-from-the-book,-and-intuition-78Vyy_dzWXA.structured.md)
+- [原始文稿](2026-04-20-a-4-hour-interview-with-carina-hong-ai-for-math,-lean,-proofs-from-the-book,-and-intuition-78Vyy_dzWXA.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

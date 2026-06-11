@@ -18,6 +18,11 @@ duration: "1:15:13"
 - **TL;DR:** 不会写代码？那就让AI做你的CTO、开发者和审查员，一个人也能构建真实产品。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-how-a-meta-pm-ships-products-without-ever-writing-code-zevi-arnovitz-1em64iUFt3U.structured.md)
+- [原始文稿](2026-03-04-how-a-meta-pm-ships-products-without-ever-writing-code-zevi-arnovitz-1em64iUFt3U.transcript.md)
+
 好的，请看我根据您提供的YouTube视频字幕和系统指令，为您生成的深度重构文章。
 
 ---

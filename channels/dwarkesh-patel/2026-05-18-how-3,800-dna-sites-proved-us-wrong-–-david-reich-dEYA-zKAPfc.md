@@ -18,6 +18,11 @@ duration: "12:12"
 - **TL;DR:** 一位顶尖遗传学家历经十年，被3800个DNA位点反复推翻偏见，最终证明自然选择在人类演化中远比想象活跃
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-18-how-3,800-dna-sites-proved-us-wrong-–-david-reich-dEYA-zKAPfc.structured.md)
+- [原始文稿](2026-05-18-how-3,800-dna-sites-proved-us-wrong-–-david-reich-dEYA-zKAPfc.transcript.md)
+
 # 从3800个DNA位点中学到的谦卑：一位顶尖遗传学家如何一次次被数据“打脸”并重塑人类演化史
 
 **材料信息**

@@ -18,6 +18,11 @@ duration: "51:02"
 - **TL;DR:** 用 Design.md 作为设计系统的“灵魂容器”，配合 Skills 和千次迭代，任何人都能创造有审美一致性的产品
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-06-google's-design.md-is-a-design-team-in-a-file-oLu32YpiIJw.structured.md)
+- [原始文稿](2026-05-06-google's-design.md-is-a-design-team-in-a-file-oLu32YpiIJw.transcript.md)
+
 # 从“一键生成”到“设计系统”：如何用 Google Design.md 打造有灵魂的视觉体验
 
 **材料信息**

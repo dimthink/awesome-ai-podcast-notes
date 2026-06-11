@@ -18,6 +18,11 @@ duration: "21:31"
 - **TL;DR:** Google与OpenAI在AGI路径上分道扬镳，模型的“锯齿状智能”可能比我们想象的更难修复
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-20-two-rival-bets-on-agi-google-i-o-highlights-o_av1b9rs2g.structured.md)
+- [原始文稿](2026-05-20-two-rival-bets-on-agi-google-i-o-highlights-o_av1b9rs2g.transcript.md)
+
 # Two Rival Bets on AGI: Google I/O Highlights
 
 **作者/来源**：AI Explained (YouTube频道)

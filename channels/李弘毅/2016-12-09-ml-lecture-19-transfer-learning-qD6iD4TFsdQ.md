@@ -18,6 +18,10 @@ duration: "1:14:29"
 - **TL;DR:** 迁移学习利用不相干数据提升目标任务性能，通过微调、对抗、语义嵌入等方法应对数据稀缺。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-12-09-ml-lecture-19-transfer-learning-qD6iD4TFsdQ.transcript.md)
+
 ## 深度重构文章：迁移学习的奥秘与实践
 
 **材料信息**

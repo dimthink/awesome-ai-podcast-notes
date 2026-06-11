@@ -18,6 +18,11 @@ duration: "1:06:21"
 - **TL;DR:** AI赋能人类将成为超级生产者，恐惧只会自我实现；拥抱AI超能力是这一代人最大的机遇。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-11-the-golden-age-thesis-marc-andreessen-on-mts-k1z0e7bGzq0.structured.md)
+- [原始文稿](2026-05-11-the-golden-age-thesis-marc-andreessen-on-mts-k1z0e7bGzq0.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

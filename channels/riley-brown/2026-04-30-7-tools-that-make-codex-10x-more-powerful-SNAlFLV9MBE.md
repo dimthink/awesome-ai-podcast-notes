@@ -18,6 +18,11 @@ duration: "24:35"
 - **TL;DR:** 你用语音、截图、剪贴板管理、AI原生设计工具和第二大脑，让AI编程助手的效率提升10倍；而“自己动手造工具”才是终极武器。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-30-7-tools-that-make-codex-10x-more-powerful-SNAlFLV9MBE.structured.md)
+- [原始文稿](2026-04-30-7-tools-that-make-codex-10x-more-powerful-SNAlFLV9MBE.transcript.md)
+
 # 深度重构：让AI编程助手强大10倍的7个隐形工具
 
 ## 材料信息

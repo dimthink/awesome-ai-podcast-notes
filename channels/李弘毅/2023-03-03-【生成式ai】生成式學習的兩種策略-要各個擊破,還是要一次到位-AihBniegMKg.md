@@ -18,6 +18,10 @@ duration: "21:58"
 - **TL;DR:** 生成式AI分“各個擊破”(AR)和“一次到位”(NAR)兩策略，AR重質量慢，NAR重速度快，混合策略可兼顧，如Diffusion Model。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-03-03-【生成式ai】生成式學習的兩種策略-要各個擊破,還是要一次到位-AihBniegMKg.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

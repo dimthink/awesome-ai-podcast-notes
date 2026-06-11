@@ -18,6 +18,10 @@ duration: "14:27"
 - **TL;DR:** WG-WaveNet无需GPU即可实时生成高保真语音，通过压缩WaveGlow和WaveNet后置滤波器实现效率与质量平衡。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-11-03-interspeech-2020-wg-wavenet-real-time-high-fidelity-speech-synthesis-without-gpu-rsbT7X2-g7E.transcript.md)
+
 ## 深度重构文章：WG-WaveNet：无需GPU的实时高保真语音合成
 
 **材料信息**

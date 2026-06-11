@@ -13,6 +13,10 @@ duration: "1:44:36"
 - **Published:** 2026-01-29
 - **Source:** https://www.youtube.com/watch?v=87Pm0SGTtN8
 
+## 版本
+
+- [原始文稿](2026-01-29-marc-andreessen-the-real-ai-boom-hasn’t-even-started-yet-87Pm0SGTtN8.transcript.md)
+
 ## 深度重构文章：Marc Andreessen：真正的AI繁荣尚未开始
 
 **材料信息**

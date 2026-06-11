@@ -18,6 +18,11 @@ duration: "12:54"
 - **TL;DR:** 无论AI泡沫是否存在，技术本身仍在无情演进：持续学习与内省能力已从论文走向现实。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-bubble-or-no-bubble,-ai-keeps-progressing-(ft.-relentless-learning-+-introspection)-Dl3Olh29_nY.structured.md)
+- [原始文稿](2026-03-04-bubble-or-no-bubble,-ai-keeps-progressing-(ft.-relentless-learning-+-introspection)-Dl3Olh29_nY.transcript.md)
+
 # 深度重构：AI的 relentless progress——泡沫之外，技术仍在无情演进
 
 **材料信息**

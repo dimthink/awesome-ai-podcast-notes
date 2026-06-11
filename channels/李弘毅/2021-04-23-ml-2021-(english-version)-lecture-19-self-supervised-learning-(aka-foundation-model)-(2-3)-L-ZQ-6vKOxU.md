@@ -18,6 +18,10 @@ duration: "1:15:30"
 - **TL;DR:** 自监督学习通过从无标签数据中生成监督信号，赋予BERT等基础模型强大的通用语言理解和跨语言迁移能力，其魔力源于上下文嵌入和海量数据。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-23-ml-2021-(english-version)-lecture-19-self-supervised-learning-(aka-foundation-model)-(2-3)-L-ZQ-6vKOxU.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

@@ -18,6 +18,10 @@ duration: "1:03:31"
 - **TL;DR:** VAE通过概率噪声实现潜在空间平滑生成，但图像模糊；GAN通过对抗学习生成逼真图像，但训练极难且不稳定。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-12-07-ml-lecture-18-unsupervised-learning-deep-generative-model-(part-ii)-8zomhgKrsmQ.transcript.md)
+
 **材料信息**
 
 - **标题**：ML Lecture 18: Unsupervised Learning - Deep Generative Model (Part II)

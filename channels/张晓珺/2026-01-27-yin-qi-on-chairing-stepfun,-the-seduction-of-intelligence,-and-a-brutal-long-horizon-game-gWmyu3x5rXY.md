@@ -13,6 +13,10 @@ duration: "2:00:05"
 - **Published:** 2026-01-27
 - **Source:** https://www.youtube.com/watch?v=gWmyu3x5rXY
 
+## 版本
+
+- [原始文稿](2026-01-27-yin-qi-on-chairing-stepfun,-the-seduction-of-intelligence,-and-a-brutal-long-horizon-game-gWmyu3x5rXY.transcript.md)
+
 ## 深度重构文章：印奇：AI时代的“阶跃”与“星辰大海”
 
 ### 材料信息

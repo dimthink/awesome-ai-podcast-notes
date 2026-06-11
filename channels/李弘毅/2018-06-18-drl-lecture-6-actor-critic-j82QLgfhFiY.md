@@ -18,6 +18,10 @@ duration: "34:16"
 - **TL;DR:** Actor-Critic通过结合策略与价值函数，利用优势函数稳定策略梯度，A3C实现异步并行加速，Pathwise DPG解决连续动作并与GAN互通。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-06-18-drl-lecture-6-actor-critic-j82QLgfhFiY.transcript.md)
+
 # DRL Lecture 6: Actor-Critic——策略与价值的深度融合与异步进化
 
 ## 材料信息

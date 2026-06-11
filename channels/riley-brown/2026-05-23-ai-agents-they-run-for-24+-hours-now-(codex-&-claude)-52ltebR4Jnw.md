@@ -18,6 +18,11 @@ duration: "26:45"
 - **TL;DR:** AI 超级应用大战开启，Codex、Claude、Cursor 和 Google 争夺未来工作的统一入口
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-23-ai-agents-they-run-for-24+-hours-now-(codex-&-claude)-52ltebR4Jnw.structured.md)
+- [原始文稿](2026-05-23-ai-agents-they-run-for-24+-hours-now-(codex-&-claude)-52ltebR4Jnw.transcript.md)
+
 # 重构 AI 代理领域：一场价值万亿的超级应用战争
 
 ## 材料信息

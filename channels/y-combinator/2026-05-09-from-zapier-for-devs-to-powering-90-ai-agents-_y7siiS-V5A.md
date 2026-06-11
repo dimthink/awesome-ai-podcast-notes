@@ -18,6 +18,11 @@ duration: "33:53"
 - **TL;DR:** 一个产品迭代了三年、调整了三次方向，然后在AI代理浪潮中发现自己两年的积累恰好是市场需要的基础设施——这不是运气，而是在正确问题上持续坚持的结果
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-09-from-zapier-for-devs-to-powering-90-ai-agents-_y7siiS-V5A.structured.md)
+- [原始文稿](2026-05-09-from-zapier-for-devs-to-powering-90-ai-agents-_y7siiS-V5A.transcript.md)
+
 # 从“面向开发者的Zapier”到驱动90% AI代理：Trigger.dev的三年进化史
 
 **材料信息**

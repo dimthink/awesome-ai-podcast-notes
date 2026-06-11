@@ -18,6 +18,11 @@ duration: "42:08"
 - **TL;DR:** 让AI成为你的数字团队，并行处理任务，用CLAUDE.md积累知识，给AI验证自己输出的能力。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-04-i-got-a-private-lesson-on-claude-cowork-&-claude-code-DW4a1Cm8nG4.structured.md)
+- [原始文稿](2026-03-04-i-got-a-private-lesson-on-claude-cowork-&-claude-code-DW4a1Cm8nG4.transcript.md)
+
 # 深度重构：与Claude Code创造者对谈，掌握未来AI助手的终极使用秘籍
 
 ## 材料信息

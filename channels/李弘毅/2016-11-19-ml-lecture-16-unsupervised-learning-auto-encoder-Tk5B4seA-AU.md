@@ -18,6 +18,10 @@ duration: "42:05"
 - **TL;DR:** 自编码器通过编码-解码学习数据紧凑表示，实现无监督降维、语义理解和数据生成，是深度学习基石。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-11-19-ml-lecture-16-unsupervised-learning-auto-encoder-Tk5B4seA-AU.transcript.md)
+
 # 深度解析自编码器：从原理到应用，洞察无监督学习的奥秘
 
 ## 材料信息

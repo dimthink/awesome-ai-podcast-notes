@@ -18,6 +18,11 @@ duration: "11:12"
 - **TL;DR:** 公共安全领域拒绝“外部救世主”，只有亲身坐上巡逻车、理解“警察讨厌改变也讨厌不变”悖论的创始人，才能抓住这个正在被无人机和AI重塑的千亿市场
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-18-how-founders-can-build-for-law-enforcement-and-first-responders-the-a16z-show-Ie07zcmbnhM.structured.md)
+- [原始文稿](2026-05-18-how-founders-can-build-for-law-enforcement-and-first-responders-the-a16z-show-Ie07zcmbnhM.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

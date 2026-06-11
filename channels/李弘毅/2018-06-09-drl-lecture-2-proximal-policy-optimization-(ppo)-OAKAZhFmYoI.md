@@ -18,6 +18,10 @@ duration: "41:34"
 - **TL;DR:** PPO通过重要性采样实现Off-policy数据复用，并用KL散度正则或剪裁目标函数限制策略变化，解决策略梯度效率和稳定性问题。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-06-09-drl-lecture-2-proximal-policy-optimization-(ppo)-OAKAZhFmYoI.transcript.md)
+
 ## 内容深度重构与阐述
 
 **材料信息**

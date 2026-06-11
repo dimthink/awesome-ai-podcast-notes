@@ -18,6 +18,11 @@ duration: "58:23"
 - **TL;DR:** 大公司在AI上掉队不是因为技术不行，而是因为组织、集成和权限的“人祸”——AI反而会增加系统复杂性和对工程师的需求
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-28-box-ceo-why-big-companies-are-falling-behind-on-ai-a16z-dvVbA9OcBqs.structured.md)
+- [原始文稿](2026-04-28-box-ceo-why-big-companies-are-falling-behind-on-ai-a16z-dvVbA9OcBqs.transcript.md)
+
 # 材料信息
 
 - **标题**：Box CEO: Why Big Companies Are Falling Behind on AI | a16z

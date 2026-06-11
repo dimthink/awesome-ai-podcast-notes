@@ -18,6 +18,11 @@ duration: "49:34"
 - **TL;DR:** 构建可复用的AI技能层，让95%的营销工作自动化——核心不是更强的模型，而是更聪明的工作流
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-18-codex-build-your-full-ai-marketing-team-(agents-+-skills)-sL_KBnYB17I.structured.md)
+- [原始文稿](2026-05-18-codex-build-your-full-ai-marketing-team-(agents-+-skills)-sL_KBnYB17I.transcript.md)
+
 # Codex: 构建你的全AI营销团队——从1.5百万到千万粉丝的智能工作流
 
 **材料信息**

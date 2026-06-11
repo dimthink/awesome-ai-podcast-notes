@@ -18,6 +18,11 @@ duration: "3:06:19"
 - **TL;DR:** 与世隔绝的部落走出丛林，首次与外界接触，揭示了保护亚马逊的最后战役——不仅是保护树木，更是保护一个即将消失的人类文明。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-01-13-paul-rosolie-uncontacted-tribes-in-the-amazon-jungle-lex-fridman-podcast-489-Z-FRe5AKmCU.structured.md)
+- [原始文稿](2026-01-13-paul-rosolie-uncontacted-tribes-in-the-amazon-jungle-lex-fridman-podcast-489-Z-FRe5AKmCU.transcript.md)
+
 # 与世隔绝的部落：当石器时代遇上现代文明
 
 ## 材料信息

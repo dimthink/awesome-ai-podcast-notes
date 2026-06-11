@@ -18,6 +18,11 @@ duration: "1:04:41"
 - **TL;DR:** Codex将Vibe Coding、文档、自动化和浏览器控制整合为单一AI超级应用，是知识工作者2026年最值得投入学习的生产力杠杆
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-27-stop-using-claude.-start-using-codex-LWx4FGam2aQ.structured.md)
+- [原始文稿](2026-04-27-stop-using-claude.-start-using-codex-LWx4FGam2aQ.transcript.md)
+
 # 深度重构：从“小白”到“信徒”——Codex如何成为AI超级应用的完整指南
 
 ## 材料信息

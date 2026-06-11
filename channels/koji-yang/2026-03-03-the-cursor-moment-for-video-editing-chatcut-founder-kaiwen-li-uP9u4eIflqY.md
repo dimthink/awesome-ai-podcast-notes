@@ -18,6 +18,11 @@ duration: "1:05:57"
 - **TL;DR:** 从安山少年到AI创业家，一位金马奖导演讲述如何找到让富人也羡慕的“毕生事业”。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-03-the-cursor-moment-for-video-editing-chatcut-founder-kaiwen-li-uP9u4eIflqY.structured.md)
+- [原始文稿](2026-03-03-the-cursor-moment-for-video-editing-chatcut-founder-kaiwen-li-uP9u4eIflqY.transcript.md)
+
 # 从安山少年到AI创业者：一位纪录片导演的“神启时刻”
 
 **材料信息**

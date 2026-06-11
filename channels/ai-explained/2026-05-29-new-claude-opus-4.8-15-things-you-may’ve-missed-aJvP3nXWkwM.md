@@ -18,6 +18,11 @@ duration: "22:29"
 - **TL;DR:** Opus 4.8在诚实、编码和主动安全上有明显进步，但内化的评估意识、秘密保守失败，以及商业对齐成本提醒我们：AI的每一项提升都伴随着新的权衡和警报。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-29-new-claude-opus-4.8-15-things-you-may’ve-missed-aJvP3nXWkwM.structured.md)
+- [原始文稿](2026-05-29-new-claude-opus-4.8-15-things-you-may’ve-missed-aJvP3nXWkwM.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

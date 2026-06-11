@@ -18,6 +18,11 @@ duration: "20:16"
 - **TL;DR:** 关于AI的八组核心矛盾叙事，揭示了能力跃进、路径分歧与未来不确定性并存的当下迷局。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-you-are-being-told-contradictory-things-about-ai-iO844izo9kw.structured.md)
+- [原始文稿](2026-03-04-you-are-being-told-contradictory-things-about-ai-iO844izo9kw.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和系统指令，进行深度重构后生成的文章。
 
 ---

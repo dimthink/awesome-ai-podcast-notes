@@ -18,6 +18,11 @@ duration: "1:25:37"
 - **TL;DR:** Notion用四年五次推倒重来验证了AI Agent的核心哲学：不要逆流而上，给模型它想要的，评估比模型本身更重要
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-15-notion’s-sarah-sachs-&-simon-last-on-custom-agents,-evals,-and-the-future-of-work-ATt7QJgt-2k.structured.md)
+- [原始文稿](2026-04-15-notion’s-sarah-sachs-&-simon-last-on-custom-agents,-evals,-and-the-future-of-work-ATt7QJgt-2k.transcript.md)
+
 # Notion的AI进化之路：从“太早了”到自定义Agent的四年长征
 
 **材料信息**

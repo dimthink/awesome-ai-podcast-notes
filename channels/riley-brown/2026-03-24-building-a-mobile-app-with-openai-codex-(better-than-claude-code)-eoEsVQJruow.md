@@ -18,6 +18,11 @@ duration: "27:29"
 - **TL;DR:** 从不满到创造，用 AI 几十分钟构建一个能构建应用的应用，展示人机协同的新范式
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-24-building-a-mobile-app-with-openai-codex-(better-than-claude-code)-eoEsVQJruow.structured.md)
+- [原始文稿](2026-03-24-building-a-mobile-app-with-openai-codex-(better-than-claude-code)-eoEsVQJruow.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

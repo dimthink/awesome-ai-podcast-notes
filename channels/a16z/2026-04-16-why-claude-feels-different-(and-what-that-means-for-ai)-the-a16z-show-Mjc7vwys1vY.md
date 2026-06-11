@@ -18,6 +18,11 @@ duration: "33:20"
 - **TL;DR:** AI 的下一场战争不是算力，而是人格——Claude 的“灵魂感”揭示了从工具到伙伴的范式转变。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-16-why-claude-feels-different-(and-what-that-means-for-ai)-the-a16z-show-Mjc7vwys1vY.structured.md)
+- [原始文稿](2026-04-16-why-claude-feels-different-(and-what-that-means-for-ai)-the-a16z-show-Mjc7vwys1vY.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

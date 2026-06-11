@@ -18,6 +18,11 @@ duration: "1:19:51"
 - **TL;DR:** AI堪比1997年的互联网。模型是商品，应用是金矿。末日论者错了，唯一胜招是动手构建。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.structured.md)
+- [原始文稿](2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.transcript.md)
+
 # 材料信息
 
 - **标题**: A Rational Conversation on Where AI Is Actually Going

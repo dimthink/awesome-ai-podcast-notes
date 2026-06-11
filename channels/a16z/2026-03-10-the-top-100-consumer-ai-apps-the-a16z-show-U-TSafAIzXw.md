@@ -18,6 +18,11 @@ duration: "38:33"
 - **TL;DR:** AI竞争已从模型层转向应用层，胜负手在于平台生态、垂直深度与“记忆”带来的复利锁定。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-10-the-top-100-consumer-ai-apps-the-a16z-show-U-TSafAIzXw.structured.md)
+- [原始文稿](2026-03-10-the-top-100-consumer-ai-apps-the-a16z-show-U-TSafAIzXw.transcript.md)
+
 好的，我将遵循您的系统指令，对这份关于a16z消费者AI应用报告的讨论视频进行深度重构，力求让读者获得超越观看原始视频的理解体验。
 
 ---

@@ -18,6 +18,11 @@ duration: "43:15"
 - **TL;DR:** 模型误差源于偏差和方差，简单模型欠拟合（高偏差），复杂模型过拟合（高方差），需诊断病因后对症下药，并严格使用验证集而非测试集选模型。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2016-10-07-ml-lecture-2-where-does-the-error-come-from-D_S6y0Jm6dQ.structured.md)
+- [原始文稿](2016-10-07-ml-lecture-2-where-does-the-error-come-from-D_S6y0Jm6dQ.transcript.md)
+
 好的，请看我根据您提供的视频字幕和指令，为您深度重构的这篇文章。
 
 ---

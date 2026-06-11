@@ -18,6 +18,11 @@ duration: "22:27"
 - **TL;DR:** OpenAI的GPT Image 2.0可以生成可扫描条形码、一次执行11个编辑指令，并与AI代理结合实现自动化视觉生产
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-22-chatgpt-image-2.0-gives-you-superpowers-NrKABtmG4zs.structured.md)
+- [原始文稿](2026-04-22-chatgpt-image-2.0-gives-you-superpowers-NrKABtmG4zs.transcript.md)
+
 # 深度重构：ChatGPT Image 2.0 —— 图像生成的“超人”时刻
 
 ## 材料信息

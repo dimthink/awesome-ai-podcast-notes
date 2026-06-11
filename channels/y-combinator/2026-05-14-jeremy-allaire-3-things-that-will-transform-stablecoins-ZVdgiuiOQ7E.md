@@ -18,6 +18,11 @@ duration: "29:24"
 - **TL;DR:** 稳定币将从支付工具演变为AI代理经济的基础货币层，未来一年迎来代理经济爆发、UX突破和机构制度认可三大转折。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-14-jeremy-allaire-3-things-that-will-transform-stablecoins-ZVdgiuiOQ7E.structured.md)
+- [原始文稿](2026-05-14-jeremy-allaire-3-things-that-will-transform-stablecoins-ZVdgiuiOQ7E.transcript.md)
+
 # 深度重构：稳定币的下一站——从支付工具到AI经济的基础设施
 
 ## 材料信息

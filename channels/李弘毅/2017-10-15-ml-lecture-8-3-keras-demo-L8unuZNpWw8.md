@@ -18,6 +18,10 @@ duration: "11:13"
 - **TL;DR:** Keras让深度学习易如反掌，但初次实践常遇挫，教授幽默揭示“从入门到放弃”的现实，强调需技巧而非盲目。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2017-10-15-ml-lecture-8-3-keras-demo-L8unuZNpWw8.transcript.md)
+
 ## 材料信息
 
 - **标题**：ML Lecture 8-3: Keras Demo

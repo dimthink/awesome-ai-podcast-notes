@@ -13,6 +13,10 @@ duration: "55:41"
 - **Published:** 2026-02-16
 - **Source:** https://www.youtube.com/watch?v=I_wbc5ND79o
 
+## 版本
+
+- [原始文稿](2026-02-16-claude-code-built-me-a-$273-day-online-directory-I_wbc5ND79o.transcript.md)
+
 ## 内容深度重构与阐述
 
 **材料信息**

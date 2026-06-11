@@ -18,6 +18,10 @@ duration: "25:05"
 - **TL;DR:** fGAN通过Fenchel共轭将任意f-散度融入GAN，理论优雅但未能解决模式崩溃，集成生成器是实用解。
 - **Rating:** 4
 
+## 版本
+
+- [原始文稿](2018-05-11-gan-lecture-5-(2018)-general-framework-av1bqilLsyQ.transcript.md)
+
 **材料信息**
 
 - **标题**：GAN Lecture 5 (2018): General Framework

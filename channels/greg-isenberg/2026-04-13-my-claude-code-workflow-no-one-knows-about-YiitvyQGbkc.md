@@ -18,6 +18,11 @@ duration: "35:23"
 - **TL;DR:** 用AI工具链（Claude+Paper+Humbolytics）30分钟从创意到高转化落地页，代理驱动的增长实验是2026年的套利窗口
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-13-my-claude-code-workflow-no-one-knows-about-YiitvyQGbkc.structured.md)
+- [原始文稿](2026-04-13-my-claude-code-workflow-no-one-knows-about-YiitvyQGbkc.transcript.md)
+
 # 我的 Claude Code 工作流：没人知道的秘密
 
 ## 材料信息

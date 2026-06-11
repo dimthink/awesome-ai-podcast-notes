@@ -15,7 +15,7 @@
 - 2026-03-04 · [Is GPT-5.1 Really an Upgrade? But Models Can Auto-Hack Govts, so … there’s that](2026-03-04-is-gpt-5.1-really-an-upgrade-but-models-can-auto-hack-govts,-so-...-there’s-that-8eqdMpCz9tc.md)
 - 2026-03-04 · [Gemini 3 Pro: Breakdown](2026-03-04-gemini-3-pro-breakdown-chr2I7CZTfk.md)
 - 2026-03-04 · [GPT 5.2: OpenAI Strikes Back](2026-03-04-gpt-5.2-openai-strikes-back-4p73Uu_jZ10.md)
-- 2026-03-04 · [Did you miss these 2 AI stories? A *Real* LLM-crafted Breakthrough + Continual Learning Blocked?](2026-03-04-did-you-miss-these-2-ai-stories-a-real-llm-crafted-breakthrough-+-continual-learning-block-TK3r4XbhtMY.md)
+- 2026-03-04 · [Did you miss these 2 AI stories? A *Real* LLM-crafted Breakthrough + Continual Learning Blocked?](2026-03-04-did-you-miss-these-2-ai-stories-a-real-llm-crafted-breakthrough-+-continual-learning-blocked-TK3r4XbhtMY.md)
 - 2026-03-04 · [Bubble or No Bubble, AI Keeps Progressing (ft. Relentless Learning + Introspection)](2026-03-04-bubble-or-no-bubble,-ai-keeps-progressing-(ft.-relentless-learning-+-introspection)-Dl3Olh29_nY.md)
 - 2026-02-27 · [Deadline Day for Autonomous AI Weapons & Mass Surveillance](2026-02-27-deadline-day-for-autonomous-ai-weapons-&-mass-surveillance-Cru804JMjPI.md)
 - 2026-02-20 · [Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI](2026-02-20-gemini-3.1-pro-and-the-downfall-of-benchmarks-welcome-to-the-vibe-era-of-ai-2_DPnzoiHaY.md)

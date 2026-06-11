@@ -18,6 +18,10 @@ duration: "26:19"
 - **TL;DR:** 李弘毅老师的讲座深入剖析了条件GANs如何通过引入条件信息实现可控生成，克服监督学习的模糊性，并详细阐述了其架构、训练策略及在图像、语音、视频等领域的广泛应用。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-05-11-gan-lecture-2-(2018)-conditional-generation-LpyL4nZSuqU.transcript.md)
+
 ## 材料信息
 
 - **标题**：GAN Lecture 2 (2018): Conditional Generation

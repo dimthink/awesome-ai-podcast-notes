@@ -18,6 +18,11 @@ duration: "35:26"
 - **TL;DR:** 不要下载别人的AI技能，通过迭代失败让AI学会你的独特工作流——这才是AI时代的核心生产力
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-08-how-ai-agents-&-claude-skills-work-(clearly-explained)-S_oN3vlzpMw.structured.md)
+- [原始文稿](2026-04-08-how-ai-agents-&-claude-skills-work-(clearly-explained)-S_oN3vlzpMw.transcript.md)
+
 # 如何真正驾驭AI代理与Claude技能：一位实战家的深度指南
 
 ## 材料信息

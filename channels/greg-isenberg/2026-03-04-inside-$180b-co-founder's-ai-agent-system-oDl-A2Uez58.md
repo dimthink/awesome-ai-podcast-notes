@@ -18,6 +18,11 @@ duration: "30:58"
 - **TL;DR:** 一个人 + AI代理 = 下一个独角兽，未来创业的核心是指明方向而非亲力亲为。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-inside-$180b-co-founder's-ai-agent-system-oDl-A2Uez58.structured.md)
+- [原始文稿](2026-03-04-inside-$180b-co-founder's-ai-agent-system-oDl-A2Uez58.transcript.md)
+
 好的，这是根据您提供的指令和YouTube视频字幕，进行深度重构后生成的完整文章。
 
 ---

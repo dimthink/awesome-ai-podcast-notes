@@ -18,6 +18,11 @@ duration: "28:50"
 - **TL;DR:** Codex是AI代理超级应用，通过本地文件控制、持久记忆、插件、技能、图像生成、计算机操作和自动化，让你用自然语言指挥AI完成任何电脑任务。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-29-learn-95-of-codex-in-30-minutes-474wZZHoWN4.structured.md)
+- [原始文稿](2026-04-29-learn-95-of-codex-in-30-minutes-474wZZHoWN4.transcript.md)
+
 # 学习95%的Codex：30分钟掌握AI代理超级应用
 
 ## 材料信息

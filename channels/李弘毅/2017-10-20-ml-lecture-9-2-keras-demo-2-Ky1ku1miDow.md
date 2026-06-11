@@ -18,6 +18,10 @@ duration: "15:21"
 - **TL;DR:** 深度学习调试需先查训练集性能，再根据损失函数、激活函数、归一化、批次大小、优化器和Dropout等策略系统优化。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2017-10-20-ml-lecture-9-2-keras-demo-2-Ky1ku1miDow.transcript.md)
+
 ## 深度重构：李宏毅《Keras Demo 2》——深度学习调试的艺术与实践
 
 ### 材料信息

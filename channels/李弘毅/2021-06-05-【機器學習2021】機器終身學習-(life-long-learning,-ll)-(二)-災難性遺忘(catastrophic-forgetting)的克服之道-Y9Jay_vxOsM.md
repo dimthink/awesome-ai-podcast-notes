@@ -18,6 +18,10 @@ duration: "36:39"
 - **TL;DR:** 克服机器灾难性遗忘需平衡新旧知识，通过选择性参数保护、梯度约束、资源分配或记忆回放，并关注任务学习顺序。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-05-【機器學習2021】機器終身學習-(life-long-learning,-ll)-(二)-災難性遺忘(catastrophic-forgetting)的克服之道-Y9Jay_vxOsM.transcript.md)
+
 **材料信息**
 
 - **标题**：【機器學習2021】機器終身學習 (Life Long Learning, LL) (二) - 災難性遺忘(Catastrophic Forgetting)的克服之道

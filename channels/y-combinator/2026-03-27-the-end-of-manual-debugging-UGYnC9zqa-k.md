@@ -18,6 +18,11 @@ duration: "29:43"
 - **TL;DR:** 找到与个人经验和热爱完美契合的“宿命公司”，并用AI重塑传统领域，远比追逐风口更重要。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-27-the-end-of-manual-debugging-UGYnC9zqa-k.structured.md)
+- [原始文稿](2026-03-27-the-end-of-manual-debugging-UGYnC9zqa-k.transcript.md)
+
 好的，这是对您提供的 YouTube 视频内容进行深度重构后得到的完整深度文章。
 
 ### 材料信息

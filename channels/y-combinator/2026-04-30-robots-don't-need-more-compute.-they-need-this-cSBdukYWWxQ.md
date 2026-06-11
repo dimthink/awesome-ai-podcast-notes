@@ -18,6 +18,11 @@ duration: "18:44"
 - **TL;DR:** 物理AI的瓶颈不是算力，而是高质量真实世界数据的获取与治理。Anchord正为此构建基础设施。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-30-robots-don't-need-more-compute.-they-need-this-cSBdukYWWxQ.structured.md)
+- [原始文稿](2026-04-30-robots-don't-need-more-compute.-they-need-this-cSBdukYWWxQ.transcript.md)
+
 好的，我将按照您的要求，对这段Y Combinator的访谈视频进行深度重构，将其转化为一篇完整、深刻、超越原始材料的文章。
 
 ## 材料信息

@@ -13,6 +13,10 @@ duration: "1:18:56"
 - **Published:** 2026-01-18
 - **Source:** https://www.youtube.com/watch?v=VPq_lgmz4nI
 
+## 版本
+
+- [原始文稿](2026-01-18-【十字路口】偏执、野心,与一副-ai-眼镜-顶级产品经理的底层燃料-对谈理想-svp-范皓宇【视频播客】-VPq_lgmz4nI.transcript.md)
+
 ## 深度重构文章：偏执、野心，与一副AI眼镜：顶级产品经理的底层燃料
 
 **材料信息**

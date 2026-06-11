@@ -18,6 +18,10 @@ duration: "30:59"
 - **TL;DR:** t-SNE通过匹配高低维概率分布并利用t-分布的长尾特性，有效分离高维数据中的簇，是强大的非线性降维可视化工具。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-12-08-ml-lecture-15-unsupervised-learning-neighbor-embedding-GBUEjkpoxXc.transcript.md)
+
 **材料信息**
 
 - **标题**：ML Lecture 15: Unsupervised Learning - Neighbor Embedding

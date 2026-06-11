@@ -18,6 +18,10 @@ duration: "31:15"
 - **TL;DR:** 正交性是高维空间中“垂直”的数学定义，即两向量点积为零，是理解向量长度、距离及毕氏定理、柯西-施瓦茨不等式等核心概念的基础。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-12-02-linear-algebra-lecture-29-orthogonality-hxI7stenqaw.transcript.md)
+
 ## 材料信息
 
 - **标题**：Linear Algebra Lecture 29: Orthogonality

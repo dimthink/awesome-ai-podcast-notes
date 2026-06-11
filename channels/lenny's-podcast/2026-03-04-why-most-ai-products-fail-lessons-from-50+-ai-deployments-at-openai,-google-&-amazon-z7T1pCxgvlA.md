@@ -18,6 +18,11 @@ duration: "1:26:23"
 - **TL;DR:** 构建AI产品不是技术问题，而是通过低代理起步、连续校准反馈来驯服不确定性的系统工程。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-why-most-ai-products-fail-lessons-from-50+-ai-deployments-at-openai,-google-&-amazon-z7T1pCxgvlA.structured.md)
+- [原始文稿](2026-03-04-why-most-ai-products-fail-lessons-from-50+-ai-deployments-at-openai,-google-&-amazon-z7T1pCxgvlA.transcript.md)
+
 # 为什么大多数AI产品会失败：来自OpenAI、Google和亚马逊50余次AI部署的教训
 
 **材料信息**

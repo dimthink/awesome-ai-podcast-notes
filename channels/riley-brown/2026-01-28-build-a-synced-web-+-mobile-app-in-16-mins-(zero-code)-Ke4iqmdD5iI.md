@@ -13,6 +13,10 @@ duration: "16:40"
 - **Published:** 2026-01-28
 - **Source:** https://www.youtube.com/watch?v=Ke4iqmdD5iI
 
+## 版本
+
+- [原始文稿](2026-01-28-build-a-synced-web-+-mobile-app-in-16-mins-(zero-code)-Ke4iqmdD5iI.transcript.md)
+
 好的，我将根据您提供的YouTube视频字幕内容，按照系统指令的要求，进行深度重构，输出一篇完整的深度文章。
 
 ---

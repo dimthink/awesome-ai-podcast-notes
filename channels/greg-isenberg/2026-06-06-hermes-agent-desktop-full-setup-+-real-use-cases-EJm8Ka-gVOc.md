@@ -18,6 +18,11 @@ duration: "43:49"
 - **TL;DR:** 通过会话控制与模型特性分工，将AI Agent从成本黑洞变为自动发现并解决商业挑战的引擎。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-06-06-hermes-agent-desktop-full-setup-+-real-use-cases-EJm8Ka-gVOc.structured.md)
+- [原始文稿](2026-06-06-hermes-agent-desktop-full-setup-+-real-use-cases-EJm8Ka-gVOc.transcript.md)
+
 好的，这是根据您提供的视频字幕内容，遵循深度重构要求撰写的完整文章。
 
 ---

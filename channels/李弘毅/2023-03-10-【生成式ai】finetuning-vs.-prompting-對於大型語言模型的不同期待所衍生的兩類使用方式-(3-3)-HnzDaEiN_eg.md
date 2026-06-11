@@ -18,6 +18,10 @@ duration: "15:34"
 - **TL;DR:** 通过CoT、Self-consistency等高级Prompting，LLM能推理、自洽，甚至自我生成Prompt，颠覆人机交互。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-03-10-【生成式ai】finetuning-vs.-prompting-對於大型語言模型的不同期待所衍生的兩類使用方式-(3-3)-HnzDaEiN_eg.transcript.md)
+
 ## 深度重构与阐述：大型语言模型的进阶Prompting策略
 
 ### 材料信息

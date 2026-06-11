@@ -18,6 +18,10 @@ duration: "17:40"
 - **TL;DR:** 深度网络存在局部最优解，但通过良好初始化、数据分布和过参数化，可在实践中有效规避。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-03-17-deep-learning-theory-2-3-does-deep-network-have-local-minima-NmelPQkUark.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

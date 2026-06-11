@@ -18,6 +18,11 @@ duration: "14:22"
 - **TL;DR:** 手机通过 ChatGPT 控制电脑上的 Codex 代理，配合 YOLO 模式自动部署，即可在移动端完成全栈应用开发
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-15-codex-mobile-released-and-it's-insane-4OiLljSo-hw.structured.md)
+- [原始文稿](2026-05-15-codex-mobile-released-and-it's-insane-4OiLljSo-hw.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

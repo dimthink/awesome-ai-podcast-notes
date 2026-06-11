@@ -18,6 +18,10 @@ duration: "49:45"
 - **TL;DR:** Q-learning通过学习状态-动作价值函数，结合目标网络、探索机制和经验回放，实现策略的稳定迭代优化。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-06-08-drl-lecture-3-q-learning-(basic-idea)-o_g9JUMw1Oc.transcript.md)
+
 ## 材料信息
 
 - **标题**：DRL Lecture 3: Q-learning (Basic Idea)

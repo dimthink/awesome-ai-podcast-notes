@@ -18,6 +18,11 @@ duration: "2:24:36"
 - **TL;DR:** 当风口来临时，为什么是你站在浪尖？答案不在风口，而在风口到来前那些无人问津的、孤独的、艰难的选择。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-05-zhipu-ceo-zhang-peng-inside-the-ipo-of-china’s-first-publicly-listed-llm-company-toy8RLeFZ08.structured.md)
+- [原始文稿](2026-03-05-zhipu-ceo-zhang-peng-inside-the-ipo-of-china’s-first-publicly-listed-llm-company-toy8RLeFZ08.transcript.md)
+
 好的，这是一篇根据您提供的视频字幕内容，按照指定结构进行深度重构的文章。
 
 ---

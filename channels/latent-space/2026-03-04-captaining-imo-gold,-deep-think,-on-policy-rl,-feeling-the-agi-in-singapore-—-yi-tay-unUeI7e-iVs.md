@@ -18,6 +18,11 @@ duration: "1:32:05"
 - **TL;DR:** 真正的智能源于模型在自我纠错中进化，而非模仿他人。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-captaining-imo-gold,-deep-think,-on-policy-rl,-feeling-the-agi-in-singapore-—-yi-tay-unUeI7e-iVs.structured.md)
+- [原始文稿](2026-03-04-captaining-imo-gold,-deep-think,-on-policy-rl,-feeling-the-agi-in-singapore-—-yi-tay-unUeI7e-iVs.transcript.md)
+
 好的，这是一份根据您提供的YouTube视频字幕和详细的系统指令，进行的深度内容重构。
 
 ---

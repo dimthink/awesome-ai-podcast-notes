@@ -13,6 +13,10 @@ duration: "29:24"
 - **Published:** 2026-02-02
 - **Source:** https://www.youtube.com/watch?v=RU-RYUJ_pEs
 
+## 版本
+
+- [原始文稿](2026-02-02-【视频播客】他看到的未来,和我们有什么不一样-对话18岁的涂津豪-deepseek-前实习生、阿里数竞-ai-组冠军【十字路口】-RU-RYUJ_pEs.transcript.md)
+
 ## 深度重构文章：他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪
 
 **材料信息**

@@ -18,6 +18,10 @@ duration: "13:37"
 - **TL;DR:** 通过向量量化与实例归一化协同，从量化差异中提取说话人信息，实现高质量单样本语音转换。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-05-03-icassp-2020-one-shot-voice-conversion-by-vector-quantization-(speaker-da-yi-wu)-W3t8FHgV90M.transcript.md)
+
 ## 深度重构：单样本语音转换的向量量化新范式
 
 **材料信息**

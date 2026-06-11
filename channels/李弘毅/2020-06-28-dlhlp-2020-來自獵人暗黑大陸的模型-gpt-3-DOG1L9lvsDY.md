@@ -18,6 +18,10 @@ duration: "29:58"
 - **TL;DR:** GPT-3以1750亿参数刷新AI规模极限，实现In-Context Learning，展现惊人文本生成与问答能力，但NLI仍是挑战。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-06-28-dlhlp-2020-來自獵人暗黑大陸的模型-gpt-3-DOG1L9lvsDY.transcript.md)
+
 ## 材料信息
 
 - **标题**：[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3

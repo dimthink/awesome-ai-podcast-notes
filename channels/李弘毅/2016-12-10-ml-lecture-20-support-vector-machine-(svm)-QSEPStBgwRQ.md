@@ -18,6 +18,10 @@ duration: "1:05:28"
 - **TL;DR:** 李弘毅教授深入剖析SVM，强调其Hinge Loss的“及格就好”哲学和Kernel Trick的“无需显式高维映射”魔力，揭示其与深度学习的共通性。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-12-10-ml-lecture-20-support-vector-machine-(svm)-QSEPStBgwRQ.transcript.md)
+
 # 材料信息
 
 - **标题**：ML Lecture 20: Support Vector Machine (SVM)

@@ -18,6 +18,11 @@ duration: "1:11:18"
 - **TL;DR:** Cursor 云代理通过给 AI 完整计算机环境，让软件开发的瓶颈从“写代码”转向“做决策”
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-06-cursor's-third-era-cloud-agents-—-ft.-sam-whitmore,-jonas-nelle,-cursor-tMflcZHo2zI.structured.md)
+- [原始文稿](2026-03-06-cursor's-third-era-cloud-agents-—-ft.-sam-whitmore,-jonas-nelle,-cursor-tMflcZHo2zI.transcript.md)
+
 # Cursor的第三纪元：云代理如何重新定义软件开发的未来
 
 **材料信息**

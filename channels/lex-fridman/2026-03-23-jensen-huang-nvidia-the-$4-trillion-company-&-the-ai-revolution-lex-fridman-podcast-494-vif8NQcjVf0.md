@@ -18,6 +18,11 @@ duration: "2:25:59"
 - **TL;DR:** AI革命的核心不是智能本身，而是将智能商品化后，人性中的同理心、承受力和创造力成为最稀缺的价值
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-23-jensen-huang-nvidia-the-$4-trillion-company-&-the-ai-revolution-lex-fridman-podcast-494-vif8NQcjVf0.structured.md)
+- [原始文稿](2026-03-23-jensen-huang-nvidia-the-$4-trillion-company-&-the-ai-revolution-lex-fridman-podcast-494-vif8NQcjVf0.transcript.md)
+
 # 从芯片到AI工厂：黄仁宇眼中的智能未来
 
 ## 材料信息

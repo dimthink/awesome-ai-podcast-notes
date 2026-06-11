@@ -18,6 +18,11 @@ duration: "1:26:13"
 - **TL;DR:** 何小鹏在两成胜率下豪赌物理AI，拆掉小几十亿旧体系，在血海中重构认知公理。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-28-he-xiaopeng-robot-iron's-birth,-the-accident,-gx,-his-big-bet-&-swimming-in-blood-rUjaLPE3mME.structured.md)
+- [原始文稿](2026-05-28-he-xiaopeng-robot-iron's-birth,-the-accident,-gx,-his-big-bet-&-swimming-in-blood-rUjaLPE3mME.transcript.md)
+
 # 深度重构：何小鹏的物理AI豪赌——从血海中游向未来
 
 ## 材料信息

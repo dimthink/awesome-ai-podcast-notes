@@ -18,6 +18,11 @@ duration: "16:18"
 - **TL;DR:** 语音AI已达80%人无法分辨的临界点，创业是一场每天掷骰子的持久战
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-16-this-startup-built-ai-that-80-of-callers-think-is-human-ZxwYGbCOuDQ.structured.md)
+- [原始文稿](2026-04-16-this-startup-built-ai-that-80-of-callers-think-is-human-ZxwYGbCOuDQ.transcript.md)
+
 # 深度重构：这家初创公司如何让80%的来电者以为自己在和真人对话？
 
 ## 材料信息

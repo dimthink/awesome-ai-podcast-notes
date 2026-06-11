@@ -18,6 +18,10 @@ duration: "28:41"
 - **TL;DR:** 深度学习模型即使高准确率也极易受人眼不可察觉的微小扰动欺骗，对抗攻击通过梯度下降和L-infinity约束生成这些“隐形”恶意样本。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-07-ml-2021-(english-version)-lecture-23-adversarial-attack-(1-2)-xw6K4naFWFg.transcript.md)
+
 # 准确率的假象与AI的脆弱性：深度解析对抗性攻击
 
 ## 材料信息

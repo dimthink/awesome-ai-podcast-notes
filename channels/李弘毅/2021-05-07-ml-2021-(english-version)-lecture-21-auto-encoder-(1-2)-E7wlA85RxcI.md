@@ -18,6 +18,10 @@ duration: "18:38"
 - **TL;DR:** 自编码器作为自监督学习的先驱，通过编码器压缩和解码器重构，学习数据低维本质，其去噪变体更是现代BERT模型的核心思想。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-07-ml-2021-(english-version)-lecture-21-auto-encoder-(1-2)-E7wlA85RxcI.transcript.md)
+
 ## 深度解析自编码器：从降维到BERT的演进之路
 
 **材料信息**

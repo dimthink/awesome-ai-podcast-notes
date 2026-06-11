@@ -18,6 +18,10 @@ duration: "14:46"
 - **TL;DR:** FrugalGPT通过级联使用不同LLM，实现成本大降且性能超越单一最强模型，颠覆“越强越好”认知。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-05-21-【生成式ai-2023】frugalgpt-來看看窮人怎麼用省錢的方式來使用-chatgpt-(上)-vxxPtDCb9Go.transcript.md)
+
 ## 材料信息
 
 - **标题**：【生成式AI 2023】FrugalGPT: 來看看窮人怎麼用省錢的方式來使用 ChatGPT (上)

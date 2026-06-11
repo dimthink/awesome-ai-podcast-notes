@@ -13,6 +13,10 @@ duration: "58:00"
 - **Published:** 2026-01-20
 - **Source:** https://www.youtube.com/watch?v=nMpmBFVjaHU
 
+## 版本
+
+- [原始文稿](2026-01-20-e221-聊聊ces与中国品牌出海-我们真的需要人形机器人吗-nMpmBFVjaHU.transcript.md)
+
 ## 深度重构与阐述：CES与中国品牌出海，人形机器人是真需求还是泡沫？
 
 **材料信息**

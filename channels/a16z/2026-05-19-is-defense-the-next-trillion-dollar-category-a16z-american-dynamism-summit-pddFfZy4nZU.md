@@ -18,6 +18,11 @@ duration: "12:02"
 - **TL;DR:** 美国国防工业正因“定制化”和“独家供应”陷入危机，出路在于利用自主技术进行第一性原理设计，并建立“商业优先”的可持续生态。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-19-is-defense-the-next-trillion-dollar-category-a16z-american-dynamism-summit-pddFfZy4nZU.structured.md)
+- [原始文稿](2026-05-19-is-defense-the-next-trillion-dollar-category-a16z-american-dynamism-summit-pddFfZy4nZU.transcript.md)
+
 好的，收到您的指令。这是一次将碎片化、口语化的对话记录，转化为一篇具有深度、逻辑清晰且引人入胜的深度文章的完整实践。我将严格遵循您提供的结构和要求，对a16z峰会这段关于国防工业未来的对话进行深度重构。
 
 ### **材料信息**

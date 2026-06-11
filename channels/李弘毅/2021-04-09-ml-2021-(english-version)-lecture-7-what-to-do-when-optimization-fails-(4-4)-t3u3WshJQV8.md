@@ -18,6 +18,10 @@ duration: "30:04"
 - **TL;DR:** 批量归一化通过对网络中间层激活值进行标准化，有效平滑误差曲面，加速模型收敛，并允许使用更大学习率，是深度学习的关键优化技术。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-09-ml-2021-(english-version)-lecture-7-what-to-do-when-optimization-fails-(4-4)-t3u3WshJQV8.transcript.md)
+
 **材料信息**
 
 - **标题**：[ML 2021 (English version)] Lecture 7: What to do when optimization fails? (4/4)

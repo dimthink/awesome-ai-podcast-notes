@@ -18,6 +18,11 @@ duration: "1:31:57"
 - **TL;DR:** 真正的职业成长不是安稳爬楼梯，而是主动放弃已建好的乐高，拥抱跳下悬崖后的J曲线，因为只有坠落过，才能跃升至新高度。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-“i-like-being-scared”-molly-graham’s-frameworks-for-rapid-career-growth-molly-graham-twzLDx9iers.structured.md)
+- [原始文稿](2026-03-04-“i-like-being-scared”-molly-graham’s-frameworks-for-rapid-career-growth-molly-graham-twzLDx9iers.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和指令，生成的深度重构文章。
 
 ---

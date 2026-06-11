@@ -18,6 +18,11 @@ duration: "21:52"
 - **TL;DR:** AI 突破与伦理博弈并存：GPT‑5.4 在专业任务上逼近人类，但性能不均；军事应用引发巨头冲突，技术中立性面临严峻考验。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-06-what-the-new-chatgpt-5.4-means-for-the-world-zizoDORjmlQ.structured.md)
+- [原始文稿](2026-03-06-what-the-new-chatgpt-5.4-means-for-the-world-zizoDORjmlQ.transcript.md)
+
 # 深度重构：新GPT-5.4 对世界的真正意义
 
 ## 材料信息

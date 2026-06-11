@@ -18,6 +18,11 @@ duration: "37:01"
 - **TL;DR:** 内置记忆、低成本、高出片率的 Hermes 正成为个人 AI 代理的实用首选平台
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-02-hermes-agent-the-new-openclaw-Qn2c_U-cWQs.structured.md)
+- [原始文稿](2026-06-02-hermes-agent-the-new-openclaw-Qn2c_U-cWQs.transcript.md)
+
 # 深度文章
 
 ## 材料信息

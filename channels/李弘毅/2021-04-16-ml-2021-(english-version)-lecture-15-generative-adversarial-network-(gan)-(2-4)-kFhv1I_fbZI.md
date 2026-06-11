@@ -18,6 +18,10 @@ duration: "40:35"
 - **TL;DR:** 李弘毅教授深入剖析GAN理论，揭示JS散度在不重叠分布上的失效，并阐述WGAN如何通过Wasserstein距离和Lipschitz约束实现稳定训练。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-16-ml-2021-(english-version)-lecture-15-generative-adversarial-network-(gan)-(2-4)-kFhv1I_fbZI.transcript.md)
+
 ## 深度重构：李弘毅教授解读生成对抗网络（GAN）的理论基石与WGAN的突破
 
 **材料信息**

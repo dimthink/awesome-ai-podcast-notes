@@ -18,6 +18,10 @@ duration: "38:47"
 - **TL;DR:** 强化学习从短视评估到长期规划，通过累积奖励、折扣因子和基线优化动作评估，并直面On-Policy数据低效与探索重要性。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-04-ml-2021-(english-version)-lecture-29-introduction-of-reinforcement-learning-(rl)-(2-5)-jbN0oYLtXps.transcript.md)
+
 ## 材料信息
 
 - **标题**：[ML 2021 (English version)] Lecture 29: Introduction of Reinforcement Learning (RL) (2/5)

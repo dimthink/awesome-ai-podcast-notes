@@ -18,6 +18,11 @@ duration: "1:05:11"
 - **TL;DR:** AI Agent不是“帮人写更快”而是“替代人做完整工作”——万亿市场被低估，现在就每天花30分钟深度实验即可超越99%的人
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-29-making-$$-with-ai-agents-nyO60uzTnP4.structured.md)
+- [原始文稿](2026-04-29-making-$$-with-ai-agents-nyO60uzTnP4.transcript.md)
+
 # 深度重构：AI Agent的万亿机遇与实战指南
 
 ## 材料信息

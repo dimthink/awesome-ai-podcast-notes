@@ -18,6 +18,11 @@ duration: "12:30"
 - **TL;DR:** 2026年，AI将颠覆工业制造、金融核心系统和企业软件，重塑供应链、数据平台和交互方式。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-ai-is-coming-for-these-3-industries-in-2026-(a16z-big-ideas)-BkJyVjq457w.structured.md)
+- [原始文稿](2026-03-04-ai-is-coming-for-these-3-industries-in-2026-(a16z-big-ideas)-BkJyVjq457w.transcript.md)
+
 # AI 正在颠覆的三大行业：a16z 2026 年核心预测
 
 ## 材料信息

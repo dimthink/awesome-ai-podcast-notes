@@ -18,6 +18,11 @@ duration: "1:06:20"
 - **TL;DR:** OpenClaw的开放性是魅力更是风险，核心防护是绝对隔离与AI“思想钢印”，但永远不要100%信任AI。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-19-web3-101串台-“龙虾热”背后,如何防范openclaw系统级风险-siS7JQsJUWE.structured.md)
+- [原始文稿](2026-03-19-web3-101串台-“龙虾热”背后,如何防范openclaw系统级风险-siS7JQsJUWE.transcript.md)
+
 # 深度重构：OpenClaw 安全启示录——当“龙虾”夹住你的隐私，我们该如何设防？
 
 ## 材料信息

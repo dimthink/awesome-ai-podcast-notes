@@ -18,6 +18,11 @@ duration: "23:34"
 - **TL;DR:** 美国再工业化的核心是原子与算法的结合，必须用软件速度弥补物理滞后，否则AI竞赛将因能源与矿产瓶颈而失败
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-13-the-founders-who-left-tesla-to-rebuild-america-a16z-FnJaDj5zUhY.structured.md)
+- [原始文稿](2026-05-13-the-founders-who-left-tesla-to-rebuild-america-a16z-FnJaDj5zUhY.transcript.md)
+
 # 从特斯拉出走，重建美国工业脊梁：一场关于原子、算法与国运的深层对话
 
 **材料信息**

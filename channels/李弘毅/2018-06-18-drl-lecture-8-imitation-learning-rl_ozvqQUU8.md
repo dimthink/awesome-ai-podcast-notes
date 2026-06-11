@@ -18,6 +18,10 @@ duration: "34:02"
 - **TL;DR:** 模仿学习通过观察专家示范，解决奖励函数难以定义的强化学习问题，从行为克隆到IRL（本质是GAN），实现机器智能模仿。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-06-18-drl-lecture-8-imitation-learning-rl_ozvqQUU8.transcript.md)
+
 ## 材料信息
 
 - **标题**：DRL Lecture 8: Imitation Learning (模仿学习)

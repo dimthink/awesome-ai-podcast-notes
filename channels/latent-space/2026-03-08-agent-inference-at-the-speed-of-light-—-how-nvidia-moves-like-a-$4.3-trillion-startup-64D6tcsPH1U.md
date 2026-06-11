@@ -18,6 +18,11 @@ duration: "1:26:00"
 - **TL;DR:** Nvidia用"物理极限"文化和"零亿美元市场"耐心，在4.3万亿市值下保留了初创公司的创新灵魂。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-08-agent-inference-at-the-speed-of-light-—-how-nvidia-moves-like-a-$4.3-trillion-startup-64D6tcsPH1U.structured.md)
+- [原始文稿](2026-03-08-agent-inference-at-the-speed-of-light-—-how-nvidia-moves-like-a-$4.3-trillion-startup-64D6tcsPH1U.transcript.md)
+
 # 从初创速度到Nvidia节奏：一家4.3万亿美元公司如何像初创公司一样行动
 
 **材料信息**

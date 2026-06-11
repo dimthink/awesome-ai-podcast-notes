@@ -18,6 +18,10 @@ duration: "30:16"
 - **TL;DR:** 稀疏奖励是强化学习核心挑战，李弘毅教授提出奖励塑形、课程学习、分层强化学习三大解决方案，引导AI从无反馈困境中学习。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-06-18-drl-lecture-7-sparse-reward--5cCWhu0OaM.transcript.md)
+
 # 材料信息
 
 - **标题**：DRL Lecture 7: Sparse Reward

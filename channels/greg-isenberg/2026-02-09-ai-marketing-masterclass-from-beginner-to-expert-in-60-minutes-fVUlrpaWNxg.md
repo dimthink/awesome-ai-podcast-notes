@@ -13,6 +13,10 @@ duration: "58:42"
 - **Published:** 2026-02-09
 - **Source:** https://www.youtube.com/watch?v=fVUlrpaWNxg
 
+## 版本
+
+- [原始文稿](2026-02-09-ai-marketing-masterclass-from-beginner-to-expert-in-60-minutes-fVUlrpaWNxg.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

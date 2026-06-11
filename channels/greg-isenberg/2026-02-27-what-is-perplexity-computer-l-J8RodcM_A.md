@@ -18,6 +18,11 @@ duration: "37:56"
 - **TL;DR:** Perplexity Computer 是一个能并行执行复杂任务的虚拟员工，让创业者将想法直接委托为行动，开启从“提问”到“雇佣”的人机协作新范式。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-27-what-is-perplexity-computer-l-J8RodcM_A.structured.md)
+- [原始文稿](2026-02-27-what-is-perplexity-computer-l-J8RodcM_A.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕和系统指令，进行深度重构后生成的文章。
 
 ### 材料信息

@@ -18,6 +18,11 @@ duration: "29:03"
 - **TL;DR:** 美国若失去技术优势，世界将一起输；风险投资已从追逐15家赢家变为规模化覆盖所有科技领域，而制度自由是不可复制的根本竞争力
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-08-ben-horowitz-on-american-dynamism-and-the-future-of-ai-the-a16z-show-X9k53P-2SOg.structured.md)
+- [原始文稿](2026-05-08-ben-horowitz-on-american-dynamism-and-the-future-of-ai-the-a16z-show-X9k53P-2SOg.transcript.md)
+
 # 美国技术霸权的赌注：Ben Horowitz论AI时代的美国活力论与风险投资新范式
 
 ## 材料信息

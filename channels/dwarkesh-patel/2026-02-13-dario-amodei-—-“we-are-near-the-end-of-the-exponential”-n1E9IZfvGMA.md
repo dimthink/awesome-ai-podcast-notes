@@ -13,6 +13,10 @@ duration: "2:22:20"
 - **Published:** 2026-02-13
 - **Source:** https://www.youtube.com/watch?v=n1E9IZfvGMA
 
+## 版本
+
+- [原始文稿](2026-02-13-dario-amodei-—-“we-are-near-the-end-of-the-exponential”-n1E9IZfvGMA.transcript.md)
+
 ## 深度重构文章：Dario Amodei — “我们正接近指数增长的终点”
 
 **材料信息**

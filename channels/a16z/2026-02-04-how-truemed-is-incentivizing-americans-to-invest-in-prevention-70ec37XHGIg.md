@@ -13,6 +13,10 @@ duration: "40:36"
 - **Published:** 2026-02-04
 - **Source:** https://www.youtube.com/watch?v=70ec37XHGIg
 
+## 版本
+
+- [原始文稿](2026-02-04-how-truemed-is-incentivizing-americans-to-invest-in-prevention-70ec37XHGIg.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

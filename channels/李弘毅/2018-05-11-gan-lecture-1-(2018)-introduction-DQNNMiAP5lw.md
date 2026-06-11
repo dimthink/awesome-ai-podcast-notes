@@ -18,6 +18,10 @@ duration: "1:33:15"
 - **TL;DR:** GAN通过生成器与判别器的对抗博弈，实现机器创造逼真数据，被誉为AI十年最酷思想，超越传统生成模型。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-05-11-gan-lecture-1-(2018)-introduction-DQNNMiAP5lw.transcript.md)
+
 **材料信息**
 
 - **标题**：GAN Lecture 1 (2018): Introduction

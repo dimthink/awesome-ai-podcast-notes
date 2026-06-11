@@ -18,6 +18,11 @@ duration: "1:50:29"
 - **TL;DR:** 从7-Eleven到微软，一位自闭症天才程序员用代码影响数十亿人，讲述任务管理器背后的故事与思维的秘密。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-dave-plummer-programming,-autism,-and-old-school-microsoft-stories-lex-fridman-podcast-479-HsLgZzgpz9Y.structured.md)
+- [原始文稿](2026-03-04-dave-plummer-programming,-autism,-and-old-school-microsoft-stories-lex-fridman-podcast-479-HsLgZzgpz9Y.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕和系统指令，生成的深度重构文章。
 
 ---

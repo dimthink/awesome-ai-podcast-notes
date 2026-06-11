@@ -18,6 +18,10 @@ duration: "56:42"
 - **TL;DR:** CNN通过局部感受野和参数共享高效处理图像，但其设计需与任务特性紧密结合，如AlphaGo放弃池化，且对缩放旋转不鲁棒。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-03-18-ml-2021-(english-version)-lecture-9-convolutional-neural-networks-I4eLIsPM9Yc.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

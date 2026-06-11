@@ -18,6 +18,11 @@ duration: "1:04:42"
 - **TL;DR:** OpenClaw通过心跳机制、持久记忆和浏览器控制，让AI从聊天工具进化为主动工作的数字员工，10步优化法让你能真正用起来
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-19-i-fixed-openclaw-so-it-actually-works-(full-setup)-fd4k16REDOU.structured.md)
+- [原始文稿](2026-03-19-i-fixed-openclaw-so-it-actually-works-(full-setup)-fd4k16REDOU.transcript.md)
+
 # 深度重构：从零到一，打造真正为你工作的AI数字员工
 
 ## 材料信息

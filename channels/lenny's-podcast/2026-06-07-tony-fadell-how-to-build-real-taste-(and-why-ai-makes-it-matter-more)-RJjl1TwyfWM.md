@@ -18,6 +18,11 @@ duration: "1:35:08"
 - **TL;DR:** 在AI让构建变得极容易的时代，真正的产品壁垒不是技术速度，而是人基于“有依据的直觉”做出的品味判断和长期坚持。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.structured.md)
+- [原始文稿](2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.transcript.md)
+
 # 材料信息
 
 - **标题**: Tony Fadell: How to build real taste (and why AI makes it matter more)

@@ -18,6 +18,11 @@ duration: "27:56"
 - **TL;DR:** 用自然语言对话生成动态图形视频，Codex+Remotion 让零基础用户在数小时内完成以往需要数千小时学习才能做出的专业级作品。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-24-codex-just-replaced-1,000-hours-of-video-editing-tutorials-Xdy1vkhSz-M.structured.md)
+- [原始文稿](2026-04-24-codex-just-replaced-1,000-hours-of-video-editing-tutorials-Xdy1vkhSz-M.transcript.md)
+
 # Codex Just Replaced 1,000 Hours of Video Editing Tutorials
 
 **作者/来源**：Riley Brown（YouTube 频道）

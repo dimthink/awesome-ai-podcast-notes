@@ -18,6 +18,10 @@ duration: "32:27"
 - **TL;DR:** 批处理平衡效率与泛化，小批次噪声梯度助寻平坦最优；动量引入惯性，加速优化并逃离局部极值。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-03-12-ml-2021-(english-version)-lecture-5-what-to-do-when-optimization-fails-(2-4)-MNoEQ9w-AbE.transcript.md)
+
 # 深度重构：优化失败时，我们该如何应对？批处理与动量的奥秘
 
 ## 材料信息

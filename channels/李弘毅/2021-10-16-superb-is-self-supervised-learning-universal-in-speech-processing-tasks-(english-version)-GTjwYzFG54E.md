@@ -18,6 +18,10 @@ duration: "24:44"
 - **TL;DR:** 语音自监督模型经大量无标签数据训练后，在多任务上展现惊人通用性，推翻“专才”直觉，预示语音AI新范式。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-10-16-superb-is-self-supervised-learning-universal-in-speech-processing-tasks-(english-version)-GTjwYzFG54E.transcript.md)
+
 ## 深度重构：SUPERB项目——语音自监督学习的“通才”之路
 
 ### 材料信息

@@ -18,6 +18,10 @@ duration: "42:07"
 - **TL;DR:** 强化学习通过Actor与黑盒环境互动，在“最佳输出未知”下，以最大化总奖励为目标，通过带权重监督学习（策略梯度）克服随机性挑战。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-27-ml-2021-(english-version)-lecture-28-introduction-of-reinforcement-learning-(rl)-(1-5)-0oucZNfBXlI.transcript.md)
+
 # 深度重构：强化学习导论 (1/5)——从AlphaGo到Space Invaders
 
 ## 材料信息

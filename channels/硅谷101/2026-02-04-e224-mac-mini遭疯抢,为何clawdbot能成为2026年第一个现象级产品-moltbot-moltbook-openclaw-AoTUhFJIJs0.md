@@ -13,6 +13,10 @@ duration: "1:19:41"
 - **Published:** 2026-02-04
 - **Source:** https://www.youtube.com/watch?v=AoTUhFJIJs0
 
+## 版本
+
+- [原始文稿](2026-02-04-e224-mac-mini遭疯抢,为何clawdbot能成为2026年第一个现象级产品-moltbot-moltbook-openclaw-AoTUhFJIJs0.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

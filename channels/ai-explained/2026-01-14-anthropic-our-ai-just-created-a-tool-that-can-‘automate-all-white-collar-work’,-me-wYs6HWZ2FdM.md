@@ -13,6 +13,10 @@ duration: "19:03"
 - **Published:** 2026-01-14
 - **Source:** https://www.youtube.com/watch?v=wYs6HWZ2FdM
 
+## 版本
+
+- [原始文稿](2026-01-14-anthropic-our-ai-just-created-a-tool-that-can-‘automate-all-white-collar-work’,-me-wYs6HWZ2FdM.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

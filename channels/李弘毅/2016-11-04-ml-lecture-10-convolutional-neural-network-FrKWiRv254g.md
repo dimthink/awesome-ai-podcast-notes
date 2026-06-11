@@ -18,6 +18,10 @@ duration: "1:19:30"
 - **TL;DR:** 李弘毅教授深入剖析CNN，从三大图像处理观察（局部、共享、下采样）阐释其设计哲学，详解卷积与池化原理，揭示CNN是FCN的简化版，并通过梯度上升、Deep Dream、Deep Style及围棋、语音、文本应用，展现CNN的强大与灵活。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-11-04-ml-lecture-10-convolutional-neural-network-FrKWiRv254g.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

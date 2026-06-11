@@ -18,6 +18,11 @@ duration: "46:49"
 - **TL;DR:** 规模无法解决AGI；Transformer是完美的贝叶斯机，但缺乏因果建模和持续学习能力。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-17-why-scale-will-not-solve-agi-vishal-misra-the-a16z-show-zwDmKsnhl08.structured.md)
+- [原始文稿](2026-03-17-why-scale-will-not-solve-agi-vishal-misra-the-a16z-show-zwDmKsnhl08.transcript.md)
+
 # 为什么规模无法解决AGI：一位网络教授对大型语言模型的深刻洞察
 
 **材料信息**

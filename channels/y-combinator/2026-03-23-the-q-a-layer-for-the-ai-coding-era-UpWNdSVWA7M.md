@@ -18,6 +18,11 @@ duration: "33:55"
 - **TL;DR:** AI 编码时代，代码是商品，验证才是核心；Momentic 构建了 AI 驱动的验证层，让规格说明成为真相源，重塑软件开发流程。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-23-the-q-a-layer-for-the-ai-coding-era-UpWNdSVWA7M.structured.md)
+- [原始文稿](2026-03-23-the-q-a-layer-for-the-ai-coding-era-UpWNdSVWA7M.transcript.md)
+
 好的，我将遵循您的指令，对这份 Y Combinator 的视频内容进行深度重构，将其转化为一篇信息密度高、逻辑清晰、且富有洞察的深度文章。
 
 ---

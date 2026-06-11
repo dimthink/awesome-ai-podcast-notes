@@ -18,6 +18,11 @@ duration: "1:16:58"
 - **TL;DR:** 每个AI代理都需要一个安全可控的“盒子”，企业必须重塑工作流以适应代理，而非反之。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-05-why-every-agent-needs-a-box-—-aaron-levie,-box-mMbPEf4V_hE.structured.md)
+- [原始文稿](2026-03-05-why-every-agent-needs-a-box-—-aaron-levie,-box-mMbPEf4V_hE.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕内容，按照系统指令中的输出结构和写作要求，为您生成的深度重构文章。
 
 ---

@@ -18,6 +18,11 @@ duration: "43:15"
 - **TL;DR:** 消费级AI正走向赢家通吃，但大公司的组织缺陷决定了真正创新的产品仍需由创业公司打造，2026是多模态融合和应用生成的关键一年
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-where-does-consumer-ai-stand-at-the-end-of-2025-p4-7x6QiYr0.structured.md)
+- [原始文稿](2026-03-04-where-does-consumer-ai-stand-at-the-end-of-2025-p4-7x6QiYr0.transcript.md)
+
 # 消费级AI的2025年终复盘：谁在领跑，谁在掉队，以及2026年的关键赌注
 
 ## 材料信息

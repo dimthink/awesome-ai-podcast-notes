@@ -18,6 +18,10 @@ duration: "49:00"
 - **TL;DR:** 李弘毅教授深入剖析RNN从基础到LSTM的演进，揭示其通过门控机制解决序列数据长期依赖的奥秘，并强调LSTM已成序列建模事实标准。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2017-01-25-ml-lecture-21-1-recurrent-neural-network-(part-i)-xCGidAeyS4M.transcript.md)
+
 ## 材料信息
 
 - **标题**：ML Lecture 21-1: Recurrent Neural Network (Part I)

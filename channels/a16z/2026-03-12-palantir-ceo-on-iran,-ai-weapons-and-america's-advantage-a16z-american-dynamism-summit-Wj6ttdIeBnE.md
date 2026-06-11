@@ -18,6 +18,11 @@ duration: "32:26"
 - **TL;DR:** 保护神经多样性的怪才是美国对抗中俄的终极军事优势，否则硅谷将被国有化。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-12-palantir-ceo-on-iran,-ai-weapons-and-america's-advantage-a16z-american-dynamism-summit-Wj6ttdIeBnE.structured.md)
+- [原始文稿](2026-03-12-palantir-ceo-on-iran,-ai-weapons-and-america's-advantage-a16z-american-dynamism-summit-Wj6ttdIeBnE.transcript.md)
+
 # 深度重构：Palantir CEO卡普谈伊朗、AI武器与美国的独特优势
 
 ## 材料信息

@@ -18,6 +18,11 @@ duration: "10:54"
 - **TL;DR:** 尼安德特人可能不是我们古老的表亲，而是被现代人类文化同化的丹尼索瓦人——5%的基因贡献，100%的文化重塑
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-17-did-modern-humans-help-make-neanderthals-–-david-reich-TZeGzCLm_jk.structured.md)
+- [原始文稿](2026-05-17-did-modern-humans-help-make-neanderthals-–-david-reich-TZeGzCLm_jk.transcript.md)
+
 # 深度重构：现代人类是否“制造”了尼安德特人？——大卫·赖克颠覆性假说全解析
 
 ## 材料信息

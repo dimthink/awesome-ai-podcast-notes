@@ -18,6 +18,11 @@ duration: "1:04:23"
 - **TL;DR:** Dreamer 不是又一个AI应用，而是一个由“内核”Sidekick驱动的代理操作系统，它让每个人都能构建、分享和使用AI代理，并通过开放的生态让创造者获得收益。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-20-dreamer-the-agent-os-for-everyone-—-david-singleton-TvmxWWfiYWI.structured.md)
+- [原始文稿](2026-03-20-dreamer-the-agent-os-for-everyone-—-david-singleton-TvmxWWfiYWI.transcript.md)
+
 好的，收到您的指令。我将对这份关于Dreamer平台的YouTube视频内容进行深度重构，将其转化为一篇完整的、易于理解的深度文章，确保读者能够获得比观看原视频更深刻、更全面的理解。
 
 ---

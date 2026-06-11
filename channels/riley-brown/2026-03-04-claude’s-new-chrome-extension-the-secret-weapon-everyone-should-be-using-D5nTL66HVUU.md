@@ -18,6 +18,11 @@ duration: "21:30"
 - **TL;DR:** 让AI替你操作电脑：Claude Chrome扩展与Code结合，实现从写代码到配后端的全流程自动化。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-04-claude’s-new-chrome-extension-the-secret-weapon-everyone-should-be-using-D5nTL66HVUU.structured.md)
+- [原始文稿](2026-03-04-claude’s-new-chrome-extension-the-secret-weapon-everyone-should-be-using-D5nTL66HVUU.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕和系统指令，进行深度重构后生成的完整文章。
 
 ---

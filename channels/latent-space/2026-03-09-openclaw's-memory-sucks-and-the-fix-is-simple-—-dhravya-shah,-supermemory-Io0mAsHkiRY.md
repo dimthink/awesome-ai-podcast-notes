@@ -18,6 +18,11 @@ duration: "27:10"
 - **TL;DR:** AI记忆不能只靠RAG，需动态更新、时间推理、遗忘与用户画像四维一体，钩子模式替代工具调用是降本增效的关键。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-09-openclaw's-memory-sucks-and-the-fix-is-simple-—-dhravya-shah,-supermemory-Io0mAsHkiRY.structured.md)
+- [原始文稿](2026-03-09-openclaw's-memory-sucks-and-the-fix-is-simple-—-dhravya-shah,-supermemory-Io0mAsHkiRY.transcript.md)
+
 # OpenClaw 的记忆为什么糟糕，以及如何简单修复
 
 ## ——Supermemory 创始人 Dhravya Shah 深度访谈重构

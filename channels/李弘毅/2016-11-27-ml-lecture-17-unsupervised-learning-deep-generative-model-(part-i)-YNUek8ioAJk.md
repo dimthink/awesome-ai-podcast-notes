@@ -18,6 +18,10 @@ duration: "29:35"
 - **TL;DR:** 本文深入探讨了深度生成模型PixelRNN和VAE，通过费曼的“创造即理解”理念，结合宝可梦生成任务，详细阐述了其原理、应用及像素表示优化技巧，并强调了VAE在可控生成方面的独特优势。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-11-27-ml-lecture-17-unsupervised-learning-deep-generative-model-(part-i)-YNUek8ioAJk.transcript.md)
+
 # 深度重构：无监督学习与深度生成模型（第一部分）
 
 ## 材料信息

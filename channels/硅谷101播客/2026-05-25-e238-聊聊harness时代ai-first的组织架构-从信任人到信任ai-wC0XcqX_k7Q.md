@@ -18,6 +18,11 @@ duration: "1:05:21"
 - **TL;DR:** AI-First不是用AI提效，而是围绕AI重构组织与信任，让系统自我驱动、日行千里。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-25-e238-聊聊harness时代ai-first的组织架构-从信任人到信任ai-wC0XcqX_k7Q.structured.md)
+- [原始文稿](2026-05-25-e238-聊聊harness时代ai-first的组织架构-从信任人到信任ai-wC0XcqX_k7Q.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

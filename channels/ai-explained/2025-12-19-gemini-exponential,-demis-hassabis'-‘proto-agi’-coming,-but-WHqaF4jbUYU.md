@@ -13,6 +13,10 @@ duration: "20:00"
 - **Published:** 2025-12-19
 - **Source:** https://www.youtube.com/watch?v=WHqaF4jbUYU
 
+## 版本
+
+- [原始文稿](2025-12-19-gemini-exponential,-demis-hassabis'-‘proto-agi’-coming,-but-WHqaF4jbUYU.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

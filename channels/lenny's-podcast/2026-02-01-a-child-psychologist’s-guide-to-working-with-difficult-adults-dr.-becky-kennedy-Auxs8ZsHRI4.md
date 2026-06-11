@@ -13,6 +13,10 @@ duration: "1:31:57"
 - **Published:** 2026-02-01
 - **Source:** https://www.youtube.com/watch?v=Auxs8ZsHRI4
 
+## 版本
+
+- [原始文稿](2026-02-01-a-child-psychologist’s-guide-to-working-with-difficult-adults-dr.-becky-kennedy-Auxs8ZsHRI4.transcript.md)
+
 ## 深度重构文章：一位儿童心理学家如何指导我们与“难搞”的成年人共事
 
 **材料信息**

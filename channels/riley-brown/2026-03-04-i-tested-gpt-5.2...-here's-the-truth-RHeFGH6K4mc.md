@@ -18,6 +18,11 @@ duration: "20:22"
 - **TL;DR:** GPT-5.2 强大但未超 Opus 4.5，OpenAI 的“红色代码”警报仍未解除，AI 编码三国杀进入白热化。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-i-tested-gpt-5.2...-here's-the-truth-RHeFGH6K4mc.structured.md)
+- [原始文稿](2026-03-04-i-tested-gpt-5.2...-here's-the-truth-RHeFGH6K4mc.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和系统指令，进行深度重构后生成的文章。
 
 ---

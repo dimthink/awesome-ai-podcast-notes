@@ -18,6 +18,11 @@ duration: "40:54"
 - **TL;DR:** 太空经济的最大瓶颈不在星空，而在被忽视的地面站；Northwood通过垂直整合，将部署时间从三年缩至三月，赌的是所有数据终将流经地球。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-23-why-every-satellite-needs-earth-northwood-ceo-on-a16z-jHECsr9GCs8.structured.md)
+- [原始文稿](2026-03-23-why-every-satellite-needs-earth-northwood-ceo-on-a16z-jHECsr9GCs8.transcript.md)
+
 好的，我将按照您的要求，对这段关于Northwood CEO Bridget的访谈视频进行深度重构，将其转化为一篇完整的深度文章。
 
 ### **材料信息**

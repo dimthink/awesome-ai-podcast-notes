@@ -18,6 +18,11 @@ duration: "57:30"
 - **TL;DR:** 2026年最稀缺的管理能力不是管AI，而是管好AI预算、代码审查文化和“何时标准答案失效”的判断力
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-13-⚡️-the-best-engineers-don't-write-the-most-code.-they-delete-the-most-code.-—-stay-sassy-5KnCKadxSPY.structured.md)
+- [原始文稿](2026-04-13-⚡️-the-best-engineers-don't-write-the-most-code.-they-delete-the-most-code.-—-stay-sassy-5KnCKadxSPY.transcript.md)
+
 # ⚡️ The best engineers don‘t write the most code. They delete the most code. — Stay Sassy
 
 **材料信息**

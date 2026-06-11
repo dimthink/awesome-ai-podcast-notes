@@ -18,6 +18,10 @@ duration: "24:41"
 - **TL;DR:** CycleGAN通过循环一致性在无配对数据下实现风格转换，拓展至文本、翻译、语音识别等无监督任务。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-23-ml-2021-(english-version)-lecture-17-generative-adversarial-network-(gan)-(4-4)-6xRAiKAYPxU.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

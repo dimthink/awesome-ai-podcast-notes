@@ -18,6 +18,10 @@ duration: "17:48"
 - **TL;DR:** Diffusion Model成功关键在于将非自回归生成转化为N步迭代，引入随机性与自回归优势，避免内容退化，实现高质量生成。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-04-15-【生成式ai】diffusion-model-原理剖析-(4-4)-(optional)-67_M2qP5ssY.transcript.md)
+
 ## 【生成式AI】Diffusion Model 原理剖析 (4/4) 深度重构
 
 **材料信息**

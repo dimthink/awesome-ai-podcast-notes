@@ -18,6 +18,10 @@ duration: "39:08"
 - **TL;DR:** GAN通过生成器与判别器的对抗性训练，从传统确定性输出迈向多模态创造性生成，实现以假乱真的图像与语义理解。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-09-【機器學習2021】生成式對抗網路-(generative-adversarial-network,-gan)-(一)-–-基本概念介紹-4OWp0wDu6Xw.transcript.md)
+
 **材料信息**
 
 - **标题**：【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (一) – 基本概念介紹

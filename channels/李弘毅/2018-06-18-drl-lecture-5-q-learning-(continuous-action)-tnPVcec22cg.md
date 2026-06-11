@@ -18,6 +18,10 @@ duration: "14:58"
 - **TL;DR:** Q-learning处理连续动作面临argmax困境，可通过采样、梯度上升或特殊网络设计解决，但最终Actor-Critic是更通用的方案。
 - **Rating:** 4
 
+## 版本
+
+- [原始文稿](2018-06-18-drl-lecture-5-q-learning-(continuous-action)-tnPVcec22cg.transcript.md)
+
 **材料信息**
 
 - **标题**：DRL Lecture 5: Q-learning (Continuous Action)

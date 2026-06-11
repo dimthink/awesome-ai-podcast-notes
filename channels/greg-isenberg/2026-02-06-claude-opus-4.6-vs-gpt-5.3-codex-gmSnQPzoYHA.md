@@ -13,6 +13,10 @@ duration: "48:55"
 - **Published:** 2026-02-06
 - **Source:** https://www.youtube.com/watch?v=gmSnQPzoYHA
 
+## 版本
+
+- [原始文稿](2026-02-06-claude-opus-4.6-vs-gpt-5.3-codex-gmSnQPzoYHA.transcript.md)
+
 ## 深度重构文章：Claude Opus 4.6 vs GPT-5.3 Codex——一场AI开发范式的较量
 
 **材料信息**

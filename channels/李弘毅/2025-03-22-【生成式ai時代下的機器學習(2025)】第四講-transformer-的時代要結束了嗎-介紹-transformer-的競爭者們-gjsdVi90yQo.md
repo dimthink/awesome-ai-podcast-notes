@@ -18,6 +18,10 @@ duration: "1:22:42"
 - **TL;DR:** Transformer的时代可能终结，Mamba等线性注意力架构通过并行化RNN和动态记忆机制，在训练和推理效率上挑战Transformer，预示AI架构新纪元。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2025-03-22-【生成式ai時代下的機器學習(2025)】第四講-transformer-的時代要結束了嗎-介紹-transformer-的競爭者們-gjsdVi90yQo.transcript.md)
+
 **材料信息**
 
 - **标题**：【生成式AI時代下的機器學習(2025)】第四講：Transformer 的時代要結束了嗎？介紹 Transformer 的競爭者們

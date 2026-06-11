@@ -18,6 +18,11 @@ duration: "34:09"
 - **TL;DR:** AI不是单一模型霸权，而是复杂应用生态，投资应聚焦于‘世界最佳’的创始人与技术变革。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-ben-horowitz-on-investing-in-ai-ai-bubbles,-economic-impact,-and-vc-acceleration-r8_2CSpcmls.structured.md)
+- [原始文稿](2026-03-04-ben-horowitz-on-investing-in-ai-ai-bubbles,-economic-impact,-and-vc-acceleration-r8_2CSpcmls.transcript.md)
+
 # 深度重构：Ben Horowitz 论 AI 投资、泡沫、经济影响与 VC 的进化
 
 在科技与资本的浪潮之巅，很少有人能像本·霍洛维茨（Ben Horowitz）那样，同时拥有作为创始人的切身痛感和作为顶级投资者的宏观视野。作为 Andreessen Horowitz（a16z）的联合创始人，他不仅是《创业维艰》的作者，更是硅谷过去二十年风云变幻的深度参与者与塑造者。

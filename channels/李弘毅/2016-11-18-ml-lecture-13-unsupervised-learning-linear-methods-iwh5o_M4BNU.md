@@ -18,6 +18,10 @@ duration: "1:40:21"
 - **TL;DR:** 本文深度解析了无监督学习中的线性降维方法，从聚类到PCA，再到矩阵分解，并探讨了其原理、应用与局限。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-11-18-ml-lecture-13-unsupervised-learning-linear-methods-iwh5o_M4BNU.transcript.md)
+
 # 深度解析无监督学习中的线性降维方法
 
 ## 材料信息

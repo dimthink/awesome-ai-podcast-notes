@@ -18,6 +18,11 @@ duration: "1:54:54"
 - **TL;DR:** 谈判不是索取，而是展示价值。通过协作式提问和掌握沟通主动权，你总能获得比想象中更多的回报。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-15-the-tactical-playbook-for-getting-20-40-more-comp-(without-sounding-greedy)-jacob-warwick-pEis2CBomVA.structured.md)
+- [原始文稿](2026-03-15-the-tactical-playbook-for-getting-20-40-more-comp-(without-sounding-greedy)-jacob-warwick-pEis2CBomVA.transcript.md)
+
 好的，请查收根据您提供的YouTube视频字幕和系统指令生成的深度重构文章。
 
 ---

@@ -18,6 +18,10 @@ duration: "50:07"
 - **TL;DR:** WGAN通过Earth Mover's Distance和Lipschitz约束解决原始GAN梯度消失问题，EBGAN则用自编码器判别器实现预训练，加速生成。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-05-18-gan-lecture-6-(2018)-wgan,-ebgan-3JP-xuBJsyc.transcript.md)
+
 ## 深度解析：WGAN与EBGAN——超越原始GAN的训练困境
 
 **材料信息**

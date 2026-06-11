@@ -18,6 +18,10 @@ duration: "1:39:59"
 - **TL;DR:** 集成学习通过Bagging、Boosting、Gradient Boosting和Stacking等方法，将多个模型巧妙组合，实现超越单一模型的强大性能，尤其适用于提升鲁棒性和解决复杂任务。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2017-11-18-ml-lecture-22-ensemble-tH9FH1DH5n0.transcript.md)
+
 ## 材料信息
 
 - **标题**：ML Lecture 22: Ensemble

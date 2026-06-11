@@ -18,6 +18,11 @@ duration: "49:39"
 - **TL;DR:** Flash Attention 通过减少内存搬运次数，在不改变计算结果的前提下，为长序列 Transformer 推理带来 8-9 倍的加速。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-23-加快語言模型生成速度-(1-2)-flash-attention-vXb2QYOUzl4.structured.md)
+- [原始文稿](2026-03-23-加快語言模型生成速度-(1-2)-flash-attention-vXb2QYOUzl4.transcript.md)
+
 # 内容深度重构与阐述
 
 **材料信息**

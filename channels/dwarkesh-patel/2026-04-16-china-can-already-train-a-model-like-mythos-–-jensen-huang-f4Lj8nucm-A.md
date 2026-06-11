@@ -18,6 +18,11 @@ duration: "12:22"
 - **TL;DR:** 黄仁勋认为中国已具备训练顶级AI模型的能力，封锁无效；真正的安全策略是对话、开源生态和算法创新，而非对抗。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-16-china-can-already-train-a-model-like-mythos-–-jensen-huang-f4Lj8nucm-A.structured.md)
+- [原始文稿](2026-04-16-china-can-already-train-a-model-like-mythos-–-jensen-huang-f4Lj8nucm-A.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

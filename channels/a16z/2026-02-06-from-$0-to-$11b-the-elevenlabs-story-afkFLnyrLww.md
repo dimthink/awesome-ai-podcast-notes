@@ -13,6 +13,10 @@ duration: "11:12"
 - **Published:** 2026-02-06
 - **Source:** https://www.youtube.com/watch?v=afkFLnyrLww
 
+## 版本
+
+- [原始文稿](2026-02-06-from-$0-to-$11b-the-elevenlabs-story-afkFLnyrLww.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 核心使命

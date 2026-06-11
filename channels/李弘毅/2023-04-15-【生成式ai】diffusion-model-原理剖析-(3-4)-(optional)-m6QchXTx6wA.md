@@ -18,6 +18,10 @@ duration: "25:00"
 - **TL;DR:** Diffusion Model训练核心：通过数学推导，将复杂逆向过程简化为Denoising U-Net预测噪声ε。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-04-15-【生成式ai】diffusion-model-原理剖析-(3-4)-(optional)-m6QchXTx6wA.transcript.md)
+
 **材料信息**
 
 - **标题**：【生成式AI】Diffusion Model 原理剖析 (3/4)

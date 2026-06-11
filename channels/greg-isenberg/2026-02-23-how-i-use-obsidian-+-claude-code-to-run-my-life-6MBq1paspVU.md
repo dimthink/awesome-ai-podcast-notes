@@ -18,6 +18,11 @@ duration: "58:57"
 - **TL;DR:** 你的个人知识库是喂养AI的“完美记忆”，定制化命令让AI成为你的思维伙伴，从模式识别到生成可执行战略。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-23-how-i-use-obsidian-+-claude-code-to-run-my-life-6MBq1paspVU.structured.md)
+- [原始文稿](2026-02-23-how-i-use-obsidian-+-claude-code-to-run-my-life-6MBq1paspVU.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕，按照系统指令中的输出结构和写作要求，生成的深度重构文章。
 
 ---

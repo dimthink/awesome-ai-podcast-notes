@@ -18,6 +18,11 @@ duration: "47:55"
 - **TL;DR:** 用代理搭建代理，月费5000美元销售“数字员工”，一人即可运营百万美元级AI服务生意
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-12-the-$1m+-solo-ai-agent-business-(full-course)-BI-MNjm1tTQ.structured.md)
+- [原始文稿](2026-05-12-the-$1m+-solo-ai-agent-business-(full-course)-BI-MNjm1tTQ.transcript.md)
+
 # 深度文章：AI代理独角兽的隐秘蓝图——如何用一人公司撬动月入百万的代理帝国
 
 ## 材料信息

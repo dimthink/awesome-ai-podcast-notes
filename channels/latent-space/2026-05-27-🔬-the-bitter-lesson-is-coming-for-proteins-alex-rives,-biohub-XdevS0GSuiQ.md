@@ -18,6 +18,11 @@ duration: "1:10:12"
 - **TL;DR:** 通过缩放定律和宏基因组数据，蛋白质语言模型 ESMC 自动涌现了生物学特征，无需先验即可设计治疗级抗体，证明了苦涩教训在生命科学中的胜利。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-27-🔬-the-bitter-lesson-is-coming-for-proteins-alex-rives,-biohub-XdevS0GSuiQ.structured.md)
+- [原始文稿](2026-05-27-🔬-the-bitter-lesson-is-coming-for-proteins-alex-rives,-biohub-XdevS0GSuiQ.transcript.md)
+
 # 深度重构：当苦涩教训降临蛋白质——Alex Rives 的缩放定律之路
 
 ## 材料信息

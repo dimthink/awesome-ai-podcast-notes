@@ -18,6 +18,10 @@ duration: "56:20"
 - **TL;DR:** 本文深入探讨了知识蒸馏、参数量化、深度可分离卷积和动态计算四种网络压缩技术，旨在实现模型轻量化与高效部署。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-17-ml-2021-(english-version)-lecture-36-network-compression-(2-2)-mGRdOGdOZ-4.transcript.md)
+
 # 深度重构：神经网络压缩的艺术与实践 (下)
 
 ## 材料信息

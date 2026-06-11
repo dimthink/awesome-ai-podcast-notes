@@ -18,6 +18,10 @@ duration: "39:14"
 - **TL;DR:** mBERT能零样本跨语言迁移：语义对齐+隐式语言向量共存且可被操控
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-06-17-dlhlp-2020-multilingual-bert-8rDN1jUI82g.transcript.md)
+
 ## 材料信息
 
 - **标题**：[DLHLP 2020] Multilingual BERT

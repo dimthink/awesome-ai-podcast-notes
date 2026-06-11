@@ -18,6 +18,11 @@ duration: "3:34:39"
 - **TL;DR:** AI范式已从模型大小转向Agent框架,开源协作与群体智能正在引爆生产力革命,AGI或在两年内实现
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-24-luo-fuli-openclaw,-agent-frameworks-—-the-ai-paradigm-has-already-changed-dramatically!-V9eI-t3TApE.structured.md)
+- [原始文稿](2026-04-24-luo-fuli-openclaw,-agent-frameworks-—-the-ai-paradigm-has-already-changed-dramatically!-V9eI-t3TApE.transcript.md)
+
 # 罗福莉：OpenClaw，智能体框架——AI范式已经发生剧变！
 
 **材料信息**

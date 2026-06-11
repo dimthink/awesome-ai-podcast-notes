@@ -18,6 +18,11 @@ duration: "1:00:22"
 - **TL;DR:** 创业不是寻找好点子，而是用理性框架筛选出能承载百亿梦想的大市场，然后被客户推着走向时代浪潮之巅。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-24-rebuilding-customer-support-for-the-ai-era-XcI5IMLEAaE.structured.md)
+- [原始文稿](2026-02-24-rebuilding-customer-support-for-the-ai-era-XcI5IMLEAaE.transcript.md)
+
 好的，这是一篇根据您提供的YouTube视频字幕，按照指定输出结构和写作要求进行深度重构的文章。
 
 ---

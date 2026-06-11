@@ -18,6 +18,10 @@ duration: "17:03"
 - **TL;DR:** GPT通过预测下一个词元实现强大生成，并以In-context Learning革新模型应用，自监督学习正跨越文本，在语音视觉领域掀起浪潮。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-30-【機器學習2021】自督導式學習-(self-supervised-learning)-(四)-–-gpt的野望-WY_E0Sd4K80.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

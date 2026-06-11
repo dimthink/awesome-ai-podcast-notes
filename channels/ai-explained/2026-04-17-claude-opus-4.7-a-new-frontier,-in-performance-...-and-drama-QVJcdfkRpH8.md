@@ -18,6 +18,11 @@ duration: "19:41"
 - **TL;DR:** 最好的模型并非全能，Anthropic 主动削弱能力、算力瓶颈与九年个人恩怨共同塑造了这场充满争议的发布
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-17-claude-opus-4.7-a-new-frontier,-in-performance-...-and-drama-QVJcdfkRpH8.structured.md)
+- [原始文稿](2026-04-17-claude-opus-4.7-a-new-frontier,-in-performance-...-and-drama-QVJcdfkRpH8.transcript.md)
+
 # Claude Opus 4.7：性能前沿与争议漩涡
 
 ## 材料信息

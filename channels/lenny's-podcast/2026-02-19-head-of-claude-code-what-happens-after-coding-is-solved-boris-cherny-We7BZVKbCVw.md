@@ -13,6 +13,10 @@ duration: "1:27:45"
 - **Published:** 2026-02-19
 - **Source:** https://www.youtube.com/watch?v=We7BZVKbCVw
 
+## 版本
+
+- [原始文稿](2026-02-19-head-of-claude-code-what-happens-after-coding-is-solved-boris-cherny-We7BZVKbCVw.transcript.md)
+
 ## 深度重构文章：当编程被AI“解决”之后：Claude Code负责人Boris Cherny的洞见
 
 **材料信息**

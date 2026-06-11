@@ -18,6 +18,11 @@ duration: "29:23"
 - **TL;DR:** 多 AI 代理并行工作，人类化身“指挥家”，正成为高效能工程的新范式
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-08-the-tool-the-best-engineers-are-using-right-now-u2z44EkIEHE.structured.md)
+- [原始文稿](2026-05-08-the-tool-the-best-engineers-are-using-right-now-u2z44EkIEHE.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

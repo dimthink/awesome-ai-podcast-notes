@@ -18,6 +18,11 @@ duration: "43:20"
 - **TL;DR:** 一个全职开发者如何用OpenClaw创建AI员工Larry，让他从新手成长为月入近千美元的TikTok营销机器，并完全放手让他自主创作
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-09-my-openclaw-is-the-only-marketer-i-need-OV5eK91YY68.structured.md)
+- [原始文稿](2026-03-09-my-openclaw-is-the-only-marketer-i-need-OV5eK91YY68.transcript.md)
+
 # 我的AI员工Larry：如何用OpenClaw打造一台永不停歇的营销机器
 
 ## 材料信息

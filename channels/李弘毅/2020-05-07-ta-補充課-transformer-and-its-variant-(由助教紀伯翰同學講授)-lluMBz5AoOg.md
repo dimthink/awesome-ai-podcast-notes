@@ -18,6 +18,10 @@ duration: "1:49:23"
 - **TL;DR:** 本文深入剖析Transformer及其变体，揭示新架构如何通过巧妙设计，在性能、效率和泛化能力上超越传统模型，引领NLP新范式。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-05-07-ta-補充課-transformer-and-its-variant-(由助教紀伯翰同學講授)-lluMBz5AoOg.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

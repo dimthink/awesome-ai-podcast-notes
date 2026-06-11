@@ -18,6 +18,10 @@ duration: "12:42"
 - **TL;DR:** Speculative Decoding通过引入快速“预言家”并行预测，无需训练即可将LLM生成速度提升2-3倍，巧妙平衡速度与准确性。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2024-05-18-【生成式ai導論-2024】第16講-可以加速所有語言模型生成速度的神奇外掛-—-speculative-decoding-MAbGgsWKrg8.transcript.md)
+
 ## 材料信息
 
 - **标题**：【生成式AI導論 2024】第16講：可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding

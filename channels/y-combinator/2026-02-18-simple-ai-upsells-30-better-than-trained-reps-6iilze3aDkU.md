@@ -13,6 +13,10 @@ duration: "37:14"
 - **Published:** 2026-02-18
 - **Source:** https://www.youtube.com/watch?v=6iilze3aDkU
 
+## 版本
+
+- [原始文稿](2026-02-18-simple-ai-upsells-30-better-than-trained-reps-6iilze3aDkU.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

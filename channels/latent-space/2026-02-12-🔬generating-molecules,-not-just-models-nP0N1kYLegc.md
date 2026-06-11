@@ -13,6 +13,10 @@ duration: "1:41:26"
 - **Published:** 2026-02-12
 - **Source:** https://www.youtube.com/watch?v=nP0N1kYLegc
 
+## 版本
+
+- [原始文稿](2026-02-12-🔬generating-molecules,-not-just-models-nP0N1kYLegc.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

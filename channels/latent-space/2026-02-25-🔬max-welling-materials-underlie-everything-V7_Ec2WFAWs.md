@@ -18,6 +18,11 @@ duration: "34:14"
 - **TL;DR:** 从量子引力到AI for Science，物理学家的精神主线：以对称性为工具，以影响力为使命，将材料发现变为搜索引擎。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-02-25-🔬max-welling-materials-underlie-everything-V7_Ec2WFAWs.structured.md)
+- [原始文稿](2026-02-25-🔬max-welling-materials-underlie-everything-V7_Ec2WFAWs.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和系统指令，进行深度重构后生成的文章。
 
 ---

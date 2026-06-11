@@ -18,6 +18,11 @@ duration: "55:10"
 - **TL;DR:** AI不是软件，是数字员工；FDE不是售前，是帮数字员工上岗的“工头”，更是中国企业下一波管理智慧的放大器。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-03-【十字路口】openai-和-anthropic-共同看好的-fde-ai-时代的新岗位出现,旧分工松动-对谈-rolling-ai【视频播客】-V0SSMl9YB2Q.structured.md)
+- [原始文稿](2026-06-03-【十字路口】openai-和-anthropic-共同看好的-fde-ai-时代的新岗位出现,旧分工松动-对谈-rolling-ai【视频播客】-V0SSMl9YB2Q.transcript.md)
+
 # 内容深度重构：FDE——AI时代的数字员工工头
 
 ## 材料信息

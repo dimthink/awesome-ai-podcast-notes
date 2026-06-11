@@ -18,6 +18,11 @@ duration: "14:56"
 - **TL;DR:** Nano Banana Pro以十大细节突破图像生成边界，但完美之下暗藏事实陷阱。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-nano-banana-pro-but-did-you-catch-these-10-details-9hv4nr_46Ao.structured.md)
+- [原始文稿](2026-03-04-nano-banana-pro-but-did-you-catch-these-10-details-9hv4nr_46Ao.transcript.md)
+
 # 超越惊艳：Nano Banana Pro的十个隐藏维度，重新定义图像生成
 
 **材料信息**

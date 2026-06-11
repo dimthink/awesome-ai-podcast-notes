@@ -18,6 +18,10 @@ duration: "53:11"
 - **TL;DR:** 深入解析Meta-learning五大核心分类，从黑箱到优化、度量、混合与贝叶斯方法，揭示其解决Few-shot挑战及与前沿AI技术融合的潜力。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-06-15-ta-補充課-more-about-meta-learning-(由助教陳建成同學講授)-(2-2)-w0-7BO09kdo.transcript.md)
+
 **材料信息**
 
 - **标题**：[TA 補充課] More about Meta Learning (由助教陳建成同學講授) (2/2)

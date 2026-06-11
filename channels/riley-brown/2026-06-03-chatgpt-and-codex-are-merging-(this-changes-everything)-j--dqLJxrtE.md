@@ -18,6 +18,11 @@ duration: "26:18"
 - **TL;DR:** OpenAI统一Codex与ChatGPT，发布角色插件、注释协作与站点功能，构建主动化Agent超级应用，重塑工作流民主化未来。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-03-chatgpt-and-codex-are-merging-(this-changes-everything)-j--dqLJxrtE.structured.md)
+- [原始文稿](2026-06-03-chatgpt-and-codex-are-merging-(this-changes-everything)-j--dqLJxrtE.transcript.md)
+
 好的，这是一份根据你提供的原始视频字幕内容，按照深度重构要求撰写的完整文章。
 
 ---

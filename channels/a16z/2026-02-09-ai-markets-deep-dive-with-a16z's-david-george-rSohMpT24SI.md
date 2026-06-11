@@ -13,6 +13,10 @@ duration: "47:33"
 - **Published:** 2026-02-09
 - **Source:** https://www.youtube.com/watch?v=rSohMpT24SI
 
+## 版本
+
+- [原始文稿](2026-02-09-ai-markets-deep-dive-with-a16z's-david-george-rSohMpT24SI.transcript.md)
+
 好的，我将根据您的要求，对这份YouTube视频字幕内容进行深度重构，输出一篇完整的深度文章。
 
 ---

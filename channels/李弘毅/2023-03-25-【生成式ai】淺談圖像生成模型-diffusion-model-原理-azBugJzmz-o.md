@@ -18,6 +18,10 @@ duration: "13:54"
 - **TL;DR:** 李弘毅老师深入浅出地揭示了Diffusion Model原理，通过迭代去噪从噪声中生成图像，并强调了LION等超大规模数据集对文本引导生成的重要性。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-03-25-【生成式ai】淺談圖像生成模型-diffusion-model-原理-azBugJzmz-o.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

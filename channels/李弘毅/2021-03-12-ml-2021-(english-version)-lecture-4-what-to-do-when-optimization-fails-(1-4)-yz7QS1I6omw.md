@@ -18,6 +18,10 @@ duration: "36:04"
 - **TL;DR:** 深度学习优化停滞常因梯度为零，但多是鞍点而非局部最小值；Hessian矩阵特征值可区分，负特征向量指引逃逸方向，高维空间鞍点更普遍。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-03-12-ml-2021-(english-version)-lecture-4-what-to-do-when-optimization-fails-(1-4)-yz7QS1I6omw.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

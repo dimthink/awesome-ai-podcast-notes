@@ -18,6 +18,11 @@ duration: "58:56"
 - **TL;DR:** 从聊天到代理，用“入职培训、记忆、工具、技能”四步法，构建你的10倍效率AI员工操作系统。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-17-building-ai-agents-that-actually-work-(full-course)-eA9Zf2-qYYM.structured.md)
+- [原始文稿](2026-03-17-building-ai-agents-that-actually-work-(full-course)-eA9Zf2-qYYM.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕，按照系统指令进行深度重构后生成的文章。
 
 ---

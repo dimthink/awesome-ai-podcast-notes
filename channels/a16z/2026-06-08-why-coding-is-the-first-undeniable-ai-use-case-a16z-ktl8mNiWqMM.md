@@ -18,6 +18,11 @@ duration: "1:00:33"
 - **TL;DR:** 编程是 AI 第一个不可逆的杀手级应用，但模型层终将商品化，真正的价值和混乱才刚刚在上层应用开始。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.structured.md)
+- [原始文稿](2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.transcript.md)
+
 # 深度重构：为什么编程是AI第一个不可否认的用例
 
 ## 材料信息

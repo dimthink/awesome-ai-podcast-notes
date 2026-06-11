@@ -18,6 +18,11 @@ duration: "25:50"
 - **TL;DR:** Notion是OS，Codeex是CPU，打造AI的第二大脑。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-01-unlock-95-of-notion-with-codex-YGWcFMR8gk8.structured.md)
+- [原始文稿](2026-06-01-unlock-95-of-notion-with-codex-YGWcFMR8gk8.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

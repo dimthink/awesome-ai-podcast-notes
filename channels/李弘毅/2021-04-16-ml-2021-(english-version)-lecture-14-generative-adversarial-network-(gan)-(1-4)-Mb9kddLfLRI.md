@@ -18,6 +18,10 @@ duration: "38:29"
 - **TL;DR:** GAN通过生成器与判别器的对抗性训练，从传统网络的确定性输出迈向创造性地生成多样化、逼真数据，解决了多解任务的挑战，并展现了惊人的图像生成和语义插值能力。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-16-ml-2021-(english-version)-lecture-14-generative-adversarial-network-(gan)-(1-4)-Mb9kddLfLRI.transcript.md)
+
 # 深度解析生成对抗网络（GAN）：从函数到创造力的飞跃
 
 ## 材料信息

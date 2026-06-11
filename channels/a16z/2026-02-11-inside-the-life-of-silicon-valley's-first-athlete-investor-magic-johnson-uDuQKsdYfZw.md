@@ -13,6 +13,10 @@ duration: "1:05:02"
 - **Published:** 2026-02-11
 - **Source:** https://www.youtube.com/watch?v=uDuQKsdYfZw
 
+## 版本
+
+- [原始文稿](2026-02-11-inside-the-life-of-silicon-valley's-first-athlete-investor-magic-johnson-uDuQKsdYfZw.transcript.md)
+
 ## 材料信息
 
 - **标题**：Inside The Life of Silicon Valley's First Athlete Investor | Magic Johnson

@@ -18,6 +18,10 @@ duration: "38:46"
 - **TL;DR:** 深度学习损失曲面在训练路径上异常平坦，局部最优罕见，优化器需动量穿越微小起伏，且存在多个良好解被屏障分隔。
 - **Rating:** 4
 
+## 版本
+
+- [原始文稿](2018-03-24-deep-learning-theory-2-5-geometry-of-loss-surfaces-(empirical)-XysGHdNOTbg.transcript.md)
+
 ## 材料信息
 
 - **标题**：Deep Learning Theory 2-5: Geometry of Loss Surfaces (Empirical)

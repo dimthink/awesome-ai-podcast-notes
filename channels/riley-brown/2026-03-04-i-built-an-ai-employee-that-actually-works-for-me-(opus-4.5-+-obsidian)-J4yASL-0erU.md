@@ -18,6 +18,11 @@ duration: "24:06"
 - **TL;DR:** 通过Claude Code与Obsidian的深度集成，打造一个具备自我认知与持续进化的AI代理工作空间。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-i-built-an-ai-employee-that-actually-works-for-me-(opus-4.5-+-obsidian)-J4yASL-0erU.structured.md)
+- [原始文稿](2026-03-04-i-built-an-ai-employee-that-actually-works-for-me-(opus-4.5-+-obsidian)-J4yASL-0erU.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和系统指令，生成的深度重构文章。
 
 ---

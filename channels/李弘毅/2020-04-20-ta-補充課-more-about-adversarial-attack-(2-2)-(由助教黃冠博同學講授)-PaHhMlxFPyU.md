@@ -18,6 +18,10 @@ duration: "29:45"
 - **TL;DR:** 深入剖析音频对抗性攻击，从ASR/ASV到隐形语音攻击，揭示其利用人类感知与机器处理差异，通过攻击预处理阶段实现隐蔽控制。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-04-20-ta-補充課-more-about-adversarial-attack-(2-2)-(由助教黃冠博同學講授)-PaHhMlxFPyU.transcript.md)
+
 **材料信息**
 
 - **标题**：[TA 補充課] More about Adversarial Attack (2/2) (由助教黃冠博同學講授)

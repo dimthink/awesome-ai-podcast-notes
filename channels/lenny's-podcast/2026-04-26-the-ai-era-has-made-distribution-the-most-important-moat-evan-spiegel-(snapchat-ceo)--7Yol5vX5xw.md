@@ -18,6 +18,11 @@ duration: "1:10:25"
 - **TL;DR:** AI时代软件功能易被克隆，真正持久的护城河是分发网络、生态系统、硬件和以人为核心的设计文化
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-26-the-ai-era-has-made-distribution-the-most-important-moat-evan-spiegel-(snapchat-ceo)--7Yol5vX5xw.structured.md)
+- [原始文稿](2026-04-26-the-ai-era-has-made-distribution-the-most-important-moat-evan-spiegel-(snapchat-ceo)--7Yol5vX5xw.transcript.md)
+
 # The AI Era Has Made Distribution the Most Important Moat: Evan Spiegel on Building Durable Consumer Products
 
 **材料信息**

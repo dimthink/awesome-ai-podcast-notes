@@ -18,6 +18,10 @@ duration: "38:10"
 - **TL;DR:** 训练停滞常因梯度大时优化器迷失而非临界点，需自适应学习率和调度策略应对复杂误差曲面。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-09-ml-2021-(english-version)-lecture-6-what-to-do-when-optimization-fails-(3-4)-8yf-tU7zm7w.transcript.md)
+
 **材料信息**
 
 - **标题**：[ML 2021 (English version)] Lecture 6: What to do when optimization fails? (3/4)

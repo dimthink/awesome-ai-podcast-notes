@@ -18,6 +18,10 @@ duration: "20:32"
 - **TL;DR:** 分类任务需用独热编码表示类别，Softmax将网络输出转为概率，交叉熵是更优损失函数，因其优化特性可加速训练。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-03-18-ml-2021-(english-version)-lecture-8-classification-(short-version)-jqVONJ-Wn8w.transcript.md)
+
 # 深度解析：分类任务的核心机制与优化策略
 
 ## 材料信息

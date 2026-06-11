@@ -13,6 +13,10 @@ duration: "22:13"
 - **Published:** 2026-01-28
 - **Source:** https://www.youtube.com/watch?v=Iar4yweKGoI
 
+## 版本
+
+- [原始文稿](2026-01-28-claude-ai-co-founder-publishes-4-big-claims-about-near-future-breakdown-Iar4yweKGoI.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 核心使命

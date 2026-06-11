@@ -18,6 +18,10 @@ duration: "42:23"
 - **TL;DR:** 神经编解码器通过预测编码、潜在扩散和个性化，突破传统编解码器瓶颈，实现低比特率、高音质、低延迟，并赋能智能通信应用。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2024-12-14-future-directions-in-neural-speech-communication-codecs-minje-kim-(uiuc)-zxFTrb_xGD0.transcript.md)
+
 **材料信息**
 
 - **标题**：Future Directions in Neural Speech Communication Codecs - Minje Kim (UIUC)

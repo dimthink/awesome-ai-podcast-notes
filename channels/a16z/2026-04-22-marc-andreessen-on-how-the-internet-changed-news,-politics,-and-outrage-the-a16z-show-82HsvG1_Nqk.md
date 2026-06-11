@@ -18,6 +18,11 @@ duration: "1:05:58"
 - **TL;DR:** 社交媒体愤怒是两天半的恐慌周期，它替代了物理暴力，是人类历史上最和平的宣泄方式
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-22-marc-andreessen-on-how-the-internet-changed-news,-politics,-and-outrage-the-a16z-show-82HsvG1_Nqk.structured.md)
+- [原始文稿](2026-04-22-marc-andreessen-on-how-the-internet-changed-news,-politics,-and-outrage-the-a16z-show-82HsvG1_Nqk.transcript.md)
+
 # 深度文章：互联网如何重塑新闻、政治与愤怒——Marc Andreessen 的媒体进化论
 
 ## 材料信息

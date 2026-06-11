@@ -18,6 +18,10 @@ duration: "21:11"
 - **TL;DR:** 深度学习通过分类器结合最大生成树或基于转移的序列决策，实现依存句法分析，揭示词汇间非相邻的语法关系。
 - **Rating:** 4
 
+## 版本
+
+- [原始文稿](2020-06-17-dlhlp-2020-deep-learning-for-dependency-parsing-9erBrs-VIqc.transcript.md)
+
 # 深度重构：李弘毅教授的《深度学习与依存句法分析》
 
 ## 材料信息

@@ -18,6 +18,10 @@ duration: "11:53"
 - **TL;DR:** IC-PIT通过三阶段训练策略，解决了传统PIT早期标签分配不稳定性问题，显著提升了语音分离性能1.88 dB。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-05-04-icassp-2020-interrupted-and-cascaded-pit-for-speech-separation-(speaker-gene-ping-yang)-RUhkc6ihyYI.transcript.md)
+
 # 深度重构：中断与级联置换不变训练（IC-PIT）用于语音分离
 
 ## 材料信息

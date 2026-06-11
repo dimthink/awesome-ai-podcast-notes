@@ -18,6 +18,10 @@ duration: "26:17"
 - **TL;DR:** 深度网络在函数逼近能力上比浅层网络具有指数级优势，尤其对复杂函数更高效。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-03-09-deep-learning-theory-1-3-is-deep-better-than-shallow-qpuLxXrHQB4.transcript.md)
+
 **材料信息**
 
 - **标题**：Deep Learning Theory 1-3: Is Deep better than Shallow?

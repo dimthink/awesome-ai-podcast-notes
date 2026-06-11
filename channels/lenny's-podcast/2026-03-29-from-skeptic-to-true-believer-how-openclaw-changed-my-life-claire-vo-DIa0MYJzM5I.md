@@ -18,6 +18,11 @@ duration: "1:46:36"
 - **TL;DR:** 真正的 AI 革命不是找到一个万能工具，而是学会像管理者一样构建自己的 AI 团队，让每一个代理专注于自己擅长的领域。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-29-from-skeptic-to-true-believer-how-openclaw-changed-my-life-claire-vo-DIa0MYJzM5I.structured.md)
+- [原始文稿](2026-03-29-from-skeptic-to-true-believer-how-openclaw-changed-my-life-claire-vo-DIa0MYJzM5I.transcript.md)
+
 # 从怀疑到信仰：OpenClaw如何改变我的生活
 
 **材料信息**

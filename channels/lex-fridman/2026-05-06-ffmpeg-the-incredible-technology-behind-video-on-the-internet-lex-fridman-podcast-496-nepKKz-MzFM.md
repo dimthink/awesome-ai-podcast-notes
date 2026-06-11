@@ -18,6 +18,11 @@ duration: "4:18:22"
 - **TL;DR:** 互联网视频的隐形脊柱由一群不计报酬的志愿者用汇编和C筑成，他们拒绝数千万美元、抵御政府后门要求、在火星上运行代码。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-06-ffmpeg-the-incredible-technology-behind-video-on-the-internet-lex-fridman-podcast-496-nepKKz-MzFM.structured.md)
+- [原始文稿](2026-05-06-ffmpeg-the-incredible-technology-behind-video-on-the-internet-lex-fridman-podcast-496-nepKKz-MzFM.transcript.md)
+
 # FFmpeg: The Technology That Powers Video on the Internet
 
 **材料信息**

@@ -18,6 +18,11 @@ duration: "1:21:18"
 - **TL;DR:** AI革命迟到80年终爆发，成本崩溃引爆需求，中美竞合重塑监管，未来取决于万亿美金级问题，而公众的行动已昭示了答案。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-04-marc-andreessen's-2026-outlook-ai-timelines,-us-vs.-china,-and-the-price-of-ai-xRh2sVcNXQ8.structured.md)
+- [原始文稿](2026-03-04-marc-andreessen's-2026-outlook-ai-timelines,-us-vs.-china,-and-the-price-of-ai-xRh2sVcNXQ8.transcript.md)
+
 好的，遵照您的指示，我将对提供的YouTube视频字幕进行深度重构，输出一篇完整的深度文章。
 
 ### **材料信息**

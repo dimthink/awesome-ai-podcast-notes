@@ -18,6 +18,11 @@ duration: "31:37"
 - **TL;DR:** AI正在创造史上最不对称的创业窗口：一人、一API、一细分受众，即可建立95%利润率的业务，但这个窗口只有12-24个月
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-01-23-ai-trends-keeping-me-up-at-night-lyqk7zxbCKs.structured.md)
+- [原始文稿](2026-04-01-23-ai-trends-keeping-me-up-at-night-lyqk7zxbCKs.transcript.md)
+
 # 23个让我彻夜难眠的AI趋势
 
 **作者/来源**：Greg Isenberg / Greg Isenberg YouTube频道

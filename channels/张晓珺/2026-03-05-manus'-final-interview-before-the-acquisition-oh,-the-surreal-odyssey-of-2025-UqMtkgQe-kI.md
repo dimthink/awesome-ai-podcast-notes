@@ -18,6 +18,11 @@ duration: "3:31:01"
 - **TL;DR:** 一个技术极客的十五年AI长征：从猛犸浏览器到Manus，在偏执狂遍地的圈子里，“正常”才是最稀缺的天赋。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-05-manus'-final-interview-before-the-acquisition-oh,-the-surreal-odyssey-of-2025-UqMtkgQe-kI.structured.md)
+- [原始文稿](2026-03-05-manus'-final-interview-before-the-acquisition-oh,-the-surreal-odyssey-of-2025-UqMtkgQe-kI.transcript.md)
+
 # Manus 联合创始人季超：一个“正常”的AI极客，和他魔幻的2025
 
 ## 材料信息

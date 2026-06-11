@@ -18,6 +18,11 @@ duration: "16:27"
 - **TL;DR:** AI正经历“混乱中段”：新模型引发政府“紧迫感”，但全新基准Arc AGI 3揭示，AI在关键智能任务上仍远逊于人类。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-26-two-ai-models-set-to-“stir-government-urgency”,-but-will-this-challenge-undo-them-s4tptozUJ8Y.structured.md)
+- [原始文稿](2026-03-26-two-ai-models-set-to-“stir-government-urgency”,-but-will-this-challenge-undo-them-s4tptozUJ8Y.transcript.md)
+
 好的，遵照您的指示，我将对提供的YouTube视频字幕内容进行深度重构，将其转化为一篇完整的、超越原始材料的深度文章。
 
 ---

@@ -13,6 +13,10 @@ duration: "42:12"
 - **Published:** 2026-02-16
 - **Source:** https://www.youtube.com/watch?v=ryhzpLe9O_U
 
+## 版本
+
+- [原始文稿](2026-02-16-7-openclaw-skills-to-10x-your-business-output-ryhzpLe9O_U.transcript.md)
+
 好的，我将根据您的要求，对这份YouTube视频字幕内容进行深度重构，输出一篇完整的深度文章。
 
 ---

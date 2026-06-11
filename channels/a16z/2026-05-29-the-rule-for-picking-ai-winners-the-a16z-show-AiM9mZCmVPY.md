@@ -18,6 +18,11 @@ duration: "33:10"
 - **TL;DR:** 渗透率仅5%的AI市场，赢家规模正以10倍速度膨胀，你必须站在“Token路径”上才能不被底层模型迭代抹杀。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.structured.md)
+- [原始文稿](2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.transcript.md)
+
 # AI 赢家的铁律：你必须身处“Token 路径”之上
 
 ## 材料信息

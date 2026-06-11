@@ -18,6 +18,11 @@ duration: "18:16"
 - **TL;DR:** 未来属于目标驱动的窄域AI代理团队，而非功能堆砌的通用全能超人。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-02-why-specialized-agents-are-superior-(how-i-built-an-openclaw-superteam)-ISb0nrlNoKQ.structured.md)
+- [原始文稿](2026-03-02-why-specialized-agents-are-superior-(how-i-built-an-openclaw-superteam)-ISb0nrlNoKQ.transcript.md)
+
 好的，我将遵循您的系统指令，对 Riley Brown 的 YouTube 视频字幕进行深度重构，将其转化为一篇完整、深刻且引人入胜的文章。
 
 ---

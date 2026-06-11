@@ -18,6 +18,11 @@ duration: "47:23"
 - **TL;DR:** 50岁企业家用AI代理重构个人与商业操作系统：花80%时间调试换20%魔法时刻，但已可视见三到六个月内AI全自动运营业务的未来
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-04-ai-agents-run-my-business-and-life-65IAqRUxg3c.structured.md)
+- [原始文稿](2026-05-04-ai-agents-run-my-business-and-life-65IAqRUxg3c.transcript.md)
+
 # AI Agents Run My Business and Life：Andrew Wilkinson 的深度实操笔记
 
 **材料信息**

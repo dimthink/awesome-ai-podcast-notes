@@ -18,6 +18,11 @@ duration: "14:58"
 - **TL;DR:** 通过MCP协议，AI直接操控设计软件，从概念到部署全程自动化，设计开发壁垒被彻底打破。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-09-claude-code-can-design-now-(figma-is-officially-in-trouble)-KAX0cWk1fJE.structured.md)
+- [原始文稿](2026-03-09-claude-code-can-design-now-(figma-is-officially-in-trouble)-KAX0cWk1fJE.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

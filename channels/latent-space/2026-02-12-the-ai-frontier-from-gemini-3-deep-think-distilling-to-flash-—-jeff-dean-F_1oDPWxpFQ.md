@@ -13,6 +13,10 @@ duration: "1:23:31"
 - **Published:** 2026-02-12
 - **Source:** https://www.youtube.com/watch?v=F_1oDPWxpFQ
 
+## 版本
+
+- [原始文稿](2026-02-12-the-ai-frontier-from-gemini-3-deep-think-distilling-to-flash-—-jeff-dean-F_1oDPWxpFQ.transcript.md)
+
 好的，我将根据您的要求，对Jeff Dean在Latent Space播客中关于AI前沿的访谈内容进行深度重构。
 
 ---

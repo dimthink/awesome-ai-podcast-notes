@@ -18,6 +18,10 @@ duration: "1:27:24"
 - **TL;DR:** 李弘毅教授深入讲解GANs如何通过强化学习克服传统Seq2Seq模型缺陷，实现高质量条件生成，并开创无监督文本风格转换、摘要、翻译及语音识别等突破性应用。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-05-26-gan-lecture-9-(2018)-sequence-generation-Xb1x4ZgV6iM.transcript.md)
+
 ## 材料信息
 
 - **标题**：GAN Lecture 9 (2018): Sequence Generation

@@ -18,6 +18,11 @@ duration: "1:27:42"
 - **TL;DR:** AI的自我修正能力是与生俱来的“佛性”，RL不是创造而是激活它；比训练模型更划算的，或许是学会如何“正确采样”。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.structured.md)
+- [原始文稿](2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.transcript.md)
+
 # AI能自我修正嗎？從Decoding、Workflow到Reasoning的技術發展整理
 
 ## 材料信息

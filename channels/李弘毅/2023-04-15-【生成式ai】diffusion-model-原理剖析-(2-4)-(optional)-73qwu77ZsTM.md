@@ -18,6 +18,10 @@ duration: "27:08"
 - **TL;DR:** 李弘毅教授深入剖析Diffusion Model，揭示其与VAE在最大似然估计和变分下界优化上的深层共通性，强调从简单分布到复杂分布的映射是生成模型核心。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-04-15-【生成式ai】diffusion-model-原理剖析-(2-4)-(optional)-73qwu77ZsTM.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

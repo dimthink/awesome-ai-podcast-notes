@@ -18,6 +18,11 @@ duration: "33:56"
 - **TL;DR:** AI将先消灭“中间人”而非工作本身，但会彻底重塑知识工作的形态与效率。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-07-this-is-the-next-industry-ai-will-disrupt-lfzm2SlhbM8.structured.md)
+- [原始文稿](2026-03-07-this-is-the-next-industry-ai-will-disrupt-lfzm2SlhbM8.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和指定输出结构，生成的深度重构文章。
 
 ---

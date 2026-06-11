@@ -18,6 +18,10 @@ duration: "1:05:34"
 - **TL;DR:** 强化学习使机器通过与环境互动和奖励反馈自主学习，克服行为克隆局限，利用Actor-Critic和IRL解决复杂决策与奖励定义难题。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-01-18-ml-lecture-23-3-reinforcement-learning-(including-q-learning)-2-JNBzCq77c.transcript.md)
+
 ## 深度重构：李弘毅教授《强化学习（包括Q-learning）》
 
 ### 材料信息

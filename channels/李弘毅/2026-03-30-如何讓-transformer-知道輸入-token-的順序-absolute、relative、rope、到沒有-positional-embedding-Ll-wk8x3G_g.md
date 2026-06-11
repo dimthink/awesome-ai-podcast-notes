@@ -18,6 +18,11 @@ duration: "1:29:43"
 - **TL;DR:** 位置编码的核心是相对位置信息，而真正让Transformer强大的，是训练中借助它，最终超越它。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-30-如何讓-transformer-知道輸入-token-的順序-absolute、relative、rope、到沒有-positional-embedding-Ll-wk8x3G_g.structured.md)
+- [原始文稿](2026-03-30-如何讓-transformer-知道輸入-token-的順序-absolute、relative、rope、到沒有-positional-embedding-Ll-wk8x3G_g.transcript.md)
+
 好的，遵照您的指示，我将对李弘毅教授的这段关于Transformer位置编码的视频进行深度重构，力求呈现一篇信息完整、逻辑清晰、深入浅出的深度文章。
 
 ### 材料信息

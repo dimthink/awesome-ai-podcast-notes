@@ -13,6 +13,10 @@ duration: "43:41"
 - **Published:** 2026-01-27
 - **Source:** https://www.youtube.com/watch?v=Px_yUq5Nos0
 
+## 版本
+
+- [原始文稿](2026-01-27-the-35-fundamentals-you-need-to-vibecode-your-first-app-(full-tutorial)-Px_yUq5Nos0.transcript.md)
+
 ## 内容深度重构与阐述
 
 ### 材料信息

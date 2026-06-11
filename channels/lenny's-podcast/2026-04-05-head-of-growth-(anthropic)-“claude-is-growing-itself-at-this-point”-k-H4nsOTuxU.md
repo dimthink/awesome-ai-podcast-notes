@@ -18,6 +18,11 @@ duration: "1:52:49"
 - **TL;DR:** 在AI产品价值呈指数级增长的未来，增长的核心不再是微调和优化，而是主动管理“成功灾难”，并拥抱人类与AI协作的新工作模式。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-05-head-of-growth-(anthropic)-“claude-is-growing-itself-at-this-point”-k-H4nsOTuxU.structured.md)
+- [原始文稿](2026-04-05-head-of-growth-(anthropic)-“claude-is-growing-itself-at-this-point”-k-H4nsOTuxU.transcript.md)
+
 <!-- TLDR: 在AI产品价值呈指数级增长的未来，增长的核心不再是微调和优化，而是主动管理“成功灾难”，并拥抱人类与AI协作的新工作模式。 -->
 
 <!-- TAGS: AI增长, 产品管理, Anthropic, 指数思维, 人机协作 -->

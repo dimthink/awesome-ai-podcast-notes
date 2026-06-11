@@ -18,6 +18,11 @@ duration: "24:59"
 - **TL;DR:** 顶尖AI工程师的秘密不是魔法，而是在模型能力的“笨拙区”边界，通过大量实践建立“心智-模型连接”，从而稳定地产出可靠产品。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-06-why-your-ai-agents-don’t-work-with-dex-horthy-of-humanlayer-in-context-cooking-jTEqdoB_mmo.structured.md)
+- [原始文稿](2026-03-06-why-your-ai-agents-don’t-work-with-dex-horthy-of-humanlayer-in-context-cooking-jTEqdoB_mmo.transcript.md)
+
 # 深度重构：为什么你的AI智能体总是不起作用？
 
 ## 材料信息

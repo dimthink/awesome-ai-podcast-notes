@@ -18,6 +18,10 @@ duration: "11:55"
 - **TL;DR:** 该研究提出一种基于量化语音表示的无监督/少量监督学习框架，实现高效音素识别与高质量语音合成，显著降低对标注数据依赖。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-05-03-icassp-2020-towards-unsupervised-speech-recognition-and-synthesis-(speaker-tao-tu)-cnZdfLSqwiE.transcript.md)
+
 **材料信息**
 
 - **标题**：[ICASSP 2020] TOWARDS UNSUPERVISED SPEECH RECOGNITION AND SYNTHESIS (Speaker: Tao Tu)

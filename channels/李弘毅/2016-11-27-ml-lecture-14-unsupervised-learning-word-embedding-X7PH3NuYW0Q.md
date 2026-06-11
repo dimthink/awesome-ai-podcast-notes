@@ -18,6 +18,10 @@ duration: "40:39"
 - **TL;DR:** Word Embedding将词汇映射到低维向量空间，通过上下文学习语义，实现语义推理、跨语言和跨模态应用，是NLP基石。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-11-27-ml-lecture-14-unsupervised-learning-word-embedding-X7PH3NuYW0Q.transcript.md)
+
 # 词汇的数字灵魂：李宏毅教授深度解析词嵌入（Word Embedding）
 
 ## 材料信息

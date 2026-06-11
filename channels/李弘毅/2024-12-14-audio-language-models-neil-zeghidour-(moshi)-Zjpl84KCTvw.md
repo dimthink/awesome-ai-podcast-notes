@@ -18,6 +18,10 @@ duration: "43:08"
 - **TL;DR:** Neil Zeghidour分享了音频语言模型从WaveNet到Moshi的演进，通过语义与声学令牌结合，实现了高质量、全双工的实时语音AI，并展望了零样本涌现的未来。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2024-12-14-audio-language-models-neil-zeghidour-(moshi)-Zjpl84KCTvw.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

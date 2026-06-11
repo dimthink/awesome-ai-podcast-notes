@@ -18,6 +18,11 @@ duration: "26:58"
 - **TL;DR:** 模型竞赛进入平台期，真正的 AI 革命在超级应用 Codex 及其 Agent Mini App 生态的构建中。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-31-the-latest-codex-updates-and-the-truth-about-opus-4.8-84NkgiTcOdo.structured.md)
+- [原始文稿](2026-05-31-the-latest-codex-updates-and-the-truth-about-opus-4.8-84NkgiTcOdo.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

@@ -18,6 +18,11 @@ duration: "20:30"
 - **TL;DR:** AI代理正在从工具变成客户和决策者，开发者需要重新思考产品设计、用户关系和战略规划，代码价值让位于语境与信任
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.structured.md)
+- [原始文稿](2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.transcript.md)
+
 # 深度重构文章：当AI代理成为开发者工具的新用户
 
 ## 材料信息

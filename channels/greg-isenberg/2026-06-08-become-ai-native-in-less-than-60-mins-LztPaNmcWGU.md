@@ -18,6 +18,11 @@ duration: "56:44"
 - **TL;DR:** 真正成为AI原生，不只是使用AI工具，而是构建人-Agent-上下文三位一体的操作系统，让公司以指数级速度学习、迭代和创造客户价值。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.structured.md)
+- [原始文稿](2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.transcript.md)
+
 # AI原生：在60分钟内成为不可替代的少数派
 
 ---

@@ -18,6 +18,10 @@ duration: "28:20"
 - **TL;DR:** 当奖励难以定义时，模仿学习（尤其是逆向强化学习IRL）能让机器从专家行为中学习，IRL通过反推奖励函数并与GAN类似，甚至能让机器超越人类。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-11-ml-2021-(english-version)-lecture-32-introduction-of-reinforcement-learning-(rl)-(5-5)-9H3ShV57lHs.transcript.md)
+
 ## 材料信息
 
 - **标题**：[ML 2021 (English version)] Lecture 32: Introduction of Reinforcement Learning (RL) (5/5)

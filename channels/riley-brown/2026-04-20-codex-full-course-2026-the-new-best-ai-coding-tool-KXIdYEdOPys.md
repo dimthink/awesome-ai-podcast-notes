@@ -18,6 +18,11 @@ duration: "1:43:14"
 - **TL;DR:** 学会用AI智能体多任务并行，从“等待响应”转向“委派执行”，你可以在几小时内构建完整的应用、网站和自动化系统。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-20-codex-full-course-2026-the-new-best-ai-coding-tool-KXIdYEdOPys.structured.md)
+- [原始文稿](2026-04-20-codex-full-course-2026-the-new-best-ai-coding-tool-KXIdYEdOPys.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

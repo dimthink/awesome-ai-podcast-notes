@@ -18,6 +18,11 @@ duration: "1:35:11"
 - **TL;DR:** 信息传递型PM将被淘汰，建设型PM迎来黄金时代——找到你的第一个AI建造喜悦，跨越恐惧门槛
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-19-why-half-of-product-managers-are-in-trouble-nikhyl-singhal-(meta,-google)-yUohoaC8_Hs.structured.md)
+- [原始文稿](2026-04-19-why-half-of-product-managers-are-in-trouble-nikhyl-singhal-(meta,-google)-yUohoaC8_Hs.transcript.md)
+
 # 深度重构：当一半的产品经理陷入困境——AI时代的产品管理革命
 
 ## 材料信息

@@ -18,6 +18,10 @@ duration: "27:08"
 - **TL;DR:** 逆向強化學習(IRL)通過從專家示範中反推獎勵函數，克服了傳統RL獎勵設計難題和行為複製的局限，並與GAN有異曲同工之妙，有望讓機器超越人類。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-05-【機器學習2021】概述增強式學習-(reinforcement-learning,-rl)-(五)-如何從示範中學習-逆向增強式學習-(inverse-rl)-75rZwxKBAf0.transcript.md)
+
 **材料信息**
 
 - **标题**：【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (五) - 如何從示範中學習？逆向增強式學習 (Inverse RL)

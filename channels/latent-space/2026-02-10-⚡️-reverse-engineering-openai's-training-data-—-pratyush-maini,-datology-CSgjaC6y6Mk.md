@@ -13,6 +13,10 @@ duration: "27:02"
 - **Published:** 2026-02-10
 - **Source:** https://www.youtube.com/watch?v=CSgjaC6y6Mk
 
+## 版本
+
+- [原始文稿](2026-02-10-⚡️-reverse-engineering-openai's-training-data-—-pratyush-maini,-datology-CSgjaC6y6Mk.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

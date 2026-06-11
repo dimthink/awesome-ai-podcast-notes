@@ -13,6 +13,10 @@ duration: "54:12"
 - **Published:** 2026-02-13
 - **Source:** https://www.youtube.com/watch?v=9OnN4O4uapI
 
+## 版本
+
+- [原始文稿](2026-02-13-stop-shipping-ai-slop.-design-with-weavy-ai,-claude-etc-9OnN4O4uapI.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 核心使命

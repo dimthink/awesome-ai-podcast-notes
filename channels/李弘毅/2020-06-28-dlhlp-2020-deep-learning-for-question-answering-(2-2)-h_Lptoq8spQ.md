@@ -18,6 +18,10 @@ duration: "1:13:07"
 - **TL;DR:** 李弘毅教授深入剖析问答系统三大类型：简单、复杂、对话式，揭示Attention机制演进，BERT如何集大成，并展望未来挑战。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-06-28-dlhlp-2020-deep-learning-for-question-answering-(2-2)-h_Lptoq8spQ.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

@@ -13,6 +13,10 @@ duration: "10:31"
 - **Published:** 2026-02-17
 - **Source:** https://www.youtube.com/watch?v=dxlyCPGCvy8
 
+## 版本
+
+- [原始文稿](2026-02-17-i-gave-openclaw-blender-skills-(the-results-are-insane)-dxlyCPGCvy8.transcript.md)
+
 ## 材料信息
 
 - **标题**：I Gave OpenClaw Blender Skills (The Results are INSANE)

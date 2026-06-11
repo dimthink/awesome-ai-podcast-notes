@@ -18,6 +18,11 @@ duration: "13:33"
 - **TL;DR:** 2026年AI代理将杀死提示框，从被动工具变为高主动性同事，设计重心从吸引人转向取悦机器，语音代理则开始大规模接管企业电话线。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-how-ai-agents-will-transform-in-2026-(a16z-big-ideas)-ULszsXDyjMY.structured.md)
+- [原始文稿](2026-03-04-how-ai-agents-will-transform-in-2026-(a16z-big-ideas)-ULszsXDyjMY.transcript.md)
+
 # 2026年AI代理的三大变革：从提示框消亡到为机器设计
 
 ## 材料信息

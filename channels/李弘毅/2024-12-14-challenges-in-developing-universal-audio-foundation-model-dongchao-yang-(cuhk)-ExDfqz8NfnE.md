@@ -18,6 +18,10 @@ duration: "23:00"
 - **TL;DR:** 构建通用音频基础模型需统一音频表示和建模策略，语义丰富的低比特率编码器是关键，分层自回归模型可解决长序列挑战，但涌现能力和副语言信息保留仍是未来难题。
 - **Rating:** 4
 
+## 版本
+
+- [原始文稿](2024-12-14-challenges-in-developing-universal-audio-foundation-model-dongchao-yang-(cuhk)-ExDfqz8NfnE.transcript.md)
+
 **材料信息**
 
 - **标题**：Challenges in Developing Universal Audio Foundation Model - Dongchao Yang (CUHK)

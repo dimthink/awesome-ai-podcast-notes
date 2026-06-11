@@ -18,6 +18,11 @@ duration: "42:30"
 - **TL;DR:** 万亿平台正在系统性地扼杀创新，加州SB 1074法案精准禁止“自我优待”，让最好的想法赢，而不是最大的平台赢
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-19-senator-scott-wiener-press-conference-at-yc-Yr9mHKxOkLg.structured.md)
+- [原始文稿](2026-03-19-senator-scott-wiener-press-conference-at-yc-Yr9mHKxOkLg.transcript.md)
+
 # 当你的手机变成监狱：YC发布会揭秘科技巨头如何扼杀创新
 
 **材料信息**

@@ -13,6 +13,10 @@ duration: "52:04"
 - **Published:** 2026-02-18
 - **Source:** https://www.youtube.com/watch?v=i13XK-uUOLQ
 
+## 版本
+
+- [原始文稿](2026-02-18-making-$$$-with-openclaw-i13XK-uUOLQ.transcript.md)
+
 **材料信息**
 
 - **标题**：Making $$$ with OpenClaw

@@ -18,6 +18,11 @@ duration: "46:42"
 - **TL;DR:** Paperclip 是一个开源 AI 代理编排器，让你像管理公司一样组建、监督和优化 AI 团队，将人类的“管理”职能代码化。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-26-paperclip-hire-ai-agents-like-employees-(live-demo)-C3-4llQYT8o.structured.md)
+- [原始文稿](2026-03-26-paperclip-hire-ai-agents-like-employees-(live-demo)-C3-4llQYT8o.transcript.md)
+
 # Paperclip：当AI代理组成公司，你将如何管理永不眠的数字员工？
 
 ## 材料信息

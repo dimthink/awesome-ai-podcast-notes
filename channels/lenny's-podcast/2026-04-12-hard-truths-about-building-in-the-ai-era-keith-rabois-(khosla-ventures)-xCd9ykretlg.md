@@ -18,6 +18,11 @@ duration: "1:22:40"
 - **TL;DR:** 天才无法通过面试识别；成功滋生自满，CEO必须在巅峰时最用力推动；消费品创业不要问客户，他们自己也不知道答案
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-12-hard-truths-about-building-in-the-ai-era-keith-rabois-(khosla-ventures)-xCd9ykretlg.structured.md)
+- [原始文稿](2026-04-12-hard-truths-about-building-in-the-ai-era-keith-rabois-(khosla-ventures)-xCd9ykretlg.transcript.md)
+
 # 深度重构：AI时代创业与人才的硬核真相——Keith Rabois访谈精粹
 
 ## 材料信息

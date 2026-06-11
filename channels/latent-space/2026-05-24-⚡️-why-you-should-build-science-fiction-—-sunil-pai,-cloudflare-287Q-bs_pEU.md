@@ -18,6 +18,11 @@ duration: "14:47"
 - **TL;DR:** 别再造Agent框架了，用Cloudflare原语去构建让基础设施“吃力”的科幻级原创应用。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-24-⚡️-why-you-should-build-science-fiction-—-sunil-pai,-cloudflare-287Q-bs_pEU.structured.md)
+- [原始文稿](2026-05-24-⚡️-why-you-should-build-science-fiction-—-sunil-pai,-cloudflare-287Q-bs_pEU.transcript.md)
+
 # 材料信息
 
 - **标题**：⚡️ Why you should build Science Fiction — Sunil Pai, Cloudflare

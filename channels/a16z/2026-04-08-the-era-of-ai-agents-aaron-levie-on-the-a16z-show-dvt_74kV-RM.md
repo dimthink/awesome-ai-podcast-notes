@@ -18,6 +18,11 @@ duration: "58:29"
 - **TL;DR:** 当AI代理数量达到人类1000倍时，软件、安全和经济模型必须彻底重建——这不是渐进变化，而是根本性重构
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-08-the-era-of-ai-agents-aaron-levie-on-the-a16z-show-dvt_74kV-RM.structured.md)
+- [原始文稿](2026-04-08-the-era-of-ai-agents-aaron-levie-on-the-a16z-show-dvt_74kV-RM.transcript.md)
+
 # The Era of AI Agents: When Software Learns to Work for Itself
 
 **材料信息**

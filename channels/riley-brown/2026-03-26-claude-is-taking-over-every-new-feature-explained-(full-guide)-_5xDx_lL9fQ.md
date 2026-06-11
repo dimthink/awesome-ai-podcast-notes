@@ -18,6 +18,11 @@ duration: "37:16"
 - **TL;DR:** Anthropic 在两个月内发布的 Claude 新功能，正在将 AI 从对话工具进化为能控制电脑、记忆偏好、多代理协作的“数字同事”，重新定义人机协作的边界。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-26-claude-is-taking-over-every-new-feature-explained-(full-guide)-_5xDx_lL9fQ.structured.md)
+- [原始文稿](2026-03-26-claude-is-taking-over-every-new-feature-explained-(full-guide)-_5xDx_lL9fQ.transcript.md)
+
 # Claude 正在接管一切：全面解析 Anthropic 如何用两个月改写 AI 格局
 
 **材料信息**

@@ -18,6 +18,11 @@ duration: "54:03"
 - **TL;DR:** 一位 homeschooling 妈妈用 AI 代理军团（从教学到购物到邮件）解放了自己，让代理自主创建代理，并预测 AI 将开启家庭繁荣的黄金时代
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-13-building-agents-at-home-homeschooling,-parenting-and-more-the-a16z-show-yiJOTCRVWjc.structured.md)
+- [原始文稿](2026-04-13-building-agents-at-home-homeschooling,-parenting-and-more-the-a16z-show-yiJOTCRVWjc.transcript.md)
+
 # 从“技术休耕”到AI代理军团：一位 homeschooling 妈妈的创造解放之旅
 
 ## 材料信息

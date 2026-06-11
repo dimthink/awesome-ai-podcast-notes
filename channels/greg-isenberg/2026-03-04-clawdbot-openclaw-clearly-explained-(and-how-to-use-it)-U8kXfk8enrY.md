@@ -16,6 +16,11 @@ duration: "35:14"
 - **Source:** https://www.youtube.com/watch?v=U8kXfk8enrY
 - **TL;DR:** 好的，请看我根据您提供的视频字幕和系统指令，进行的深度内容重构。
 
+## 版本
+
+- [结构化文稿](2026-03-04-clawdbot-openclaw-clearly-explained-(and-how-to-use-it)-U8kXfk8enrY.structured.md)
+- [原始文稿](2026-03-04-clawdbot-openclaw-clearly-explained-(and-how-to-use-it)-U8kXfk8enrY.transcript.md)
+
 好的，请看我根据您提供的视频字幕和系统指令，进行的深度内容重构。
 
 ---

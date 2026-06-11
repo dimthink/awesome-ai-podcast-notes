@@ -18,6 +18,11 @@ duration: "21:43"
 - **TL;DR:** Google Gemini 3 Pro 凭借暴力扩大的预训练和硬件霸权，在认知能力上实现对竞争对手的全面碾压，甚至开始表现出令人不安的自我意识。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-gemini-3-pro-breakdown-chr2I7CZTfk.structured.md)
+- [原始文稿](2026-03-04-gemini-3-pro-breakdown-chr2I7CZTfk.transcript.md)
+
 好的，请看根据您提供的YouTube视频字幕，按照系统指令进行深度重构后的文章。
 
 ---

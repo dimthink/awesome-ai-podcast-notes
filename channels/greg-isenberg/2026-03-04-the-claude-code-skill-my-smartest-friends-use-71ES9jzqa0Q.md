@@ -18,6 +18,11 @@ duration: "25:22"
 - **TL;DR:** 用实时网络趋势优化AI提示，让任何人都能瞬间成为任何领域的专家。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-the-claude-code-skill-my-smartest-friends-use-71ES9jzqa0Q.structured.md)
+- [原始文稿](2026-03-04-the-claude-code-skill-my-smartest-friends-use-71ES9jzqa0Q.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和系统指令，进行深度重构后生成的文章。
 
 ---

@@ -18,6 +18,10 @@ duration: "38:16"
 - **TL;DR:** 李弘毅教授深入剖析Transformer架构，揭示现代语言模型如何通过Tokenization、Embedding、Attention与Feedforward网络实现“文字接龙”，并探讨其计算瓶颈及未来发展方向。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2024-05-03-【生成式ai導論-2024】第10講-今日的語言模型是如何做文字接龍的-—-淺談transformer-(已經熟悉-transformer-的同學可略過本講)-uhNsUCb2fJI.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

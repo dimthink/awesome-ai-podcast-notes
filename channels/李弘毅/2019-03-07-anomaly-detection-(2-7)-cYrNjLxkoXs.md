@@ -18,6 +18,10 @@ duration: "14:09"
 - **TL;DR:** 利用分类器信心分数进行异常检测，是一种简单、有效且值得首先尝试的基线方法。
 - **Rating:** 4
 
+## 版本
+
+- [原始文稿](2019-03-07-anomaly-detection-(2-7)-cYrNjLxkoXs.transcript.md)
+
 ## 材料信息
 
 - **标题**：Anomaly Detection (2/7)

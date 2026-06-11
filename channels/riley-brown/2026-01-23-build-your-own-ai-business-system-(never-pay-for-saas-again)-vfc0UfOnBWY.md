@@ -13,6 +13,10 @@ duration: "18:59"
 - **Published:** 2026-01-23
 - **Source:** https://www.youtube.com/watch?v=vfc0UfOnBWY
 
+## 版本
+
+- [原始文稿](2026-01-23-build-your-own-ai-business-system-(never-pay-for-saas-again)-vfc0UfOnBWY.transcript.md)
+
 ## 深度重构文章：构建你的AI商业操作系统，告别SaaS订阅费
 
 **材料信息**

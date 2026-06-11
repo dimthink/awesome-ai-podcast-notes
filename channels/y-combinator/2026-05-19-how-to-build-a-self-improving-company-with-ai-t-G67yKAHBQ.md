@@ -18,6 +18,11 @@ duration: "13:29"
 - **TL;DR:** 用AI自优化循环替代层级管理，让公司在你睡觉时自动进化，烧Token而非烧人头。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-19-how-to-build-a-self-improving-company-with-ai-t-G67yKAHBQ.structured.md)
+- [原始文稿](2026-05-19-how-to-build-a-self-improving-company-with-ai-t-G67yKAHBQ.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

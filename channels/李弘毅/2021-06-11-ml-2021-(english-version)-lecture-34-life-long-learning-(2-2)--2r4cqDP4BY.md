@@ -18,6 +18,10 @@ duration: "35:24"
 - **TL;DR:** 终身学习通过正则化、梯度限制、资源分配和记忆回放四大策略，对抗灾难性遗忘，并强调学习顺序的关键性。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-11-ml-2021-(english-version)-lecture-34-life-long-learning-(2-2)--2r4cqDP4BY.transcript.md)
+
 # 深度解析：终身学习中的灾难性遗忘与应对策略
 
 ## 材料信息

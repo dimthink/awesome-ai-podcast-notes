@@ -18,6 +18,10 @@ duration: "45:38"
 - **TL;DR:** 对抗攻击从黑盒到物理世界无孔不入，甚至可植入后门；防御虽有被动主动之分，但攻防仍在激烈演进，AI安全是场永无止境的军备竞赛。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-13-ml-2021-(english-version)-lecture-24-adversarial-attack-(2-2)-kRmBiV2X810.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

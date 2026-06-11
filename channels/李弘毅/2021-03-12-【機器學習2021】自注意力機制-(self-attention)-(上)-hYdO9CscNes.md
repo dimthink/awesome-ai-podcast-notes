@@ -18,6 +18,10 @@ duration: "28:18"
 - **TL;DR:** 自注意力机制通过动态计算Query与Key的关联性，对Value进行加权求和，实现对可变长序列的全局上下文理解。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-03-12-【機器學習2021】自注意力機制-(self-attention)-(上)-hYdO9CscNes.transcript.md)
+
 ## 深度重构与阐述：李弘毅教授的《自注意力机制 (Self-attention) (上)》
 
 **材料信息**

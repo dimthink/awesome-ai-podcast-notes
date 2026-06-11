@@ -18,6 +18,10 @@ duration: "17:06"
 - **TL;DR:** 深度学习中，高维损失曲面充满鞍点，局部最优解普遍“足够好”且与全局最优相近，无需过度担忧。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-03-17-deep-learning-theory-2-4-geometry-of-loss-surfaces-(conjecture)-_VuWvQUMQVk.transcript.md)
+
 ## 深度学习理论 2-4: 损失曲面的几何学 (猜想)
 
 **材料信息**

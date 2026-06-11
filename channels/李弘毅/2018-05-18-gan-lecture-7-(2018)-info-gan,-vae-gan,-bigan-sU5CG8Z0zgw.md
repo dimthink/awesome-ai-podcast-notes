@@ -18,6 +18,10 @@ duration: "46:03"
 - **TL;DR:** 本文深入探讨了GAN的多种高级变体，包括InfoGAN如何实现潜在空间语义控制，VAE-GAN如何融合重构与真实感，BiGAN如何学习逆映射以理解语义，以及Domain-Adversarial Training如何实现领域适应与特征解耦。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-05-18-gan-lecture-7-(2018)-info-gan,-vae-gan,-bigan-sU5CG8Z0zgw.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

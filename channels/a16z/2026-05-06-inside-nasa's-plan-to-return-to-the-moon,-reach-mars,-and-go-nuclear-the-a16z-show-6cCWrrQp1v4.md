@@ -18,6 +18,11 @@ duration: "28:36"
 - **TL;DR:** NASA局长承认：官僚主义、失去核心能力和缺乏竞争让美国面临输掉月球竞赛的风险，并宣布以“月”为单位发射、重建核心能力、核动力推进等激进改革
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-06-inside-nasa's-plan-to-return-to-the-moon,-reach-mars,-and-go-nuclear-the-a16z-show-6cCWrrQp1v4.structured.md)
+- [原始文稿](2026-05-06-inside-nasa's-plan-to-return-to-the-moon,-reach-mars,-and-go-nuclear-the-a16z-show-6cCWrrQp1v4.transcript.md)
+
 # Inside NASA's Plan to Return to The Moon, Reach Mars, and Go Nuclear | The a16z Show
 
 **材料信息**

@@ -18,6 +18,11 @@ duration: "31:07"
 - **TL;DR:** 一个开箱即用的AI助理，用最像人的语气和最简单的iMessage交互，让非技术用户也能拥有24/7的超能力
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-06-how-i-use-imessage-and-ai-to-run-my-life-dNASCxGFoHg.structured.md)
+- [原始文稿](2026-04-06-how-i-use-imessage-and-ai-to-run-my-life-dNASCxGFoHg.transcript.md)
+
 # 深度重构：当AI助手住进你的iMessage——一场关于人机协作的认知革命
 
 ## 材料信息

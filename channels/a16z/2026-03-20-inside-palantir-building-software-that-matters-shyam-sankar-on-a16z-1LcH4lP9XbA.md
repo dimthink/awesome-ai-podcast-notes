@@ -18,6 +18,11 @@ duration: "54:16"
 - **TL;DR:** 美国的最大风险是内部懈怠与僵化；唤醒“异端”，用AI赋能个体，并用文化重燃乐观，是赢得未来的关键。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-20-inside-palantir-building-software-that-matters-shyam-sankar-on-a16z-1LcH4lP9XbA.structured.md)
+- [原始文稿](2026-03-20-inside-palantir-building-software-that-matters-shyam-sankar-on-a16z-1LcH4lP9XbA.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕内容，按照您的要求进行的深度重构文章。
 
 ### **材料信息**

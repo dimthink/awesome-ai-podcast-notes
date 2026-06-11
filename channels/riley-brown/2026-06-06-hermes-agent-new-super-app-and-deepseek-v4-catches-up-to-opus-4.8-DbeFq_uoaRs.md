@@ -18,6 +18,11 @@ duration: "24:34"
 - **TL;DR:** AI代理变革：超级应用、苹果商店与DeepSeek降维打击
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.structured.md)
+- [原始文稿](2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕进行深度重构后的完整文章。
 
 ---

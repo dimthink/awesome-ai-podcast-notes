@@ -18,6 +18,11 @@ duration: "22:03"
 - **TL;DR:** AI时代不是工程基础过时的理由，恰恰相反——基础决定了你与AI协作的上限
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-07-⚡️-matt-pocock-why-engineering-fundamentals-matter-more-now-rlM_fAKxB3Q.structured.md)
+- [原始文稿](2026-05-07-⚡️-matt-pocock-why-engineering-fundamentals-matter-more-now-rlM_fAKxB3Q.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

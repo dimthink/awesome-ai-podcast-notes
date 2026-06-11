@@ -13,6 +13,10 @@ duration: "17:21"
 - **Published:** 2026-02-17
 - **Source:** https://www.youtube.com/watch?v=jSZrIPMTDLg
 
+## 版本
+
+- [原始文稿](2026-02-17-name-change-drama-behind-clawdbot,-moltbot,-openclaw-peter-steinberger-and-lex-fridman-jSZrIPMTDLg.transcript.md)
+
 ## 内容深度重构与阐述
 
 ### 材料信息

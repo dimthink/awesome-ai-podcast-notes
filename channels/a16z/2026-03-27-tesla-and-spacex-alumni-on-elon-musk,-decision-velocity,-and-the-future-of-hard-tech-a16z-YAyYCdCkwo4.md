@@ -18,6 +18,11 @@ duration: "50:25"
 - **TL;DR:** 硬科技创业的核心：追求极致决策速度、消灭组织内耗、用工厂思维重构产品，并只在决定公司生死时才垂直整合。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-27-tesla-and-spacex-alumni-on-elon-musk,-decision-velocity,-and-the-future-of-hard-tech-a16z-YAyYCdCkwo4.structured.md)
+- [原始文稿](2026-03-27-tesla-and-spacex-alumni-on-elon-musk,-decision-velocity,-and-the-future-of-hard-tech-a16z-YAyYCdCkwo4.transcript.md)
+
 好的，我将遵循您的指令，对这份YouTube视频字幕内容进行深度重构，将其转化为一篇内容丰富、逻辑清晰、见解深刻的深度文章。
 
 ---

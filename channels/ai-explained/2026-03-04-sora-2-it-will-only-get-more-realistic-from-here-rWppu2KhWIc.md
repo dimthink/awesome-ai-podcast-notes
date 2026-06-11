@@ -18,6 +18,11 @@ duration: "15:44"
 - **TL;DR:** Sora 2的发布不仅是技术更新，更是关于商业模式、数据决定论、身份伦理及通往感官级虚拟现实的复杂预演。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-sora-2-it-will-only-get-more-realistic-from-here-rWppu2KhWIc.structured.md)
+- [原始文稿](2026-03-04-sora-2-it-will-only-get-more-realistic-from-here-rWppu2KhWIc.transcript.md)
+
 好的，这是根据您提供的系统指令和YouTube视频字幕，进行深度重构后生成的文章。
 
 ---

@@ -18,6 +18,11 @@ duration: "12:06"
 - **TL;DR:** 无需剪辑技能，用自然语言与AI协作，即可在几分钟内完成从创意到成片的动态视频制作。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-25-openclaw-just-replaced-1,000-hours-of-video-editing-tutorials-Yt6imPC1FhA.structured.md)
+- [原始文稿](2026-02-25-openclaw-just-replaced-1,000-hours-of-video-editing-tutorials-Yt6imPC1FhA.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和深度重构指令，生成的一篇完整文章。
 
 ---

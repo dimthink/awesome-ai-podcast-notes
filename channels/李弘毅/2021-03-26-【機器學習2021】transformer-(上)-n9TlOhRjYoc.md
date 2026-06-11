@@ -18,6 +18,10 @@ duration: "32:48"
 - **TL;DR:** Transformer作为强大的Seq2Seq模型，以Encoder-Decoder架构和自注意力机制，解决了语音、文本等多种序列任务的输出长度不确定性问题，其设计仍在不断优化。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-03-26-【機器學習2021】transformer-(上)-n9TlOhRjYoc.transcript.md)
+
 # 深度解析Transformer：从Seq2Seq的普适性到Encoder的精妙设计
 
 ## 材料信息

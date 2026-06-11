@@ -13,6 +13,10 @@ duration: "1:05:57"
 - **Published:** 2026-01-25
 - **Source:** https://www.youtube.com/watch?v=NZPKtWccUCw
 
+## 版本
+
+- [原始文稿](2026-01-25-【十字路口】视频剪辑的「cursor-时刻」来了-对谈-chatcut-创始人李凯文-从金马导演到-ai-创业【视频播客】-NZPKtWccUCw.transcript.md)
+
 ## 材料信息
 
 - **标题**：【十字路口】视频剪辑的「Cursor 时刻」来了？｜对谈 ChatCut 创始人李凯文：从金马导演到 AI 创业【视频播客】

@@ -18,6 +18,11 @@ duration: "12:56"
 - **TL;DR:** 到2026年，AI将从生产力工具进化为科学发现的大脑、人际关系的催化剂和企业印钞机的引擎。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-ai-in-2026-3-predictions-for-what’s-to-come-(a16z-big-ideas)-J6_nNjy3al8.structured.md)
+- [原始文稿](2026-03-04-ai-in-2026-3-predictions-for-what’s-to-come-(a16z-big-ideas)-J6_nNjy3al8.transcript.md)
+
 # AI 重塑世界：a16z 对2026年的三大预言
 
 ## 材料信息

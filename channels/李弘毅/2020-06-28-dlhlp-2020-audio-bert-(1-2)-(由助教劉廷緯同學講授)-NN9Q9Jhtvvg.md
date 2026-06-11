@@ -18,6 +18,10 @@ duration: "51:41"
 - **TL;DR:** 语音自监督学习通过CPC、重构及AudioBERT等范式，从无标注数据中学习强大表示，显著提升下游任务性能，尤其Mockingjay在少量数据和对抗防御中表现卓越。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-06-28-dlhlp-2020-audio-bert-(1-2)-(由助教劉廷緯同學講授)-NN9Q9Jhtvvg.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

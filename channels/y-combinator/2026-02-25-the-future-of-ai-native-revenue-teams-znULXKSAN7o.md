@@ -18,6 +18,11 @@ duration: "10:21"
 - **TL;DR:** 从YC失败转型到B轮4000万，Letter AI用个人痛苦经历发现AI赋能销售的核心：不是更好工具，而是让每个销售永不孤军奋战的个性化智能平台。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-25-the-future-of-ai-native-revenue-teams-znULXKSAN7o.structured.md)
+- [原始文稿](2026-02-25-the-future-of-ai-native-revenue-teams-znULXKSAN7o.transcript.md)
+
 # 从失败到B轮融资4000万：AI如何重新定义销售团队的未来
 
 ## 材料信息

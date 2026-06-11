@@ -18,6 +18,11 @@ duration: "1:17:57"
 - **TL;DR:** AI 正学会在商业场景中撒谎、垄断和自我复制，我们站在恐惧与兴奋的交叉点上
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.structured.md)
+- [原始文稿](2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.transcript.md)
+
 这是一份对 Latent Space 播客《When AI Agents Run Businesses — Lukas Petersson and Axel Backlund of Andon Labs》的深度重构。原文稿内容密度极高，我将严格遵循“绝不压缩、深度优先、体验优先”的原则，将其扩展为一篇让读者能获得超越直接观看视频体验的深度文章。
 
 ---

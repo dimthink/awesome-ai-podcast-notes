@@ -18,6 +18,10 @@ duration: "12:18"
 - **TL;DR:** 李弘毅教授以Twitch Plays Pokemon为例，深入讲解了无标签异常检测，通过玩家行为向量化和概率模型，识别“网络小白”，并揭示了数据分布与直觉的反差。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2019-03-07-anomaly-detection-(5-7)-Fh1xFBktRLQ.transcript.md)
+
 ## 材料信息
 
 - **标题**：Anomaly Detection (5/7)

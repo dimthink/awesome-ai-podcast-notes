@@ -18,6 +18,10 @@ duration: "15:00"
 - **TL;DR:** Mockingjay通过双向Transformer编码器和遮蔽重建任务，实现无监督语音表示学习，在低资源场景下性能远超基线。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-05-03-icassp-2020-mockingjay-unsupervised-speech-representation-learning-(speaker-andy-t.-liu)-JlOSyRNFjOw.transcript.md)
+
 **材料信息**
 
 - **标题**：[ICASSP 2020] MOCKINGJAY: UNSUPERVISED SPEECH REPRESENTATION LEARNING (Speaker: Andy T. Liu)

@@ -18,6 +18,11 @@ duration: "55:31"
 - **TL;DR:** 21岁创业者挑战AI产品终极命题：持续学习型Agent将颠覆会话式交互，OS层面观测是实现真正个性化的唯一路径
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-20-【十字路口】人类和-ai-agent-的最佳配合方式,还没被发明-对谈-paperboy-【视频播客】-Kmpj5KUfIew.structured.md)
+- [原始文稿](2026-05-20-【十字路口】人类和-ai-agent-的最佳配合方式,还没被发明-对谈-paperboy-【视频播客】-Kmpj5KUfIew.transcript.md)
+
 # 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
 
 ## 材料信息

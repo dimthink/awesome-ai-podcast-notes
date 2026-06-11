@@ -18,6 +18,10 @@ duration: "57:48"
 - **TL;DR:** 机器终身学习通过赫普理论、知识蒸馏及创新算法，克服灾难性遗忘，虽商业未成熟，但未来潜力巨大。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-07-10-ta-補充課-more-about-lifelong-learning-(由助教楊舒涵同學講授)-SX6_1-mvkWk.transcript.md)
+
 ## 材料信息
 
 - **标题**：[TA 補充課] More about Lifelong Learning (由助教楊舒涵同學講授)

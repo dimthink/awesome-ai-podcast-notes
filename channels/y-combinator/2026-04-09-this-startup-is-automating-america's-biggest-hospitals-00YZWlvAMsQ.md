@@ -18,6 +18,11 @@ duration: "32:52"
 - **TL;DR:** 一个学业不佳的印度少年，用魔方思维和极致野心，从零攻克美国医疗万亿级行政浪费，证明规则之外才是真正的战场
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-09-this-startup-is-automating-america's-biggest-hospitals-00YZWlvAMsQ.structured.md)
+- [原始文稿](2026-04-09-this-startup-is-automating-america's-biggest-hospitals-00YZWlvAMsQ.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

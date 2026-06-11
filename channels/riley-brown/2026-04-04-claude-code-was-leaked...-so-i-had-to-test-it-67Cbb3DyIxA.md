@@ -18,6 +18,11 @@ duration: "17:25"
 - **TL;DR:** 泄露的Claude Code源码被改造成拥有网络梗动词和19岁实习生人格的桌面应用，证明AI Agent可被深度个性化
 - **Rating:** 3
 
+## 版本
+
+- [结构化文稿](2026-04-04-claude-code-was-leaked...-so-i-had-to-test-it-67Cbb3DyIxA.structured.md)
+- [原始文稿](2026-04-04-claude-code-was-leaked...-so-i-had-to-test-it-67Cbb3DyIxA.transcript.md)
+
 # Claude Code Was Leaked… So I Had to Test it
 
 **作者/来源**：Riley Brown (YouTube频道)

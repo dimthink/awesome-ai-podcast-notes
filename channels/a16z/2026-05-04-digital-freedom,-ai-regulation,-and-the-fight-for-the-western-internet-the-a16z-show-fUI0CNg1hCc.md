@@ -18,6 +18,11 @@ duration: "22:55"
 - **TL;DR:** 西方AI栈是21世纪最强大的软实力武器：要么主动塑造其价值观，要么在沉默中失去自由
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-04-digital-freedom,-ai-regulation,-and-the-fight-for-the-western-internet-the-a16z-show-fUI0CNg1hCc.structured.md)
+- [原始文稿](2026-05-04-digital-freedom,-ai-regulation,-and-the-fight-for-the-western-internet-the-a16z-show-fUI0CNg1hCc.transcript.md)
+
 # Digital Freedom, AI Regulation, and the Fight for the Western Internet | The a16z Show
 
 **作者/来源**：a16z (Andreessen Horowitz)

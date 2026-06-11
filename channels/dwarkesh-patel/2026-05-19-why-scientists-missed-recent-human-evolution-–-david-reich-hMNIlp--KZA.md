@@ -18,6 +18,11 @@ duration: "10:53"
 - **TL;DR:** 科学家通过大规模古代DNA样本发现，过去一万年人类基因组经历了“猖獗”的自然选择，彻底颠覆了“自然选择已休眠”的传统观点
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-19-why-scientists-missed-recent-human-evolution-–-david-reich-hMNIlp--KZA.structured.md)
+- [原始文稿](2026-05-19-why-scientists-missed-recent-human-evolution-–-david-reich-hMNIlp--KZA.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

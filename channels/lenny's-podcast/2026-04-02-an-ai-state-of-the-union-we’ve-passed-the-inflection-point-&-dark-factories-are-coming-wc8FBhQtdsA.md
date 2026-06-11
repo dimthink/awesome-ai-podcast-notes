@@ -18,6 +18,11 @@ duration: "1:39:51"
 - **TL;DR:** AI编程拐点已过，价值焦点从编写代码转向系统设计与风险管理，中间层工程师面临最大挑战
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-02-an-ai-state-of-the-union-we’ve-passed-the-inflection-point-&-dark-factories-are-coming-wc8FBhQtdsA.structured.md)
+- [原始文稿](2026-04-02-an-ai-state-of-the-union-we’ve-passed-the-inflection-point-&-dark-factories-are-coming-wc8FBhQtdsA.transcript.md)
+
 # An AI state of the union: We’ve passed the inflection point & dark factories are coming
 
 **作者/来源**: Lenny’s Podcast (嘉宾: Simon Willison)

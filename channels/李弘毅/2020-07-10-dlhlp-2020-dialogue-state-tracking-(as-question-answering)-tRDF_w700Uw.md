@@ -18,6 +18,10 @@ duration: "42:51"
 - **TL;DR:** DST从传统模块化走向QA化，解决了无限值难题并实现零样本学习，最终被端到端大型语言模型颠覆，展现AI任务融会贯通的哲学。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-07-10-dlhlp-2020-dialogue-state-tracking-(as-question-answering)-tRDF_w700Uw.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

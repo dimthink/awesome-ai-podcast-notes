@@ -18,6 +18,11 @@ duration: "34:02"
 - **TL;DR:** 为AI智能体重构Python运行时，在安全与效率间找到新平衡点
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-14-⚡️monty-the-ultrafast-python-interpreter-by-agents-for-agents-—-samuel-colvin,-pydantic-nxnQl4AcqFg.structured.md)
+- [原始文稿](2026-03-14-⚡️monty-the-ultrafast-python-interpreter-by-agents-for-agents-—-samuel-colvin,-pydantic-nxnQl4AcqFg.transcript.md)
+
 # ⚡️Monty：为智能体打造的极速Python解释器
 
 **材料信息**

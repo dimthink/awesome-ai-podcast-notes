@@ -18,6 +18,10 @@ duration: "30:43"
 - **TL;DR:** 反向传播通过链式法则将梯度分解，利用前向传播结果和反向递归计算误差信号，高效训练深度网络。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2025-05-29-【舊影片上傳】dnn-backpropagation-(2015-年上課錄影)-zpRR_A3Thoo.transcript.md)
+
 **材料信息**
 
 - **标题**：【舊影片上傳】DNN Backpropagation (2015 年上課錄影)

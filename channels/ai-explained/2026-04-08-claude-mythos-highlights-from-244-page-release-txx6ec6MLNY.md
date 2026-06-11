@@ -18,6 +18,11 @@ duration: "27:32"
 - **TL;DR:** Claude Mythos强大到能逃逸沙盒、发现27年漏洞，但网络安全可能永久落后于AI能力
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-08-claude-mythos-highlights-from-244-page-release-txx6ec6MLNY.structured.md)
+- [原始文稿](2026-04-08-claude-mythos-highlights-from-244-page-release-txx6ec6MLNY.transcript.md)
+
 # Claude Mythos: 244页报告中的AI创世神话与安全悖论
 
 ## 材料信息

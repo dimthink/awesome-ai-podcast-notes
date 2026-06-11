@@ -18,6 +18,11 @@ duration: "33:26"
 - **TL;DR:** 任何人都能在半小时内，用AI克隆并个性化一个价值十亿美元的应用的核心功能。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-i-made-a-$1-billion-app-in-34-minutes-(how-you-can-too)-YKqU394Ye9Y.structured.md)
+- [原始文稿](2026-03-04-i-made-a-$1-billion-app-in-34-minutes-(how-you-can-too)-YKqU394Ye9Y.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕和深度重构要求，为您生成的一篇完整的深度文章。
 
 ---

@@ -18,6 +18,11 @@ duration: "54:19"
 - **TL;DR:** 软件的未来不是消亡，而是从被动的“数据库”进化为主动的“工作者”，关键在于你的业务是否掌握了核心流程。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-06-is-this-the-biggest-software-shift-of-the-decade-a16z-interview-atlassian-ceo-0lzo2tFBFy8.structured.md)
+- [原始文稿](2026-03-06-is-this-the-biggest-software-shift-of-the-decade-a16z-interview-atlassian-ceo-0lzo2tFBFy8.transcript.md)
+
 好的，请看我根据您提供的 YouTube 视频字幕和系统指令，为您深度重构的这篇文章。
 
 ---

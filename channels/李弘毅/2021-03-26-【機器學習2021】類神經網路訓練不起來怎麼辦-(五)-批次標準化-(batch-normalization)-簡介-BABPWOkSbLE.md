@@ -18,6 +18,10 @@ duration: "30:56"
 - **TL;DR:** Batch Normalization通过标准化网络内部激活值，显著平滑误差曲面，加速训练，提升模型鲁棒性，是深度学习的基石。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-03-26-【機器學習2021】類神經網路訓練不起來怎麼辦-(五)-批次標準化-(batch-normalization)-簡介-BABPWOkSbLE.transcript.md)
+
 **材料信息**
 
 - **标题**：【機器學習2021】類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介

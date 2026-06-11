@@ -18,6 +18,11 @@ duration: "28:50"
 - **TL;DR:** AI 打破了“砸钱无效”和“客户锁定”的旧定律，未来属于解决基础设施瓶颈和身份信任问题的创业者。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-14-ben-horowitz-on-ai-anxiety,-big-tech-transitions-&-the-future-of-startups-a16z-IZDJ3jcO5UY.structured.md)
+- [原始文稿](2026-04-14-ben-horowitz-on-ai-anxiety,-big-tech-transitions-&-the-future-of-startups-a16z-IZDJ3jcO5UY.transcript.md)
+
 # 深度文章：Ben Horowitz 谈 AI 焦虑、大公司转型与创业未来
 
 ## 材料信息

@@ -18,6 +18,11 @@ duration: "40:12"
 - **TL;DR:** 用AI智能体逆向工程爆款，再用AI视觉工具重塑画面，Kova揭秘了一套从分析到制作的全栈创作系统。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-06-the-ai-stack-behind-20m+-views-(full-breakdown)-0b8qQx3FaLE.structured.md)
+- [原始文稿](2026-03-06-the-ai-stack-behind-20m+-views-(full-breakdown)-0b8qQx3FaLE.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕和系统指令生成的深度重构文章。
 
 ---

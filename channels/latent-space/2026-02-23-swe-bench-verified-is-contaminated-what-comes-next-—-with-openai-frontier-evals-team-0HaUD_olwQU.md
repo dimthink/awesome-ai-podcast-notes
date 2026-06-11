@@ -18,6 +18,11 @@ duration: "27:10"
 - **TL;DR:** 当AI能“记住”未来代码，编程基准已死——我们需要能衡量“设计品味”的新标尺。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-23-swe-bench-verified-is-contaminated-what-comes-next-—-with-openai-frontier-evals-team-0HaUD_olwQU.structured.md)
+- [原始文稿](2026-02-23-swe-bench-verified-is-contaminated-what-comes-next-—-with-openai-frontier-evals-team-0HaUD_olwQU.transcript.md)
+
 # 深度重构：当AI benchmarks成为“化石”——OpenAI前沿评估团队谈SWE-Bench Verified的污染与未来
 
 **材料信息**

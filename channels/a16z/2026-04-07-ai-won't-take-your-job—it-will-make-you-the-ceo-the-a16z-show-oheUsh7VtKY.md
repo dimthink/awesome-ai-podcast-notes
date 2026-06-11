@@ -18,6 +18,11 @@ duration: "1:05:45"
 - **TL;DR:** AI不会取代你，而是让你成为CEO——但前提是你要懂得走“长路”，否则捷径只会放大你的无知。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-07-ai-won't-take-your-job—it-will-make-you-the-ceo-the-a16z-show-oheUsh7VtKY.structured.md)
+- [原始文稿](2026-04-07-ai-won't-take-your-job—it-will-make-you-the-ceo-the-a16z-show-oheUsh7VtKY.transcript.md)
+
 # AI Won‘t Take Your Job—It Will Make You the CEO | The a16z Show
 
 **材料信息**

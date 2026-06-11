@@ -18,6 +18,10 @@ duration: "42:56"
 - **TL;DR:** 深度学习泛化能力评估：敏感度衡量鲁棒性，锐度关联损失曲面平坦度，但最新研究颠覆传统认知，理论仍在高速演进。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-03-24-deep-learning-theory-3-2-indicator-of-generalization-pivB5jEBOQw.transcript.md)
+
 ## 内容深度重构与阐述
 
 **材料信息**

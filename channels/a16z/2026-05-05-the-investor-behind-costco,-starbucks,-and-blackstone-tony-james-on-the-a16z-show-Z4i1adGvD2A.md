@@ -18,6 +18,11 @@ duration: "1:23:23"
 - **TL;DR:** 把公司（与个人职业）建造成一台拥有集体智慧的永动机；真正的护城河不是资产规模，而是对抗人性弱点与拥抱非结构化机会的组织能力。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-05-the-investor-behind-costco,-starbucks,-and-blackstone-tony-james-on-the-a16z-show-Z4i1adGvD2A.structured.md)
+- [原始文稿](2026-05-05-the-investor-behind-costco,-starbucks,-and-blackstone-tony-james-on-the-a16z-show-Z4i1adGvD2A.transcript.md)
+
 好的，我将严格按照您的要求，对这份关于Tony James的深度访谈内容进行重构与阐述。
 
 ---

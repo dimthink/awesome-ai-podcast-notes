@@ -18,6 +18,11 @@ duration: "15:04"
 - **TL;DR:** AutoGen让你用Python轻松构建多AI代理团队，通过配置模型、创建代理、定义任务，实现从代码生成到文件操作的自动化协作。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2023-10-10-autogen-full-tutorial-with-python-(step-by-step)-🤯-build-ai-agent-teams!-V2qZ_lgxTzg.structured.md)
+- [原始文稿](2023-10-10-autogen-full-tutorial-with-python-(step-by-step)-🤯-build-ai-agent-teams!-V2qZ_lgxTzg.transcript.md)
+
 # AutoGen 完全教程：用 Python 搭建你的 AI 代理团队
 
 想象一下，你能够组建一支由多个 AI 智能体组成的团队，它们可以相互协作、编写代码、执行任务，就像 ChatGPT、代码解释器和插件的结合体，而且完全可定制化——你可以为每个代理赋予不同的角色（比如 CEO、CTO、数据分析师），让它们像人类团队一样分工合作，完成你下达的任何复杂指令。这不再是科幻电影中的场景，而是微软开源的 AutoGen 框架带给我们的现实。

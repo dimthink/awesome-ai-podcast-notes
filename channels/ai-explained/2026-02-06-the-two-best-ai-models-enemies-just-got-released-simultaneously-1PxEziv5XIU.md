@@ -13,6 +13,10 @@ duration: "19:50"
 - **Published:** 2026-02-06
 - **Source:** https://www.youtube.com/watch?v=1PxEziv5XIU
 
+## 版本
+
+- [原始文稿](2026-02-06-the-two-best-ai-models-enemies-just-got-released-simultaneously-1PxEziv5XIU.transcript.md)
+
 ## 深度重构文章：AI双雄争霸：Claude Opus 4.6与GPT 5.3 Codecs的深度解析与未来展望
 
 **材料信息**

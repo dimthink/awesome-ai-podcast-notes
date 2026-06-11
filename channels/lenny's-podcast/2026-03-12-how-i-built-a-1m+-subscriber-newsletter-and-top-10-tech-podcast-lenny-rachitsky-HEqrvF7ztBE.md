@@ -18,6 +18,11 @@ duration: "1:06:54"
 - **TL;DR:** Lenny Rachitsky首次由妻子Michelle访谈，坦诚分享从Airbnb产品经理到顶级创作者的心路历程，揭示成功背后的个人故事、心理修炼与创作哲学。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-12-how-i-built-a-1m+-subscriber-newsletter-and-top-10-tech-podcast-lenny-rachitsky-HEqrvF7ztBE.structured.md)
+- [原始文稿](2026-03-12-how-i-built-a-1m+-subscriber-newsletter-and-top-10-tech-podcast-lenny-rachitsky-HEqrvF7ztBE.transcript.md)
+
 # 从产品经理到百万订阅：Lenny Rachitsky的创作者之路与心灵秘境
 
 **材料信息**

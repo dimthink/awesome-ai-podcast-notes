@@ -18,6 +18,10 @@ duration: "12:58"
 - **TL;DR:** 线性系统与多元一次联立方程式完全等价，通过标准单位向量和线性性质可严谨证明。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-09-19-線性代數-線性系統-=-線性方程組-(system-of-linear-equations)-Ww3eAfLZjME.transcript.md)
+
 **材料信息**
 
 - **标题**：[線性代數] 線性系統 = 線性方程組 (System of Linear Equations)

@@ -13,6 +13,10 @@ duration: "55:31"
 - **Published:** 2026-02-19
 - **Source:** https://www.youtube.com/watch?v=p1k7TiAFqdE
 
+## 版本
+
+- [原始文稿](2026-02-19-inside-ai’s-$10b+-capital-flywheel-—-martin-casado-&-sarah-wang-of-a16z-p1k7TiAFqdE.transcript.md)
+
 **材料信息**
 
 - **标题**：Inside AI’s $10B+ Capital Flywheel — Martin Casado & Sarah Wang of a16z

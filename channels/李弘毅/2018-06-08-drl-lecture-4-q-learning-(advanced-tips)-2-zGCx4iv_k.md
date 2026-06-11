@@ -18,6 +18,10 @@ duration: "38:31"
 - **TL;DR:** 李弘毅教授深入剖析Q-learning六大进阶技巧，从解决高估到智能探索，最终整合为Rainbow DQN，实现性能飞跃并揭示技巧间协同与冗余。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-06-08-drl-lecture-4-q-learning-(advanced-tips)-2-zGCx4iv_k.transcript.md)
+
 ## 材料信息
 
 - **标题**：DRL Lecture 4: Q-learning (Advanced Tips)

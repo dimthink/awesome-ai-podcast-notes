@@ -18,6 +18,10 @@ duration: "46:40"
 - **TL;DR:** WGAN通过引入Wasserstein距离和1-Lipschitz约束，解决了传统GAN中JS散度导致的训练不稳定和梯度消失问题，实现了更稳定、可控的生成模型训练。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-09-【機器學習2021】生成式對抗網路-(generative-adversarial-network,-gan)-(二)-–-理論介紹與wgan-jNY1WBb8l4U.transcript.md)
+
 ## 材料信息
 
 - **标题**：【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (二) – 理論介紹與WGAN

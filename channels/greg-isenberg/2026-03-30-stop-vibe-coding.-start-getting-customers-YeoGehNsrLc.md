@@ -18,6 +18,11 @@ duration: "27:19"
 - **TL;DR:** AI时代，代码已非护城河，精通分发、获取客户的能力才是未来十年创造财富的关键。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-30-stop-vibe-coding.-start-getting-customers-YeoGehNsrLc.structured.md)
+- [原始文稿](2026-03-30-stop-vibe-coding.-start-getting-customers-YeoGehNsrLc.transcript.md)
+
 好的，我将遵循您的指令，对Greg Isenberg的YouTube视频“Stop Vibe Coding. Start Getting Customers.”进行深度重构，输出一篇完整的深度文章。
 
 ---

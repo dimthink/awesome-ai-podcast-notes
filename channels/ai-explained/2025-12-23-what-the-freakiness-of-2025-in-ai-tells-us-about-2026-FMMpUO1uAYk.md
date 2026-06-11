@@ -13,6 +13,10 @@ duration: "33:27"
 - **Published:** 2025-12-23
 - **Source:** https://www.youtube.com/watch?v=FMMpUO1uAYk
 
+## 版本
+
+- [原始文稿](2025-12-23-what-the-freakiness-of-2025-in-ai-tells-us-about-2026-FMMpUO1uAYk.transcript.md)
+
 ## 深度重构文章：2025年AI的奇特进展与2026年的展望
 
 **材料信息**

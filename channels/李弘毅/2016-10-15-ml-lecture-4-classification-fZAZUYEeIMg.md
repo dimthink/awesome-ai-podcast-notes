@@ -18,6 +18,10 @@ duration: "1:09:41"
 - **TL;DR:** 李弘毅教授通过宝可梦分类案例，深入讲解了生成式概率模型，从数据数值化、高斯分布假设、最大似然估计到共享协方差矩阵的优化，并揭示其与线性分类器的内在联系，为判别式模型铺垫。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-10-15-ml-lecture-4-classification-fZAZUYEeIMg.transcript.md)
+
 ## 材料信息
 
 - **标题**：ML Lecture 4: Classification

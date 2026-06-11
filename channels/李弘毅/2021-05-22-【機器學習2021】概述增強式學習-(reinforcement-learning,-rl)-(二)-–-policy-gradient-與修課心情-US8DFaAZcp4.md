@@ -18,6 +18,10 @@ duration: "41:14"
 - **TL;DR:** 策略梯度通过迭代优化动作评估，从即时奖励到折扣累积奖励与基线，克服短视与归因问题，并强调探索与On-policy数据重采样的挑战。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-22-【機器學習2021】概述增強式學習-(reinforcement-learning,-rl)-(二)-–-policy-gradient-與修課心情-US8DFaAZcp4.transcript.md)
+
 ## 材料信息
 
 - **标题**：【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (二) – Policy Gradient 與修課心情

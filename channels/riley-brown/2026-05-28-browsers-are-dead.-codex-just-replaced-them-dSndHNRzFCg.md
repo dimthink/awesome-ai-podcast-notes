@@ -18,6 +18,11 @@ duration: "16:15"
 - **TL;DR:** 浏览器标签页模式即将终结，AI代理驱动的超级应用将成为知识工作的新主界面
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-28-browsers-are-dead.-codex-just-replaced-them-dSndHNRzFCg.structured.md)
+- [原始文稿](2026-05-28-browsers-are-dead.-codex-just-replaced-them-dSndHNRzFCg.transcript.md)
+
 # Browsers Are Dead. Codex Just Replaced Them.
 
 - **作者/来源**: Riley Brown (YouTube频道)

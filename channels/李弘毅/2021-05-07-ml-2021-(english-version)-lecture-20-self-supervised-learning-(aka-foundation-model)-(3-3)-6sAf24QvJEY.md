@@ -18,6 +18,10 @@ duration: "17:10"
 - **TL;DR:** GPT通过预测下一个词元实现文本生成，并以上下文学习范式在多模态领域展现自监督学习的无限潜力。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-07-ml-2021-(english-version)-lecture-20-self-supervised-learning-(aka-foundation-model)-(3-3)-6sAf24QvJEY.transcript.md)
+
 # 深度解析：自监督学习的未来——从GPT到跨模态的统一范式
 
 ## 材料信息

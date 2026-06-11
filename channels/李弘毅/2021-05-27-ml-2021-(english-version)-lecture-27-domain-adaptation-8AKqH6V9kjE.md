@@ -18,6 +18,10 @@ duration: "36:06"
 - **TL;DR:** 领域适应通过对抗训练使模型学习领域不变特征，解决训练与测试数据分布不一致问题，显著提升模型泛化能力。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-27-ml-2021-(english-version)-lecture-27-domain-adaptation-8AKqH6V9kjE.transcript.md)
+
 **材料信息**
 
 - **标题**：[ML 2021 (English version)] Lecture 27: Domain Adaptation

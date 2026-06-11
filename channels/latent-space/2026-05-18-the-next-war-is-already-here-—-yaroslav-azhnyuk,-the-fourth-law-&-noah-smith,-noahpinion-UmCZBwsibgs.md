@@ -18,6 +18,11 @@ duration: "1:59:29"
 - **TL;DR:** 乌克兰实战证明：500美元自主无人机正取代500万美元坦克；中国40亿产能暗示西方必须立即行动，否则将输掉下一场战争
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-18-the-next-war-is-already-here-—-yaroslav-azhnyuk,-the-fourth-law-&-noah-smith,-noahpinion-UmCZBwsibgs.structured.md)
+- [原始文稿](2026-05-18-the-next-war-is-already-here-—-yaroslav-azhnyuk,-the-fourth-law-&-noah-smith,-noahpinion-UmCZBwsibgs.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

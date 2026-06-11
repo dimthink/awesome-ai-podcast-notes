@@ -18,6 +18,11 @@ duration: "1:36:17"
 - **TL;DR:** 用金融思维管理公司：追求高Alpha，用流程降Beta，并认清生命短暂，才能全情投入这场商业游戏。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-04-“i-deliberately-understaff-every-project”-leadership-lessons-from-rippling’s-$16b-journey-O_W76LR77Vw.structured.md)
+- [原始文稿](2026-03-04-“i-deliberately-understaff-every-project”-leadership-lessons-from-rippling’s-$16b-journey-O_W76LR77Vw.transcript.md)
+
 好的，以下是根据您提供的 YouTube 视频字幕，并遵循您设定的系统指令，所生成的深度重构文章。
 
 ### 材料信息

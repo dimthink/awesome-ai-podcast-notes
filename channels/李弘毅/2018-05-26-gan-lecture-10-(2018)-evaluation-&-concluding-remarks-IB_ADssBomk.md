@@ -18,6 +18,10 @@ duration: "30:09"
 - **TL;DR:** GAN评估面临似然度困境，Inception Score兼顾质量与多样性，但记忆化和模式崩溃仍是挑战，GANs正以数百种变体蓬勃发展。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-05-26-gan-lecture-10-(2018)-evaluation-&-concluding-remarks-IB_ADssBomk.transcript.md)
+
 ## 材料信息
 
 - **标题**：GAN Lecture 10 (2018): Evaluation & Concluding Remarks

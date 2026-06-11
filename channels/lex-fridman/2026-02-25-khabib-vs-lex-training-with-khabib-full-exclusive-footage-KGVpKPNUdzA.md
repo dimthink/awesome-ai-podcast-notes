@@ -18,6 +18,11 @@ duration: "22:09"
 - **TL;DR:** 与“雄鹰”卡比布同笼，你感受到的不是技巧，而是被“精神粉碎”前的永恒压迫
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-25-khabib-vs-lex-training-with-khabib-full-exclusive-footage-KGVpKPNUdzA.structured.md)
+- [原始文稿](2026-02-25-khabib-vs-lex-training-with-khabib-full-exclusive-footage-KGVpKPNUdzA.transcript.md)
+
 # 与“雄狮”同笼：在卡比布的压迫下，我看见了格斗的真相
 
 ## 材料信息

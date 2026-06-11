@@ -18,6 +18,11 @@ duration: "46:31"
 - **TL;DR:** 旧媒体防御，新媒体进攻。用有趣的长内容淹没噪音，让真实的“人”而非“品牌”成为沟通的核心。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-18-inside-the-new-media-team-with-marc-andreessen-&-ben-horowitz-CEOiwEemiTA.structured.md)
+- [原始文稿](2026-03-18-inside-the-new-media-team-with-marc-andreessen-&-ben-horowitz-CEOiwEemiTA.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕和指定的输出结构，为您深度重构的文章。
 
 ---

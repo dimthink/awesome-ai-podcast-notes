@@ -18,6 +18,10 @@ duration: "1:00:34"
 - **TL;DR:** Transformer Decoder通过自回归、Masked Attention和Cross Attention实现高效序列生成，并辅以多种训练技巧应对挑战。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-09-【機器學習2021】transformer-(下)-N6aRv06iv2g.transcript.md)
+
 ## 材料信息
 
 - **标题**：【機器學習2021】Transformer (下)

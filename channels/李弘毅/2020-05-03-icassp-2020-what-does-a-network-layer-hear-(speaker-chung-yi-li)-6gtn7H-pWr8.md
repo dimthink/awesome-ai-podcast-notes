@@ -18,6 +18,10 @@ duration: "13:30"
 - **TL;DR:** 本研究提出通过“听觉化”ASR隐藏状态来直观理解模型内部信息流，揭示其如何逐步过滤说话人身份和噪声，且与现有文献高度一致。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-05-03-icassp-2020-what-does-a-network-layer-hear-(speaker-chung-yi-li)-6gtn7H-pWr8.transcript.md)
+
 ## 材料信息
 
 - **标题**：[ICASSP 2020] WHAT DOES A NETWORK LAYER HEAR? (Speaker: Chung-Yi Li)

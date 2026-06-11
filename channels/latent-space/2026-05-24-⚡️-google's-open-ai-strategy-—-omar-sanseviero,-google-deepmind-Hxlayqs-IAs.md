@@ -18,6 +18,11 @@ duration: "29:59"
 - **TL;DR:** Gemma 4 不仅是模型迭代，更是 Google 将前沿 AI 从云端下沉到口袋的战略蓝图，它重新定义了“开源”与“工程师”的价值。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-24-⚡️-google's-open-ai-strategy-—-omar-sanseviero,-google-deepmind-Hxlayqs-IAs.structured.md)
+- [原始文稿](2026-05-24-⚡️-google's-open-ai-strategy-—-omar-sanseviero,-google-deepmind-Hxlayqs-IAs.transcript.md)
+
 # 方寸之间的野望：与 Google DeepMind Omar Sanseviero 漫谈 Gemma 4、开放策略与手机上的智能体革命
 
 ---

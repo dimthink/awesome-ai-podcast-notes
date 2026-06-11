@@ -18,6 +18,11 @@ duration: "13:40"
 - **TL;DR:** AI公司面临政府强制开放模型用于自主武器和监控的最后通牒，技术不可靠性与伦理原则成为最后的防线
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-27-deadline-day-for-autonomous-ai-weapons-&-mass-surveillance-Cru804JMjPI.structured.md)
+- [原始文稿](2026-02-27-deadline-day-for-autonomous-ai-weapons-&-mass-surveillance-Cru804JMjPI.transcript.md)
+
 # 当AI武器化遇上最后期限：一场关于伦理、权力与未来的终极博弈
 
 ## 材料信息

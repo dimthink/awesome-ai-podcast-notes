@@ -18,6 +18,10 @@ duration: "1:02:24"
 - **TL;DR:** 本文深度剖析Transformer解码器，从自回归机制、掩码自注意力到非自回归并行化，并详细阐述了教师强制、束搜索、复制机制、引导注意力及暴露偏差等训练优化策略。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-16-ml-2021-(english-version)-lecture-13-transformer-(2-2)-fPTj5Zh1ACo.transcript.md)
+
 ## 材料信息
 
 - **标题**：[ML 2021 (English version)] Lecture 13: Transformer (2/2)

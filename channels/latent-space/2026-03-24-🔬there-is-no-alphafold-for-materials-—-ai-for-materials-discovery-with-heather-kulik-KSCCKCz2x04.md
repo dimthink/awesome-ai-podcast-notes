@@ -18,6 +18,11 @@ duration: "35:15"
 - **TL;DR:** 材料科学没有自己的AlphaFold，AI在此领域的成功依赖于高质量数据、深厚的化学知识以及对物理世界的深刻理解，而非单纯追求模型复杂度。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-24-🔬there-is-no-alphafold-for-materials-—-ai-for-materials-discovery-with-heather-kulik-KSCCKCz2x04.structured.md)
+- [原始文稿](2026-03-24-🔬there-is-no-alphafold-for-materials-—-ai-for-materials-discovery-with-heather-kulik-KSCCKCz2x04.transcript.md)
+
 好的，遵照您的指示，我将对这份YouTube视频内容进行深度重构，将其转化为一篇完整的深度文章，力求让读者获得超越原始材料本身的、更丰富、更深刻的理解体验。
 
 ### **材料信息**

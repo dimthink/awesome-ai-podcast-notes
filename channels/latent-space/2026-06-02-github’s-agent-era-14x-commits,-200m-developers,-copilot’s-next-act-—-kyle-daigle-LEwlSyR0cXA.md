@@ -18,6 +18,11 @@ duration: "1:24:44"
 - **TL;DR:** 14x 提交量的背后：GitHub COO 拆解 AI 时代的基础设施修罗场、微技能革命与人类的终极信任。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-06-02-github’s-agent-era-14x-commits,-200m-developers,-copilot’s-next-act-—-kyle-daigle-LEwlSyR0cXA.structured.md)
+- [原始文稿](2026-06-02-github’s-agent-era-14x-commits,-200m-developers,-copilot’s-next-act-—-kyle-daigle-LEwlSyR0cXA.transcript.md)
+
 好的，这里是根据您提供的深度重构系统指令，基于 Kyle Daigle 对谈内容生成的完整文章。
 
 ## 材料信息

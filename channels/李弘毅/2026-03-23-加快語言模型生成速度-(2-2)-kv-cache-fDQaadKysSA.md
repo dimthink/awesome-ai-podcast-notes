@@ -18,6 +18,11 @@ duration: "38:34"
 - **TL;DR:** KV Cache是LLM推理加速的关键，它以巨大内存消耗为代价。本文详解了GQA、MLA等旨在“扩容”内存的优化技术，并揭示了如何通过巧妙的Prompt设计，利用API的缓存计费模式来“省钱”。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-23-加快語言模型生成速度-(2-2)-kv-cache-fDQaadKysSA.structured.md)
+- [原始文稿](2026-03-23-加快語言模型生成速度-(2-2)-kv-cache-fDQaadKysSA.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕内容，进行深度重构后生成的完整文章。
 
 # 缓存即金钱：深度解析LLM推理加速的核心——KV Cache

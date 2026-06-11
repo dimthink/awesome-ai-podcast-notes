@@ -18,6 +18,11 @@ duration: "1:09:45"
 - **TL;DR:** AI应用层的真正机会不在于复制现有软件，而在于创造能够替代劳动力的全新产品类别，以及构建基于专有数据的"围墙花园"。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-the-ai-opportunity-that-goes-beyond-models-3XVDtPU8xKE.structured.md)
+- [原始文稿](2026-03-04-the-ai-opportunity-that-goes-beyond-models-3XVDtPU8xKE.transcript.md)
+
 好的，以下是根据您提供的 YouTube 视频字幕内容，按照系统指令中的输出结构和写作要求，生成的深度重构文章。
 
 ---

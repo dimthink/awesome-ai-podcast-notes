@@ -16,6 +16,11 @@ duration: "1:01:56"
 - **Source:** https://www.youtube.com/watch?v=MnCwXJnMgdk
 - **TL;DR:** 想象一下，如果你能拥有一个全天候的创意伙伴，它能帮你构思视频主题、模仿你的写作风格、瞬间生成专业级图像、编辑视频、制作电影配乐，甚至在你只需描述想法时就为你构建一个完整的手机应用——而这一切，几乎不需要你具备任何编程或设计背景。
 
+## 版本
+
+- [结构化文稿](2026-03-04-50-amazing-ai-uses-(that-will-feel-like-you’re-cheating)-MnCwXJnMgdk.structured.md)
+- [原始文稿](2026-03-04-50-amazing-ai-uses-(that-will-feel-like-you’re-cheating)-MnCwXJnMgdk.transcript.md)
+
 # 50种AI创意应用：从日常效率到构建完整应用的终极指南
 
 ## 材料信息

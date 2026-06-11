@@ -18,6 +18,11 @@ duration: "24:42"
 - **TL;DR:** Codex Sites 不是建站工具，而是让 AI 代理持续运营你产品的操作系统
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-04-openai-codex-build-apps-that-work-for-you-24-7-tUeSxXHmE9w.structured.md)
+- [原始文稿](2026-06-04-openai-codex-build-apps-that-work-for-you-24-7-tUeSxXHmE9w.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 核心使命

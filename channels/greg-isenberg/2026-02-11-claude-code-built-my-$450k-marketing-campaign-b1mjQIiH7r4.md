@@ -13,6 +13,10 @@ duration: "44:46"
 - **Published:** 2026-02-11
 - **Source:** https://www.youtube.com/watch?v=b1mjQIiH7r4
 
+## 版本
+
+- [原始文稿](2026-02-11-claude-code-built-my-$450k-marketing-campaign-b1mjQIiH7r4.transcript.md)
+
 ## 深度重构文章：Claude Code 助力我打造 45 万美元营销战役
 
 **材料信息**

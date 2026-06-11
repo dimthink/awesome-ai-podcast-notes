@@ -18,6 +18,10 @@ duration: "23:41"
 - **TL;DR:** Cycle GAN通过双向生成器和循环一致性，在无成对数据下实现图像、文本、语音等模态的风格转换，突破数据标注瓶颈。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-16-【機器學習2021】生成式對抗網路-(generative-adversarial-network,-gan)-(四)-–-cycle-gan-wulqhgnDr7E.transcript.md)
+
 ## 材料信息
 
 - **标题**：【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (四) – Cycle GAN

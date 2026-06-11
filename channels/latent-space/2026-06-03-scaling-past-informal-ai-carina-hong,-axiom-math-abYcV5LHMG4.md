@@ -18,6 +18,11 @@ duration: "1:33:04"
 - **TL;DR:** 形式验证的真正价值不是消除错误，而是通过形式化信号的清洁递归分解，指数级放大AI推理能力，这是通往超级智能的唯一路径
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-03-scaling-past-informal-ai-carina-hong,-axiom-math-abYcV5LHMG4.structured.md)
+- [原始文稿](2026-06-03-scaling-past-informal-ai-carina-hong,-axiom-math-abYcV5LHMG4.transcript.md)
+
 # Scaling Past Informal AI：形式验证不是防错剂，而是超级智能的放大器
 
 ## 材料信息

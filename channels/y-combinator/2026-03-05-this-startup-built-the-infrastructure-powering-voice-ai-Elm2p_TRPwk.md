@@ -18,6 +18,11 @@ duration: "53:01"
 - **TL;DR:** 七年蛰伏，一朝爆发：语音AI基建的孤独长征与指数级增长启示录
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-05-this-startup-built-the-infrastructure-powering-voice-ai-Elm2p_TRPwk.structured.md)
+- [原始文稿](2026-03-05-this-startup-built-the-infrastructure-powering-voice-ai-Elm2p_TRPwk.transcript.md)
+
 好的，我将严格遵循您的系统指令，对这份Y Combinator对AssemblyAI创始人的访谈视频字幕进行深度重构，力求让读者获得超越观看原始视频的深刻理解与沉浸体验。
 
 ---

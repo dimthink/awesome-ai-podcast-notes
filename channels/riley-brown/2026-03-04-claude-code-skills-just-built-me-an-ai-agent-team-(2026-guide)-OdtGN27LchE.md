@@ -18,6 +18,11 @@ duration: "27:21"
 - **TL;DR:** 用 Claude Skills 将通用 AI 代理转化为你的专属自动化团队，从笔记到发布全程无人干预。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-claude-code-skills-just-built-me-an-ai-agent-team-(2026-guide)-OdtGN27LchE.structured.md)
+- [原始文稿](2026-03-04-claude-code-skills-just-built-me-an-ai-agent-team-(2026-guide)-OdtGN27LchE.transcript.md)
+
 # 从编码代理到智能团队：用 Claude Skills 打造你的 AI 自动化流水线
 
 **材料信息**

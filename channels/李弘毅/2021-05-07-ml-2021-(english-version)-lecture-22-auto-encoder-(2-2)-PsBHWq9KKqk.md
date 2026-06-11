@@ -18,6 +18,10 @@ duration: "31:27"
 - **TL;DR:** 自编码器超越重构，通过特征解耦、离散表示和重构损失，实现语音转换、无监督分类和异常检测等高级应用。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-05-07-ml-2021-(english-version)-lecture-22-auto-encoder-(2-2)-PsBHWq9KKqk.transcript.md)
+
 ## 材料信息
 
 - **标题**：[ML 2021 (English version)] Lecture 22: Auto-encoder (2/2)

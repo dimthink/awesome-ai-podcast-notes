@@ -18,6 +18,11 @@ duration: "1:27:23"
 - **TL;DR:** AI 不是来抢工作的，而是来填补人口下滑导致的人力空缺，关乎人类存亡。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-02-26-ai-is-critical-for-humanity’s-survival-cisco-president-on-the-ai-revolution-jeetu-patel-ylNKlBlkFas.structured.md)
+- [原始文稿](2026-02-26-ai-is-critical-for-humanity’s-survival-cisco-president-on-the-ai-revolution-jeetu-patel-ylNKlBlkFas.transcript.md)
+
 # AI 是关乎人类存亡的关键：Cisco 总裁谈人工智能革命
 
 **材料信息**

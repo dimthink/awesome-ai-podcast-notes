@@ -18,6 +18,10 @@ duration: "32:28"
 - **TL;DR:** VoiceCraft通过NCLM和CM3创新，实现零样本语音编辑和TTS，生成自然语音，并揭示评估指标挑战。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2024-12-14-voicecraft-zero-shot-speech-editing-and-tts-in-the-wild-shang-wen-li-(meta)-JidtdZVtpkI.transcript.md)
+
 ## 深度重构文章：VoiceCraft：野外零样本语音编辑与文本转语音的突破
 
 ### 材料信息

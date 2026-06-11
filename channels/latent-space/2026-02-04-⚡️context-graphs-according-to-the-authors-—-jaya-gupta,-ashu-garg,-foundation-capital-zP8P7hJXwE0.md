@@ -13,6 +13,10 @@ duration: "33:44"
 - **Published:** 2026-02-04
 - **Source:** https://www.youtube.com/watch?v=zP8P7hJXwE0
 
+## 版本
+
+- [原始文稿](2026-02-04-⚡️context-graphs-according-to-the-authors-—-jaya-gupta,-ashu-garg,-foundation-capital-zP8P7hJXwE0.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

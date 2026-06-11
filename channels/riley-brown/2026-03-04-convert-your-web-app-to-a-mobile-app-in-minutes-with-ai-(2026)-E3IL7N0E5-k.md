@@ -18,6 +18,11 @@ duration: "17:55"
 - **TL;DR:** AI将开发从“写代码”变为“聊设计”，一个人几十分钟即可完成App从构思到上架的全流程。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-convert-your-web-app-to-a-mobile-app-in-minutes-with-ai-(2026)-E3IL7N0E5-k.structured.md)
+- [原始文稿](2026-03-04-convert-your-web-app-to-a-mobile-app-in-minutes-with-ai-(2026)-E3IL7N0E5-k.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和系统指令，进行深度重构后生成的文章。
 
 ---

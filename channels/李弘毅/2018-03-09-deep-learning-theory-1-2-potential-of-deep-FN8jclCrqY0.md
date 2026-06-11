@@ -18,6 +18,10 @@ duration: "56:10"
 - **TL;DR:** 深度的优势在于用层次复用把逼近复杂度从多项式压到对数级，形成指数差距。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-03-09-deep-learning-theory-1-2-potential-of-deep-FN8jclCrqY0.transcript.md)
+
 **材料信息**
 
 - **标题**：Deep Learning Theory 1-2: Potential of Deep

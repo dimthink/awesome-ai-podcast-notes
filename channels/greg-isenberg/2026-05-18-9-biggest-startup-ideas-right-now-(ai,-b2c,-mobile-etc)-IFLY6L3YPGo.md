@@ -18,6 +18,11 @@ duration: "1:08:23"
 - **TL;DR:** 在最拥挤的AI赛道中，真正的机会藏在“反AI的真实连接”和“为被忽视人群（长者、特定患者、中年爸爸）提供垂直方案”里
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-18-9-biggest-startup-ideas-right-now-(ai,-b2c,-mobile-etc)-IFLY6L3YPGo.structured.md)
+- [原始文稿](2026-05-18-9-biggest-startup-ideas-right-now-(ai,-b2c,-mobile-etc)-IFLY6L3YPGo.transcript.md)
+
 # 从零到一：2024年最值得押注的9大创业机遇
 
 ## 材料信息

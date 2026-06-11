@@ -18,6 +18,11 @@ duration: "1:24:24"
 - **TL;DR:** 真正的AI革命不是取代人类，而是悄无声息地进入你身边的每一台机器，在无人知晓处创造安全与富足。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-08-the-most-successful-ai-company-you’ve-never-heard-of-qasar-younis-_rcniEb9bLw.structured.md)
+- [原始文稿](2026-03-08-the-most-successful-ai-company-you’ve-never-heard-of-qasar-younis-_rcniEb9bLw.transcript.md)
+
 # 隐形冠军CEO的告白：成功不是被看见，而是做对事
 
 **材料信息**

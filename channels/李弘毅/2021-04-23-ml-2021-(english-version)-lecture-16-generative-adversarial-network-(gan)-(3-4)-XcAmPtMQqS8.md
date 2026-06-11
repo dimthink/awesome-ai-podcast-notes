@@ -18,6 +18,10 @@ duration: "50:41"
 - **TL;DR:** 本文深度解析李宏毅教授的GAN课程，涵盖GAN训练挑战、文本生成困境与突破、评估指标（IS、FID）的演变及局限，以及条件生成GAN（cGAN）在图像到图像翻译和多模态生成中的广泛应用。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-04-23-ml-2021-(english-version)-lecture-16-generative-adversarial-network-(gan)-(3-4)-XcAmPtMQqS8.transcript.md)
+
 # 深度解析李宏毅教授的GAN系列课程：生成对抗网络的挑战、评估与条件生成
 
 ## 材料信息

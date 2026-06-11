@@ -18,6 +18,11 @@ duration: "31:09"
 - **TL;DR:** 2026年AI编码工具趋同于“超级应用”，真正的胜负手在于模型成本优势与生态集成，而个人应通过文档化工作流程构建可迁移的代理系统。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-17-how-i’m-coding-in-2026-(the-super-app-strategy)-xDARu4U8_X0.structured.md)
+- [原始文稿](2026-04-17-how-i’m-coding-in-2026-(the-super-app-strategy)-xDARu4U8_X0.transcript.md)
+
 # 深度重构：2026年的AI编码革命——超级应用策略
 
 ## 材料信息

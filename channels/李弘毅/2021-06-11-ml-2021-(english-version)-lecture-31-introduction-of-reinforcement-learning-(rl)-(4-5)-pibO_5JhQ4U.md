@@ -18,6 +18,10 @@ duration: "16:44"
 - **TL;DR:** 奖励塑形通过引入辅助奖励解决强化学习稀疏奖励问题，需领域知识精巧设计，甚至可利用好奇心驱动机器自主探索。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-11-ml-2021-(english-version)-lecture-31-introduction-of-reinforcement-learning-(rl)-(4-5)-pibO_5JhQ4U.transcript.md)
+
 # 深度解析：稀疏奖励下的强化学习导航术——奖励塑形与好奇心驱动
 
 ## 材料信息

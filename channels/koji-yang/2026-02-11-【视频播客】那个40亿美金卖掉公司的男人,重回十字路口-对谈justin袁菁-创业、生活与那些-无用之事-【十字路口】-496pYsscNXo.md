@@ -13,6 +13,10 @@ duration: "1:13:13"
 - **Published:** 2026-02-11
 - **Source:** https://www.youtube.com/watch?v=496pYsscNXo
 
+## 版本
+
+- [原始文稿](2026-02-11-【视频播客】那个40亿美金卖掉公司的男人,重回十字路口-对谈justin袁菁-创业、生活与那些-无用之事-【十字路口】-496pYsscNXo.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 核心使命

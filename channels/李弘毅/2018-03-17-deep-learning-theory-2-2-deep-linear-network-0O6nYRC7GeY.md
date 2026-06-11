@@ -18,6 +18,10 @@ duration: "31:29"
 - **TL;DR:** 深度线性网络虽线性，其损失函数却非凸，存在鞍点和全局最小值流形，深层网络更易陷于平坦鞍点，初始化至关重要。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-03-17-deep-learning-theory-2-2-deep-linear-network-0O6nYRC7GeY.transcript.md)
+
 **材料信息**
 
 - **标题**：Deep Learning Theory 2-2: Deep Linear Network

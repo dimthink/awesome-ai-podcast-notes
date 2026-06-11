@@ -18,6 +18,11 @@ duration: "1:46:04"
 - **TL;DR:** 增长停滞？用四问诊断法：客户流失率、定价、NRR、渠道饱和，最后问自己是否真需要增长。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-the-surprising-advice-from-a-founder-who-built-2-unicorns-jason-cohen-(wp-engine)-8xLquwfx6p0.structured.md)
+- [原始文稿](2026-03-04-the-surprising-advice-from-a-founder-who-built-2-unicorns-jason-cohen-(wp-engine)-8xLquwfx6p0.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

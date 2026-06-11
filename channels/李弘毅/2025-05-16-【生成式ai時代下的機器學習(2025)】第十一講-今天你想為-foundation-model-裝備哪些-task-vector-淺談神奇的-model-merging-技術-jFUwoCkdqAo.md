@@ -18,6 +18,10 @@ duration: "34:20"
 - **TL;DR:** 模型合并通过任务向量加减，无需训练即可叠加、移除或创造AI能力，预示着AI能力商店的全新生态。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2025-05-16-【生成式ai時代下的機器學習(2025)】第十一講-今天你想為-foundation-model-裝備哪些-task-vector-淺談神奇的-model-merging-技術-jFUwoCkdqAo.transcript.md)
+
 **材料信息**
 
 - **标题**：【生成式AI時代下的機器學習(2025)】第十一講：今天你想為 Foundation Model 裝備哪些 Task Vector？淺談神奇的 Model Merging 技術

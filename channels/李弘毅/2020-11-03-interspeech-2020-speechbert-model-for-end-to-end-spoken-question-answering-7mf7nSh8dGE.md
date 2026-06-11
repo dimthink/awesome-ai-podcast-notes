@@ -18,6 +18,10 @@ duration: "12:59"
 - **TL;DR:** SpeechBERT通过端到端架构，在音频上预训练和微调，有效克服ASR错误瓶颈，尤其在高错误率场景下显著优于传统管道式语音问答系统。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-11-03-interspeech-2020-speechbert-model-for-end-to-end-spoken-question-answering-7mf7nSh8dGE.transcript.md)
+
 # 深度解析SpeechBERT：迈向端到端语音问答的革新之路
 
 ## 材料信息

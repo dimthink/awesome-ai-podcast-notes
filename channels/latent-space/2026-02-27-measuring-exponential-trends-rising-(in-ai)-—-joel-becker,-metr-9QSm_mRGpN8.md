@@ -18,6 +18,11 @@ duration: "1:05:12"
 - **TL;DR:** 测量AI风险，不仅要看它“能”做什么，更要看它“想”做什么，以及我们能否闭合那个危险的“自动研发闭环”。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-27-measuring-exponential-trends-rising-(in-ai)-—-joel-becker,-metr-9QSm_mRGpN8.structured.md)
+- [原始文稿](2026-02-27-measuring-exponential-trends-rising-(in-ai)-—-joel-becker,-metr-9QSm_mRGpN8.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕和指定要求，进行深度重构后生成的完整文章。
 
 ---

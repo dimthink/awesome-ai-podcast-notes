@@ -18,6 +18,11 @@ duration: "1:03:41"
 - **TL;DR:** AI 需求空前爆发，能源是下一瓶颈；赢家通吃不再是唯一剧本，深度价值捕获需要新框架。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-04-the-biggest-bottlenecks-for-ai-energy-&-cooling-6HxT4nQmtvc.structured.md)
+- [原始文稿](2026-03-04-the-biggest-bottlenecks-for-ai-energy-&-cooling-6HxT4nQmtvc.transcript.md)
+
 好的，这是根据您提供的 YouTube 视频字幕，并遵循您的深度重构指令，所生成的完整文章。
 
 # 深度重构：AI 的瓶颈、机遇与a16z的投资哲学

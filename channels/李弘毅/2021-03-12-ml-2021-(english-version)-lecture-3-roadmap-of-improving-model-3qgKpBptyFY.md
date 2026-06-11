@@ -18,6 +18,10 @@ duration: "54:41"
 - **TL;DR:** 本文深入剖析机器学习模型改进路线图，教授如何诊断模型偏差、优化问题、过拟合及数据不匹配，并提供系统性解决方案。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-03-12-ml-2021-(english-version)-lecture-3-roadmap-of-improving-model-3qgKpBptyFY.transcript.md)
+
 **材料信息**
 
 - **标题**：[ML 2021 (English version)] Lecture 3: Roadmap of Improving Model

@@ -18,6 +18,10 @@ duration: "31:48"
 - **TL;DR:** 终身学习旨在让AI持续学习新任务，但面临“灾难性遗忘”核心挑战，需在不存储所有旧数据前提下，避免遗忘并有效评估。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-11-ml-2021-(english-version)-lecture-33-life-long-learning-(1-2)-yAX8Ydfek_I.transcript.md)
+
 **材料信息**
 
 - **标题**：[ML 2021 (English version)] Lecture 33: Life-long Learning (1/2)

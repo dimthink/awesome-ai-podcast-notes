@@ -13,6 +13,10 @@ duration: "54:55"
 - **Published:** 2026-02-08
 - **Source:** https://www.youtube.com/watch?v=dUTE9JUBMvg
 
+## 版本
+
+- [原始文稿](2026-02-08-【视频播客】vibe-coding-下半场-四大天王,和想赢的人-对话朱广翔-百度秒哒产品总经理【十字路口】-dUTE9JUBMvg.transcript.md)
+
 ## 材料信息
 
 - **标题**：【视频播客】Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理【十字路口】

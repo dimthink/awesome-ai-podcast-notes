@@ -18,6 +18,10 @@ duration: "11:01"
 - **TL;DR:** 本研究提出一种半监督学习框架，仅用1小时配对数据，结合大量无标签音频，实现了与25小时全监督模型媲美的多说话人TTS合成，并有效解决了梯度回流问题。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-11-03-interspeech-2020-semi-supervised-learning-for-multi-speaker-text-to-speech-synthesis-3b1S20iVyMY.transcript.md)
+
 ## 深度重构：基于离散语音表示的多说话人文本到语音合成的半监督学习
 
 **材料信息**

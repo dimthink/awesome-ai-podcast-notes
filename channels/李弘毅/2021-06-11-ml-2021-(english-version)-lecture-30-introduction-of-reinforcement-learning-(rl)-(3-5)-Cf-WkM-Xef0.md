@@ -18,6 +18,10 @@ duration: "31:14"
 - **TL;DR:** 评论家通过价值函数评估演员表现，MC和TD是其训练方法，Actor-Critic结合两者，通过优势函数指导演员高效学习。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-11-ml-2021-(english-version)-lecture-30-introduction-of-reinforcement-learning-(rl)-(3-5)-Cf-WkM-Xef0.transcript.md)
+
 **材料信息**
 
 - **标题**：[ML 2021 (English version)] Lecture 30: Introduction of Reinforcement Learning (RL) (3/5)

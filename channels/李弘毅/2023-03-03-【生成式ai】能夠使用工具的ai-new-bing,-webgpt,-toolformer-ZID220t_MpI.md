@@ -18,6 +18,10 @@ duration: "24:23"
 - **TL;DR:** AI通过特殊符号与工具交互，New Bing、WebGPT、Toolformer展示了从搜索到多工具集成的能力，即使小模型也能超越大模型。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2023-03-03-【生成式ai】能夠使用工具的ai-new-bing,-webgpt,-toolformer-ZID220t_MpI.transcript.md)
+
 ## 材料信息
 
 - **标题**：【生成式AI】能夠使用工具的AI：New Bing, WebGPT, Toolformer

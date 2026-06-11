@@ -18,6 +18,10 @@ duration: "1:20:19"
 - **TL;DR:** GANs通过判别器将分布差异转化为可优化的对抗博弈，理论上最小化JS散度，实践中面临挑战与争议。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-05-11-gan-lecture-4-(2018)-basic-theory-DMA4MrNieWo.transcript.md)
+
 **材料信息**
 
 - **标题**：GAN Lecture 4 (2018): Basic Theory

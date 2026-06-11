@@ -18,6 +18,10 @@ duration: "34:41"
 - **TL;DR:** Critic通过价值函数评估Actor表现，MC和TD方法训练Critic，优势函数指导Actor优化，A2C结合两者实现高效学习。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2021-06-05-【機器學習2021】概述增強式學習-(reinforcement-learning,-rl)-(三)-actor-critic-kk6DqWreLeU.transcript.md)
+
 ## 材料信息
 
 - **标题**：【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (三) - Actor-Critic

@@ -18,6 +18,11 @@ duration: "1:13:45"
 - **TL;DR:** 真正的风险管理不是预测未来，而是为多种可能性做应急规划；真正的领导力是让人变得更好，而不是让人喜欢你
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-12-goldman-sachs-chairman-on-ai-and-the-future-of-finance-the-a16z-show-9qqLihL4AWk.structured.md)
+- [原始文稿](2026-05-12-goldman-sachs-chairman-on-ai-and-the-future-of-finance-the-a16z-show-9qqLihL4AWk.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

@@ -18,6 +18,11 @@ duration: "53:06"
 - **TL;DR:** AI Agent 的本质是语言模型的“记忆管家”，通过上下文工程（Context Engineering）管理有限记忆，实现复杂任务。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-15-ai-agent-的核心技術-context-engineering-基本概念解說-urwDLyNa9FU.structured.md)
+- [原始文稿](2026-03-15-ai-agent-的核心技術-context-engineering-基本概念解說-urwDLyNa9FU.transcript.md)
+
 好的，遵照您的指示，我将对李弘毅教授的这段关于“AI Agent 的核心技術：Context Engineering”的视频字幕内容，进行深度重构，形成一篇完整的深度文章。
 
 ---

@@ -18,6 +18,11 @@ duration: "55:24"
 - **TL;DR:** Private markets aren't just diversification—they are the only escape from public market concentration, requiring radical transparency and a 'play-to-win' culture to fund the AI industrial revolution.
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.structured.md)
+- [原始文稿](2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.transcript.md)
+
 # 内容深度重构与阐述
 
 ## 材料信息

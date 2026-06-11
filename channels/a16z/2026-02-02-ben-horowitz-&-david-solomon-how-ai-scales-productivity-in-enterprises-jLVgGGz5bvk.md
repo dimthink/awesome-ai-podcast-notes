@@ -13,6 +13,10 @@ duration: "35:35"
 - **Published:** 2026-02-02
 - **Source:** https://www.youtube.com/watch?v=jLVgGGz5bvk
 
+## 版本
+
+- [原始文稿](2026-02-02-ben-horowitz-&-david-solomon-how-ai-scales-productivity-in-enterprises-jLVgGGz5bvk.transcript.md)
+
 这是一篇对YouTube视频“Ben Horowitz & David Solomon: How AI Scales Productivity in Enterprises”的深度重构文章。
 
 ---

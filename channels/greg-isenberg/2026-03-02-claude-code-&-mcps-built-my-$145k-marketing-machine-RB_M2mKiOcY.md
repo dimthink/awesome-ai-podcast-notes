@@ -18,6 +18,11 @@ duration: "54:07"
 - **TL;DR:** 用AI代理构建24/7自主营销机器，从执行者进化为“代理骑手”
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-02-claude-code-&-mcps-built-my-$145k-marketing-machine-RB_M2mKiOcY.structured.md)
+- [原始文稿](2026-03-02-claude-code-&-mcps-built-my-$145k-marketing-machine-RB_M2mKiOcY.transcript.md)
+
 # 从“敲键盘”到“指挥家”：我是如何用AI代理构建了一台年入14.5万美元的营销机器
 
 ## 材料信息

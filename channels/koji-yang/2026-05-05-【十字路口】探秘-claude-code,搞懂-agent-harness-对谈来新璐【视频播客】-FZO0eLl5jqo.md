@@ -18,6 +18,11 @@ duration: "47:46"
 - **TL;DR:** Agent的天花板由Harness决定，最好的Harness是给模型一个模拟的Unix系统，让它通过命令行和文件系统自主行动。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-05-【十字路口】探秘-claude-code,搞懂-agent-harness-对谈来新璐【视频播客】-FZO0eLl5jqo.structured.md)
+- [原始文稿](2026-05-05-【十字路口】探秘-claude-code,搞懂-agent-harness-对谈来新璐【视频播客】-FZO0eLl5jqo.transcript.md)
+
 # 从“手搓”到“机甲”：深度拆解Agent Harness，一场关于智能体上限的对话
 
 **材料信息**

@@ -18,6 +18,10 @@ duration: "14:57"
 - **TL;DR:** 自监督语音Transformer的自注意力头功能分化：对角线捕获音素边界，垂直关注说话人身份但可能损害音素信息，全局影响最小，可剪枝超50%提升性能。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-11-03-interspeech-2020-understanding-self-attention-of-self-supervised-audio-transformers-RJq_B416V1Q.transcript.md)
+
 **材料信息**
 
 - **标题**：[INTERSPEECH 2020] Understanding Self-Attention of Self-Supervised Audio Transformers

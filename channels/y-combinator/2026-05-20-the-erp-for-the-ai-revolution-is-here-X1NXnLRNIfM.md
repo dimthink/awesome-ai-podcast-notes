@@ -18,6 +18,11 @@ duration: "27:39"
 - **TL;DR:** 用Google Sheets原型挑战NetSuite，AI正在重新定义企业软件的“安全”标准
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-20-the-erp-for-the-ai-revolution-is-here-X1NXnLRNIfM.structured.md)
+- [原始文稿](2026-05-20-the-erp-for-the-ai-revolution-is-here-X1NXnLRNIfM.transcript.md)
+
 # 从Google Sheets到挑战巨头：一家AI原生ERP公司的崛起之路
 
 **材料信息**

@@ -18,6 +18,10 @@ duration: "54:36"
 - **TL;DR:** 深度学习优化器Adam和SGDM各有所长，但创新停滞。课程深入剖析两者优劣，并探讨了AMSGrad、AdaBound、循环学习率等改进策略，揭示优化器选择对模型性能和泛化能力的关键影响。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2020-04-09-ta-補充課-optimization-for-deep-learning-(1-2)-(由助教簡仲明同學講授)-4pUmZ8hXlHM.transcript.md)
+
 # 深度解析：深度学习优化器的新进展与挑战（上）
 
 ## 材料信息

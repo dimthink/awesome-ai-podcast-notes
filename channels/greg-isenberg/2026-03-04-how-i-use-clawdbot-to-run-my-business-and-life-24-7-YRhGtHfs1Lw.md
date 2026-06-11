@@ -18,6 +18,11 @@ duration: "30:59"
 - **TL;DR:** 用AI特工组建你的"复仇者联盟"，通过一个网关和多重人格，构建24/7运行的生命操作系统。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-04-how-i-use-clawdbot-to-run-my-business-and-life-24-7-YRhGtHfs1Lw.structured.md)
+- [原始文稿](2026-03-04-how-i-use-clawdbot-to-run-my-business-and-life-24-7-YRhGtHfs1Lw.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕，按照系统指令要求生成的深度重构文章。
 
 ---

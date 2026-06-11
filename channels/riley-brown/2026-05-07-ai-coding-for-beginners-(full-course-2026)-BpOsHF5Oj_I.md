@@ -18,6 +18,11 @@ duration: "55:25"
 - **TL;DR:** 零代码经验者用自然语言+AI代理，可在2-3小时内构建并部署一个跨平台、支持多用户和AI协作的真实应用
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-07-ai-coding-for-beginners-(full-course-2026)-BpOsHF5Oj_I.structured.md)
+- [原始文稿](2026-05-07-ai-coding-for-beginners-(full-course-2026)-BpOsHF5Oj_I.transcript.md)
+
 # AI Coding for Beginners (Full Course 2026)
 
 **作者/来源**：Riley Brown / YouTube 频道

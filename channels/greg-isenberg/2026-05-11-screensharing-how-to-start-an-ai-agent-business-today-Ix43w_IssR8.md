@@ -18,6 +18,11 @@ duration: "30:18"
 - **TL;DR:** 用AI智能体监控公共数据源中的被低估资产，找到明确买家，实现信息套利，每天创造1000-3000美元现金流
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-05-11-screensharing-how-to-start-an-ai-agent-business-today-Ix43w_IssR8.structured.md)
+- [原始文稿](2026-05-11-screensharing-how-to-start-an-ai-agent-business-today-Ix43w_IssR8.transcript.md)
+
 # 深度重构文章：AI智能体创业完全指南
 
 ## 材料信息

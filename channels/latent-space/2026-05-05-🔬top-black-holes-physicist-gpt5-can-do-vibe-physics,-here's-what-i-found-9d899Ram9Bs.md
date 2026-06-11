@@ -18,6 +18,11 @@ duration: "1:31:51"
 - **TL;DR:** 顶尖物理学家用 GPT-5 在 12 小时内解决了困扰学界一年的量子场论难题，AI 正从工具进化为科学发现的核心合作者
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-05-🔬top-black-holes-physicist-gpt5-can-do-vibe-physics,-here's-what-i-found-9d899Ram9Bs.structured.md)
+- [原始文稿](2026-05-05-🔬top-black-holes-physicist-gpt5-can-do-vibe-physics,-here's-what-i-found-9d899Ram9Bs.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

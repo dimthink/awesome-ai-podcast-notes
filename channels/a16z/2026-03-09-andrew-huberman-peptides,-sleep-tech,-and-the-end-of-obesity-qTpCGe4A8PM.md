@@ -18,6 +18,11 @@ duration: "50:51"
 - **TL;DR:** 科学家Huberman预言，健康科技将从"读取"身体数据迈向"写入"生理状态，我们正在成为自己身体的程序员。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-09-andrew-huberman-peptides,-sleep-tech,-and-the-end-of-obesity-qTpCGe4A8PM.structured.md)
+- [原始文稿](2026-03-09-andrew-huberman-peptides,-sleep-tech,-and-the-end-of-obesity-qTpCGe4A8PM.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕，遵循所有要求生成的深度重构文章。
 
 ---

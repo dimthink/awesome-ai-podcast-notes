@@ -18,6 +18,10 @@ duration: "1:50:08"
 - **TL;DR:** 上下文工程是AI Agent成功的关键，通过选择、压缩和多智能体策略，高效管理AI的记忆与认知，以克服长上下文的挑战。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2025-09-21-【生成式人工智慧與機器學習導論2025】第-2-講-上下文工程-(context-engineering)-—-ai-agent-背後的關鍵技術-lVdajtNpaGI.transcript.md)
+
 **材料信息**
 
 - **标题**：【生成式人工智慧與機器學習導論2025】第 2 講：上下文工程 (Context Engineering) — AI Agent 背後的關鍵技術

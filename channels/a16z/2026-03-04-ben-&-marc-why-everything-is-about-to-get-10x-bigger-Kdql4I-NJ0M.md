@@ -18,6 +18,11 @@ duration: "54:53"
 - **TL;DR:** AI将重塑一切，但押注那些为自己思考、有独特魅力的创始人，这门古老的艺术比以往任何时候都更重要。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-03-04-ben-&-marc-why-everything-is-about-to-get-10x-bigger-Kdql4I-NJ0M.structured.md)
+- [原始文稿](2026-03-04-ben-&-marc-why-everything-is-about-to-get-10x-bigger-Kdql4I-NJ0M.transcript.md)
+
 好的，我将按照您提供的系统指令，对这段YouTube视频字幕进行深度重构，输出一篇完整的深度文章。
 
 ---

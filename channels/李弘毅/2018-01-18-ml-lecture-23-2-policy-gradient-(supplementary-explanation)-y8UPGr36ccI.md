@@ -18,6 +18,10 @@ duration: "13:21"
 - **TL;DR:** Policy Gradient本质是一个加权分类问题，通过迭代收集经验并用轨迹奖励加权训练Actor，实现策略优化，代码实现简单但训练耗时。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2018-01-18-ml-lecture-23-2-policy-gradient-(supplementary-explanation)-y8UPGr36ccI.transcript.md)
+
 **材料信息**
 
 - **标题**：ML Lecture 23-2: Policy Gradient (Supplementary Explanation)

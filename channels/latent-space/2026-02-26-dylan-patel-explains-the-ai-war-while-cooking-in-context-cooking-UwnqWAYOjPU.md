@@ -18,6 +18,11 @@ duration: "55:13"
 - **TL;DR:** 顶尖芯片分析师在厨房里证明：人生无需规划，机缘巧合只青睐那些长期追随兴趣的人。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-02-26-dylan-patel-explains-the-ai-war-while-cooking-in-context-cooking-UwnqWAYOjPU.structured.md)
+- [原始文稿](2026-02-26-dylan-patel-explains-the-ai-war-while-cooking-in-context-cooking-UwnqWAYOjPU.transcript.md)
+
 # Dylan Patel谈AI芯片战争，顺便做个炒饭 | 深度重构
 
 **材料信息**

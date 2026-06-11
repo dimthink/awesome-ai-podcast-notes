@@ -18,6 +18,11 @@ duration: "1:23:17"
 - **TL;DR:** AI Agent并非新模型，而是通过上下文工程让大语言模型学会使用工具的框架，其强大与风险并存。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-09-解剖小龍蝦-—-以-openclaw-為例介紹-ai-agent-的運作原理-2rcJdFuNbZQ.structured.md)
+- [原始文稿](2026-03-09-解剖小龍蝦-—-以-openclaw-為例介紹-ai-agent-的運作原理-2rcJdFuNbZQ.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和系统指令，进行深度重构后生成的完整文章。
 
 ---

@@ -18,6 +18,10 @@ duration: "13:23"
 - **TL;DR:** 异常侦测旨在让机器识别与已知训练数据不同的“未知”模式，其定义取决于训练数据，且因异常的无限多样性和数据稀缺性，远非简单的二元分类。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2019-03-07-anomaly-detection-(1-7)-gDp2LXGnVLQ.transcript.md)
+
 **材料信息**
 
 - **标题**：Anomaly Detection (1/7)

@@ -18,6 +18,11 @@ duration: "1:34:07"
 - **TL;DR:** AI 并没有让工作消失，而是把我们所有人都变成了“经理”——而经理的工作永远只会更多。
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.structured.md)
+- [原始文稿](2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.transcript.md)
+
 # 材料信息
 
 - **标题**：The AI paradox: More automation, more humans, more work（AI悖论：更多自动化，更多人类，更多工作）

@@ -18,6 +18,11 @@ duration: "24:22"
 - **TL;DR:** Auto Research 是一个让你像驱使实习生一样，用AI自动化进行实验和优化的通用框架，开启了个体创业和科学发现的无限可能。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-11-karpathy's-autoresearch-broke-the-internet-qb90PPbAWz4.structured.md)
+- [原始文稿](2026-03-11-karpathy's-autoresearch-broke-the-internet-qb90PPbAWz4.transcript.md)
+
 好的，这是根据您提供的YouTube视频字幕和系统指令，生成的深度重构文章。
 
 ---

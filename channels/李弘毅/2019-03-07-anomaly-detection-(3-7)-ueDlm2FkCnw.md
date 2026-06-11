@@ -18,6 +18,10 @@ duration: "14:05"
 - **TL;DR:** 异常检测评估需放弃准确率，转用成本表量化误报/漏报代价，或AUC等排序指标，以应对数据不平衡挑战。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2019-03-07-anomaly-detection-(3-7)-ueDlm2FkCnw.transcript.md)
+
 **材料信息**
 
 - **标题**：Anomaly Detection (3/7)

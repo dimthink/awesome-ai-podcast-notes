@@ -18,6 +18,11 @@ duration: "1:23:02"
 - **TL;DR:** AI 代理已从“被召唤的工具”进化为“主动协作的伙伴”，最好的编码模型就是最好的通用模型，而 2026 年最稀缺的资源是行动力而非知识
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-05-02-codex-replaced-claude-for-me...-here’s-why-FU2iB-UfPPA.structured.md)
+- [原始文稿](2026-05-02-codex-replaced-claude-for-me...-here’s-why-FU2iB-UfPPA.transcript.md)
+
 # 深度重构：AI Agent 的超级应用之战——为什么 Codex 正在取代 Claude
 
 **材料信息**

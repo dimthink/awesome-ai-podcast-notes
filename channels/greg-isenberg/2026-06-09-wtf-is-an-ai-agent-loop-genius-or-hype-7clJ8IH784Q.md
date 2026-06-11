@@ -18,6 +18,11 @@ duration: "22:32"
 - **TL;DR:** Agentic loops are promising but currently a “slop machine” for most founders; constrained loops (like code review) work, but creative app building demands a human in the loop to avoid burning cash.
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.structured.md)
+- [原始文稿](2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.transcript.md)
+
 这是一档不能错过、且必须被我“深度重构”的播客内容。当整个 AI 圈都在狂热推崇 “AI Agent Loops”（智能体循环）时， Greg Isenberg 把 “拆台专家” Professor Ross Mike 请进了他的 *The Startup Ideas Podcast*。
 
 Ross Mike 的目的很直接：**告诉你为什么这股风潮不仅可能是炒作，而且如果你没有花不完的钱，盲目跟风就是一场灾难。**

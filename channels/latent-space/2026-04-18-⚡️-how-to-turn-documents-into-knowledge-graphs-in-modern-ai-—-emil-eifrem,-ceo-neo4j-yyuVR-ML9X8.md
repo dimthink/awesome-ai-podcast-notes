@@ -18,6 +18,11 @@ duration: "48:53"
 - **TL;DR:** 图数据库正在从向量检索的配角，演变为Agent系统可解释性、制度知识和生产化信任的核心基础设施
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-04-18-⚡️-how-to-turn-documents-into-knowledge-graphs-in-modern-ai-—-emil-eifrem,-ceo-neo4j-yyuVR-ML9X8.structured.md)
+- [原始文稿](2026-04-18-⚡️-how-to-turn-documents-into-knowledge-graphs-in-modern-ai-—-emil-eifrem,-ceo-neo4j-yyuVR-ML9X8.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

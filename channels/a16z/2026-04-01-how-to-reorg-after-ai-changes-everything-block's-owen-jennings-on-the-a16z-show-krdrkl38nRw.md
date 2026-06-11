@@ -18,6 +18,11 @@ duration: "27:17"
 - **TL;DR:** 当AI使1个工程师完成15人的工作时，公司必须从规模效应转向“独特理解”作为新护城河，否则将被“vibe coding”淘汰
 - **Rating:** 5
 
+## 版本
+
+- [结构化文稿](2026-04-01-how-to-reorg-after-ai-changes-everything-block's-owen-jennings-on-the-a16z-show-krdrkl38nRw.structured.md)
+- [原始文稿](2026-04-01-how-to-reorg-after-ai-changes-everything-block's-owen-jennings-on-the-a16z-show-krdrkl38nRw.transcript.md)
+
 # 深度重构文章
 
 ## 材料信息

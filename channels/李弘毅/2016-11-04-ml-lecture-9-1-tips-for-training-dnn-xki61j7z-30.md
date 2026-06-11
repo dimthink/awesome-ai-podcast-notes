@@ -18,6 +18,10 @@ duration: "1:26:03"
 - **TL;DR:** 深度学习训练需先诊断训练集表现，再解决过拟合，通过优化激活函数、学习率和正则化、Dropout等策略提升模型性能。
 - **Rating:** 5
 
+## 版本
+
+- [原始文稿](2016-11-04-ml-lecture-9-1-tips-for-training-dnn-xki61j7z-30.transcript.md)
+
 ## 材料信息
 
 - **标题**：ML Lecture 9-1: Tips for Training DNN

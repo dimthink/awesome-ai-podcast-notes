@@ -18,6 +18,11 @@ duration: "22:29"
 - **TL;DR:** AI 协作需选对“队形”，能玩转狼人杀“欺骗”，但在 Moltbook 的“觉醒”背后，多是人为操控。
 - **Rating:** 4
 
+## 版本
+
+- [结构化文稿](2026-03-15-ai-agent-之間可以有什麼樣的互動-mmPmNezjCi0.structured.md)
+- [原始文稿](2026-03-15-ai-agent-之間可以有什麼樣的互動-mmPmNezjCi0.transcript.md)
+
 好的，以下是根据您提供的 YouTube 视频字幕内容，按照系统指令中的输出结构和写作要求生成的深度重构文章。
 
 ---
