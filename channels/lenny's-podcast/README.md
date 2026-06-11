@@ -1,6 +1,8 @@
 # Lenny's Podcast
 
-共 34 篇。
+34 notes in this channel.
+
+本频道共 34 篇。
 
 - 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
 - 2026-05-31 · [A rational conversation on where AI is actually going | Benedict Evans](2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.md)

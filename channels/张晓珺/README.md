@@ -1,6 +1,8 @@
 # 张晓珺
 
-共 34 篇。
+34 notes in this channel.
+
+本频道共 34 篇。
 
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 - 2026-06-08 · [144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式](2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.md)

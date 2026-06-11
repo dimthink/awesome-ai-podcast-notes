@@ -1,6 +1,8 @@
 # a16z
 
-共 46 篇。
+46 notes in this channel.
+
+本频道共 46 篇。
 
 - 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
 - 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)

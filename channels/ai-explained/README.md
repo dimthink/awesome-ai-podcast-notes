@@ -1,6 +1,8 @@
 # AI Explained
 
-共 23 篇。
+23 notes in this channel.
+
+本频道共 23 篇。
 
 - 2026-06-10 · [Claude Fable 5 - Full 319 page Breakdown](2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md)
 - 2026-05-29 · [New Claude Opus 4.8: 15 Things You May’ve Missed](2026-05-29-new-claude-opus-4.8-15-things-you-may’ve-missed-aJvP3nXWkwM.md)

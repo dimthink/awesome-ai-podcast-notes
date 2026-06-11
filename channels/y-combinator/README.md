@@ -1,6 +1,8 @@
 # Y Combinator
 
-共 33 篇。
+33 notes in this channel.
+
+本频道共 33 篇。
 
 - 2026-05-20 · [The ERP for the AI Revolution is here](2026-05-20-the-erp-for-the-ai-revolution-is-here-X1NXnLRNIfM.md)
 - 2026-05-19 · [How to Build a Self-Improving Company with AI](2026-05-19-how-to-build-a-self-improving-company-with-ai-t-G67yKAHBQ.md)

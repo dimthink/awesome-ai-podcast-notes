@@ -1,6 +1,8 @@
 # Koji Yang
 
-共 29 篇。
+29 notes in this channel.
+
+本频道共 29 篇。
 
 - 2026-06-10 · [【十字路口】高手怎么用 AI？——停止用 ChatGPT 吧｜Koji 对谈课代表立正（上）【视频播客】](2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.md)
 - 2026-06-03 · [【十字路口】OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI【视频播客】](2026-06-03-【十字路口】openai-和-anthropic-共同看好的-fde-ai-时代的新岗位出现,旧分工松动-对谈-rolling-ai【视频播客】-V0SSMl9YB2Q.md)

@@ -1,15 +1,52 @@
 # Awesome AI Podcast Notes
 
-AI-generated notes from YouTube and podcast-style long-form videos.
+[中文](README.zh-CN.md) | English
 
-This repository is maintained by YouTube AI Deep Reader. Content is organized in two primary ways:
+![Notes](https://img.shields.io/badge/notes-651-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
-- [按播客 / 博主归档](channels/README.md)
-- [按时间线归档](timeline/README.md)
+Open AI-generated notes for long-form AI podcasts, YouTube talks, and technical conversations.
 
-Topic-based indexes are reserved under [topics/](topics/README.md) and will be added after the archive has enough stable tags.
+This is not a podcast ranking list. It is a public knowledge archive that turns long-form AI audio and video into searchable notes, structured outlines, and raw transcript references.
 
-## Latest
+## What Is Inside
+
+| Metric | Value |
+| --- | ---: |
+| Notes | 651 |
+| Channels | 16 |
+| Structured notes | 328 |
+| Raw transcripts | 611 |
+| Earliest source date | 2016-10-07 |
+| Latest source date | 2026-06-10 |
+| Archive updated | 2026-06-11 |
+
+Each episode can include up to three versions:
+
+- **Deep note**: the main readable Markdown note, organized for review and citation.
+- **Structured note**: a more machine-friendly outline when the upstream pipeline has generated one.
+- **Raw transcript**: the original transcript-style text when available, useful for verification and re-reading details.
+
+## Browse
+
+- [Browse by channel](channels/README.md)
+- [Browse by timeline](timeline/README.md)
+- [Topic index](topics/README.md)
+- [Machine-readable data](data/episodes.json)
+
+## Featured Channels
+
+- [李弘毅](channels/李弘毅/README.md) (253 notes)
+- [Latent Space](channels/latent-space/README.md) (53 notes)
+- [a16z](channels/a16z/README.md) (46 notes)
+- [Greg Isenberg](channels/greg-isenberg/README.md) (43 notes)
+- [Riley Brown](channels/riley-brown/README.md) (36 notes)
+- [Lenny's Podcast](channels/lenny's-podcast/README.md) (34 notes)
+- [张晓珺](channels/张晓珺/README.md) (34 notes)
+- [Y Combinator](channels/y-combinator/README.md) (33 notes)
+- [Koji Yang](channels/koji-yang/README.md) (29 notes)
+- [硅谷101](channels/硅谷101/README.md) (27 notes)
+
+## Latest Updates
 
 - 2026-06-10 · [【十字路口】高手怎么用 AI？——停止用 ChatGPT 吧｜Koji 对谈课代表立正（上）【视频播客】](channels/koji-yang/2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.md) · Koji Yang
 - 2026-06-10 · [Claude Fable 5 - Full 319 page Breakdown](channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md) · AI Explained
@@ -23,35 +60,30 @@ Topic-based indexes are reserved under [topics/](topics/README.md) and will be a
 - 2026-06-06 · [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](channels/riley-brown/2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md) · Riley Brown
 - 2026-06-06 · [Hermes Agent Desktop: Full Setup + Real Use Cases](channels/greg-isenberg/2026-06-06-hermes-agent-desktop-full-setup-+-real-use-cases-EJm8Ka-gVOc.md) · Greg Isenberg
 - 2026-06-04 · [When AI Agents Run Businesses — Lukas Petersson and Axel Backlund of Andon Labs](channels/latent-space/2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.md) · Latent Space
-- 2026-06-04 · [OpenAI Codex: Build Apps That Work For You 24/7](channels/greg-isenberg/2026-06-04-openai-codex-build-apps-that-work-for-you-24-7-tUeSxXHmE9w.md) · Greg Isenberg
-- 2026-06-03 · [【十字路口】OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI【视频播客】](channels/koji-yang/2026-06-03-【十字路口】openai-和-anthropic-共同看好的-fde-ai-时代的新岗位出现,旧分工松动-对谈-rolling-ai【视频播客】-V0SSMl9YB2Q.md) · Koji Yang
-- 2026-06-03 · [Scaling Past Informal AI - Carina Hong, Axiom Math](channels/latent-space/2026-06-03-scaling-past-informal-ai-carina-hong,-axiom-math-abYcV5LHMG4.md) · Latent Space
-- 2026-06-03 · [Satya Nadella on AI: @NoPriorsPodcast  x Latent Space Crossover Special at Microsoft Build 2026](channels/latent-space/2026-06-03-satya-nadella-on-ai-@nopriorspodcast-x-latent-space-crossover-special-at-microsoft-build-2026-cFNI2FORAc0.md) · Latent Space
-- 2026-06-03 · [ChatGPT And Codex Are Merging (This Changes Everything)](channels/riley-brown/2026-06-03-chatgpt-and-codex-are-merging-(this-changes-everything)-j--dqLJxrtE.md) · Riley Brown
-- 2026-06-02 · [The Next $100B Market: Selling to AI Agents](channels/greg-isenberg/2026-06-02-the-next-$100b-market-selling-to-ai-agents-MlptIfpoLlw.md) · Greg Isenberg
-- 2026-06-02 · [Hermes Agent: The New OpenClaw?](channels/greg-isenberg/2026-06-02-hermes-agent-the-new-openclaw-Qn2c_U-cWQs.md) · Greg Isenberg
-- 2026-06-02 · [GitHub’s Agent Era: 14x Commits, 200M Developers, Copilot’s Next Act — Kyle Daigle](channels/latent-space/2026-06-02-github’s-agent-era-14x-commits,-200m-developers,-copilot’s-next-act-—-kyle-daigle-LEwlSyR0cXA.md) · Latent Space
-
-## Channels
-
-- [李弘毅](channels/李弘毅/README.md) (253)
-- [Latent Space](channels/latent-space/README.md) (53)
-- [a16z](channels/a16z/README.md) (46)
-- [Greg Isenberg](channels/greg-isenberg/README.md) (43)
-- [Riley Brown](channels/riley-brown/README.md) (36)
-- [Lenny's Podcast](channels/lenny's-podcast/README.md) (34)
-- [张晓珺](channels/张晓珺/README.md) (34)
-- [Y Combinator](channels/y-combinator/README.md) (33)
-- [Koji Yang](channels/koji-yang/README.md) (29)
-- [硅谷101](channels/硅谷101/README.md) (27)
-- [AI Explained](channels/ai-explained/README.md) (23)
-- [Lex Fridman](channels/lex-fridman/README.md) (23)
-- [Dwarkesh Patel](channels/dwarkesh-patel/README.md) (10)
-- [Hung-yi Lee](channels/hung-yi-lee/README.md) (5)
-- [Matthew Berman](channels/matthew-berman/README.md) (1)
-- [硅谷101播客](channels/硅谷101播客/README.md) (1)
 
 ## Data
 
-- [episodes.json](data/episodes.json)
-- [latest.json](data/latest.json)
+- [data/episodes.json](data/episodes.json): the full public index.
+- [data/latest.json](data/latest.json): the latest 50 public records.
+- [Data schema](docs/DATA_SCHEMA.md): field definitions and stability notes.
+
+## Update Policy
+
+The archive is generated by YouTube AI Deep Reader and is refreshed daily. GitHub is one public distribution channel; the same pipeline can also publish to private knowledge bases.
+
+Public records intentionally do not expose private Notion links. Source URLs are kept so readers can verify the original video or podcast.
+
+## Limitations
+
+These notes are AI-generated study aids. They may contain transcription errors, summarization mistakes, missing context, or outdated claims from the original source. Always check the linked source before quoting or relying on a claim.
+
+## Contributing
+
+Contributions are welcome through issues and pull requests:
+
+- suggest high-quality AI channels, podcasts, or talks;
+- report bad metadata, broken links, or duplicate entries;
+- improve tags, topic grouping, documentation, or translations;
+- flag notes that need human review.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md), [GENERATION_POLICY.md](docs/GENERATION_POLICY.md), and [ROADMAP.md](ROADMAP.md) for the project rules and next steps.

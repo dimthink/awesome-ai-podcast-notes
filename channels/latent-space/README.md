@@ -1,6 +1,8 @@
 # Latent Space
 
-共 53 篇。
+53 notes in this channel.
+
+本频道共 53 篇。
 
 - 2026-06-06 · [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md)
 - 2026-06-04 · [When AI Agents Run Businesses — Lukas Petersson and Axel Backlund of Andon Labs](2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.md)

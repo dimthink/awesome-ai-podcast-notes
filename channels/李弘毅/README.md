@@ -1,6 +1,8 @@
 # 李弘毅
 
-共 253 篇。
+253 notes in this channel.
+
+本频道共 253 篇。
 
 - 2026-05-10 · [AI 要跨越盧比孔河了嗎？自我成長的 AI 離我們多遠？](2026-05-10-ai-要跨越盧比孔河了嗎-自我成長的-ai-離我們多遠-s06mSAGN4gM.md)
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)

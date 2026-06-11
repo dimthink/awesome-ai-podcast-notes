@@ -1,5 +1,9 @@
 # Channels
 
+Browse notes by podcast, YouTube channel, creator, or publishing source.
+
+按播客、博主、频道或发布源浏览笔记。
+
 - [AI Explained](ai-explained/README.md) (23)
 - [Dwarkesh Patel](dwarkesh-patel/README.md) (10)
 - [Greg Isenberg](greg-isenberg/README.md) (43)
