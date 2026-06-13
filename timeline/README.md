@@ -6,6 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-13](2026/06/2026-06-13.md) · 2 篇
+
+- [Why the Government Just Killed Claude Fable 5](../channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md) · Riley Brown
+- [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](../channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md) · 张晓珺
+
+## [2026-06-12](2026/06/2026-06-12.md) · 3 篇
+
+- [Claude Fable Will Change EVERYTHING (Here's Why)](../channels/riley-brown/2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.md) · Riley Brown
+- [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](../channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md) · 张晓珺
+- [E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？](../channels/硅谷101/2026-06-12-e239-spacex要让太空算力从科幻走向现实,但它划算吗-bWMVVLmpZGI.md) · 硅谷101
+
 ## [2026-06-11](2026/06/2026-06-11.md) · 2 篇
 
 - [You are using Claude Fable 5 wrong](../channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md) · Greg Isenberg

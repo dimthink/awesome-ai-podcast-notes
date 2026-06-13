@@ -1,9 +1,11 @@
 # Riley Brown
 
-36 notes in this channel.
+38 notes in this channel.
 
-本频道共 36 篇。
+本频道共 38 篇。
 
+- 2026-06-13 · [Why the Government Just Killed Claude Fable 5](2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md)
+- 2026-06-12 · [Claude Fable Will Change EVERYTHING (Here's Why)](2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.md)
 - 2026-06-06 · [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md)
 - 2026-06-03 · [ChatGPT And Codex Are Merging (This Changes Everything)](2026-06-03-chatgpt-and-codex-are-merging-(this-changes-everything)-j--dqLJxrtE.md)
 - 2026-06-01 · [Unlock 95% of Notion With Codex](2026-06-01-unlock-95-of-notion-with-codex-YGWcFMR8gk8.md)

@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-653-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-658-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 653 |
+| 笔记 | 658 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 330 |
-| 原始文稿 | 613 |
+| 结构化文稿 | 335 |
+| 原始文稿 | 618 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-06-11 |
-| 仓库更新日期 | 2026-06-12 |
+| 最新来源日期 | 2026-06-13 |
+| 仓库更新日期 | 2026-06-13 |
 
 ## 适合谁
 
@@ -68,23 +68,23 @@
 - 2026-06-09 · [WTF Is an "AI Agent Loop"? Genius or Hype?](channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md)
 - 2026-06-08 · [Become AI Native in less than 60 mins](channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 36 篇
+### [Riley Brown](channels/riley-brown/README.md) · 38 篇
 
+- 2026-06-13 · [Why the Government Just Killed Claude Fable 5](channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md)
+- 2026-06-12 · [Claude Fable Will Change EVERYTHING (Here's Why)](channels/riley-brown/2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.md)
 - 2026-06-06 · [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](channels/riley-brown/2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md)
-- 2026-06-03 · [ChatGPT And Codex Are Merging (This Changes Everything)](channels/riley-brown/2026-06-03-chatgpt-and-codex-are-merging-(this-changes-everything)-j--dqLJxrtE.md)
-- 2026-06-01 · [Unlock 95% of Notion With Codex](channels/riley-brown/2026-06-01-unlock-95-of-notion-with-codex-YGWcFMR8gk8.md)
+
+### [张晓珺](channels/张晓珺/README.md) · 36 篇
+
+- 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
+- 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
+- 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 34 篇
 
 - 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
 - 2026-05-31 · [A rational conversation on where AI is actually going | Benedict Evans](channels/lenny's-podcast/2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.md)
 - 2026-05-24 · [The AI paradox: More automation, more humans, more work | Dan Shipper](channels/lenny's-podcast/2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.md)
-
-### [张晓珺](channels/张晓珺/README.md) · 34 篇
-
-- 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
-- 2026-06-08 · [144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式](channels/张晓珺/2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.md)
-- 2026-05-28 · [He Xiaopeng: Robot IRON's Birth, The Accident, GX, His Big Bet & Swimming in Blood](channels/张晓珺/2026-05-28-he-xiaopeng-robot-iron's-birth,-the-accident,-gx,-his-big-bet-&-swimming-in-blood-rUjaLPE3mME.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 33 篇
 
@@ -93,6 +93,17 @@
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## 最新更新
+
+### 2026-06-13
+
+- [Why the Government Just Killed Claude Fable 5](channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md) · Riley Brown
+- [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md) · 张晓珺
+
+### 2026-06-12
+
+- [E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？](channels/硅谷101/2026-06-12-e239-spacex要让太空算力从科幻走向现实,但它划算吗-bWMVVLmpZGI.md) · 硅谷101
+- [Claude Fable Will Change EVERYTHING (Here's Why)](channels/riley-brown/2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.md) · Riley Brown
+- [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md) · 张晓珺
 
 ### 2026-06-11
 
@@ -124,17 +135,6 @@
 - [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md) · Latent Space
 - [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](channels/riley-brown/2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md) · Riley Brown
 - [Hermes Agent Desktop: Full Setup + Real Use Cases](channels/greg-isenberg/2026-06-06-hermes-agent-desktop-full-setup-+-real-use-cases-EJm8Ka-gVOc.md) · Greg Isenberg
-
-### 2026-06-04
-
-- [When AI Agents Run Businesses — Lukas Petersson and Axel Backlund of Andon Labs](channels/latent-space/2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.md) · Latent Space
-- [OpenAI Codex: Build Apps That Work For You 24/7](channels/greg-isenberg/2026-06-04-openai-codex-build-apps-that-work-for-you-24-7-tUeSxXHmE9w.md) · Greg Isenberg
-
-### 2026-06-03
-
-- [【十字路口】OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI【视频播客】](channels/koji-yang/2026-06-03-【十字路口】openai-和-anthropic-共同看好的-fde-ai-时代的新岗位出现,旧分工松动-对谈-rolling-ai【视频播客】-V0SSMl9YB2Q.md) · Koji Yang
-- [Scaling Past Informal AI - Carina Hong, Axiom Math](channels/latent-space/2026-06-03-scaling-past-informal-ai-carina-hong,-axiom-math-abYcV5LHMG4.md) · Latent Space
-- [Satya Nadella on AI: @NoPriorsPodcast  x Latent Space Crossover Special at Microsoft Build 2026](channels/latent-space/2026-06-03-satya-nadella-on-ai-@nopriorspodcast-x-latent-space-crossover-special-at-microsoft-build-2026-cFNI2FORAc0.md) · Latent Space
 
 ## 数据与自动更新
 

@@ -1,9 +1,11 @@
 # 张晓珺
 
-34 notes in this channel.
+36 notes in this channel.
 
-本频道共 34 篇。
+本频道共 36 篇。
 
+- 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
+- 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 - 2026-06-08 · [144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式](2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.md)
 - 2026-05-28 · [He Xiaopeng: Robot IRON's Birth, The Accident, GX, His Big Bet & Swimming in Blood](2026-05-28-he-xiaopeng-robot-iron's-birth,-the-accident,-gx,-his-big-bet-&-swimming-in-blood-rUjaLPE3mME.md)
