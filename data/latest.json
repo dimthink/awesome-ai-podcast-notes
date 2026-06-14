@@ -48,6 +48,30 @@
     "transcript_path": "channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.transcript.md"
   },
   {
+    "id": "bdhUBBACglw",
+    "video_id": "bdhUBBACglw",
+    "title": "Claude Fable 5 is BANNED. What to do?",
+    "channel": "Greg Isenberg",
+    "published": "2026-06-13",
+    "source_url": "https://www.youtube.com/watch?v=bdhUBBACglw",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "创业",
+      "本地模型",
+      "隐私",
+      "韧性"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 11595,
+    "duration": "24:56",
+    "duration_seconds": 1496,
+    "path": "channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md",
+    "structured_path": "channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.transcript.md"
+  },
+  {
     "id": "bWMVVLmpZGI",
     "video_id": "bWMVVLmpZGI",
     "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
@@ -935,23 +959,5 @@
     "path": "channels/硅谷101/2026-05-21-e237-央视和fifa谈判纷争背后,体育赛事转播权的博弈与生意-bHcFb2W70xA.md",
     "structured_path": "channels/硅谷101/2026-05-21-e237-央视和fifa谈判纷争背后,体育赛事转播权的博弈与生意-bHcFb2W70xA.structured.md",
     "transcript_path": "channels/硅谷101/2026-05-21-e237-央视和fifa谈判纷争背后,体育赛事转播权的博弈与生意-bHcFb2W70xA.transcript.md"
-  },
-  {
-    "id": "kaX43RRRUKY",
-    "video_id": "kaX43RRRUKY",
-    "title": "AI Agents Need Computers: 74% MoM Growth, 850K/Day Runs, & New Agent Cloud — Ivan Burazin, Daytona",
-    "channel": "Latent Space",
-    "published": "2026-05-21",
-    "source_url": "https://www.youtube.com/watch?v=kaX43RRRUKY",
-    "notion_url": "",
-    "tags": [],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 11226,
-    "duration": "1:11:40",
-    "duration_seconds": 4300,
-    "path": "channels/latent-space/2026-05-21-ai-agents-need-computers-74-mom-growth,-850k-day-runs,-&-new-agent-cloud-—-ivan-burazin,-daytona-kaX43RRRUKY.md",
-    "structured_path": "channels/latent-space/2026-05-21-ai-agents-need-computers-74-mom-growth,-850k-day-runs,-&-new-agent-cloud-—-ivan-burazin,-daytona-kaX43RRRUKY.structured.md",
-    "transcript_path": "channels/latent-space/2026-05-21-ai-agents-need-computers-74-mom-growth,-850k-day-runs,-&-new-agent-cloud-—-ivan-burazin,-daytona-kaX43RRRUKY.transcript.md"
   }
 ]

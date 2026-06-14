@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 658 |
+| Notes | 659 |
 | Channels | 16 |
-| Structured notes | 335 |
-| Raw transcripts | 618 |
+| Structured notes | 336 |
+| Raw transcripts | 619 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-06-13 |
-| Archive updated | 2026-06-13 |
+| Archive updated | 2026-06-14 |
 
 Each episode can include up to three versions:
 
@@ -51,11 +51,11 @@ Each episode can include up to three versions:
 - 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
 - 2026-05-27 · [Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z](channels/a16z/2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 44 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 45 notes
 
+- 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
 - 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
 - 2026-06-09 · [WTF Is an "AI Agent Loop"? Genius or Hype?](channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md)
-- 2026-06-08 · [Become AI Native in less than 60 mins](channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 38 notes
 
@@ -87,6 +87,7 @@ Each episode can include up to three versions:
 
 - [Why the Government Just Killed Claude Fable 5](channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md) · Riley Brown
 - [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md) · 张晓珺
+- [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md) · Greg Isenberg
 
 ### 2026-06-12
 
@@ -123,7 +124,6 @@ Each episode can include up to three versions:
 
 - [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md) · Latent Space
 - [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](channels/riley-brown/2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md) · Riley Brown
-- [Hermes Agent Desktop: Full Setup + Real Use Cases](channels/greg-isenberg/2026-06-06-hermes-agent-desktop-full-setup-+-real-use-cases-EJm8Ka-gVOc.md) · Greg Isenberg
 
 ## Data
 

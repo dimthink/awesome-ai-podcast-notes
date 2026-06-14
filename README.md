@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-658-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-659-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 658 |
+| 笔记 | 659 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 335 |
-| 原始文稿 | 618 |
+| 结构化文稿 | 336 |
+| 原始文稿 | 619 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-06-13 |
-| 仓库更新日期 | 2026-06-13 |
+| 仓库更新日期 | 2026-06-14 |
 
 ## 适合谁
 
@@ -62,11 +62,11 @@
 - 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
 - 2026-05-27 · [Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z](channels/a16z/2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 44 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 45 篇
 
+- 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
 - 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
 - 2026-06-09 · [WTF Is an "AI Agent Loop"? Genius or Hype?](channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md)
-- 2026-06-08 · [Become AI Native in less than 60 mins](channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 38 篇
 
@@ -98,6 +98,7 @@
 
 - [Why the Government Just Killed Claude Fable 5](channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md) · Riley Brown
 - [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md) · 张晓珺
+- [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md) · Greg Isenberg
 
 ### 2026-06-12
 
@@ -134,7 +135,6 @@
 
 - [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md) · Latent Space
 - [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](channels/riley-brown/2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md) · Riley Brown
-- [Hermes Agent Desktop: Full Setup + Real Use Cases](channels/greg-isenberg/2026-06-06-hermes-agent-desktop-full-setup-+-real-use-cases-EJm8Ka-gVOc.md) · Greg Isenberg
 
 ## 数据与自动更新
 

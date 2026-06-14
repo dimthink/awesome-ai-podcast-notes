@@ -6,8 +6,9 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-06-13](2026/06/2026-06-13.md) · 2 篇
+## [2026-06-13](2026/06/2026-06-13.md) · 3 篇
 
+- [Claude Fable 5 is BANNED. What to do?](../channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md) · Greg Isenberg
 - [Why the Government Just Killed Claude Fable 5](../channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md) · Riley Brown
 - [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](../channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md) · 张晓珺
 

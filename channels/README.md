@@ -6,7 +6,7 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 
 - [AI Explained](ai-explained/README.md) (23)
 - [Dwarkesh Patel](dwarkesh-patel/README.md) (10)
-- [Greg Isenberg](greg-isenberg/README.md) (44)
+- [Greg Isenberg](greg-isenberg/README.md) (45)
 - [Hung-yi Lee](hung-yi-lee/README.md) (5)
 - [Koji Yang](koji-yang/README.md) (30)
 - [Latent Space](latent-space/README.md) (53)
