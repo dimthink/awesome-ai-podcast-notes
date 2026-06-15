@@ -1,5 +1,53 @@
 [
   {
+    "id": "7eh9C3TUotc",
+    "video_id": "7eh9C3TUotc",
+    "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-06-14",
+    "source_url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+    "notion_url": "",
+    "tags": [
+      "产品设计",
+      "创业",
+      "社交网络",
+      "AI",
+      "框架"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 9774,
+    "duration": "1:39:23",
+    "duration_seconds": 5963,
+    "path": "channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md",
+    "structured_path": "channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.transcript.md"
+  },
+  {
+    "id": "Qj71N0tBzRo",
+    "video_id": "Qj71N0tBzRo",
+    "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+    "channel": "AI Explained",
+    "published": "2026-06-14",
+    "source_url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "Anthropic",
+      "出口管制",
+      "科技政治",
+      "前沿模型"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 6521,
+    "duration": "13:21",
+    "duration_seconds": 801,
+    "path": "channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.md",
+    "structured_path": "channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.structured.md",
+    "transcript_path": "channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.transcript.md"
+  },
+  {
     "id": "zeVuhlKWRfI",
     "video_id": "zeVuhlKWRfI",
     "title": "Why the Government Just Killed Claude Fable 5",

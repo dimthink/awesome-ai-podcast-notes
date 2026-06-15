@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-34 notes in this channel.
+35 notes in this channel.
 
-本频道共 34 篇。
+本频道共 35 篇。
 
+- 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
 - 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
 - 2026-05-31 · [A rational conversation on where AI is actually going | Benedict Evans](2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.md)
 - 2026-05-24 · [The AI paradox: More automation, more humans, more work | Dan Shipper](2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.md)

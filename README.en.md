@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 659 |
+| Notes | 661 |
 | Channels | 16 |
-| Structured notes | 336 |
-| Raw transcripts | 619 |
+| Structured notes | 338 |
+| Raw transcripts | 621 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-06-13 |
-| Archive updated | 2026-06-14 |
+| Latest source date | 2026-06-14 |
+| Archive updated | 2026-06-15 |
 
 Each episode can include up to three versions:
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 34 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 35 notes
 
+- 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
 - 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
 - 2026-05-31 · [A rational conversation on where AI is actually going | Benedict Evans](channels/lenny's-podcast/2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.md)
-- 2026-05-24 · [The AI paradox: More automation, more humans, more work | Dan Shipper](channels/lenny's-podcast/2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 33 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## Latest Updates
+
+### 2026-06-14
+
+- [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md) · Lenny's Podcast
+- [Claude Fable Blocked - 11 Quiet Details on What’s Next](channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.md) · AI Explained
 
 ### 2026-06-13
 
@@ -119,11 +124,6 @@ Each episode can include up to three versions:
 ### 2026-06-07
 
 - [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md) · Lenny's Podcast
-
-### 2026-06-06
-
-- [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md) · Latent Space
-- [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](channels/riley-brown/2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md) · Riley Brown
 
 ## Data
 

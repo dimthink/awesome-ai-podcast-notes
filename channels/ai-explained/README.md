@@ -1,9 +1,10 @@
 # AI Explained
 
-23 notes in this channel.
+24 notes in this channel.
 
-本频道共 23 篇。
+本频道共 24 篇。
 
+- 2026-06-14 · [Claude Fable Blocked - 11 Quiet Details on What’s Next](2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.md)
 - 2026-06-10 · [Claude Fable 5 - Full 319 page Breakdown](2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md)
 - 2026-05-29 · [New Claude Opus 4.8: 15 Things You May’ve Missed](2026-05-29-new-claude-opus-4.8-15-things-you-may’ve-missed-aJvP3nXWkwM.md)
 - 2026-05-20 · [Two Rival Bets on AGI: Google I/O Highlights](2026-05-20-two-rival-bets-on-agi-google-i-o-highlights-o_av1b9rs2g.md)

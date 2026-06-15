@@ -1,5 +1,53 @@
 [
   {
+    "id": "7eh9C3TUotc",
+    "video_id": "7eh9C3TUotc",
+    "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-06-14",
+    "source_url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+    "notion_url": "",
+    "tags": [
+      "产品设计",
+      "创业",
+      "社交网络",
+      "AI",
+      "框架"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 9774,
+    "duration": "1:39:23",
+    "duration_seconds": 5963,
+    "path": "channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md",
+    "structured_path": "channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.transcript.md"
+  },
+  {
+    "id": "Qj71N0tBzRo",
+    "video_id": "Qj71N0tBzRo",
+    "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+    "channel": "AI Explained",
+    "published": "2026-06-14",
+    "source_url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "Anthropic",
+      "出口管制",
+      "科技政治",
+      "前沿模型"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 6521,
+    "duration": "13:21",
+    "duration_seconds": 801,
+    "path": "channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.md",
+    "structured_path": "channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.structured.md",
+    "transcript_path": "channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.transcript.md"
+  },
+  {
     "id": "zeVuhlKWRfI",
     "video_id": "zeVuhlKWRfI",
     "title": "Why the Government Just Killed Claude Fable 5",
@@ -923,41 +971,5 @@
     "path": "channels/hung-yi-lee/2026-05-24-ai-要跨越盧比孔河了嗎-自我成長的-ai-離我們多遠-(下集)-cQLKVzbwN7I.md",
     "structured_path": "channels/hung-yi-lee/2026-05-24-ai-要跨越盧比孔河了嗎-自我成長的-ai-離我們多遠-(下集)-cQLKVzbwN7I.structured.md",
     "transcript_path": "channels/hung-yi-lee/2026-05-24-ai-要跨越盧比孔河了嗎-自我成長的-ai-離我們多遠-(下集)-cQLKVzbwN7I.transcript.md"
-  },
-  {
-    "id": "52ltebR4Jnw",
-    "video_id": "52ltebR4Jnw",
-    "title": "AI Agents: They Run for 24+ Hours NOW (Codex & Claude)",
-    "channel": "Riley Brown",
-    "published": "2026-05-23",
-    "source_url": "https://www.youtube.com/watch?v=52ltebR4Jnw",
-    "notion_url": "",
-    "tags": [],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 13586,
-    "duration": "26:45",
-    "duration_seconds": 1605,
-    "path": "channels/riley-brown/2026-05-23-ai-agents-they-run-for-24+-hours-now-(codex-&-claude)-52ltebR4Jnw.md",
-    "structured_path": "channels/riley-brown/2026-05-23-ai-agents-they-run-for-24+-hours-now-(codex-&-claude)-52ltebR4Jnw.structured.md",
-    "transcript_path": "channels/riley-brown/2026-05-23-ai-agents-they-run-for-24+-hours-now-(codex-&-claude)-52ltebR4Jnw.transcript.md"
-  },
-  {
-    "id": "bHcFb2W70xA",
-    "video_id": "bHcFb2W70xA",
-    "title": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意",
-    "channel": "硅谷101",
-    "published": "2026-05-21",
-    "source_url": "https://www.youtube.com/watch?v=bHcFb2W70xA",
-    "notion_url": "",
-    "tags": [],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 15156,
-    "duration": "1:05:37",
-    "duration_seconds": 3937,
-    "path": "channels/硅谷101/2026-05-21-e237-央视和fifa谈判纷争背后,体育赛事转播权的博弈与生意-bHcFb2W70xA.md",
-    "structured_path": "channels/硅谷101/2026-05-21-e237-央视和fifa谈判纷争背后,体育赛事转播权的博弈与生意-bHcFb2W70xA.structured.md",
-    "transcript_path": "channels/硅谷101/2026-05-21-e237-央视和fifa谈判纷争背后,体育赛事转播权的博弈与生意-bHcFb2W70xA.transcript.md"
   }
 ]

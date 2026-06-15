@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-14](2026/06/2026-06-14.md) · 2 篇
+
+- [Claude Fable Blocked - 11 Quiet Details on What’s Next](../channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.md) · AI Explained
+- [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](../channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md) · Lenny's Podcast
+
 ## [2026-06-13](2026/06/2026-06-13.md) · 3 篇
 
 - [Claude Fable 5 is BANNED. What to do?](../channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md) · Greg Isenberg

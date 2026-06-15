@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-659-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-661-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 659 |
+| 笔记 | 661 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 336 |
-| 原始文稿 | 619 |
+| 结构化文稿 | 338 |
+| 原始文稿 | 621 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-06-13 |
-| 仓库更新日期 | 2026-06-14 |
+| 最新来源日期 | 2026-06-14 |
+| 仓库更新日期 | 2026-06-15 |
 
 ## 适合谁
 
@@ -80,11 +80,11 @@
 - 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 34 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 35 篇
 
+- 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
 - 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
 - 2026-05-31 · [A rational conversation on where AI is actually going | Benedict Evans](channels/lenny's-podcast/2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.md)
-- 2026-05-24 · [The AI paradox: More automation, more humans, more work | Dan Shipper](channels/lenny's-podcast/2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 33 篇
 
@@ -93,6 +93,11 @@
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## 最新更新
+
+### 2026-06-14
+
+- [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md) · Lenny's Podcast
+- [Claude Fable Blocked - 11 Quiet Details on What’s Next](channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.md) · AI Explained
 
 ### 2026-06-13
 
@@ -130,11 +135,6 @@
 ### 2026-06-07
 
 - [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md) · Lenny's Podcast
-
-### 2026-06-06
-
-- [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md) · Latent Space
-- [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](channels/riley-brown/2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md) · Riley Brown
 
 ## 数据与自动更新
 
