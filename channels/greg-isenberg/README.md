@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-45 notes in this channel.
+46 notes in this channel.
 
-本频道共 45 篇。
+本频道共 46 篇。
 
+- 2026-06-15 · [How a TJ Maxx Cashier Built a $200K App With AI](2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md)
 - 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
 - 2026-06-11 · [You are using Claude Fable 5 wrong](2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
 - 2026-06-09 · [WTF Is an "AI Agent Loop"? Genius or Hype?](2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md)

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 661 |
+| Notes | 662 |
 | Channels | 16 |
-| Structured notes | 338 |
-| Raw transcripts | 621 |
+| Structured notes | 339 |
+| Raw transcripts | 622 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-06-14 |
-| Archive updated | 2026-06-15 |
+| Latest source date | 2026-06-15 |
+| Archive updated | 2026-06-16 |
 
 Each episode can include up to three versions:
 
@@ -45,17 +45,17 @@ Each episode can include up to three versions:
 - 2026-06-04 · [When AI Agents Run Businesses — Lukas Petersson and Axel Backlund of Andon Labs](channels/latent-space/2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.md)
 - 2026-06-03 · [Scaling Past Informal AI - Carina Hong, Axiom Math](channels/latent-space/2026-06-03-scaling-past-informal-ai-carina-hong,-axiom-math-abYcV5LHMG4.md)
 
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 46 notes
+
+- 2026-06-15 · [How a TJ Maxx Cashier Built a $200K App With AI](channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md)
+- 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
+- 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
+
 ### [a16z](channels/a16z/README.md) · 46 notes
 
 - 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
 - 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
 - 2026-05-27 · [Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z](channels/a16z/2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.md)
-
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 45 notes
-
-- 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
-- 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
-- 2026-06-09 · [WTF Is an "AI Agent Loop"? Genius or Hype?](channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 38 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## Latest Updates
+
+### 2026-06-15
+
+- [How a TJ Maxx Cashier Built a $200K App With AI](channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md) · Greg Isenberg
 
 ### 2026-06-14
 
@@ -120,10 +124,6 @@ Each episode can include up to three versions:
 - [Become AI Native in less than 60 mins](channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md) · Greg Isenberg
 - [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md) · 张晓珺
 - [144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式](channels/张晓珺/2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.md) · 张晓珺
-
-### 2026-06-07
-
-- [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md) · Lenny's Podcast
 
 ## Data
 

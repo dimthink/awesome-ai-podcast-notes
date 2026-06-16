@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-15](2026/06/2026-06-15.md) · 1 篇
+
+- [How a TJ Maxx Cashier Built a $200K App With AI](../channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md) · Greg Isenberg
+
 ## [2026-06-14](2026/06/2026-06-14.md) · 2 篇
 
 - [Claude Fable Blocked - 11 Quiet Details on What’s Next](../channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.md) · AI Explained

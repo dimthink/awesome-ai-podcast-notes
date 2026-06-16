@@ -1,5 +1,29 @@
 [
   {
+    "id": "LYomocq6Dpo",
+    "video_id": "LYomocq6Dpo",
+    "title": "How a TJ Maxx Cashier Built a $200K App With AI",
+    "channel": "Greg Isenberg",
+    "published": "2026-06-15",
+    "source_url": "https://www.youtube.com/watch?v=LYomocq6Dpo",
+    "notion_url": "",
+    "tags": [
+      "AI应用",
+      "独立开发",
+      "营销获客",
+      "Vibe Coding",
+      "商业思维"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 8495,
+    "duration": "48:10",
+    "duration_seconds": 2890,
+    "path": "channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md",
+    "structured_path": "channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.transcript.md"
+  },
+  {
     "id": "7eh9C3TUotc",
     "video_id": "7eh9C3TUotc",
     "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
@@ -953,23 +977,5 @@
     "path": "channels/lenny's-podcast/2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.md",
     "structured_path": "channels/lenny's-podcast/2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.structured.md",
     "transcript_path": "channels/lenny's-podcast/2026-05-24-the-ai-paradox-more-automation,-more-humans,-more-work-dan-shipper-4D3hDmGhFhA.transcript.md"
-  },
-  {
-    "id": "cQLKVzbwN7I",
-    "video_id": "cQLKVzbwN7I",
-    "title": "AI 要跨越盧比孔河了嗎？自我成長的 AI 離我們多遠 (下集)",
-    "channel": "Hung-yi Lee",
-    "published": "2026-05-24",
-    "source_url": "https://www.youtube.com/watch?v=cQLKVzbwN7I",
-    "notion_url": "",
-    "tags": [],
-    "rating": 5,
-    "language": "中文",
-    "word_count": 10994,
-    "duration": "1:09:09",
-    "duration_seconds": 4149,
-    "path": "channels/hung-yi-lee/2026-05-24-ai-要跨越盧比孔河了嗎-自我成長的-ai-離我們多遠-(下集)-cQLKVzbwN7I.md",
-    "structured_path": "channels/hung-yi-lee/2026-05-24-ai-要跨越盧比孔河了嗎-自我成長的-ai-離我們多遠-(下集)-cQLKVzbwN7I.structured.md",
-    "transcript_path": "channels/hung-yi-lee/2026-05-24-ai-要跨越盧比孔河了嗎-自我成長的-ai-離我們多遠-(下集)-cQLKVzbwN7I.transcript.md"
   }
 ]
