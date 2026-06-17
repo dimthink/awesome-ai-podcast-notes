@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-16](2026/06/2026-06-16.md) · 1 篇
+
+- [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](../channels/riley-brown/2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md) · Riley Brown
+
 ## [2026-06-15](2026/06/2026-06-15.md) · 1 篇
 
 - [How a TJ Maxx Cashier Built a $200K App With AI](../channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md) · Greg Isenberg

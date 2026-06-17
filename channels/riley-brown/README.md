@@ -1,9 +1,10 @@
 # Riley Brown
 
-38 notes in this channel.
+39 notes in this channel.
 
-本频道共 38 篇。
+本频道共 39 篇。
 
+- 2026-06-16 · [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md)
 - 2026-06-13 · [Why the Government Just Killed Claude Fable 5](2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md)
 - 2026-06-12 · [Claude Fable Will Change EVERYTHING (Here's Why)](2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.md)
 - 2026-06-06 · [Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?](2026-06-06-hermes-agent-new-super-app-and-deepseek-v4-catches-up-to-opus-4.8-DbeFq_uoaRs.md)
