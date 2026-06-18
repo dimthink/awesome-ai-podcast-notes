@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-18](2026/06/2026-06-18.md) · 2 篇
+
+- [9 AI Agent Trends To Get Ahead of 99% of People](../channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md) · Riley Brown
+- [E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](../channels/硅谷101/2026-06-18-e240-openai联手pe砸下40亿美元,聊聊硅谷最火新职位fde-XtUFLdUIqYg.md) · 硅谷101
+
+## [2026-06-17](2026/06/2026-06-17.md) · 1 篇
+
+- [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](../channels/latent-space/2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md) · Latent Space
+
 ## [2026-06-16](2026/06/2026-06-16.md) · 1 篇
 
 - [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](../channels/riley-brown/2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md) · Riley Brown

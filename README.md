@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-663-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-666-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 663 |
+| 笔记 | 666 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 340 |
-| 原始文稿 | 623 |
+| 结构化文稿 | 343 |
+| 原始文稿 | 626 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-06-16 |
-| 仓库更新日期 | 2026-06-17 |
+| 最新来源日期 | 2026-06-18 |
+| 仓库更新日期 | 2026-06-18 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 53 篇
+### [Latent Space](channels/latent-space/README.md) · 54 篇
 
+- 2026-06-17 · [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](channels/latent-space/2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md)
 - 2026-06-06 · [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md)
 - 2026-06-04 · [When AI Agents Run Businesses — Lukas Petersson and Axel Backlund of Andon Labs](channels/latent-space/2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.md)
-- 2026-06-03 · [Scaling Past Informal AI - Carina Hong, Axiom Math](channels/latent-space/2026-06-03-scaling-past-informal-ai-carina-hong,-axiom-math-abYcV5LHMG4.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 46 篇
 
@@ -68,11 +68,11 @@
 - 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
 - 2026-05-27 · [Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z](channels/a16z/2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 39 篇
+### [Riley Brown](channels/riley-brown/README.md) · 40 篇
 
+- 2026-06-18 · [9 AI Agent Trends To Get Ahead of 99% of People](channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md)
 - 2026-06-16 · [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](channels/riley-brown/2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md)
 - 2026-06-13 · [Why the Government Just Killed Claude Fable 5](channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md)
-- 2026-06-12 · [Claude Fable Will Change EVERYTHING (Here's Why)](channels/riley-brown/2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 36 篇
 
@@ -93,6 +93,15 @@
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## 最新更新
+
+### 2026-06-18
+
+- [E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](channels/硅谷101/2026-06-18-e240-openai联手pe砸下40亿美元,聊聊硅谷最火新职位fde-XtUFLdUIqYg.md) · 硅谷101
+- [9 AI Agent Trends To Get Ahead of 99% of People](channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md) · Riley Brown
+
+### 2026-06-17
+
+- [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](channels/latent-space/2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md) · Latent Space
 
 ### 2026-06-16
 
@@ -132,12 +141,6 @@
 ### 2026-06-09
 
 - [WTF Is an "AI Agent Loop"? Genius or Hype?](channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md) · Greg Isenberg
-
-### 2026-06-08
-
-- [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md) · a16z
-- [Become AI Native in less than 60 mins](channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md) · Greg Isenberg
-- [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md) · 张晓珺
 
 ## 数据与自动更新
 
