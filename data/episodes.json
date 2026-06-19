@@ -1,5 +1,53 @@
 [
   {
+    "id": "r8nuIaI3E4Y",
+    "video_id": "r8nuIaI3E4Y",
+    "title": "【十字路口】哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人【视频播客】",
+    "channel": "Koji Yang",
+    "published": "2026-06-18",
+    "source_url": "https://www.youtube.com/watch?v=r8nuIaI3E4Y",
+    "notion_url": "",
+    "tags": [
+      "因果AI",
+      "世界模型",
+      "巨身智能",
+      "创业",
+      "科研"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 12697,
+    "duration": "50:28",
+    "duration_seconds": 3028,
+    "path": "channels/koji-yang/2026-06-18-【十字路口】哪条路线,才能通往「世界模型」的终局-对话黄碧薇-aether-ai-创始人【视频播客】-r8nuIaI3E4Y.md",
+    "structured_path": "channels/koji-yang/2026-06-18-【十字路口】哪条路线,才能通往「世界模型」的终局-对话黄碧薇-aether-ai-创始人【视频播客】-r8nuIaI3E4Y.structured.md",
+    "transcript_path": "channels/koji-yang/2026-06-18-【十字路口】哪条路线,才能通往「世界模型」的终局-对话黄碧薇-aether-ai-创始人【视频播客】-r8nuIaI3E4Y.transcript.md"
+  },
+  {
+    "id": "h5dlIPM0X18",
+    "video_id": "h5dlIPM0X18",
+    "title": "Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP",
+    "channel": "Latent Space",
+    "published": "2026-06-18",
+    "source_url": "https://www.youtube.com/watch?v=h5dlIPM0X18",
+    "notion_url": "",
+    "tags": [
+      "AI基础设施",
+      "创业文化",
+      "系统设计",
+      "组织对齐",
+      "医疗创新"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 12118,
+    "duration": "1:00:37",
+    "duration_seconds": 3637,
+    "path": "channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md",
+    "structured_path": "channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.structured.md",
+    "transcript_path": "channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.transcript.md"
+  },
+  {
     "id": "XtUFLdUIqYg",
     "video_id": "XtUFLdUIqYg",
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",

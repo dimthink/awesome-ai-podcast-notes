@@ -1,9 +1,10 @@
 # Latent Space
 
-54 notes in this channel.
+55 notes in this channel.
 
-本频道共 54 篇。
+本频道共 55 篇。
 
+- 2026-06-18 · [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md)
 - 2026-06-17 · [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md)
 - 2026-06-06 · [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md)
 - 2026-06-04 · [When AI Agents Run Businesses — Lukas Petersson and Axel Backlund of Andon Labs](2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.md)

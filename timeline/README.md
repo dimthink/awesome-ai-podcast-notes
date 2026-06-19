@@ -6,8 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-06-18](2026/06/2026-06-18.md) · 2 篇
+## [2026-06-18](2026/06/2026-06-18.md) · 4 篇
 
+- [【十字路口】哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人【视频播客】](../channels/koji-yang/2026-06-18-【十字路口】哪条路线,才能通往「世界模型」的终局-对话黄碧薇-aether-ai-创始人【视频播客】-r8nuIaI3E4Y.md) · Koji Yang
+- [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](../channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md) · Latent Space
 - [9 AI Agent Trends To Get Ahead of 99% of People](../channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md) · Riley Brown
 - [E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](../channels/硅谷101/2026-06-18-e240-openai联手pe砸下40亿美元,聊聊硅谷最火新职位fde-XtUFLdUIqYg.md) · 硅谷101
 

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 666 |
+| Notes | 668 |
 | Channels | 16 |
-| Structured notes | 343 |
-| Raw transcripts | 626 |
+| Structured notes | 345 |
+| Raw transcripts | 628 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-06-18 |
-| Archive updated | 2026-06-18 |
+| Archive updated | 2026-06-19 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 54 notes
+### [Latent Space](channels/latent-space/README.md) · 55 notes
 
+- 2026-06-18 · [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md)
 - 2026-06-17 · [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](channels/latent-space/2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md)
 - 2026-06-06 · [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md)
-- 2026-06-04 · [When AI Agents Run Businesses — Lukas Petersson and Axel Backlund of Andon Labs](channels/latent-space/2026-06-04-when-ai-agents-run-businesses-—-lukas-petersson-and-axel-backlund-of-andon-labs-T8u7wOXhDb0.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 46 notes
 
@@ -85,6 +85,8 @@ Each episode can include up to three versions:
 
 ### 2026-06-18
 
+- [【十字路口】哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人【视频播客】](channels/koji-yang/2026-06-18-【十字路口】哪条路线,才能通往「世界模型」的终局-对话黄碧薇-aether-ai-创始人【视频播客】-r8nuIaI3E4Y.md) · Koji Yang
+- [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md) · Latent Space
 - [E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](channels/硅谷101/2026-06-18-e240-openai联手pe砸下40亿美元,聊聊硅谷最火新职位fde-XtUFLdUIqYg.md) · 硅谷101
 - [9 AI Agent Trends To Get Ahead of 99% of People](channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md) · Riley Brown
 
@@ -125,11 +127,6 @@ Each episode can include up to three versions:
 ### 2026-06-10
 
 - [【十字路口】高手怎么用 AI？——停止用 ChatGPT 吧｜Koji 对谈课代表立正（上）【视频播客】](channels/koji-yang/2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.md) · Koji Yang
-- [Claude Fable 5 - Full 319 page Breakdown](channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md) · AI Explained
-
-### 2026-06-09
-
-- [WTF Is an "AI Agent Loop"? Genius or Hype?](channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md) · Greg Isenberg
 
 ## Data
 
