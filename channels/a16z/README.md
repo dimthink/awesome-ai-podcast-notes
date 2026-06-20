@@ -1,9 +1,10 @@
 # a16z
 
-46 notes in this channel.
+47 notes in this channel.
 
-本频道共 46 篇。
+本频道共 47 篇。
 
+- 2026-06-19 · [The Media Game Has Changed](2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
 - 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
 - 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
 - 2026-05-27 · [Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z](2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.md)

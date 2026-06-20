@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-668-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-669-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 668 |
+| 笔记 | 669 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 345 |
-| 原始文稿 | 628 |
+| 结构化文稿 | 346 |
+| 原始文稿 | 629 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-06-18 |
-| 仓库更新日期 | 2026-06-19 |
+| 最新来源日期 | 2026-06-19 |
+| 仓库更新日期 | 2026-06-20 |
 
 ## 适合谁
 
@@ -56,17 +56,17 @@
 - 2026-06-17 · [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](channels/latent-space/2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md)
 - 2026-06-06 · [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md)
 
+### [a16z](channels/a16z/README.md) · 47 篇
+
+- 2026-06-19 · [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
+- 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
+- 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
+
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 46 篇
 
 - 2026-06-15 · [How a TJ Maxx Cashier Built a $200K App With AI](channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md)
 - 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
 - 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
-
-### [a16z](channels/a16z/README.md) · 46 篇
-
-- 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
-- 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
-- 2026-05-27 · [Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z](channels/a16z/2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 40 篇
 
@@ -93,6 +93,10 @@
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## 最新更新
+
+### 2026-06-19
+
+- [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md) · a16z
 
 ### 2026-06-18
 
@@ -134,10 +138,6 @@
 
 - [【十字路口】2026 年过去一半了，我对 AI 投资的观察与思考｜Koji 对谈课代表立正（下）【视频播客】](channels/koji-yang/2026-06-11-【十字路口】2026-年过去一半了,我对-ai-投资的观察与思考-koji-对谈课代表立正(下)【视频播客】-20JIbw45HLM.md) · Koji Yang
 - [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md) · Greg Isenberg
-
-### 2026-06-10
-
-- [【十字路口】高手怎么用 AI？——停止用 ChatGPT 吧｜Koji 对谈课代表立正（上）【视频播客】](channels/koji-yang/2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.md) · Koji Yang
 
 ## 数据与自动更新
 

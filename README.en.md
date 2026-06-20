@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 668 |
+| Notes | 669 |
 | Channels | 16 |
-| Structured notes | 345 |
-| Raw transcripts | 628 |
+| Structured notes | 346 |
+| Raw transcripts | 629 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-06-18 |
-| Archive updated | 2026-06-19 |
+| Latest source date | 2026-06-19 |
+| Archive updated | 2026-06-20 |
 
 Each episode can include up to three versions:
 
@@ -45,17 +45,17 @@ Each episode can include up to three versions:
 - 2026-06-17 · [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](channels/latent-space/2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md)
 - 2026-06-06 · [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md)
 
+### [a16z](channels/a16z/README.md) · 47 notes
+
+- 2026-06-19 · [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
+- 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
+- 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
+
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 46 notes
 
 - 2026-06-15 · [How a TJ Maxx Cashier Built a $200K App With AI](channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md)
 - 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
 - 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
-
-### [a16z](channels/a16z/README.md) · 46 notes
-
-- 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
-- 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
-- 2026-05-27 · [Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z](channels/a16z/2026-05-27-private-markets,-software-repricing-and-capital-allocation-marc-rowan-on-a16z-oYK_MmZW9XI.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 40 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## Latest Updates
+
+### 2026-06-19
+
+- [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md) · a16z
 
 ### 2026-06-18
 
@@ -123,10 +127,6 @@ Each episode can include up to three versions:
 
 - [【十字路口】2026 年过去一半了，我对 AI 投资的观察与思考｜Koji 对谈课代表立正（下）【视频播客】](channels/koji-yang/2026-06-11-【十字路口】2026-年过去一半了,我对-ai-投资的观察与思考-koji-对谈课代表立正(下)【视频播客】-20JIbw45HLM.md) · Koji Yang
 - [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md) · Greg Isenberg
-
-### 2026-06-10
-
-- [【十字路口】高手怎么用 AI？——停止用 ChatGPT 吧｜Koji 对谈课代表立正（上）【视频播客】](channels/koji-yang/2026-06-10-【十字路口】高手怎么用-ai-——停止用-chatgpt-吧-koji-对谈课代表立正(上)【视频播客】-4hi93cDfVls.md) · Koji Yang
 
 ## Data
 
