@@ -1,9 +1,10 @@
 # Riley Brown
 
-40 notes in this channel.
+41 notes in this channel.
 
-本频道共 40 篇。
+本频道共 41 篇。
 
+- 2026-06-21 · [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md)
 - 2026-06-18 · [9 AI Agent Trends To Get Ahead of 99% of People](2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md)
 - 2026-06-16 · [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md)
 - 2026-06-13 · [Why the Government Just Killed Claude Fable 5](2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md)

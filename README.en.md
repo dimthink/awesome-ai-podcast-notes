@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 669 |
+| Notes | 673 |
 | Channels | 16 |
-| Structured notes | 346 |
-| Raw transcripts | 629 |
+| Structured notes | 350 |
+| Raw transcripts | 633 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-06-19 |
-| Archive updated | 2026-06-20 |
+| Latest source date | 2026-06-22 |
+| Archive updated | 2026-06-22 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 55 notes
+### [Latent Space](channels/latent-space/README.md) · 56 notes
 
+- 2026-06-21 · [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](channels/latent-space/2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md)
 - 2026-06-18 · [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md)
 - 2026-06-17 · [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](channels/latent-space/2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md)
-- 2026-06-06 · [⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai](channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md)
 
 ### [a16z](channels/a16z/README.md) · 47 notes
 
@@ -57,23 +57,23 @@ Each episode can include up to three versions:
 - 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
 - 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 40 notes
+### [Riley Brown](channels/riley-brown/README.md) · 41 notes
 
+- 2026-06-21 · [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](channels/riley-brown/2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md)
 - 2026-06-18 · [9 AI Agent Trends To Get Ahead of 99% of People](channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md)
 - 2026-06-16 · [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](channels/riley-brown/2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md)
-- 2026-06-13 · [Why the Government Just Killed Claude Fable 5](channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md)
+
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 36 notes
+
+- 2026-06-21 · [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md)
+- 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
+- 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 36 notes
 
 - 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
 - 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
-
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 35 notes
-
-- 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
-- 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
-- 2026-05-31 · [A rational conversation on where AI is actually going | Benedict Evans](channels/lenny's-podcast/2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 33 notes
 
@@ -82,6 +82,16 @@ Each episode can include up to three versions:
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## Latest Updates
+
+### 2026-06-22
+
+- [【十字路口】对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局【视频播客】](channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.md) · Koji Yang
+
+### 2026-06-21
+
+- [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](channels/latent-space/2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md) · Latent Space
+- [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md) · Lenny's Podcast
+- [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](channels/riley-brown/2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md) · Riley Brown
 
 ### 2026-06-19
 
@@ -120,13 +130,6 @@ Each episode can include up to three versions:
 ### 2026-06-12
 
 - [E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？](channels/硅谷101/2026-06-12-e239-spacex要让太空算力从科幻走向现实,但它划算吗-bWMVVLmpZGI.md) · 硅谷101
-- [Claude Fable Will Change EVERYTHING (Here's Why)](channels/riley-brown/2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.md) · Riley Brown
-- [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md) · 张晓珺
-
-### 2026-06-11
-
-- [【十字路口】2026 年过去一半了，我对 AI 投资的观察与思考｜Koji 对谈课代表立正（下）【视频播客】](channels/koji-yang/2026-06-11-【十字路口】2026-年过去一半了,我对-ai-投资的观察与思考-koji-对谈课代表立正(下)【视频播客】-20JIbw45HLM.md) · Koji Yang
-- [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md) · Greg Isenberg
 
 ## Data
 
