@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-673-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-676-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 673 |
+| 笔记 | 676 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 350 |
-| 原始文稿 | 633 |
+| 结构化文稿 | 353 |
+| 原始文稿 | 636 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-06-22 |
-| 仓库更新日期 | 2026-06-22 |
+| 仓库更新日期 | 2026-06-23 |
 
 ## 适合谁
 
@@ -50,17 +50,17 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 56 篇
+### [Latent Space](channels/latent-space/README.md) · 57 篇
 
+- 2026-06-22 · [AI Security After Codex and Claude Code — Zico Kolter & Matt Fredrikson, Gray Swan](channels/latent-space/2026-06-22-ai-security-after-codex-and-claude-code-—-zico-kolter-&-matt-fredrikson,-gray-swan-j8BAficRjEc.md)
 - 2026-06-21 · [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](channels/latent-space/2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md)
 - 2026-06-18 · [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md)
-- 2026-06-17 · [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](channels/latent-space/2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md)
 
-### [a16z](channels/a16z/README.md) · 47 篇
+### [a16z](channels/a16z/README.md) · 48 篇
 
+- 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 - 2026-06-19 · [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
 - 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
-- 2026-05-29 · [The Rule for Picking AI Winners | The a16z Show](channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 46 篇
 
@@ -97,6 +97,9 @@
 ### 2026-06-22
 
 - [【十字路口】对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局【视频播客】](channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.md) · Koji Yang
+- [When Rome Rioted for More Nepotism – Ada Palmer](channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md) · Dwarkesh Patel
+- [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md) · a16z
+- [AI Security After Codex and Claude Code — Zico Kolter & Matt Fredrikson, Gray Swan](channels/latent-space/2026-06-22-ai-security-after-codex-and-claude-code-—-zico-kolter-&-matt-fredrikson,-gray-swan-j8BAficRjEc.md) · Latent Space
 
 ### 2026-06-21
 
@@ -135,12 +138,6 @@
 ### 2026-06-13
 
 - [Why the Government Just Killed Claude Fable 5](channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md) · Riley Brown
-- [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md) · 张晓珺
-- [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md) · Greg Isenberg
-
-### 2026-06-12
-
-- [E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？](channels/硅谷101/2026-06-12-e239-spacex要让太空算力从科幻走向现实,但它划算吗-bWMVVLmpZGI.md) · 硅谷101
 
 ## 数据与自动更新
 

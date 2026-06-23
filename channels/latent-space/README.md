@@ -1,9 +1,10 @@
 # Latent Space
 
-56 notes in this channel.
+57 notes in this channel.
 
-本频道共 56 篇。
+本频道共 57 篇。
 
+- 2026-06-22 · [AI Security After Codex and Claude Code — Zico Kolter & Matt Fredrikson, Gray Swan](2026-06-22-ai-security-after-codex-and-claude-code-—-zico-kolter-&-matt-fredrikson,-gray-swan-j8BAficRjEc.md)
 - 2026-06-21 · [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md)
 - 2026-06-18 · [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md)
 - 2026-06-17 · [🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI](2026-06-17-🔬-the-limits-of-ai-in-science-why-we-need-self-driving-labs-—-joseph-krause,-radical-ai-4-sWFytOfRw.md)

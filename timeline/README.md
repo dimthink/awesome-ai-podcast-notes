@@ -6,9 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-06-22](2026/06/2026-06-22.md) · 1 篇
+## [2026-06-22](2026/06/2026-06-22.md) · 4 篇
 
+- [When Rome Rioted for More Nepotism – Ada Palmer](../channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md) · Dwarkesh Patel
 - [【十字路口】对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局【视频播客】](../channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.md) · Koji Yang
+- [AI Security After Codex and Claude Code — Zico Kolter & Matt Fredrikson, Gray Swan](../channels/latent-space/2026-06-22-ai-security-after-codex-and-claude-code-—-zico-kolter-&-matt-fredrikson,-gray-swan-j8BAficRjEc.md) · Latent Space
+- [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](../channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md) · a16z
 
 ## [2026-06-21](2026/06/2026-06-21.md) · 3 篇
 

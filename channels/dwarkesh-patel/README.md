@@ -1,9 +1,10 @@
 # Dwarkesh Patel
 
-10 notes in this channel.
+11 notes in this channel.
 
-本频道共 10 篇。
+本频道共 11 篇。
 
+- 2026-06-22 · [When Rome Rioted for More Nepotism – Ada Palmer](2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md)
 - 2026-05-19 · [Why Scientists Missed Recent Human Evolution – David Reich](2026-05-19-why-scientists-missed-recent-human-evolution-–-david-reich-hMNIlp--KZA.md)
 - 2026-05-18 · [How 3,800 DNA Sites Proved Us Wrong – David Reich](2026-05-18-how-3,800-dna-sites-proved-us-wrong-–-david-reich-dEYA-zKAPfc.md)
 - 2026-05-17 · [Did Modern Humans Help Make Neanderthals? – David Reich](2026-05-17-did-modern-humans-help-make-neanderthals-–-david-reich-TZeGzCLm_jk.md)
