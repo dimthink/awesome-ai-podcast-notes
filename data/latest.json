@@ -1,5 +1,53 @@
 [
   {
+    "id": "wxOZWD6wYVY",
+    "video_id": "wxOZWD6wYVY",
+    "title": "How On Policy Self Distillation Works - Sasha Rush",
+    "channel": "Dwarkesh Patel",
+    "published": "2026-06-23",
+    "source_url": "https://www.youtube.com/watch?v=wxOZWD6wYVY",
+    "notion_url": "",
+    "tags": [
+      "知识蒸馏",
+      "强化学习",
+      "自我蒸馏",
+      "文本反馈",
+      "模型训练"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 6837,
+    "duration": "13:15",
+    "duration_seconds": 795,
+    "path": "channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md",
+    "structured_path": "channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.structured.md",
+    "transcript_path": "channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.transcript.md"
+  },
+  {
+    "id": "xa-9O5cDm3c",
+    "video_id": "xa-9O5cDm3c",
+    "title": "GLM 5.2: Set Up Local AI with Cursor/Codex etc",
+    "channel": "Greg Isenberg",
+    "published": "2026-06-23",
+    "source_url": "https://www.youtube.com/watch?v=xa-9O5cDm3c",
+    "notion_url": "",
+    "tags": [
+      "本地AI",
+      "开源模型",
+      "GLM5.2",
+      "模型链",
+      "Token经济学"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 7136,
+    "duration": "22:45",
+    "duration_seconds": 1365,
+    "path": "channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md",
+    "structured_path": "channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.transcript.md"
+  },
+  {
     "id": "Ld_qyU2BX8A",
     "video_id": "Ld_qyU2BX8A",
     "title": "【十字路口】对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局【视频播客】",
@@ -1036,41 +1084,5 @@
     "path": "channels/riley-brown/2026-05-31-the-latest-codex-updates-and-the-truth-about-opus-4.8-84NkgiTcOdo.md",
     "structured_path": "channels/riley-brown/2026-05-31-the-latest-codex-updates-and-the-truth-about-opus-4.8-84NkgiTcOdo.structured.md",
     "transcript_path": "channels/riley-brown/2026-05-31-the-latest-codex-updates-and-the-truth-about-opus-4.8-84NkgiTcOdo.transcript.md"
-  },
-  {
-    "id": "BD3vLtWhT5A",
-    "video_id": "BD3vLtWhT5A",
-    "title": "A rational conversation on where AI is actually going | Benedict Evans",
-    "channel": "Lenny's Podcast",
-    "published": "2026-05-31",
-    "source_url": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
-    "notion_url": "",
-    "tags": [],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 11002,
-    "duration": "1:19:51",
-    "duration_seconds": 4791,
-    "path": "channels/lenny's-podcast/2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.md",
-    "structured_path": "channels/lenny's-podcast/2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.structured.md",
-    "transcript_path": "channels/lenny's-podcast/2026-05-31-a-rational-conversation-on-where-ai-is-actually-going-benedict-evans-BD3vLtWhT5A.transcript.md"
-  },
-  {
-    "id": "AiM9mZCmVPY",
-    "video_id": "AiM9mZCmVPY",
-    "title": "The Rule for Picking AI Winners | The a16z Show",
-    "channel": "a16z",
-    "published": "2026-05-29",
-    "source_url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
-    "notion_url": "",
-    "tags": [],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 10314,
-    "duration": "33:10",
-    "duration_seconds": 1990,
-    "path": "channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.md",
-    "structured_path": "channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.structured.md",
-    "transcript_path": "channels/a16z/2026-05-29-the-rule-for-picking-ai-winners-the-a16z-show-AiM9mZCmVPY.transcript.md"
   }
 ]

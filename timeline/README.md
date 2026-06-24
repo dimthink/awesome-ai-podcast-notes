@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-23](2026/06/2026-06-23.md) · 2 篇
+
+- [How On Policy Self Distillation Works - Sasha Rush](../channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md) · Dwarkesh Patel
+- [GLM 5.2: Set Up Local AI with Cursor/Codex etc](../channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md) · Greg Isenberg
+
 ## [2026-06-22](2026/06/2026-06-22.md) · 4 篇
 
 - [When Rome Rioted for More Nepotism – Ada Palmer](../channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md) · Dwarkesh Patel

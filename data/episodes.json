@@ -1,5 +1,53 @@
 [
   {
+    "id": "wxOZWD6wYVY",
+    "video_id": "wxOZWD6wYVY",
+    "title": "How On Policy Self Distillation Works - Sasha Rush",
+    "channel": "Dwarkesh Patel",
+    "published": "2026-06-23",
+    "source_url": "https://www.youtube.com/watch?v=wxOZWD6wYVY",
+    "notion_url": "",
+    "tags": [
+      "知识蒸馏",
+      "强化学习",
+      "自我蒸馏",
+      "文本反馈",
+      "模型训练"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 6837,
+    "duration": "13:15",
+    "duration_seconds": 795,
+    "path": "channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md",
+    "structured_path": "channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.structured.md",
+    "transcript_path": "channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.transcript.md"
+  },
+  {
+    "id": "xa-9O5cDm3c",
+    "video_id": "xa-9O5cDm3c",
+    "title": "GLM 5.2: Set Up Local AI with Cursor/Codex etc",
+    "channel": "Greg Isenberg",
+    "published": "2026-06-23",
+    "source_url": "https://www.youtube.com/watch?v=xa-9O5cDm3c",
+    "notion_url": "",
+    "tags": [
+      "本地AI",
+      "开源模型",
+      "GLM5.2",
+      "模型链",
+      "Token经济学"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 7136,
+    "duration": "22:45",
+    "duration_seconds": 1365,
+    "path": "channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md",
+    "structured_path": "channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.transcript.md"
+  },
+  {
     "id": "Ld_qyU2BX8A",
     "video_id": "Ld_qyU2BX8A",
     "title": "【十字路口】对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局【视频播客】",

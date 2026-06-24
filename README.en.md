@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 676 |
+| Notes | 678 |
 | Channels | 16 |
-| Structured notes | 353 |
-| Raw transcripts | 636 |
+| Structured notes | 355 |
+| Raw transcripts | 638 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-06-22 |
-| Archive updated | 2026-06-23 |
+| Latest source date | 2026-06-23 |
+| Archive updated | 2026-06-24 |
 
 Each episode can include up to three versions:
 
@@ -51,11 +51,11 @@ Each episode can include up to three versions:
 - 2026-06-19 · [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
 - 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 46 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 47 notes
 
+- 2026-06-23 · [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md)
 - 2026-06-15 · [How a TJ Maxx Cashier Built a $200K App With AI](channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md)
 - 2026-06-13 · [Claude Fable 5 is BANNED. What to do?](channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md)
-- 2026-06-11 · [You are using Claude Fable 5 wrong](channels/greg-isenberg/2026-06-11-you-are-using-claude-fable-5-wrong-vjdHAWvVCP4.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 41 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## Latest Updates
+
+### 2026-06-23
+
+- [How On Policy Self Distillation Works - Sasha Rush](channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md) · Dwarkesh Patel
+- [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md) · Greg Isenberg
 
 ### 2026-06-22
 
@@ -122,11 +127,6 @@ Each episode can include up to three versions:
 ### 2026-06-14
 
 - [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md) · Lenny's Podcast
-- [Claude Fable Blocked - 11 Quiet Details on What’s Next](channels/ai-explained/2026-06-14-claude-fable-blocked-11-quiet-details-on-what’s-next-Qj71N0tBzRo.md) · AI Explained
-
-### 2026-06-13
-
-- [Why the Government Just Killed Claude Fable 5](channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md) · Riley Brown
 
 ## Data
 
