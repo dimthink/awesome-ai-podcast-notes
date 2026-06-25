@@ -1,5 +1,56 @@
 [
   {
+    "id": "eSm_9tb5ZbY",
+    "video_id": "eSm_9tb5ZbY",
+    "title": "What It Actually Takes to Deploy a Voice Agent to a Fortune 500",
+    "channel": "Y Combinator",
+    "published": "2026-06-24",
+    "source_url": "https://www.youtube.com/watch?v=eSm_9tb5ZbY",
+    "notion_url": "",
+    "tags": [
+      "语音智能体",
+      "企业AI部署",
+      "评估与可观测性",
+      "创始人市场匹配",
+      "YC创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 11446,
+    "duration": "30:47",
+    "duration_seconds": 1847,
+    "path": "channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md",
+    "structured_path": "channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.structured.md",
+    "transcript_path": "channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.transcript.md"
+  },
+  {
+    "id": "Yp_u1NpbkJg",
+    "video_id": "Yp_u1NpbkJg",
+    "title": "The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin",
+    "channel": "Latent Space",
+    "published": "2026-06-24",
+    "source_url": "https://www.youtube.com/watch?v=Yp_u1NpbkJg",
+    "notion_url": "",
+    "tags": [
+      "Databricks",
+      "代理云",
+      "L-Tap",
+      "开源",
+      "数据库",
+      "AI工程",
+      "数据分析",
+      "AgentCloud"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 12141,
+    "duration": "1:10:06",
+    "duration_seconds": 4206,
+    "path": "channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md",
+    "structured_path": "channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.structured.md",
+    "transcript_path": "channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.transcript.md"
+  },
+  {
     "id": "wxOZWD6wYVY",
     "video_id": "wxOZWD6wYVY",
     "title": "How On Policy Self Distillation Works - Sasha Rush",
@@ -1048,41 +1099,5 @@
     "path": "channels/riley-brown/2026-06-01-unlock-95-of-notion-with-codex-YGWcFMR8gk8.md",
     "structured_path": "channels/riley-brown/2026-06-01-unlock-95-of-notion-with-codex-YGWcFMR8gk8.structured.md",
     "transcript_path": "channels/riley-brown/2026-06-01-unlock-95-of-notion-with-codex-YGWcFMR8gk8.transcript.md"
-  },
-  {
-    "id": "jPtQlILfkhA",
-    "video_id": "jPtQlILfkhA",
-    "title": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and Video Agents— Ethan He",
-    "channel": "Latent Space",
-    "published": "2026-06-01",
-    "source_url": "https://www.youtube.com/watch?v=jPtQlILfkhA",
-    "notion_url": "",
-    "tags": [],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 18795,
-    "duration": "1:44:43",
-    "duration_seconds": 6283,
-    "path": "channels/latent-space/2026-06-01-inside-xai-building-grok-imagine-in-3-months,-videogen-vs-world-models,-and-video-agents—-ethan-he-jPtQlILfkhA.md",
-    "structured_path": "channels/latent-space/2026-06-01-inside-xai-building-grok-imagine-in-3-months,-videogen-vs-world-models,-and-video-agents—-ethan-he-jPtQlILfkhA.structured.md",
-    "transcript_path": "channels/latent-space/2026-06-01-inside-xai-building-grok-imagine-in-3-months,-videogen-vs-world-models,-and-video-agents—-ethan-he-jPtQlILfkhA.transcript.md"
-  },
-  {
-    "id": "84NkgiTcOdo",
-    "video_id": "84NkgiTcOdo",
-    "title": "The Latest Codex Updates and The Truth about Opus 4.8",
-    "channel": "Riley Brown",
-    "published": "2026-05-31",
-    "source_url": "https://www.youtube.com/watch?v=84NkgiTcOdo",
-    "notion_url": "",
-    "tags": [],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 8643,
-    "duration": "26:58",
-    "duration_seconds": 1618,
-    "path": "channels/riley-brown/2026-05-31-the-latest-codex-updates-and-the-truth-about-opus-4.8-84NkgiTcOdo.md",
-    "structured_path": "channels/riley-brown/2026-05-31-the-latest-codex-updates-and-the-truth-about-opus-4.8-84NkgiTcOdo.structured.md",
-    "transcript_path": "channels/riley-brown/2026-05-31-the-latest-codex-updates-and-the-truth-about-opus-4.8-84NkgiTcOdo.transcript.md"
   }
 ]

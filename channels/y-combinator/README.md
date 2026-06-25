@@ -1,9 +1,10 @@
 # Y Combinator
 
-33 notes in this channel.
+34 notes in this channel.
 
-本频道共 33 篇。
+本频道共 34 篇。
 
+- 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)
 - 2026-05-20 · [The ERP for the AI Revolution is here](2026-05-20-the-erp-for-the-ai-revolution-is-here-X1NXnLRNIfM.md)
 - 2026-05-19 · [How to Build a Self-Improving Company with AI](2026-05-19-how-to-build-a-self-improving-company-with-ai-t-G67yKAHBQ.md)
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)

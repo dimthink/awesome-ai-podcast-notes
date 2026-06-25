@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 678 |
+| Notes | 680 |
 | Channels | 16 |
-| Structured notes | 355 |
-| Raw transcripts | 638 |
+| Structured notes | 357 |
+| Raw transcripts | 640 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-06-23 |
-| Archive updated | 2026-06-24 |
+| Latest source date | 2026-06-24 |
+| Archive updated | 2026-06-25 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 57 notes
+### [Latent Space](channels/latent-space/README.md) · 58 notes
 
+- 2026-06-24 · [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md)
 - 2026-06-22 · [AI Security After Codex and Claude Code — Zico Kolter & Matt Fredrikson, Gray Swan](channels/latent-space/2026-06-22-ai-security-after-codex-and-claude-code-—-zico-kolter-&-matt-fredrikson,-gray-swan-j8BAficRjEc.md)
 - 2026-06-21 · [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](channels/latent-space/2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md)
-- 2026-06-18 · [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md)
 
 ### [a16z](channels/a16z/README.md) · 48 notes
 
@@ -75,13 +75,18 @@ Each episode can include up to three versions:
 - 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 33 notes
+### [Y Combinator](channels/y-combinator/README.md) · 34 notes
 
+- 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)
 - 2026-05-20 · [The ERP for the AI Revolution is here](channels/y-combinator/2026-05-20-the-erp-for-the-ai-revolution-is-here-X1NXnLRNIfM.md)
 - 2026-05-19 · [How to Build a Self-Improving Company with AI](channels/y-combinator/2026-05-19-how-to-build-a-self-improving-company-with-ai-t-G67yKAHBQ.md)
-- 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](channels/y-combinator/2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)
 
 ## Latest Updates
+
+### 2026-06-24
+
+- [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md) · Y Combinator
+- [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md) · Latent Space
 
 ### 2026-06-23
 
@@ -119,14 +124,6 @@ Each episode can include up to three versions:
 ### 2026-06-16
 
 - [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](channels/riley-brown/2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md) · Riley Brown
-
-### 2026-06-15
-
-- [How a TJ Maxx Cashier Built a $200K App With AI](channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md) · Greg Isenberg
-
-### 2026-06-14
-
-- [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md) · Lenny's Podcast
 
 ## Data
 

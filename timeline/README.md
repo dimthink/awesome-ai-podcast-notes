@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-24](2026/06/2026-06-24.md) · 2 篇
+
+- [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](../channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md) · Latent Space
+- [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](../channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md) · Y Combinator
+
 ## [2026-06-23](2026/06/2026-06-23.md) · 2 篇
 
 - [How On Policy Self Distillation Works - Sasha Rush](../channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md) · Dwarkesh Patel
