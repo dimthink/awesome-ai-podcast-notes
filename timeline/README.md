@@ -6,6 +6,16 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-26](2026/06/2026-06-26.md) · 1 篇
+
+- [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](../channels/硅谷101/2026-06-26-e241-跑鞋技术迭代史-马拉松跑进2小时,靠人还是靠鞋-jy78g9D2DgA.md) · 硅谷101
+
+## [2026-06-25](2026/06/2026-06-25.md) · 3 篇
+
+- ["Learn AI” Is Bad Advice. Learn This Instead](../channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md) · Greg Isenberg
+- [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](../channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md) · Latent Space
+- [Rebuilding LatAm Banking](../channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md) · Y Combinator
+
 ## [2026-06-24](2026/06/2026-06-24.md) · 2 篇
 
 - [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](../channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md) · Latent Space

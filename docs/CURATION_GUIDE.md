@@ -14,15 +14,15 @@ Good sources are usually:
 ## Current Channel Coverage
 
 - 李弘毅: 253 notes
-- Latent Space: 58 notes
+- Latent Space: 59 notes
+- Greg Isenberg: 48 notes
 - a16z: 48 notes
-- Greg Isenberg: 47 notes
 - Riley Brown: 41 notes
 - Lenny's Podcast: 36 notes
 - 张晓珺: 36 notes
-- Y Combinator: 34 notes
+- Y Combinator: 35 notes
 - Koji Yang: 32 notes
-- 硅谷101: 29 notes
+- 硅谷101: 30 notes
 - AI Explained: 24 notes
 - Lex Fridman: 23 notes
 
