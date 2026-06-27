@@ -14,7 +14,7 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 - [Lex Fridman](lex-fridman/README.md) (23)
 - [Matthew Berman](matthew-berman/README.md) (1)
 - [Riley Brown](riley-brown/README.md) (41)
-- [Y Combinator](y-combinator/README.md) (35)
+- [Y Combinator](y-combinator/README.md) (36)
 - [a16z](a16z/README.md) (48)
 - [张晓珺](张晓珺/README.md) (36)
 - [李弘毅](李弘毅/README.md) (253)

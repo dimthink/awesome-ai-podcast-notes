@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 684 |
+| Notes | 685 |
 | Channels | 16 |
-| Structured notes | 361 |
-| Raw transcripts | 644 |
+| Structured notes | 362 |
+| Raw transcripts | 645 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-06-26 |
-| Archive updated | 2026-06-26 |
+| Archive updated | 2026-06-27 |
 
 Each episode can include up to three versions:
 
@@ -69,22 +69,23 @@ Each episode can include up to three versions:
 - 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
 - 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
 
+### [Y Combinator](channels/y-combinator/README.md) · 36 notes
+
+- 2026-06-26 · [How Warp Went From YC to a $60M Series B](channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
+- 2026-06-25 · [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
+- 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)
+
 ### [张晓珺](channels/张晓珺/README.md) · 36 notes
 
 - 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
 - 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 35 notes
-
-- 2026-06-25 · [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
-- 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)
-- 2026-05-20 · [The ERP for the AI Revolution is here](channels/y-combinator/2026-05-20-the-erp-for-the-ai-revolution-is-here-X1NXnLRNIfM.md)
-
 ## Latest Updates
 
 ### 2026-06-26
 
+- [How Warp Went From YC to a $60M Series B](channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md) · Y Combinator
 - [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](channels/硅谷101/2026-06-26-e241-跑鞋技术迭代史-马拉松跑进2小时,靠人还是靠鞋-jy78g9D2DgA.md) · 硅谷101
 
 ### 2026-06-25
@@ -123,7 +124,6 @@ Each episode can include up to three versions:
 ### 2026-06-18
 
 - [【十字路口】哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人【视频播客】](channels/koji-yang/2026-06-18-【十字路口】哪条路线,才能通往「世界模型」的终局-对话黄碧薇-aether-ai-创始人【视频播客】-r8nuIaI3E4Y.md) · Koji Yang
-- [Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP](channels/latent-space/2026-06-18-why-ai-labs-with-unlimited-gpus-still-fail-—-anjney-midha,-amp-h5dlIPM0X18.md) · Latent Space
 
 ## Data
 

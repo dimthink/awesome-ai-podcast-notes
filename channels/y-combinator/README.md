@@ -1,9 +1,10 @@
 # Y Combinator
 
-35 notes in this channel.
+36 notes in this channel.
 
-本频道共 35 篇。
+本频道共 36 篇。
 
+- 2026-06-26 · [How Warp Went From YC to a $60M Series B](2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
 - 2026-06-25 · [Rebuilding LatAm Banking](2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
 - 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)
 - 2026-05-20 · [The ERP for the AI Revolution is here](2026-05-20-the-erp-for-the-ai-revolution-is-here-X1NXnLRNIfM.md)

@@ -6,8 +6,9 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-06-26](2026/06/2026-06-26.md) · 1 篇
+## [2026-06-26](2026/06/2026-06-26.md) · 2 篇
 
+- [How Warp Went From YC to a $60M Series B](../channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md) · Y Combinator
 - [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](../channels/硅谷101/2026-06-26-e241-跑鞋技术迭代史-马拉松跑进2小时,靠人还是靠鞋-jy78g9D2DgA.md) · 硅谷101
 
 ## [2026-06-25](2026/06/2026-06-25.md) · 3 篇
