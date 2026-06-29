@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-06-29](2026/06/2026-06-29.md) · 1 篇
+
+- [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](../channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md) · Latent Space
+
+## [2026-06-28](2026/06/2026-06-28.md) · 2 篇
+
+- [【十字路口】我遇到了第一个真正想买的陪伴机器人！｜对话世博同学：越伴动力创始人【公路播客】](../channels/koji-yang/2026-06-28-【十字路口】我遇到了第一个真正想买的陪伴机器人!-对话世博同学-越伴动力创始人【公路播客】-xVtSYkKtPGI.md) · Koji Yang
+- [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](../channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md) · Lenny's Podcast
+
 ## [2026-06-26](2026/06/2026-06-26.md) · 2 篇
 
 - [How Warp Went From YC to a $60M Series B](../channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md) · Y Combinator

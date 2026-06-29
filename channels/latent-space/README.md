@@ -1,9 +1,10 @@
 # Latent Space
 
-59 notes in this channel.
+60 notes in this channel.
 
-本频道共 59 篇。
+本频道共 60 篇。
 
+- 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
 - 2026-06-25 · [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md)
 - 2026-06-24 · [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md)
 - 2026-06-22 · [AI Security After Codex and Claude Code — Zico Kolter & Matt Fredrikson, Gray Swan](2026-06-22-ai-security-after-codex-and-claude-code-—-zico-kolter-&-matt-fredrikson,-gray-swan-j8BAficRjEc.md)

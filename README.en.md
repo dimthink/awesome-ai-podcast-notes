@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 685 |
+| Notes | 688 |
 | Channels | 16 |
-| Structured notes | 362 |
-| Raw transcripts | 645 |
+| Structured notes | 365 |
+| Raw transcripts | 648 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-06-26 |
-| Archive updated | 2026-06-27 |
+| Latest source date | 2026-06-29 |
+| Archive updated | 2026-06-29 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 59 notes
+### [Latent Space](channels/latent-space/README.md) · 60 notes
 
+- 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
 - 2026-06-25 · [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md)
 - 2026-06-24 · [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md)
-- 2026-06-22 · [AI Security After Codex and Claude Code — Zico Kolter & Matt Fredrikson, Gray Swan](channels/latent-space/2026-06-22-ai-security-after-codex-and-claude-code-—-zico-kolter-&-matt-fredrikson,-gray-swan-j8BAficRjEc.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 48 notes
 
@@ -63,11 +63,11 @@ Each episode can include up to three versions:
 - 2026-06-18 · [9 AI Agent Trends To Get Ahead of 99% of People](channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md)
 - 2026-06-16 · [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](channels/riley-brown/2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 36 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 37 notes
 
+- 2026-06-28 · [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md)
 - 2026-06-21 · [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md)
 - 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
-- 2026-06-07 · [Tony Fadell: How to build real taste (and why AI makes it matter more)](channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 36 notes
 
@@ -82,6 +82,15 @@ Each episode can include up to three versions:
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## Latest Updates
+
+### 2026-06-29
+
+- [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md) · Latent Space
+
+### 2026-06-28
+
+- [【十字路口】我遇到了第一个真正想买的陪伴机器人！｜对话世博同学：越伴动力创始人【公路播客】](channels/koji-yang/2026-06-28-【十字路口】我遇到了第一个真正想买的陪伴机器人!-对话世博同学-越伴动力创始人【公路播客】-xVtSYkKtPGI.md) · Koji Yang
+- [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md) · Lenny's Podcast
 
 ### 2026-06-26
 
@@ -115,15 +124,6 @@ Each episode can include up to three versions:
 
 - [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](channels/latent-space/2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md) · Latent Space
 - [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md) · Lenny's Podcast
-- [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](channels/riley-brown/2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md) · Riley Brown
-
-### 2026-06-19
-
-- [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md) · a16z
-
-### 2026-06-18
-
-- [【十字路口】哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人【视频播客】](channels/koji-yang/2026-06-18-【十字路口】哪条路线,才能通往「世界模型」的终局-对话黄碧薇-aether-ai-创始人【视频播客】-r8nuIaI3E4Y.md) · Koji Yang
 
 ## Data
 
