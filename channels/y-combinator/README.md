@@ -1,9 +1,10 @@
 # Y Combinator
 
-36 notes in this channel.
+37 notes in this channel.
 
-本频道共 36 篇。
+本频道共 37 篇。
 
+- 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 - 2026-06-26 · [How Warp Went From YC to a $60M Series B](2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
 - 2026-06-25 · [Rebuilding LatAm Banking](2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
 - 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)

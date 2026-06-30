@@ -6,9 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-06-29](2026/06/2026-06-29.md) · 1 篇
+## [2026-06-29](2026/06/2026-06-29.md) · 2 篇
 
 - [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](../channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md) · Latent Space
+- [The AI Agents Helping Home Services Book More Jobs](../channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md) · Y Combinator
 
 ## [2026-06-28](2026/06/2026-06-28.md) · 2 篇
 

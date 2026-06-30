@@ -19,7 +19,7 @@ Good sources are usually:
 - a16z: 48 notes
 - Riley Brown: 41 notes
 - Lenny's Podcast: 37 notes
-- Y Combinator: 36 notes
+- Y Combinator: 37 notes
 - 张晓珺: 36 notes
 - Koji Yang: 33 notes
 - 硅谷101: 30 notes

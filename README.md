@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-688-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-689-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 688 |
+| 笔记 | 689 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 365 |
-| 原始文稿 | 648 |
+| 结构化文稿 | 366 |
+| 原始文稿 | 649 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-06-29 |
-| 仓库更新日期 | 2026-06-29 |
+| 仓库更新日期 | 2026-06-30 |
 
 ## 适合谁
 
@@ -80,11 +80,11 @@
 - 2026-06-21 · [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md)
 - 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 36 篇
+### [Y Combinator](channels/y-combinator/README.md) · 37 篇
 
+- 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 - 2026-06-26 · [How Warp Went From YC to a $60M Series B](channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
 - 2026-06-25 · [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
-- 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 36 篇
 
@@ -97,6 +97,7 @@
 ### 2026-06-29
 
 - [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md) · Latent Space
+- [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md) · Y Combinator
 
 ### 2026-06-28
 
@@ -134,7 +135,6 @@
 ### 2026-06-21
 
 - [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](channels/latent-space/2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md) · Latent Space
-- [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md) · Lenny's Podcast
 
 ## 数据与自动更新
 

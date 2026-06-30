@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 688 |
+| Notes | 689 |
 | Channels | 16 |
-| Structured notes | 365 |
-| Raw transcripts | 648 |
+| Structured notes | 366 |
+| Raw transcripts | 649 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-06-29 |
-| Archive updated | 2026-06-29 |
+| Archive updated | 2026-06-30 |
 
 Each episode can include up to three versions:
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-06-21 · [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md)
 - 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 36 notes
+### [Y Combinator](channels/y-combinator/README.md) · 37 notes
 
+- 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 - 2026-06-26 · [How Warp Went From YC to a $60M Series B](channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
 - 2026-06-25 · [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
-- 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 36 notes
 
@@ -86,6 +86,7 @@ Each episode can include up to three versions:
 ### 2026-06-29
 
 - [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md) · Latent Space
+- [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md) · Y Combinator
 
 ### 2026-06-28
 
@@ -123,7 +124,6 @@ Each episode can include up to three versions:
 ### 2026-06-21
 
 - [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](channels/latent-space/2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md) · Latent Space
-- [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md) · Lenny's Podcast
 
 ## Data
 
