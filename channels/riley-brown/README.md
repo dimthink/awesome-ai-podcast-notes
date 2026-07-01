@@ -1,9 +1,10 @@
 # Riley Brown
 
-41 notes in this channel.
+42 notes in this channel.
 
-本频道共 41 篇。
+本频道共 42 篇。
 
+- 2026-07-01 · [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md)
 - 2026-06-21 · [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md)
 - 2026-06-18 · [9 AI Agent Trends To Get Ahead of 99% of People](2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md)
 - 2026-06-16 · [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md)

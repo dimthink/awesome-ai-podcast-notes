@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-689-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-692-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 689 |
+| 笔记 | 692 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 366 |
-| 原始文稿 | 649 |
+| 结构化文稿 | 369 |
+| 原始文稿 | 652 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-06-29 |
-| 仓库更新日期 | 2026-06-30 |
+| 最新来源日期 | 2026-07-01 |
+| 仓库更新日期 | 2026-07-01 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 60 篇
+### [Latent Space](channels/latent-space/README.md) · 61 篇
 
+- 2026-06-30 · [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](channels/latent-space/2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md)
 - 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
 - 2026-06-25 · [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md)
-- 2026-06-24 · [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 48 篇
 
@@ -68,11 +68,11 @@
 - 2026-06-19 · [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
 - 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 41 篇
+### [Riley Brown](channels/riley-brown/README.md) · 42 篇
 
+- 2026-07-01 · [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md)
 - 2026-06-21 · [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](channels/riley-brown/2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md)
 - 2026-06-18 · [9 AI Agent Trends To Get Ahead of 99% of People](channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md)
-- 2026-06-16 · [SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.](channels/riley-brown/2026-06-16-spacex-just-bought-cursor-for-$60b.-it’s-about-to-take-over-LSpEP9N_7iY.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 37 篇
 
@@ -93,6 +93,15 @@
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## 最新更新
+
+### 2026-07-01
+
+- [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md) · Riley Brown
+
+### 2026-06-30
+
+- [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](channels/latent-space/2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md) · Latent Space
+- [The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498](channels/lex-fridman/2026-06-30-the-rise-and-fall-of-the-roman-empire-and-the-byzantine-empire-lex-fridman-podcast-498-pv1TUJSEM2k.md) · Lex Fridman
 
 ### 2026-06-29
 
@@ -129,12 +138,6 @@
 
 - [【十字路口】对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局【视频播客】](channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.md) · Koji Yang
 - [When Rome Rioted for More Nepotism – Ada Palmer](channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md) · Dwarkesh Patel
-- [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md) · a16z
-- [AI Security After Codex and Claude Code — Zico Kolter & Matt Fredrikson, Gray Swan](channels/latent-space/2026-06-22-ai-security-after-codex-and-claude-code-—-zico-kolter-&-matt-fredrikson,-gray-swan-j8BAficRjEc.md) · Latent Space
-
-### 2026-06-21
-
-- [⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai](channels/latent-space/2026-06-21-⚡️every-product-of-the-future-will-be-a-living-system-—-ronak-malde,-trajectory.ai-DcvgPEApHT8.md) · Latent Space
 
 ## 数据与自动更新
 

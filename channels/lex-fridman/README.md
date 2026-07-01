@@ -1,9 +1,10 @@
 # Lex Fridman
 
-23 notes in this channel.
+24 notes in this channel.
 
-本频道共 23 篇。
+本频道共 24 篇。
 
+- 2026-06-30 · [The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498](2026-06-30-the-rise-and-fall-of-the-roman-empire-and-the-byzantine-empire-lex-fridman-podcast-498-pv1TUJSEM2k.md)
 - 2026-05-29 · [Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497](2026-05-29-biggest-mysteries-in-physics-antimatter,-dark-energy-&-toe-don-lincoln-lex-fridman-podcast-497-1M3Vdl6DRkU.md)
 - 2026-05-06 · [FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496](2026-05-06-ffmpeg-the-incredible-technology-behind-video-on-the-internet-lex-fridman-podcast-496-nepKKz-MzFM.md)
 - 2026-04-09 · [Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495](2026-04-09-vikings,-ragnar,-berserkers,-valhalla-&-the-warriors-of-the-viking-age-lex-fridman-podcast-495-iKx3gAODybU.md)

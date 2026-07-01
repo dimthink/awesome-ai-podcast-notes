@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-01](2026/07/2026-07-01.md) · 1 篇
+
+- [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](../channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md) · Riley Brown
+
+## [2026-06-30](2026/06/2026-06-30.md) · 2 篇
+
+- [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](../channels/latent-space/2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md) · Latent Space
+- [The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498](../channels/lex-fridman/2026-06-30-the-rise-and-fall-of-the-roman-empire-and-the-byzantine-empire-lex-fridman-podcast-498-pv1TUJSEM2k.md) · Lex Fridman
+
 ## [2026-06-29](2026/06/2026-06-29.md) · 2 篇
 
 - [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](../channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md) · Latent Space
