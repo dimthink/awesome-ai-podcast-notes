@@ -6,8 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-07-01](2026/07/2026-07-01.md) · 1 篇
+## [2026-07-02](2026/07/2026-07-02.md) · 1 篇
 
+- [【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】](../channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md) · Koji Yang
+
+## [2026-07-01](2026/07/2026-07-01.md) · 2 篇
+
+- [AI Agents are the new SaaS](../channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md) · Greg Isenberg
 - [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](../channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md) · Riley Brown
 
 ## [2026-06-30](2026/06/2026-06-30.md) · 2 篇

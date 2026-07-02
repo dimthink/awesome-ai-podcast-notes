@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-692-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-694-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 692 |
+| 笔记 | 694 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 369 |
-| 原始文稿 | 652 |
+| 结构化文稿 | 371 |
+| 原始文稿 | 654 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-01 |
-| 仓库更新日期 | 2026-07-01 |
+| 最新来源日期 | 2026-07-02 |
+| 仓库更新日期 | 2026-07-02 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
 - 2026-06-25 · [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 48 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 49 篇
 
+- 2026-07-01 · [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
 - 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
 - 2026-06-23 · [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md)
-- 2026-06-15 · [How a TJ Maxx Cashier Built a $200K App With AI](channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md)
 
 ### [a16z](channels/a16z/README.md) · 48 篇
 
@@ -94,9 +94,14 @@
 
 ## 最新更新
 
+### 2026-07-02
+
+- [【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】](channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md) · Koji Yang
+
 ### 2026-07-01
 
 - [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md) · Riley Brown
+- [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md) · Greg Isenberg
 
 ### 2026-06-30
 
@@ -133,11 +138,6 @@
 
 - [How On Policy Self Distillation Works - Sasha Rush](channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md) · Dwarkesh Patel
 - [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md) · Greg Isenberg
-
-### 2026-06-22
-
-- [【十字路口】对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局【视频播客】](channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.md) · Koji Yang
-- [When Rome Rioted for More Nepotism – Ada Palmer](channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md) · Dwarkesh Patel
 
 ## 数据与自动更新
 

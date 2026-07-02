@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 692 |
+| Notes | 694 |
 | Channels | 16 |
-| Structured notes | 369 |
-| Raw transcripts | 652 |
+| Structured notes | 371 |
+| Raw transcripts | 654 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-01 |
-| Archive updated | 2026-07-01 |
+| Latest source date | 2026-07-02 |
+| Archive updated | 2026-07-02 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
 - 2026-06-25 · [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 48 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 49 notes
 
+- 2026-07-01 · [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
 - 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
 - 2026-06-23 · [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md)
-- 2026-06-15 · [How a TJ Maxx Cashier Built a $200K App With AI](channels/greg-isenberg/2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md)
 
 ### [a16z](channels/a16z/README.md) · 48 notes
 
@@ -83,9 +83,14 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-07-02
+
+- [【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】](channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md) · Koji Yang
+
 ### 2026-07-01
 
 - [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md) · Riley Brown
+- [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md) · Greg Isenberg
 
 ### 2026-06-30
 
@@ -122,11 +127,6 @@ Each episode can include up to three versions:
 
 - [How On Policy Self Distillation Works - Sasha Rush](channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md) · Dwarkesh Patel
 - [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md) · Greg Isenberg
-
-### 2026-06-22
-
-- [【十字路口】对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局【视频播客】](channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.md) · Koji Yang
-- [When Rome Rioted for More Nepotism – Ada Palmer](channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md) · Dwarkesh Patel
 
 ## Data
 

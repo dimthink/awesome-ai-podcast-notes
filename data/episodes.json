@@ -1,5 +1,31 @@
 [
   {
+    "id": "WV6PC-H4vvk",
+    "video_id": "WV6PC-H4vvk",
+    "title": "【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】",
+    "channel": "Koji Yang",
+    "published": "2026-07-02",
+    "source_url": "https://www.youtube.com/watch?v=WV6PC-H4vvk",
+    "notion_url": "",
+    "tags": [
+      "Agent 元年",
+      "GUI 思维",
+      "CLI",
+      "Skill",
+      "上下文管理",
+      "无头软件",
+      "创业投资"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 9668,
+    "duration": "44:37",
+    "duration_seconds": 2677,
+    "path": "channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md",
+    "structured_path": "channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.structured.md",
+    "transcript_path": "channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.transcript.md"
+  },
+  {
     "id": "4WBOmhI11rQ",
     "video_id": "4WBOmhI11rQ",
     "title": "Building a Real AI Jarvis (GPT Realtime 2 + Cursor)",
@@ -22,6 +48,30 @@
     "path": "channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md",
     "structured_path": "channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.structured.md",
     "transcript_path": "channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.transcript.md"
+  },
+  {
+    "id": "83fWzQSWB10",
+    "video_id": "83fWzQSWB10",
+    "title": "AI Agents are the new SaaS",
+    "channel": "Greg Isenberg",
+    "published": "2026-07-01",
+    "source_url": "https://www.youtube.com/watch?v=83fWzQSWB10",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "创业方法论",
+      "SaaS",
+      "工作流自动化",
+      "产品策略"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 9002,
+    "duration": "26:04",
+    "duration_seconds": 1564,
+    "path": "channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md",
+    "structured_path": "channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.transcript.md"
   },
   {
     "id": "YQWXxnkK4dw",

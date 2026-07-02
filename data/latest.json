@@ -1,5 +1,31 @@
 [
   {
+    "id": "WV6PC-H4vvk",
+    "video_id": "WV6PC-H4vvk",
+    "title": "【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】",
+    "channel": "Koji Yang",
+    "published": "2026-07-02",
+    "source_url": "https://www.youtube.com/watch?v=WV6PC-H4vvk",
+    "notion_url": "",
+    "tags": [
+      "Agent 元年",
+      "GUI 思维",
+      "CLI",
+      "Skill",
+      "上下文管理",
+      "无头软件",
+      "创业投资"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 9668,
+    "duration": "44:37",
+    "duration_seconds": 2677,
+    "path": "channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md",
+    "structured_path": "channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.structured.md",
+    "transcript_path": "channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.transcript.md"
+  },
+  {
     "id": "4WBOmhI11rQ",
     "video_id": "4WBOmhI11rQ",
     "title": "Building a Real AI Jarvis (GPT Realtime 2 + Cursor)",
@@ -22,6 +48,30 @@
     "path": "channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md",
     "structured_path": "channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.structured.md",
     "transcript_path": "channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.transcript.md"
+  },
+  {
+    "id": "83fWzQSWB10",
+    "video_id": "83fWzQSWB10",
+    "title": "AI Agents are the new SaaS",
+    "channel": "Greg Isenberg",
+    "published": "2026-07-01",
+    "source_url": "https://www.youtube.com/watch?v=83fWzQSWB10",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "创业方法论",
+      "SaaS",
+      "工作流自动化",
+      "产品策略"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 9002,
+    "duration": "26:04",
+    "duration_seconds": 1564,
+    "path": "channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md",
+    "structured_path": "channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.transcript.md"
   },
   {
     "id": "YQWXxnkK4dw",
@@ -1141,41 +1191,5 @@
     "path": "channels/张晓珺/2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.md",
     "structured_path": "channels/张晓珺/2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.structured.md",
     "transcript_path": "channels/张晓珺/2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.transcript.md"
-  },
-  {
-    "id": "RJjl1TwyfWM",
-    "video_id": "RJjl1TwyfWM",
-    "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
-    "channel": "Lenny's Podcast",
-    "published": "2026-06-07",
-    "source_url": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
-    "notion_url": "",
-    "tags": [],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 16751,
-    "duration": "1:35:08",
-    "duration_seconds": 5708,
-    "path": "channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.md",
-    "structured_path": "channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.structured.md",
-    "transcript_path": "channels/lenny's-podcast/2026-06-07-tony-fadell-how-to-build-real-taste-(and-why-ai-makes-it-matter-more)-RJjl1TwyfWM.transcript.md"
-  },
-  {
-    "id": "-rIAVuaRjOg",
-    "video_id": "-rIAVuaRjOg",
-    "title": "⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai",
-    "channel": "Latent Space",
-    "published": "2026-06-06",
-    "source_url": "https://www.youtube.com/watch?v=-rIAVuaRjOg",
-    "notion_url": "",
-    "tags": [],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 11914,
-    "duration": "40:41",
-    "duration_seconds": 2441,
-    "path": "channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.md",
-    "structured_path": "channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.structured.md",
-    "transcript_path": "channels/latent-space/2026-06-06-⚡️making-deepseek-v4-outperform-opus-4.7-with-taste-—-@ahmadawais-,-commandcode.ai--rIAVuaRjOg.transcript.md"
   }
 ]

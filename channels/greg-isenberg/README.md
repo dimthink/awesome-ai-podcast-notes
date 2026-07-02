@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-48 notes in this channel.
+49 notes in this channel.
 
-本频道共 48 篇。
+本频道共 49 篇。
 
+- 2026-07-01 · [AI Agents are the new SaaS](2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
 - 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
 - 2026-06-23 · [GLM 5.2: Set Up Local AI with Cursor/Codex etc](2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md)
 - 2026-06-15 · [How a TJ Maxx Cashier Built a $200K App With AI](2026-06-15-how-a-tj-maxx-cashier-built-a-$200k-app-with-ai-LYomocq6Dpo.md)
