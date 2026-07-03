@@ -26,6 +26,30 @@
     "transcript_path": "channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.transcript.md"
   },
   {
+    "id": "y24lF1q4SFY",
+    "video_id": "y24lF1q4SFY",
+    "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+    "channel": "AI Explained",
+    "published": "2026-07-02",
+    "source_url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "大模型",
+      "地缘政治",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 8775,
+    "duration": "18:03",
+    "duration_seconds": 1083,
+    "path": "channels/ai-explained/2026-07-02-fable-5-vs-gpt-5.6-sol-the-early-results-y24lF1q4SFY.md",
+    "structured_path": "channels/ai-explained/2026-07-02-fable-5-vs-gpt-5.6-sol-the-early-results-y24lF1q4SFY.structured.md",
+    "transcript_path": "channels/ai-explained/2026-07-02-fable-5-vs-gpt-5.6-sol-the-early-results-y24lF1q4SFY.transcript.md"
+  },
+  {
     "id": "4WBOmhI11rQ",
     "video_id": "4WBOmhI11rQ",
     "title": "Building a Real AI Jarvis (GPT Realtime 2 + Cursor)",
@@ -1173,23 +1197,5 @@
     "path": "channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md",
     "structured_path": "channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.structured.md",
     "transcript_path": "channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.transcript.md"
-  },
-  {
-    "id": "RjHGZKiWpak",
-    "video_id": "RjHGZKiWpak",
-    "title": "144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式",
-    "channel": "张晓珺",
-    "published": "2026-06-08",
-    "source_url": "https://www.youtube.com/watch?v=RjHGZKiWpak",
-    "notion_url": "",
-    "tags": [],
-    "rating": 5,
-    "language": "中文",
-    "word_count": 9195,
-    "duration": "3:38:53",
-    "duration_seconds": 13133,
-    "path": "channels/张晓珺/2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.md",
-    "structured_path": "channels/张晓珺/2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.structured.md",
-    "transcript_path": "channels/张晓珺/2026-06-08-144.-对阳萌的4小时访谈-消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式-RjHGZKiWpak.transcript.md"
   }
 ]

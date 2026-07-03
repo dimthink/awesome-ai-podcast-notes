@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-694-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-695-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 694 |
+| 笔记 | 695 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 371 |
-| 原始文稿 | 654 |
+| 结构化文稿 | 372 |
+| 原始文稿 | 655 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-07-02 |
-| 仓库更新日期 | 2026-07-02 |
+| 仓库更新日期 | 2026-07-03 |
 
 ## 适合谁
 
@@ -97,6 +97,7 @@
 ### 2026-07-02
 
 - [【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】](channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md) · Koji Yang
+- [Fable 5 vs GPT 5.6 Sol: The Early Results](channels/ai-explained/2026-07-02-fable-5-vs-gpt-5.6-sol-the-early-results-y24lF1q4SFY.md) · AI Explained
 
 ### 2026-07-01
 
@@ -137,7 +138,6 @@
 ### 2026-06-23
 
 - [How On Policy Self Distillation Works - Sasha Rush](channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md) · Dwarkesh Patel
-- [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md) · Greg Isenberg
 
 ## 数据与自动更新
 
