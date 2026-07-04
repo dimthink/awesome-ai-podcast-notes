@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-695-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-696-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 695 |
+| 笔记 | 696 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 372 |
-| 原始文稿 | 655 |
+| 结构化文稿 | 373 |
+| 原始文稿 | 656 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-02 |
-| 仓库更新日期 | 2026-07-03 |
+| 最新来源日期 | 2026-07-03 |
+| 仓库更新日期 | 2026-07-04 |
 
 ## 适合谁
 
@@ -62,11 +62,11 @@
 - 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
 - 2026-06-23 · [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md)
 
-### [a16z](channels/a16z/README.md) · 48 篇
+### [a16z](channels/a16z/README.md) · 49 篇
 
+- 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
 - 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 - 2026-06-19 · [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
-- 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 42 篇
 
@@ -93,6 +93,10 @@
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## 最新更新
+
+### 2026-07-03
+
+- [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md) · a16z
 
 ### 2026-07-02
 
@@ -134,10 +138,6 @@
 
 - [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md) · Y Combinator
 - [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md) · Latent Space
-
-### 2026-06-23
-
-- [How On Policy Self Distillation Works - Sasha Rush](channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md) · Dwarkesh Patel
 
 ## 数据与自动更新
 

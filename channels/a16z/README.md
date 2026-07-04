@@ -1,9 +1,10 @@
 # a16z
 
-48 notes in this channel.
+49 notes in this channel.
 
-本频道共 48 篇。
+本频道共 49 篇。
 
+- 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
 - 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 - 2026-06-19 · [The Media Game Has Changed](2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
 - 2026-06-08 · [Why Coding is The First Undeniable AI Use case | a16z](2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md)
