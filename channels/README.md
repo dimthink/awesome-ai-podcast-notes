@@ -18,5 +18,5 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 - [a16z](a16z/README.md) (49)
 - [张晓珺](张晓珺/README.md) (36)
 - [李弘毅](李弘毅/README.md) (253)
-- [硅谷101](硅谷101/README.md) (30)
+- [硅谷101](硅谷101/README.md) (31)
 - [硅谷101播客](硅谷101播客/README.md) (1)

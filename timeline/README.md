@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-06](2026/07/2026-07-06.md) · 1 篇
+
+- [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](../channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.md) · 硅谷101
+
 ## [2026-07-03](2026/07/2026-07-03.md) · 1 篇
 
 - [a16z Goes Global: Why American Tech Must Lead the World](../channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md) · a16z

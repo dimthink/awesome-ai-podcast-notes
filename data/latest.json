@@ -1,5 +1,29 @@
 [
   {
+    "id": "VGIbhIW5ljk",
+    "video_id": "VGIbhIW5ljk",
+    "title": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地",
+    "channel": "硅谷101",
+    "published": "2026-07-06",
+    "source_url": "https://www.youtube.com/watch?v=VGIbhIW5ljk",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "递归自我提升",
+      "科学研究",
+      "模型验证",
+      "硅谷101"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 8285,
+    "duration": "1:10:54",
+    "duration_seconds": 4254,
+    "path": "channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.md",
+    "structured_path": "channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.structured.md",
+    "transcript_path": "channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.transcript.md"
+  },
+  {
     "id": "XwfUzW32cIA",
     "video_id": "XwfUzW32cIA",
     "title": "a16z Goes Global: Why American Tech Must Lead the World",
@@ -1185,23 +1209,5 @@
     "path": "channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.md",
     "structured_path": "channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.structured.md",
     "transcript_path": "channels/a16z/2026-06-08-why-coding-is-the-first-undeniable-ai-use-case-a16z-ktl8mNiWqMM.transcript.md"
-  },
-  {
-    "id": "LztPaNmcWGU",
-    "video_id": "LztPaNmcWGU",
-    "title": "Become AI Native in less than 60 mins",
-    "channel": "Greg Isenberg",
-    "published": "2026-06-08",
-    "source_url": "https://www.youtube.com/watch?v=LztPaNmcWGU",
-    "notion_url": "",
-    "tags": [],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 20234,
-    "duration": "56:44",
-    "duration_seconds": 3404,
-    "path": "channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.md",
-    "structured_path": "channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-06-08-become-ai-native-in-less-than-60-mins-LztPaNmcWGU.transcript.md"
   }
 ]

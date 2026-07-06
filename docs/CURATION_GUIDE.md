@@ -22,7 +22,7 @@ Good sources are usually:
 - Y Combinator: 37 notes
 - 张晓珺: 36 notes
 - Koji Yang: 34 notes
-- 硅谷101: 30 notes
+- 硅谷101: 31 notes
 - AI Explained: 25 notes
 - Lex Fridman: 24 notes
 

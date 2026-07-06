@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-696-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-697-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 696 |
+| 笔记 | 697 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 373 |
-| 原始文稿 | 656 |
+| 结构化文稿 | 374 |
+| 原始文稿 | 657 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-03 |
-| 仓库更新日期 | 2026-07-04 |
+| 最新来源日期 | 2026-07-06 |
+| 仓库更新日期 | 2026-07-06 |
 
 ## 适合谁
 
@@ -94,6 +94,10 @@
 
 ## 最新更新
 
+### 2026-07-06
+
+- [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.md) · 硅谷101
+
 ### 2026-07-03
 
 - [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md) · a16z
@@ -137,7 +141,6 @@
 ### 2026-06-24
 
 - [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md) · Y Combinator
-- [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md) · Latent Space
 
 ## 数据与自动更新
 

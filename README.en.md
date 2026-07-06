@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 696 |
+| Notes | 697 |
 | Channels | 16 |
-| Structured notes | 373 |
-| Raw transcripts | 656 |
+| Structured notes | 374 |
+| Raw transcripts | 657 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-03 |
-| Archive updated | 2026-07-04 |
+| Latest source date | 2026-07-06 |
+| Archive updated | 2026-07-06 |
 
 Each episode can include up to three versions:
 
@@ -83,6 +83,10 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-07-06
+
+- [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.md) · 硅谷101
+
 ### 2026-07-03
 
 - [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md) · a16z
@@ -126,7 +130,6 @@ Each episode can include up to three versions:
 ### 2026-06-24
 
 - [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md) · Y Combinator
-- [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md) · Latent Space
 
 ## Data
 
