@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 697 |
+| Notes | 698 |
 | Channels | 16 |
-| Structured notes | 374 |
-| Raw transcripts | 657 |
+| Structured notes | 375 |
+| Raw transcripts | 658 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-07-06 |
-| Archive updated | 2026-07-06 |
+| Archive updated | 2026-07-07 |
 
 Each episode can include up to three versions:
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 - 2026-06-19 · [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 42 notes
+### [Riley Brown](channels/riley-brown/README.md) · 43 notes
 
+- 2026-07-06 · [Claude Fable 5 Just Changed Design Forever](channels/riley-brown/2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md)
 - 2026-07-01 · [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md)
 - 2026-06-21 · [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](channels/riley-brown/2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md)
-- 2026-06-18 · [9 AI Agent Trends To Get Ahead of 99% of People](channels/riley-brown/2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 37 notes
 
@@ -86,6 +86,7 @@ Each episode can include up to three versions:
 ### 2026-07-06
 
 - [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.md) · 硅谷101
+- [Claude Fable 5 Just Changed Design Forever](channels/riley-brown/2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md) · Riley Brown
 
 ### 2026-07-03
 
@@ -126,10 +127,6 @@ Each episode can include up to three versions:
 - [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md) · Y Combinator
 - [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md) · Latent Space
 - ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md) · Greg Isenberg
-
-### 2026-06-24
-
-- [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md) · Y Combinator
 
 ## Data
 

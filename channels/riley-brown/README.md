@@ -1,9 +1,10 @@
 # Riley Brown
 
-42 notes in this channel.
+43 notes in this channel.
 
-本频道共 42 篇。
+本频道共 43 篇。
 
+- 2026-07-06 · [Claude Fable 5 Just Changed Design Forever](2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md)
 - 2026-07-01 · [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md)
 - 2026-06-21 · [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md)
 - 2026-06-18 · [9 AI Agent Trends To Get Ahead of 99% of People](2026-06-18-9-ai-agent-trends-to-get-ahead-of-99-of-people-vhyna9ur6Gc.md)

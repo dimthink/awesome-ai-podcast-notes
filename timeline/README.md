@@ -6,8 +6,9 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-07-06](2026/07/2026-07-06.md) · 1 篇
+## [2026-07-06](2026/07/2026-07-06.md) · 2 篇
 
+- [Claude Fable 5 Just Changed Design Forever](../channels/riley-brown/2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md) · Riley Brown
 - [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](../channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.md) · 硅谷101
 
 ## [2026-07-03](2026/07/2026-07-03.md) · 1 篇
