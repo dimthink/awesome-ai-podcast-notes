@@ -1,5 +1,30 @@
 [
   {
+    "id": "Mxs4erDxOEE",
+    "video_id": "Mxs4erDxOEE",
+    "title": "Software in the Age of Agents | The a16z Show",
+    "channel": "a16z",
+    "published": "2026-07-07",
+    "source_url": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
+    "notion_url": "",
+    "tags": [
+      "企业软件",
+      "AI Agent",
+      "无头化",
+      "颠覆性创新",
+      "创业策略",
+      "a16z"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 7131,
+    "duration": "1:01:09",
+    "duration_seconds": 3669,
+    "path": "channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md",
+    "structured_path": "channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.structured.md",
+    "transcript_path": "channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.transcript.md"
+  },
+  {
     "id": "VGIbhIW5ljk",
     "video_id": "VGIbhIW5ljk",
     "title": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地",
@@ -1197,23 +1222,5 @@
     "path": "channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.md",
     "structured_path": "channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.structured.md",
     "transcript_path": "channels/ai-explained/2026-06-10-claude-fable-5-full-319-page-breakdown-haK1KoQWm18.transcript.md"
-  },
-  {
-    "id": "7clJ8IH784Q",
-    "video_id": "7clJ8IH784Q",
-    "title": "WTF Is an \"AI Agent Loop\"? Genius or Hype?",
-    "channel": "Greg Isenberg",
-    "published": "2026-06-09",
-    "source_url": "https://www.youtube.com/watch?v=7clJ8IH784Q",
-    "notion_url": "",
-    "tags": [],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 7980,
-    "duration": "22:32",
-    "duration_seconds": 1352,
-    "path": "channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.md",
-    "structured_path": "channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-06-09-wtf-is-an-ai-agent-loop-genius-or-hype-7clJ8IH784Q.transcript.md"
   }
 ]

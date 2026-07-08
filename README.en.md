@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 698 |
+| Notes | 699 |
 | Channels | 16 |
-| Structured notes | 375 |
-| Raw transcripts | 658 |
+| Structured notes | 376 |
+| Raw transcripts | 659 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-06 |
-| Archive updated | 2026-07-07 |
+| Latest source date | 2026-07-07 |
+| Archive updated | 2026-07-08 |
 
 Each episode can include up to three versions:
 
@@ -45,17 +45,17 @@ Each episode can include up to three versions:
 - 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
 - 2026-06-25 · [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md)
 
+### [a16z](channels/a16z/README.md) · 50 notes
+
+- 2026-07-07 · [Software in the Age of Agents | The a16z Show](channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md)
+- 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
+- 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
+
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 49 notes
 
 - 2026-07-01 · [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
 - 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
 - 2026-06-23 · [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md)
-
-### [a16z](channels/a16z/README.md) · 49 notes
-
-- 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
-- 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
-- 2026-06-19 · [The Media Game Has Changed](channels/a16z/2026-06-19-the-media-game-has-changed-XROaLetSxg0.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 43 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## Latest Updates
+
+### 2026-07-07
+
+- [Software in the Age of Agents | The a16z Show](channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md) · a16z
 
 ### 2026-07-06
 
@@ -126,7 +130,6 @@ Each episode can include up to three versions:
 
 - [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md) · Y Combinator
 - [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md) · Latent Space
-- ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md) · Greg Isenberg
 
 ## Data
 
