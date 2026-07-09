@@ -1,5 +1,29 @@
 [
   {
+    "id": "UwxxlTNPjWo",
+    "video_id": "UwxxlTNPjWo",
+    "title": "The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO",
+    "channel": "Latent Space",
+    "published": "2026-07-08",
+    "source_url": "https://www.youtube.com/watch?v=UwxxlTNPjWo",
+    "notion_url": "",
+    "tags": [
+      "代理体验",
+      "弹性计算",
+      "GPU沙盒",
+      "推测解码",
+      "基础设施原语"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 15867,
+    "duration": "59:10",
+    "duration_seconds": 3550,
+    "path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md",
+    "structured_path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.structured.md",
+    "transcript_path": "channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.transcript.md"
+  },
+  {
     "id": "Mxs4erDxOEE",
     "video_id": "Mxs4erDxOEE",
     "title": "Software in the Age of Agents | The a16z Show",

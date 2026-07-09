@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-08](2026/07/2026-07-08.md) · 1 篇
+
+- [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](../channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md) · Latent Space
+
 ## [2026-07-07](2026/07/2026-07-07.md) · 1 篇
 
 - [Software in the Age of Agents | The a16z Show](../channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md) · a16z

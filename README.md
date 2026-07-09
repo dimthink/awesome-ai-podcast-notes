@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-699-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-700-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 699 |
+| 笔记 | 700 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 376 |
-| 原始文稿 | 659 |
+| 结构化文稿 | 377 |
+| 原始文稿 | 660 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-07 |
-| 仓库更新日期 | 2026-07-08 |
+| 最新来源日期 | 2026-07-08 |
+| 仓库更新日期 | 2026-07-09 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 61 篇
+### [Latent Space](channels/latent-space/README.md) · 62 篇
 
+- 2026-07-08 · [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md)
 - 2026-06-30 · [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](channels/latent-space/2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md)
 - 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
-- 2026-06-25 · [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md)
 
 ### [a16z](channels/a16z/README.md) · 50 篇
 
@@ -93,6 +93,10 @@
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## 最新更新
+
+### 2026-07-08
+
+- [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md) · Latent Space
 
 ### 2026-07-07
 
@@ -140,7 +144,6 @@
 ### 2026-06-25
 
 - [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md) · Y Combinator
-- [Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen](channels/latent-space/2026-06-25-cooking-with-openai’s-research-chief-agi,-o1,-evals,-and-scaling-laws-—-mark-chen-fpAthTtha8c.md) · Latent Space
 
 ## 数据与自动更新
 
