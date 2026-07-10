@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 700 |
+| Notes | 704 |
 | Channels | 16 |
-| Structured notes | 377 |
-| Raw transcripts | 660 |
+| Structured notes | 381 |
+| Raw transcripts | 664 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-08 |
-| Archive updated | 2026-07-09 |
+| Latest source date | 2026-07-10 |
+| Archive updated | 2026-07-10 |
 
 Each episode can include up to three versions:
 
@@ -45,29 +45,29 @@ Each episode can include up to three versions:
 - 2026-06-30 · [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](channels/latent-space/2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md)
 - 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
 
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 50 notes
+
+- 2026-07-09 · [GPT 5.6 SOL IS HERE! How to use it.](channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md)
+- 2026-07-01 · [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
+- 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
+
 ### [a16z](channels/a16z/README.md) · 50 notes
 
 - 2026-07-07 · [Software in the Age of Agents | The a16z Show](channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md)
 - 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
 - 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 49 notes
+### [Riley Brown](channels/riley-brown/README.md) · 44 notes
 
-- 2026-07-01 · [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
-- 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
-- 2026-06-23 · [GLM 5.2: Set Up Local AI with Cursor/Codex etc](channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md)
-
-### [Riley Brown](channels/riley-brown/README.md) · 43 notes
-
+- 2026-07-09 · [Grok 4.5 + Cursor Just Became Unstoppable](channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md)
 - 2026-07-06 · [Claude Fable 5 Just Changed Design Forever](channels/riley-brown/2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md)
 - 2026-07-01 · [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md)
-- 2026-06-21 · [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](channels/riley-brown/2026-06-21-ai-agents-just-changed-forever-glm-5.2,-codex-skills,-claude-&-cursor-Nbynj-mKcNI.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 37 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 38 notes
 
+- 2026-07-09 · [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md)
 - 2026-06-28 · [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md)
 - 2026-06-21 · [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md)
-- 2026-06-14 · [The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)](channels/lenny's-podcast/2026-06-14-the-hidden-pattern-behind-successful-products-mark-pincus-(farmville,-words-with-friends,-&-more)-7eh9C3TUotc.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 37 notes
 
@@ -82,6 +82,16 @@ Each episode can include up to three versions:
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## Latest Updates
+
+### 2026-07-10
+
+- [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md) · 硅谷101
+
+### 2026-07-09
+
+- [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md) · Lenny's Podcast
+- [Grok 4.5 + Cursor Just Became Unstoppable](channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md) · Riley Brown
+- [GPT 5.6 SOL IS HERE! How to use it.](channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md) · Greg Isenberg
 
 ### 2026-07-08
 
@@ -123,16 +133,6 @@ Each episode can include up to three versions:
 ### 2026-06-28
 
 - [【十字路口】我遇到了第一个真正想买的陪伴机器人！｜对话世博同学：越伴动力创始人【公路播客】](channels/koji-yang/2026-06-28-【十字路口】我遇到了第一个真正想买的陪伴机器人!-对话世博同学-越伴动力创始人【公路播客】-xVtSYkKtPGI.md) · Koji Yang
-- [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md) · Lenny's Podcast
-
-### 2026-06-26
-
-- [How Warp Went From YC to a $60M Series B](channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md) · Y Combinator
-- [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](channels/硅谷101/2026-06-26-e241-跑鞋技术迭代史-马拉松跑进2小时,靠人还是靠鞋-jy78g9D2DgA.md) · 硅谷101
-
-### 2026-06-25
-
-- [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md) · Y Combinator
 
 ## Data
 

@@ -6,6 +6,16 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-10](2026/07/2026-07-10.md) · 1 篇
+
+- [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](../channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md) · 硅谷101
+
+## [2026-07-09](2026/07/2026-07-09.md) · 3 篇
+
+- [GPT 5.6 SOL IS HERE! How to use it.](../channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md) · Greg Isenberg
+- [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](../channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md) · Lenny's Podcast
+- [Grok 4.5 + Cursor Just Became Unstoppable](../channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md) · Riley Brown
+
 ## [2026-07-08](2026/07/2026-07-08.md) · 1 篇
 
 - [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](../channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md) · Latent Space

@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-49 notes in this channel.
+50 notes in this channel.
 
-本频道共 49 篇。
+本频道共 50 篇。
 
+- 2026-07-09 · [GPT 5.6 SOL IS HERE! How to use it.](2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md)
 - 2026-07-01 · [AI Agents are the new SaaS](2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
 - 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
 - 2026-06-23 · [GLM 5.2: Set Up Local AI with Cursor/Codex etc](2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md)
