@@ -1,5 +1,53 @@
 [
   {
+    "id": "bIOCKXcxloQ",
+    "video_id": "bIOCKXcxloQ",
+    "title": "Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv",
+    "channel": "Latent Space",
+    "published": "2026-07-10",
+    "source_url": "https://www.youtube.com/watch?v=bIOCKXcxloQ",
+    "notion_url": "",
+    "tags": [
+      "AI工程",
+      "Agent Lab",
+      "AI芯片",
+      "Anthropic",
+      "创业方法论"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 10017,
+    "duration": "28:03",
+    "duration_seconds": 1683,
+    "path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md",
+    "structured_path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.structured.md",
+    "transcript_path": "channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.transcript.md"
+  },
+  {
+    "id": "LvsQR7Vc4fQ",
+    "video_id": "LvsQR7Vc4fQ",
+    "title": "Grok 4.5 is a bigger deal than Fable 5",
+    "channel": "Greg Isenberg",
+    "published": "2026-07-10",
+    "source_url": "https://www.youtube.com/watch?v=LvsQR7Vc4fQ",
+    "notion_url": "",
+    "tags": [
+      "AI代理",
+      "Grok 4.5",
+      "Hermes",
+      "创业效率",
+      "MCP生态"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 8421,
+    "duration": "56:00",
+    "duration_seconds": 3360,
+    "path": "channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md",
+    "structured_path": "channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.transcript.md"
+  },
+  {
     "id": "tikoC9i9RH4",
     "video_id": "tikoC9i9RH4",
     "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
@@ -22,6 +70,30 @@
     "path": "channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md",
     "structured_path": "channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.structured.md",
     "transcript_path": "channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.transcript.md"
+  },
+  {
+    "id": "mWlCituW7wo",
+    "video_id": "mWlCituW7wo",
+    "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+    "channel": "AI Explained",
+    "published": "2026-07-10",
+    "source_url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "模型竞争",
+      "基准测试",
+      "安全性",
+      "成本效率"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 9689,
+    "duration": "17:34",
+    "duration_seconds": 1054,
+    "path": "channels/ai-explained/2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.md",
+    "structured_path": "channels/ai-explained/2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.structured.md",
+    "transcript_path": "channels/ai-explained/2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.transcript.md"
   },
   {
     "id": "yQ_EWmtfWvQ",
@@ -1150,78 +1222,5 @@
     "path": "channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md",
     "structured_path": "channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.structured.md",
     "transcript_path": "channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.transcript.md"
-  },
-  {
-    "id": "bdhUBBACglw",
-    "video_id": "bdhUBBACglw",
-    "title": "Claude Fable 5 is BANNED. What to do?",
-    "channel": "Greg Isenberg",
-    "published": "2026-06-13",
-    "source_url": "https://www.youtube.com/watch?v=bdhUBBACglw",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "创业",
-      "本地模型",
-      "隐私",
-      "韧性"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 11595,
-    "duration": "24:56",
-    "duration_seconds": 1496,
-    "path": "channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.md",
-    "structured_path": "channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-06-13-claude-fable-5-is-banned.-what-to-do-bdhUBBACglw.transcript.md"
-  },
-  {
-    "id": "bWMVVLmpZGI",
-    "video_id": "bWMVVLmpZGI",
-    "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
-    "channel": "硅谷101",
-    "published": "2026-06-12",
-    "source_url": "https://www.youtube.com/watch?v=bWMVVLmpZGI",
-    "notion_url": "",
-    "tags": [
-      "太空数据中心",
-      "SpaceX",
-      "AI算力",
-      "第一性原理",
-      "星际殖民"
-    ],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 13011,
-    "duration": "1:29:44",
-    "duration_seconds": 5384,
-    "path": "channels/硅谷101/2026-06-12-e239-spacex要让太空算力从科幻走向现实,但它划算吗-bWMVVLmpZGI.md",
-    "structured_path": "channels/硅谷101/2026-06-12-e239-spacex要让太空算力从科幻走向现实,但它划算吗-bWMVVLmpZGI.structured.md",
-    "transcript_path": "channels/硅谷101/2026-06-12-e239-spacex要让太空算力从科幻走向现实,但它划算吗-bWMVVLmpZGI.transcript.md"
-  },
-  {
-    "id": "cv0Pspf6xno",
-    "video_id": "cv0Pspf6xno",
-    "title": "Claude Fable Will Change EVERYTHING (Here's Why)",
-    "channel": "Riley Brown",
-    "published": "2026-06-12",
-    "source_url": "https://www.youtube.com/watch?v=cv0Pspf6xno",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "ClaudeFable",
-      "创业",
-      "积木块经济",
-      "智能体"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 10775,
-    "duration": "22:25",
-    "duration_seconds": 1345,
-    "path": "channels/riley-brown/2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.md",
-    "structured_path": "channels/riley-brown/2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.structured.md",
-    "transcript_path": "channels/riley-brown/2026-06-12-claude-fable-will-change-everything-(here's-why)-cv0Pspf6xno.transcript.md"
   }
 ]

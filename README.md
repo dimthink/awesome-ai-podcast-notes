@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-704-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-707-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 704 |
+| 笔记 | 707 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 381 |
-| 原始文稿 | 664 |
+| 结构化文稿 | 384 |
+| 原始文稿 | 667 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-07-10 |
-| 仓库更新日期 | 2026-07-10 |
+| 仓库更新日期 | 2026-07-11 |
 
 ## 适合谁
 
@@ -50,17 +50,17 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 62 篇
+### [Latent Space](channels/latent-space/README.md) · 63 篇
 
+- 2026-07-10 · [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md)
 - 2026-07-08 · [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md)
 - 2026-06-30 · [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](channels/latent-space/2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md)
-- 2026-06-29 · [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 50 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 51 篇
 
+- 2026-07-10 · [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md)
 - 2026-07-09 · [GPT 5.6 SOL IS HERE! How to use it.](channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md)
 - 2026-07-01 · [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
-- 2026-06-25 · ["Learn AI” Is Bad Advice. Learn This Instead](channels/greg-isenberg/2026-06-25-learn-ai”-is-bad-advice.-learn-this-instead-jJIOA4GroBw.md)
 
 ### [a16z](channels/a16z/README.md) · 50 篇
 
@@ -96,7 +96,10 @@
 
 ### 2026-07-10
 
+- [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md) · Latent Space
+- [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md) · Greg Isenberg
 - [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md) · 硅谷101
+- [A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules](channels/ai-explained/2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.md) · AI Explained
 
 ### 2026-07-09
 
@@ -135,15 +138,6 @@
 
 - [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](channels/latent-space/2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md) · Latent Space
 - [The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498](channels/lex-fridman/2026-06-30-the-rise-and-fall-of-the-roman-empire-and-the-byzantine-empire-lex-fridman-podcast-498-pv1TUJSEM2k.md) · Lex Fridman
-
-### 2026-06-29
-
-- [The Blueprint for Autonomous Work Agents | Gavriel Cohen, NanoClaw](channels/latent-space/2026-06-29-the-blueprint-for-autonomous-work-agents-gavriel-cohen,-nanoclaw-hLUGXO5DSpo.md) · Latent Space
-- [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md) · Y Combinator
-
-### 2026-06-28
-
-- [【十字路口】我遇到了第一个真正想买的陪伴机器人！｜对话世博同学：越伴动力创始人【公路播客】](channels/koji-yang/2026-06-28-【十字路口】我遇到了第一个真正想买的陪伴机器人!-对话世博同学-越伴动力创始人【公路播客】-xVtSYkKtPGI.md) · Koji Yang
 
 ## 数据与自动更新
 

@@ -6,8 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-07-10](2026/07/2026-07-10.md) · 1 篇
+## [2026-07-10](2026/07/2026-07-10.md) · 4 篇
 
+- [A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules](../channels/ai-explained/2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.md) · AI Explained
+- [Grok 4.5 is a bigger deal than Fable 5](../channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md) · Greg Isenberg
+- [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](../channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md) · Latent Space
 - [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](../channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md) · 硅谷101
 
 ## [2026-07-09](2026/07/2026-07-09.md) · 3 篇
