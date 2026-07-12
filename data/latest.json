@@ -1,5 +1,29 @@
 [
   {
+    "id": "K796MYUgt0k",
+    "video_id": "K796MYUgt0k",
+    "title": "Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab",
+    "channel": "Latent Space",
+    "published": "2026-07-11",
+    "source_url": "https://www.youtube.com/watch?v=K796MYUgt0k",
+    "notion_url": "",
+    "tags": [
+      "AI智能体",
+      "AGI",
+      "AmazonAGI",
+      "人机交互",
+      "认知科学"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 9499,
+    "duration": "48:54",
+    "duration_seconds": 2934,
+    "path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md",
+    "structured_path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.structured.md",
+    "transcript_path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.transcript.md"
+  },
+  {
     "id": "bIOCKXcxloQ",
     "video_id": "bIOCKXcxloQ",
     "title": "Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv",
@@ -1198,29 +1222,5 @@
     "path": "channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.md",
     "structured_path": "channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.structured.md",
     "transcript_path": "channels/riley-brown/2026-06-13-why-the-government-just-killed-claude-fable-5-zeVuhlKWRfI.transcript.md"
-  },
-  {
-    "id": "a93FT2340c0",
-    "video_id": "a93FT2340c0",
-    "title": "Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?",
-    "channel": "张晓珺",
-    "published": "2026-06-13",
-    "source_url": "https://www.youtube.com/watch?v=a93FT2340c0",
-    "notion_url": "",
-    "tags": [
-      "SpaceX",
-      "马斯克",
-      "商业航天",
-      "AI",
-      "硬科技投资"
-    ],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 10891,
-    "duration": "3:00:04",
-    "duration_seconds": 10804,
-    "path": "channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md",
-    "structured_path": "channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.structured.md",
-    "transcript_path": "channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.transcript.md"
   }
 ]

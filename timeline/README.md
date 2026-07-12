@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-11](2026/07/2026-07-11.md) · 1 篇
+
+- [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](../channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md) · Latent Space
+
 ## [2026-07-10](2026/07/2026-07-10.md) · 4 篇
 
 - [A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules](../channels/ai-explained/2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.md) · AI Explained

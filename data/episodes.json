@@ -1,5 +1,29 @@
 [
   {
+    "id": "K796MYUgt0k",
+    "video_id": "K796MYUgt0k",
+    "title": "Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab",
+    "channel": "Latent Space",
+    "published": "2026-07-11",
+    "source_url": "https://www.youtube.com/watch?v=K796MYUgt0k",
+    "notion_url": "",
+    "tags": [
+      "AI智能体",
+      "AGI",
+      "AmazonAGI",
+      "人机交互",
+      "认知科学"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 9499,
+    "duration": "48:54",
+    "duration_seconds": 2934,
+    "path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md",
+    "structured_path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.structured.md",
+    "transcript_path": "channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.transcript.md"
+  },
+  {
     "id": "bIOCKXcxloQ",
     "video_id": "bIOCKXcxloQ",
     "title": "Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv",

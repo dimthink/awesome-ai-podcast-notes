@@ -1,9 +1,10 @@
 # Latent Space
 
-63 notes in this channel.
+64 notes in this channel.
 
-本频道共 63 篇。
+本频道共 64 篇。
 
+- 2026-07-11 · [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md)
 - 2026-07-10 · [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md)
 - 2026-07-08 · [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md)
 - 2026-06-30 · [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md)
