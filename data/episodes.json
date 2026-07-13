@@ -1,5 +1,77 @@
 [
   {
+    "id": "8G1fm7mNS3Q",
+    "video_id": "8G1fm7mNS3Q",
+    "title": "【十字路口】AI4S 需要狂人与野心家｜对话英灵殿 Odin：\"如果神存在，我怎能容忍自己不是神？\"【视频播客】【公路播客】",
+    "channel": "Koji Yang",
+    "published": "2026-07-12",
+    "source_url": "https://www.youtube.com/watch?v=8G1fm7mNS3Q",
+    "notion_url": "",
+    "tags": [
+      "AI for Science",
+      "创业哲学",
+      "分子世界模型",
+      "禅宗",
+      "英灵殿"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 8697,
+    "duration": "1:01:52",
+    "duration_seconds": 3712,
+    "path": "channels/koji-yang/2026-07-12-【十字路口】ai4s-需要狂人与野心家-对话英灵殿-odin-如果神存在,我怎能容忍自己不是神-【视频播客】【公路播客】-8G1fm7mNS3Q.md",
+    "structured_path": "channels/koji-yang/2026-07-12-【十字路口】ai4s-需要狂人与野心家-对话英灵殿-odin-如果神存在,我怎能容忍自己不是神-【视频播客】【公路播客】-8G1fm7mNS3Q.structured.md",
+    "transcript_path": "channels/koji-yang/2026-07-12-【十字路口】ai4s-需要狂人与野心家-对话英灵殿-odin-如果神存在,我怎能容忍自己不是神-【视频播客】【公路播客】-8G1fm7mNS3Q.transcript.md"
+  },
+  {
+    "id": "_cmpIveXnvE",
+    "video_id": "_cmpIveXnvE",
+    "title": "Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-07-12",
+    "source_url": "https://www.youtube.com/watch?v=_cmpIveXnvE",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "科技职场",
+      "倦怠",
+      "分裂",
+      "职业建议"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 16475,
+    "duration": "1:36:29",
+    "duration_seconds": 5789,
+    "path": "channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md",
+    "structured_path": "channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.transcript.md"
+  },
+  {
+    "id": "Fv0XfyLT3xU",
+    "video_id": "Fv0XfyLT3xU",
+    "title": "OpenAI Just Merged ChatGPT and Codex. This Changes Everything.",
+    "channel": "Riley Brown",
+    "published": "2026-07-12",
+    "source_url": "https://www.youtube.com/watch?v=Fv0XfyLT3xU",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Codex",
+      "AI工作流",
+      "Agent"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 7666,
+    "duration": "47:51",
+    "duration_seconds": 2871,
+    "path": "channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md",
+    "structured_path": "channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.structured.md",
+    "transcript_path": "channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.transcript.md"
+  },
+  {
     "id": "K796MYUgt0k",
     "video_id": "K796MYUgt0k",
     "title": "Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab",

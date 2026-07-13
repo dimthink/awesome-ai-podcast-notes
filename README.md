@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-708-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-711-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 708 |
+| 笔记 | 711 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 385 |
-| 原始文稿 | 668 |
+| 结构化文稿 | 388 |
+| 原始文稿 | 671 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-11 |
-| 仓库更新日期 | 2026-07-12 |
+| 最新来源日期 | 2026-07-12 |
+| 仓库更新日期 | 2026-07-13 |
 
 ## 适合谁
 
@@ -68,17 +68,17 @@
 - 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
 - 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 44 篇
+### [Riley Brown](channels/riley-brown/README.md) · 45 篇
 
+- 2026-07-12 · [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md)
 - 2026-07-09 · [Grok 4.5 + Cursor Just Became Unstoppable](channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md)
 - 2026-07-06 · [Claude Fable 5 Just Changed Design Forever](channels/riley-brown/2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md)
-- 2026-07-01 · [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 38 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 39 篇
 
+- 2026-07-12 · [Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)](channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md)
 - 2026-07-09 · [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md)
 - 2026-06-28 · [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md)
-- 2026-06-21 · [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](channels/lenny's-podcast/2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 37 篇
 
@@ -93,6 +93,12 @@
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## 最新更新
+
+### 2026-07-12
+
+- [【十字路口】AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【视频播客】【公路播客】](channels/koji-yang/2026-07-12-【十字路口】ai4s-需要狂人与野心家-对话英灵殿-odin-如果神存在,我怎能容忍自己不是神-【视频播客】【公路播客】-8G1fm7mNS3Q.md) · Koji Yang
+- [Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)](channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md) · Lenny's Podcast
+- [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md) · Riley Brown
 
 ### 2026-07-11
 
@@ -132,15 +138,6 @@
 
 - [【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】](channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md) · Koji Yang
 - [Fable 5 vs GPT 5.6 Sol: The Early Results](channels/ai-explained/2026-07-02-fable-5-vs-gpt-5.6-sol-the-early-results-y24lF1q4SFY.md) · AI Explained
-
-### 2026-07-01
-
-- [Building a Real AI Jarvis (GPT Realtime 2 + Cursor)](channels/riley-brown/2026-07-01-building-a-real-ai-jarvis-(gpt-realtime-2-+-cursor)-4WBOmhI11rQ.md) · Riley Brown
-- [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md) · Greg Isenberg
-
-### 2026-06-30
-
-- [🔬 "The Most Innovative Diffusion Research Is Happening in Drug Discovery, Not Image Generation"](channels/latent-space/2026-06-30-🔬-the-most-innovative-diffusion-research-is-happening-in-drug-discovery,-not-image-generation-YQWXxnkK4dw.md) · Latent Space
 
 ## 数据与自动更新
 

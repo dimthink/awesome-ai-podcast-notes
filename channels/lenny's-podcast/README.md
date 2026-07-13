@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-38 notes in this channel.
+39 notes in this channel.
 
-本频道共 38 篇。
+本频道共 39 篇。
 
+- 2026-07-12 · [Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)](2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md)
 - 2026-07-09 · [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md)
 - 2026-06-28 · [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md)
 - 2026-06-21 · [How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)](2026-06-21-how-the-most-ai-pilled-product-team-builds-products-fiona-fung-(claude-code-and-cowork)-Ybrl4FYM57c.md)

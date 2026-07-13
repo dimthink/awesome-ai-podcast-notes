@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-12](2026/07/2026-07-12.md) · 3 篇
+
+- [【十字路口】AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【视频播客】【公路播客】](../channels/koji-yang/2026-07-12-【十字路口】ai4s-需要狂人与野心家-对话英灵殿-odin-如果神存在,我怎能容忍自己不是神-【视频播客】【公路播客】-8G1fm7mNS3Q.md) · Koji Yang
+- [Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)](../channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md) · Lenny's Podcast
+- [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](../channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md) · Riley Brown
+
 ## [2026-07-11](2026/07/2026-07-11.md) · 1 篇
 
 - [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](../channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md) · Latent Space
