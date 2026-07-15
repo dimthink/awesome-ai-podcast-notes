@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-51 notes in this channel.
+52 notes in this channel.
 
-本频道共 51 篇。
+本频道共 52 篇。
 
+- 2026-07-13 · [Making $$$ with Loop Engineering](2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
 - 2026-07-10 · [Grok 4.5 is a bigger deal than Fable 5](2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md)
 - 2026-07-09 · [GPT 5.6 SOL IS HERE! How to use it.](2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md)
 - 2026-07-01 · [AI Agents are the new SaaS](2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)

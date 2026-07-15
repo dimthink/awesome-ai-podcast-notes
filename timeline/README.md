@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-13](2026/07/2026-07-13.md) · 2 篇
+
+- [Making $$$ with Loop Engineering](../channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md) · Greg Isenberg
+- [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](../channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md) · Latent Space
+
 ## [2026-07-12](2026/07/2026-07-12.md) · 3 篇
 
 - [【十字路口】AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【视频播客】【公路播客】](../channels/koji-yang/2026-07-12-【十字路口】ai4s-需要狂人与野心家-对话英灵殿-odin-如果神存在,我怎能容忍自己不是神-【视频播客】【公路播客】-8G1fm7mNS3Q.md) · Koji Yang

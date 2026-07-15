@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-711-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-713-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 711 |
+| 笔记 | 713 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 388 |
-| 原始文稿 | 671 |
+| 结构化文稿 | 390 |
+| 原始文稿 | 673 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-12 |
-| 仓库更新日期 | 2026-07-13 |
+| 最新来源日期 | 2026-07-13 |
+| 仓库更新日期 | 2026-07-15 |
 
 ## 适合谁
 
@@ -50,17 +50,17 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 64 篇
+### [Latent Space](channels/latent-space/README.md) · 65 篇
 
+- 2026-07-13 · [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md)
 - 2026-07-11 · [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md)
 - 2026-07-10 · [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md)
-- 2026-07-08 · [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 51 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 52 篇
 
+- 2026-07-13 · [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
 - 2026-07-10 · [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md)
 - 2026-07-09 · [GPT 5.6 SOL IS HERE! How to use it.](channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md)
-- 2026-07-01 · [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
 
 ### [a16z](channels/a16z/README.md) · 50 篇
 
@@ -93,6 +93,11 @@
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## 最新更新
+
+### 2026-07-13
+
+- [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md) · Latent Space
+- [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md) · Greg Isenberg
 
 ### 2026-07-12
 
@@ -133,11 +138,6 @@
 ### 2026-07-03
 
 - [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md) · a16z
-
-### 2026-07-02
-
-- [【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】](channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md) · Koji Yang
-- [Fable 5 vs GPT 5.6 Sol: The Early Results](channels/ai-explained/2026-07-02-fable-5-vs-gpt-5.6-sol-the-early-results-y24lF1q4SFY.md) · AI Explained
 
 ## 数据与自动更新
 

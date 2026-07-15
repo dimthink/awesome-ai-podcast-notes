@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 711 |
+| Notes | 713 |
 | Channels | 16 |
-| Structured notes | 388 |
-| Raw transcripts | 671 |
+| Structured notes | 390 |
+| Raw transcripts | 673 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-12 |
-| Archive updated | 2026-07-13 |
+| Latest source date | 2026-07-13 |
+| Archive updated | 2026-07-15 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 64 notes
+### [Latent Space](channels/latent-space/README.md) · 65 notes
 
+- 2026-07-13 · [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md)
 - 2026-07-11 · [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md)
 - 2026-07-10 · [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md)
-- 2026-07-08 · [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 51 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 52 notes
 
+- 2026-07-13 · [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
 - 2026-07-10 · [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md)
 - 2026-07-09 · [GPT 5.6 SOL IS HERE! How to use it.](channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md)
-- 2026-07-01 · [AI Agents are the new SaaS](channels/greg-isenberg/2026-07-01-ai-agents-are-the-new-saas-83fWzQSWB10.md)
 
 ### [a16z](channels/a16z/README.md) · 50 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## Latest Updates
+
+### 2026-07-13
+
+- [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md) · Latent Space
+- [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md) · Greg Isenberg
 
 ### 2026-07-12
 
@@ -122,11 +127,6 @@ Each episode can include up to three versions:
 ### 2026-07-03
 
 - [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md) · a16z
-
-### 2026-07-02
-
-- [【十字路口】Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？【视频播客】](channels/koji-yang/2026-07-02-【十字路口】agent-元年第-500-天-什么在消失,什么在诞生——为什么我们不该再投资-gui-思维的软件-【视频播客】-WV6PC-H4vvk.md) · Koji Yang
-- [Fable 5 vs GPT 5.6 Sol: The Early Results](channels/ai-explained/2026-07-02-fable-5-vs-gpt-5.6-sol-the-early-results-y24lF1q4SFY.md) · AI Explained
 
 ## Data
 

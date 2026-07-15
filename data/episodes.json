@@ -1,5 +1,53 @@
 [
   {
+    "id": "jhpmMTus5a0",
+    "video_id": "jhpmMTus5a0",
+    "title": "The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO",
+    "channel": "Latent Space",
+    "published": "2026-07-13",
+    "source_url": "https://www.youtube.com/watch?v=jhpmMTus5a0",
+    "notion_url": "",
+    "tags": [
+      "AI记忆",
+      "长上下文",
+      "持续学习",
+      "创业",
+      "产品设计"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 10832,
+    "duration": "49:44",
+    "duration_seconds": 2984,
+    "path": "channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md",
+    "structured_path": "channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.structured.md",
+    "transcript_path": "channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.transcript.md"
+  },
+  {
+    "id": "5p_BBdfvzgQ",
+    "video_id": "5p_BBdfvzgQ",
+    "title": "Making $$$ with Loop Engineering",
+    "channel": "Greg Isenberg",
+    "published": "2026-07-13",
+    "source_url": "https://www.youtube.com/watch?v=5p_BBdfvzgQ",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "创业",
+      "SaaS",
+      "自动化运营",
+      "循环工程"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 9730,
+    "duration": "39:44",
+    "duration_seconds": 2384,
+    "path": "channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md",
+    "structured_path": "channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.transcript.md"
+  },
+  {
     "id": "8G1fm7mNS3Q",
     "video_id": "8G1fm7mNS3Q",
     "title": "【十字路口】AI4S 需要狂人与野心家｜对话英灵殿 Odin：\"如果神存在，我怎能容忍自己不是神？\"【视频播客】【公路播客】",
