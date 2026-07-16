@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-713-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-719-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 713 |
+| 笔记 | 719 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 390 |
-| 原始文稿 | 673 |
+| 结构化文稿 | 396 |
+| 原始文稿 | 679 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-13 |
-| 仓库更新日期 | 2026-07-15 |
+| 最新来源日期 | 2026-07-16 |
+| 仓库更新日期 | 2026-07-16 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-07-11 · [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md)
 - 2026-07-10 · [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 52 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 53 篇
 
+- 2026-07-15 · [The $1,000/hour Solo AI business (Full Course)](channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md)
 - 2026-07-13 · [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
 - 2026-07-10 · [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md)
-- 2026-07-09 · [GPT 5.6 SOL IS HERE! How to use it.](channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md)
 
 ### [a16z](channels/a16z/README.md) · 50 篇
 
@@ -68,11 +68,11 @@
 - 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
 - 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 45 篇
+### [Riley Brown](channels/riley-brown/README.md) · 46 篇
 
+- 2026-07-15 · [Codex and Claude Shipped Browser Updates. This Changes Everything.](channels/riley-brown/2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md)
 - 2026-07-12 · [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md)
 - 2026-07-09 · [Grok 4.5 + Cursor Just Became Unstoppable](channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md)
-- 2026-07-06 · [Claude Fable 5 Just Changed Design Forever](channels/riley-brown/2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 39 篇
 
@@ -80,19 +80,30 @@
 - 2026-07-09 · [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md)
 - 2026-06-28 · [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 37 篇
+### [Y Combinator](channels/y-combinator/README.md) · 38 篇
 
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 - 2026-06-26 · [How Warp Went From YC to a $60M Series B](channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
 - 2026-06-25 · [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
 
-### [张晓珺](channels/张晓珺/README.md) · 36 篇
+### [张晓珺](channels/张晓珺/README.md) · 38 篇
 
+- 2026-07-16 · [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md)
+- 2026-07-16 · [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md)
 - 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
-- 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](channels/张晓珺/2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
-- 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](channels/张晓珺/2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)
 
 ## 最新更新
+
+### 2026-07-16
+
+- [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md) · 张晓珺
+- [E244｜端到端vs上下分层：机器人路径之争，正在转向？](channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md) · 硅谷101
+- [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md) · 张晓珺
+
+### 2026-07-15
+
+- [The $1,000/hour Solo AI business (Full Course)](channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md) · Greg Isenberg
+- [Codex and Claude Shipped Browser Updates. This Changes Everything.](channels/riley-brown/2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md) · Riley Brown
 
 ### 2026-07-13
 
@@ -121,23 +132,6 @@
 - [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md) · Lenny's Podcast
 - [Grok 4.5 + Cursor Just Became Unstoppable](channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md) · Riley Brown
 - [GPT 5.6 SOL IS HERE! How to use it.](channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md) · Greg Isenberg
-
-### 2026-07-08
-
-- [The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO](channels/latent-space/2026-07-08-the-100,000-sandbox-problem-—-akshat-bubna,-modal-cto-UwxxlTNPjWo.md) · Latent Space
-
-### 2026-07-07
-
-- [Software in the Age of Agents | The a16z Show](channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md) · a16z
-
-### 2026-07-06
-
-- [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](channels/硅谷101/2026-07-06-e242-最快半年ai跑通自进化-与陈天桥首席科学家聊聊硅谷模型必争之地-VGIbhIW5ljk.md) · 硅谷101
-- [Claude Fable 5 Just Changed Design Forever](channels/riley-brown/2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md) · Riley Brown
-
-### 2026-07-03
-
-- [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md) · a16z
 
 ## 数据与自动更新
 

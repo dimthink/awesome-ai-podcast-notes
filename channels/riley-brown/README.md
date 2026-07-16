@@ -1,9 +1,10 @@
 # Riley Brown
 
-45 notes in this channel.
+46 notes in this channel.
 
-本频道共 45 篇。
+本频道共 46 篇。
 
+- 2026-07-15 · [Codex and Claude Shipped Browser Updates. This Changes Everything.](2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md)
 - 2026-07-12 · [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md)
 - 2026-07-09 · [Grok 4.5 + Cursor Just Became Unstoppable](2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md)
 - 2026-07-06 · [Claude Fable 5 Just Changed Design Forever](2026-07-06-claude-fable-5-just-changed-design-forever-COh_cjrDOzc.md)

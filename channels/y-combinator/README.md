@@ -1,13 +1,14 @@
 # Y Combinator
 
-37 notes in this channel.
+38 notes in this channel.
 
-本频道共 37 篇。
+本频道共 38 篇。
 
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 - 2026-06-26 · [How Warp Went From YC to a $60M Series B](2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
 - 2026-06-25 · [Rebuilding LatAm Banking](2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
 - 2026-06-24 · [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md)
+- 2026-06-23 · [AI Agents Are Killing the Engineering Pyramid — Here's What Replaces It](2026-06-23-ai-agents-are-killing-the-engineering-pyramid-—-here's-what-replaces-it-m00FTHk7570.md)
 - 2026-05-20 · [The ERP for the AI Revolution is here](2026-05-20-the-erp-for-the-ai-revolution-is-here-X1NXnLRNIfM.md)
 - 2026-05-19 · [How to Build a Self-Improving Company with AI](2026-05-19-how-to-build-a-self-improving-company-with-ai-t-G67yKAHBQ.md)
 - 2026-05-14 · [Meet The DevTool Founders Building For AI Agents](2026-05-14-meet-the-devtool-founders-building-for-ai-agents-RMmEB9ajmdo.md)

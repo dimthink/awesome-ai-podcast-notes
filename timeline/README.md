@@ -6,6 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-16](2026/07/2026-07-16.md) · 3 篇
+
+- [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](../channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md) · 张晓珺
+- [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](../channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md) · 张晓珺
+- [E244｜端到端vs上下分层：机器人路径之争，正在转向？](../channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md) · 硅谷101
+
+## [2026-07-15](2026/07/2026-07-15.md) · 2 篇
+
+- [The $1,000/hour Solo AI business (Full Course)](../channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md) · Greg Isenberg
+- [Codex and Claude Shipped Browser Updates. This Changes Everything.](../channels/riley-brown/2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md) · Riley Brown
+
 ## [2026-07-13](2026/07/2026-07-13.md) · 2 篇
 
 - [Making $$$ with Loop Engineering](../channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md) · Greg Isenberg
@@ -92,10 +103,11 @@ Browse notes by source publish date. Date headings open daily detail pages, and 
 - [The Agent Cloud: Databricks’ Bet on the Future of AI — Matei Zaharia and Reynold Xin](../channels/latent-space/2026-06-24-the-agent-cloud-databricks’-bet-on-the-future-of-ai-—-matei-zaharia-and-reynold-xin-Yp_u1NpbkJg.md) · Latent Space
 - [What It Actually Takes to Deploy a Voice Agent to a Fortune 500](../channels/y-combinator/2026-06-24-what-it-actually-takes-to-deploy-a-voice-agent-to-a-fortune-500-eSm_9tb5ZbY.md) · Y Combinator
 
-## [2026-06-23](2026/06/2026-06-23.md) · 2 篇
+## [2026-06-23](2026/06/2026-06-23.md) · 3 篇
 
 - [How On Policy Self Distillation Works - Sasha Rush](../channels/dwarkesh-patel/2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md) · Dwarkesh Patel
 - [GLM 5.2: Set Up Local AI with Cursor/Codex etc](../channels/greg-isenberg/2026-06-23-glm-5.2-set-up-local-ai-with-cursor-codex-etc-xa-9O5cDm3c.md) · Greg Isenberg
+- [AI Agents Are Killing the Engineering Pyramid — Here's What Replaces It](../channels/y-combinator/2026-06-23-ai-agents-are-killing-the-engineering-pyramid-—-here's-what-replaces-it-m00FTHk7570.md) · Y Combinator
 
 ## [2026-06-22](2026/06/2026-06-22.md) · 4 篇
 

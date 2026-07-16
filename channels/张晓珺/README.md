@@ -1,9 +1,11 @@
 # 张晓珺
 
-36 notes in this channel.
+38 notes in this channel.
 
-本频道共 36 篇。
+本频道共 38 篇。
 
+- 2026-07-16 · [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md)
+- 2026-07-16 · [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md)
 - 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
 - 2026-06-12 · [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](2026-06-12-145.-口述spacex开发史-和前高管洪力德聊,马斯克用人观、最大ipo、太空与ai、人类文明扩张前奏-ABtf0yehi1I.md)
 - 2026-06-08 · [Anker / Steven Yang: Consumer Electronics Death & birth, The Third Category,  Product Philosophy](2026-06-08-anker-steven-yang-consumer-electronics-death-&-birth,-the-third-category,-product-philosophy-kBsqirnWTpI.md)

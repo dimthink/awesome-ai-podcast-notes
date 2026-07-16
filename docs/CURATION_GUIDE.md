@@ -15,14 +15,14 @@ Good sources are usually:
 
 - 李弘毅: 253 notes
 - Latent Space: 65 notes
-- Greg Isenberg: 52 notes
+- Greg Isenberg: 53 notes
 - a16z: 50 notes
-- Riley Brown: 45 notes
+- Riley Brown: 46 notes
 - Lenny's Podcast: 39 notes
-- Y Combinator: 37 notes
-- 张晓珺: 36 notes
+- Y Combinator: 38 notes
+- 张晓珺: 38 notes
 - Koji Yang: 35 notes
-- 硅谷101: 32 notes
+- 硅谷101: 33 notes
 - AI Explained: 26 notes
 - Lex Fridman: 24 notes
 
