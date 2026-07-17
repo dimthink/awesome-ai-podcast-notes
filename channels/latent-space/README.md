@@ -1,9 +1,10 @@
 # Latent Space
 
-65 notes in this channel.
+66 notes in this channel.
 
-本频道共 65 篇。
+本频道共 66 篇。
 
+- 2026-07-16 · [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md)
 - 2026-07-13 · [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md)
 - 2026-07-11 · [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md)
 - 2026-07-10 · [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md)

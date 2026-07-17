@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 719 |
+| Notes | 722 |
 | Channels | 16 |
-| Structured notes | 396 |
-| Raw transcripts | 679 |
+| Structured notes | 399 |
+| Raw transcripts | 682 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-07-16 |
-| Archive updated | 2026-07-16 |
+| Archive updated | 2026-07-17 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 65 notes
+### [Latent Space](channels/latent-space/README.md) · 66 notes
 
+- 2026-07-16 · [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md)
 - 2026-07-13 · [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md)
 - 2026-07-11 · [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md)
-- 2026-07-10 · [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 53 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
 - 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 46 notes
+### [Riley Brown](channels/riley-brown/README.md) · 47 notes
 
+- 2026-07-16 · [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md)
 - 2026-07-15 · [Codex and Claude Shipped Browser Updates. This Changes Everything.](channels/riley-brown/2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md)
 - 2026-07-12 · [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md)
-- 2026-07-09 · [Grok 4.5 + Cursor Just Became Unstoppable](channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 39 notes
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-07-09 · [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md)
 - 2026-06-28 · [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 38 notes
+### [Y Combinator](channels/y-combinator/README.md) · 39 notes
 
+- 2026-07-16 · [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 - 2026-06-26 · [How Warp Went From YC to a $60M Series B](channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
-- 2026-06-25 · [Rebuilding LatAm Banking](channels/y-combinator/2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 38 notes
 
@@ -85,8 +85,11 @@ Each episode can include up to three versions:
 
 ### 2026-07-16
 
+- [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md) · Latent Space
 - [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md) · 张晓珺
 - [E244｜端到端vs上下分层：机器人路径之争，正在转向？](channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md) · 硅谷101
+- [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md) · Riley Brown
+- [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md) · Y Combinator
 - [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md) · 张晓珺
 
 ### 2026-07-15
@@ -115,12 +118,6 @@ Each episode can include up to three versions:
 - [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md) · Greg Isenberg
 - [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md) · 硅谷101
 - [A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules](channels/ai-explained/2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.md) · AI Explained
-
-### 2026-07-09
-
-- [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md) · Lenny's Podcast
-- [Grok 4.5 + Cursor Just Became Unstoppable](channels/riley-brown/2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md) · Riley Brown
-- [GPT 5.6 SOL IS HERE! How to use it.](channels/greg-isenberg/2026-07-09-gpt-5.6-sol-is-here!-how-to-use-it-7pVTQSA4s5I.md) · Greg Isenberg
 
 ## Data
 

@@ -1,9 +1,10 @@
 # Riley Brown
 
-46 notes in this channel.
+47 notes in this channel.
 
-本频道共 46 篇。
+本频道共 47 篇。
 
+- 2026-07-16 · [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md)
 - 2026-07-15 · [Codex and Claude Shipped Browser Updates. This Changes Everything.](2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md)
 - 2026-07-12 · [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md)
 - 2026-07-09 · [Grok 4.5 + Cursor Just Became Unstoppable](2026-07-09-grok-4.5-+-cursor-just-became-unstoppable-dLaIl6LehsU.md)

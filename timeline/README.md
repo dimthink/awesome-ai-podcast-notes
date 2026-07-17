@@ -6,8 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-07-16](2026/07/2026-07-16.md) · 3 篇
+## [2026-07-16](2026/07/2026-07-16.md) · 6 篇
 
+- [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](../channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md) · Latent Space
+- [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](../channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md) · Riley Brown
+- [Building the Agentic AI Platform for Hospitals](../channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md) · Y Combinator
 - [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](../channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md) · 张晓珺
 - [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](../channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md) · 张晓珺
 - [E244｜端到端vs上下分层：机器人路径之争，正在转向？](../channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md) · 硅谷101

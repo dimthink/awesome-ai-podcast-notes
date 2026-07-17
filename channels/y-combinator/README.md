@@ -1,9 +1,10 @@
 # Y Combinator
 
-38 notes in this channel.
+39 notes in this channel.
 
-本频道共 38 篇。
+本频道共 39 篇。
 
+- 2026-07-16 · [Building the Agentic AI Platform for Hospitals](2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 - 2026-06-26 · [How Warp Went From YC to a $60M Series B](2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md)
 - 2026-06-25 · [Rebuilding LatAm Banking](2026-06-25-rebuilding-latam-banking-cA6g0iWBQpY.md)

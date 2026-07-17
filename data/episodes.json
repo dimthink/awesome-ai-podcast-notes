@@ -1,5 +1,30 @@
 [
   {
+    "id": "2wIxPWK6nCs",
+    "video_id": "2wIxPWK6nCs",
+    "title": "🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences",
+    "channel": "Latent Space",
+    "published": "2026-07-16",
+    "source_url": "https://www.youtube.com/watch?v=2wIxPWK6nCs",
+    "notion_url": "",
+    "tags": [
+      "AI for Science",
+      "强化学习",
+      "自动化实验室",
+      "生物技术",
+      "Lila Sciences",
+      "科研范式变革"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 10349,
+    "duration": "1:41:04",
+    "duration_seconds": 6064,
+    "path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md",
+    "structured_path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.structured.md",
+    "transcript_path": "channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.transcript.md"
+  },
+  {
     "id": "dPXZrTw-Hgk",
     "video_id": "dPXZrTw-Hgk",
     "title": "Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape",
@@ -46,6 +71,54 @@
     "path": "channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md",
     "structured_path": "channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.structured.md",
     "transcript_path": "channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.transcript.md"
+  },
+  {
+    "id": "Vyyrvna-hUY",
+    "video_id": "Vyyrvna-hUY",
+    "title": "Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)",
+    "channel": "Riley Brown",
+    "published": "2026-07-16",
+    "source_url": "https://www.youtube.com/watch?v=Vyyrvna-hUY",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "无代码开发",
+      "Devin",
+      "营销自动化",
+      "产品验证"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 11530,
+    "duration": "24:47",
+    "duration_seconds": 1487,
+    "path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md",
+    "structured_path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.structured.md",
+    "transcript_path": "channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.transcript.md"
+  },
+  {
+    "id": "3lQQadC6vKg",
+    "video_id": "3lQQadC6vKg",
+    "title": "Building the Agentic AI Platform for Hospitals",
+    "channel": "Y Combinator",
+    "published": "2026-07-16",
+    "source_url": "https://www.youtube.com/watch?v=3lQQadC6vKg",
+    "notion_url": "",
+    "tags": [
+      "AI医疗",
+      "智能体平台",
+      "YC访谈",
+      "医院创新",
+      "创业方法论"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 8300,
+    "duration": "47:51",
+    "duration_seconds": 2871,
+    "path": "channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md",
+    "structured_path": "channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.structured.md",
+    "transcript_path": "channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.transcript.md"
   },
   {
     "id": "ghKTtfM-R6g",
