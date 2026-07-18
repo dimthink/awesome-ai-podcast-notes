@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-722-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-723-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 722 |
+| 笔记 | 723 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 399 |
-| 原始文稿 | 682 |
+| 结构化文稿 | 400 |
+| 原始文稿 | 683 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-16 |
-| 仓库更新日期 | 2026-07-17 |
+| 最新来源日期 | 2026-07-17 |
+| 仓库更新日期 | 2026-07-18 |
 
 ## 适合谁
 
@@ -62,11 +62,11 @@
 - 2026-07-13 · [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
 - 2026-07-10 · [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md)
 
-### [a16z](channels/a16z/README.md) · 50 篇
+### [a16z](channels/a16z/README.md) · 51 篇
 
+- 2026-07-17 · ["Being Canceled is a Choice" | Replit CEO with a16z](channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md)
 - 2026-07-07 · [Software in the Age of Agents | The a16z Show](channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md)
 - 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
-- 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 47 篇
 
@@ -93,6 +93,10 @@
 - 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
 
 ## 最新更新
+
+### 2026-07-17
+
+- ["Being Canceled is a Choice" | Replit CEO with a16z](channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md) · a16z
 
 ### 2026-07-16
 
@@ -128,7 +132,6 @@
 - [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md) · Latent Space
 - [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md) · Greg Isenberg
 - [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md) · 硅谷101
-- [A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules](channels/ai-explained/2026-07-10-a-model-explosion-gpt-5.6-sol,-grok-4.5-and-meta-muse-rewrite-the-rules-mWlCituW7wo.md) · AI Explained
 
 ## 数据与自动更新
 

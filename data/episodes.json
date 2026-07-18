@@ -1,5 +1,29 @@
 [
   {
+    "id": "rghTqkclDqA",
+    "video_id": "rghTqkclDqA",
+    "title": "\"Being Canceled is a Choice\" | Replit CEO with a16z",
+    "channel": "a16z",
+    "published": "2026-07-17",
+    "source_url": "https://www.youtube.com/watch?v=rghTqkclDqA",
+    "notion_url": "",
+    "tags": [
+      "CEO个人品牌",
+      "公关危机",
+      "创业心理",
+      "叙事策略",
+      "平台运营"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 7321,
+    "duration": "26:15",
+    "duration_seconds": 1575,
+    "path": "channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md",
+    "structured_path": "channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.structured.md",
+    "transcript_path": "channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.transcript.md"
+  },
+  {
     "id": "2wIxPWK6nCs",
     "video_id": "2wIxPWK6nCs",
     "title": "🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences",

@@ -1,9 +1,10 @@
 # a16z
 
-50 notes in this channel.
+51 notes in this channel.
 
-本频道共 50 篇。
+本频道共 51 篇。
 
+- 2026-07-17 · ["Being Canceled is a Choice" | Replit CEO with a16z](2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md)
 - 2026-07-07 · [Software in the Age of Agents | The a16z Show](2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md)
 - 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
 - 2026-06-22 · [Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund](2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md)

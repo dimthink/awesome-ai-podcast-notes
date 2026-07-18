@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-17](2026/07/2026-07-17.md) · 1 篇
+
+- ["Being Canceled is a Choice" | Replit CEO with a16z](../channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md) · a16z
+
 ## [2026-07-16](2026/07/2026-07-16.md) · 6 篇
 
 - [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](../channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md) · Latent Space
