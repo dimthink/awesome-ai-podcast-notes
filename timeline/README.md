@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-19](2026/07/2026-07-19.md) · 2 篇
+
+- [【十字路口】快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频【视频播客】](../channels/koji-yang/2026-07-19-【十字路口】快一点!再快一点!快到世界能实时生成-和生数科技张金涛聊-vidu-s1、推理加速、实时交互视频【视频播客】-EAbsBmcDMQE.md) · Koji Yang
+- [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](../channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md) · Lenny's Podcast
+
 ## [2026-07-17](2026/07/2026-07-17.md) · 1 篇
 
 - ["Being Canceled is a Choice" | Replit CEO with a16z](../channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md) · a16z

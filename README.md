@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-723-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-725-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 723 |
+| 笔记 | 725 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 400 |
-| 原始文稿 | 683 |
+| 结构化文稿 | 402 |
+| 原始文稿 | 685 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-17 |
-| 仓库更新日期 | 2026-07-18 |
+| 最新来源日期 | 2026-07-19 |
+| 仓库更新日期 | 2026-07-20 |
 
 ## 适合谁
 
@@ -74,11 +74,11 @@
 - 2026-07-15 · [Codex and Claude Shipped Browser Updates. This Changes Everything.](channels/riley-brown/2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md)
 - 2026-07-12 · [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 39 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 40 篇
 
+- 2026-07-19 · [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md)
 - 2026-07-12 · [Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)](channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md)
 - 2026-07-09 · [The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)](channels/lenny's-podcast/2026-07-09-the-rise-of-taste,-human-authenticity-and-judgment-in-an-ai-world-adam-mosseri-(head-of-ig)-yQ_EWmtfWvQ.md)
-- 2026-06-28 · [OpenAI Codex lead on the new shape of product work | Andrew Ambrosino](channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 39 篇
 
@@ -93,6 +93,11 @@
 - 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
 
 ## 最新更新
+
+### 2026-07-19
+
+- [【十字路口】快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频【视频播客】](channels/koji-yang/2026-07-19-【十字路口】快一点!再快一点!快到世界能实时生成-和生数科技张金涛聊-vidu-s1、推理加速、实时交互视频【视频播客】-EAbsBmcDMQE.md) · Koji Yang
+- [Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)](channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md) · Lenny's Podcast
 
 ### 2026-07-17
 
@@ -130,8 +135,6 @@
 ### 2026-07-10
 
 - [Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv](channels/latent-space/2026-07-10-podcast-crossover-aie,-agi,-frontier-lab-strategy-with-​-⁨@matthew_berman⁩-and-@swyxtv-bIOCKXcxloQ.md) · Latent Space
-- [Grok 4.5 is a bigger deal than Fable 5](channels/greg-isenberg/2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md) · Greg Isenberg
-- [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](channels/硅谷101/2026-07-10-e243-特朗普“缓刑”红牌之外,美国资本如何硬控全球足坛-tikoC9i9RH4.md) · 硅谷101
 
 ## 数据与自动更新
 

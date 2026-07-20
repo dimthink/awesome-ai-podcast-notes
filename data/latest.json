@@ -1,5 +1,53 @@
 [
   {
+    "id": "EAbsBmcDMQE",
+    "video_id": "EAbsBmcDMQE",
+    "title": "【十字路口】快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频【视频播客】",
+    "channel": "Koji Yang",
+    "published": "2026-07-19",
+    "source_url": "https://www.youtube.com/watch?v=EAbsBmcDMQE",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "推理加速",
+      "视频生成",
+      "创业",
+      "技术管理"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 8266,
+    "duration": "41:12",
+    "duration_seconds": 2472,
+    "path": "channels/koji-yang/2026-07-19-【十字路口】快一点!再快一点!快到世界能实时生成-和生数科技张金涛聊-vidu-s1、推理加速、实时交互视频【视频播客】-EAbsBmcDMQE.md",
+    "structured_path": "channels/koji-yang/2026-07-19-【十字路口】快一点!再快一点!快到世界能实时生成-和生数科技张金涛聊-vidu-s1、推理加速、实时交互视频【视频播客】-EAbsBmcDMQE.structured.md",
+    "transcript_path": "channels/koji-yang/2026-07-19-【十字路口】快一点!再快一点!快到世界能实时生成-和生数科技张金涛聊-vidu-s1、推理加速、实时交互视频【视频播客】-EAbsBmcDMQE.transcript.md"
+  },
+  {
+    "id": "t0GiTyz4syY",
+    "video_id": "t0GiTyz4syY",
+    "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-07-19",
+    "source_url": "https://www.youtube.com/watch?v=t0GiTyz4syY",
+    "notion_url": "",
+    "tags": [
+      "AI组织转型",
+      "系统思考",
+      "人才密度",
+      "Netflix文化",
+      "工程管理"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 10680,
+    "duration": "1:12:08",
+    "duration_seconds": 4328,
+    "path": "channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.md",
+    "structured_path": "channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-07-19-why-netflix-is-betting-on-systems-thinkers—not-specialists—in-the-ai-era-elizabeth-stone-(cpto)-t0GiTyz4syY.transcript.md"
+  },
+  {
     "id": "rghTqkclDqA",
     "video_id": "rghTqkclDqA",
     "title": "\"Being Canceled is a Choice\" | Replit CEO with a16z",
@@ -1168,53 +1216,5 @@
     "path": "channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.md",
     "structured_path": "channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.structured.md",
     "transcript_path": "channels/koji-yang/2026-06-22-【十字路口】对话-minimax-闫俊杰-m3、10x-计划、10t-模型、和智能的终局【视频播客】-Ld_qyU2BX8A.transcript.md"
-  },
-  {
-    "id": "ATScXYYjUrA",
-    "video_id": "ATScXYYjUrA",
-    "title": "When Rome Rioted for More Nepotism – Ada Palmer",
-    "channel": "Dwarkesh Patel",
-    "published": "2026-06-22",
-    "source_url": "https://www.youtube.com/watch?v=ATScXYYjUrA",
-    "notion_url": "",
-    "tags": [
-      "庇护制度",
-      "裙带关系",
-      "历史社会学",
-      "司法正义",
-      "信任体系"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 8568,
-    "duration": "10:31",
-    "duration_seconds": 631,
-    "path": "channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.md",
-    "structured_path": "channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.structured.md",
-    "transcript_path": "channels/dwarkesh-patel/2026-06-22-when-rome-rioted-for-more-nepotism-–-ada-palmer-ATScXYYjUrA.transcript.md"
-  },
-  {
-    "id": "yfafpyhB-8E",
-    "video_id": "yfafpyhB-8E",
-    "title": "Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund",
-    "channel": "a16z",
-    "published": "2026-06-22",
-    "source_url": "https://www.youtube.com/watch?v=yfafpyhB-8E",
-    "notion_url": "",
-    "tags": [
-      "Jake Paul",
-      "反脆弱",
-      "投资",
-      "个人品牌",
-      "跨界创业"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 10860,
-    "duration": "1:05:58",
-    "duration_seconds": 3958,
-    "path": "channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.md",
-    "structured_path": "channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.structured.md",
-    "transcript_path": "channels/a16z/2026-06-22-jake-paul-on-going-from-youtube-to-boxing-to-investing-a16z-ft.-anti-fund-yfafpyhB-8E.transcript.md"
   }
 ]
