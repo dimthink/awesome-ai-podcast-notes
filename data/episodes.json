@@ -1,5 +1,53 @@
 [
   {
+    "id": "tOhkv307Pm0",
+    "video_id": "tOhkv307Pm0",
+    "title": "The First Dedicated YC GPU Cluster - With Together AI",
+    "channel": "Y Combinator",
+    "published": "2026-07-20",
+    "source_url": "https://www.youtube.com/watch?v=tOhkv307Pm0",
+    "notion_url": "",
+    "tags": [
+      "Y Combinator",
+      "AI基础设施",
+      "GPU集群",
+      "创业融资",
+      "AI原生创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 6567,
+    "duration": "15:48",
+    "duration_seconds": 948,
+    "path": "channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md",
+    "structured_path": "channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.structured.md",
+    "transcript_path": "channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.transcript.md"
+  },
+  {
+    "id": "zXysLUTLjw4",
+    "video_id": "zXysLUTLjw4",
+    "title": "FDE: The $1M/Year AI Job Explained",
+    "channel": "Greg Isenberg",
+    "published": "2026-07-20",
+    "source_url": "https://www.youtube.com/watch?v=zXysLUTLjw4",
+    "notion_url": "",
+    "tags": [
+      "FDE",
+      "Forward Deployed Engineer",
+      "AI Agent",
+      "企业AI落地",
+      "职业技能路线图"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 13233,
+    "duration": "51:34",
+    "duration_seconds": 3094,
+    "path": "channels/greg-isenberg/2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.md",
+    "structured_path": "channels/greg-isenberg/2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.transcript.md"
+  },
+  {
     "id": "EAbsBmcDMQE",
     "video_id": "EAbsBmcDMQE",
     "title": "【十字路口】快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频【视频播客】",

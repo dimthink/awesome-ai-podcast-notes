@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-53 notes in this channel.
+54 notes in this channel.
 
-本频道共 53 篇。
+本频道共 54 篇。
 
+- 2026-07-20 · [FDE: The $1M/Year AI Job Explained](2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.md)
 - 2026-07-15 · [The $1,000/hour Solo AI business (Full Course)](2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md)
 - 2026-07-13 · [Making $$$ with Loop Engineering](2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
 - 2026-07-10 · [Grok 4.5 is a bigger deal than Fable 5](2026-07-10-grok-4.5-is-a-bigger-deal-than-fable-5-LvsQR7Vc4fQ.md)

@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-20](2026/07/2026-07-20.md) · 2 篇
+
+- [FDE: The $1M/Year AI Job Explained](../channels/greg-isenberg/2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.md) · Greg Isenberg
+- [The First Dedicated YC GPU Cluster - With Together AI](../channels/y-combinator/2026-07-20-the-first-dedicated-yc-gpu-cluster-with-together-ai-tOhkv307Pm0.md) · Y Combinator
+
 ## [2026-07-19](2026/07/2026-07-19.md) · 2 篇
 
 - [【十字路口】快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频【视频播客】](../channels/koji-yang/2026-07-19-【十字路口】快一点!再快一点!快到世界能实时生成-和生数科技张金涛聊-vidu-s1、推理加速、实时交互视频【视频播客】-EAbsBmcDMQE.md) · Koji Yang
