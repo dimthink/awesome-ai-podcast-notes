@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-727-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-732-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 727 |
+| 笔记 | 732 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 404 |
-| 原始文稿 | 687 |
+| 结构化文稿 | 409 |
+| 原始文稿 | 692 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-20 |
-| 仓库更新日期 | 2026-07-21 |
+| 最新来源日期 | 2026-07-22 |
+| 仓库更新日期 | 2026-07-22 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 66 篇
+### [Latent Space](channels/latent-space/README.md) · 67 篇
 
+- 2026-07-21 · [Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)](channels/latent-space/2026-07-21-causal-models-need-causal-data-xaira’s-x-cell-model-(bo-wang-&-ci-chu)-2AdS-2uuH80.md)
 - 2026-07-16 · [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md)
 - 2026-07-13 · [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md)
-- 2026-07-11 · [Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab](channels/latent-space/2026-07-11-why-ai-agents-don't-actually-understand-you-—-danielle-perszyk,-amazon-agi-lab-K796MYUgt0k.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 54 篇
 
@@ -62,17 +62,17 @@
 - 2026-07-15 · [The $1,000/hour Solo AI business (Full Course)](channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md)
 - 2026-07-13 · [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
 
-### [a16z](channels/a16z/README.md) · 51 篇
+### [a16z](channels/a16z/README.md) · 52 篇
 
+- 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 - 2026-07-17 · ["Being Canceled is a Choice" | Replit CEO with a16z](channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md)
 - 2026-07-07 · [Software in the Age of Agents | The a16z Show](channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md)
-- 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](channels/a16z/2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 47 篇
+### [Riley Brown](channels/riley-brown/README.md) · 48 篇
 
+- 2026-07-21 · [I Turned Codex Into a Business Growth Machine](channels/riley-brown/2026-07-21-i-turned-codex-into-a-business-growth-machine-gOx37on-iA8.md)
 - 2026-07-16 · [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md)
 - 2026-07-15 · [Codex and Claude Shipped Browser Updates. This Changes Everything.](channels/riley-brown/2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md)
-- 2026-07-12 · [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 40 篇
 
@@ -86,13 +86,24 @@
 - 2026-07-16 · [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md)
 - 2026-06-29 · [The AI Agents Helping Home Services Book More Jobs](channels/y-combinator/2026-06-29-the-ai-agents-helping-home-services-book-more-jobs-EHp1HgwCo9I.md)
 
-### [张晓珺](channels/张晓珺/README.md) · 38 篇
+### [张晓珺](channels/张晓珺/README.md) · 39 篇
 
+- 2026-07-22 · [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](channels/张晓珺/2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md)
 - 2026-07-16 · [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md)
 - 2026-07-16 · [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md)
-- 2026-06-13 · [Oral History of SpaceX’s Journey: Space and AI, and the Prelude to Human Civilization’s Expansion?](channels/张晓珺/2026-06-13-oral-history-of-spacex’s-journey-space-and-ai,-and-the-prelude-to-human-civilization’s-expansion-a93FT2340c0.md)
 
 ## 最新更新
+
+### 2026-07-22
+
+- [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
+- [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](channels/张晓珺/2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md) · 张晓珺
+
+### 2026-07-21
+
+- [Why Physical AI Is the Next Frontier | The a16z Show](channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md) · a16z
+- [I Turned Codex Into a Business Growth Machine](channels/riley-brown/2026-07-21-i-turned-codex-into-a-business-growth-machine-gOx37on-iA8.md) · Riley Brown
+- [Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)](channels/latent-space/2026-07-21-causal-models-need-causal-data-xaira’s-x-cell-model-(bo-wang-&-ci-chu)-2AdS-2uuH80.md) · Latent Space
 
 ### 2026-07-20
 
@@ -121,17 +132,6 @@
 
 - [The $1,000/hour Solo AI business (Full Course)](channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md) · Greg Isenberg
 - [Codex and Claude Shipped Browser Updates. This Changes Everything.](channels/riley-brown/2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md) · Riley Brown
-
-### 2026-07-13
-
-- [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md) · Latent Space
-- [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md) · Greg Isenberg
-
-### 2026-07-12
-
-- [【十字路口】AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【视频播客】【公路播客】](channels/koji-yang/2026-07-12-【十字路口】ai4s-需要狂人与野心家-对话英灵殿-odin-如果神存在,我怎能容忍自己不是神-【视频播客】【公路播客】-8G1fm7mNS3Q.md) · Koji Yang
-- [Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)](channels/lenny's-podcast/2026-07-12-why-the-tech-workforce-is-quietly-splitting-in-two-annual-ai-sentiment-survey-(noam-segal)-_cmpIveXnvE.md) · Lenny's Podcast
-- [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](channels/riley-brown/2026-07-12-openai-just-merged-chatgpt-and-codex.-this-changes-everything-Fv0XfyLT3xU.md) · Riley Brown
 
 ## 数据与自动更新
 

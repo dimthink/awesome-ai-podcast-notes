@@ -6,6 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-22](2026/07/2026-07-22.md) · 2 篇
+
+- [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](../channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
+- [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](../channels/张晓珺/2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md) · 张晓珺
+
+## [2026-07-21](2026/07/2026-07-21.md) · 3 篇
+
+- [Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)](../channels/latent-space/2026-07-21-causal-models-need-causal-data-xaira’s-x-cell-model-(bo-wang-&-ci-chu)-2AdS-2uuH80.md) · Latent Space
+- [I Turned Codex Into a Business Growth Machine](../channels/riley-brown/2026-07-21-i-turned-codex-into-a-business-growth-machine-gOx37on-iA8.md) · Riley Brown
+- [Why Physical AI Is the Next Frontier | The a16z Show](../channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md) · a16z
+
 ## [2026-07-20](2026/07/2026-07-20.md) · 2 篇
 
 - [FDE: The $1M/Year AI Job Explained](../channels/greg-isenberg/2026-07-20-fde-the-$1m-year-ai-job-explained-zXysLUTLjw4.md) · Greg Isenberg

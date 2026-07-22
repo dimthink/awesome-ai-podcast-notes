@@ -1,9 +1,10 @@
 # a16z
 
-51 notes in this channel.
+52 notes in this channel.
 
-本频道共 51 篇。
+本频道共 52 篇。
 
+- 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 - 2026-07-17 · ["Being Canceled is a Choice" | Replit CEO with a16z](2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md)
 - 2026-07-07 · [Software in the Age of Agents | The a16z Show](2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md)
 - 2026-07-03 · [a16z Goes Global: Why American Tech Must Lead the World](2026-07-03-a16z-goes-global-why-american-tech-must-lead-the-world-XwfUzW32cIA.md)
