@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 732 |
+| Notes | 735 |
 | Channels | 16 |
-| Structured notes | 409 |
-| Raw transcripts | 692 |
+| Structured notes | 412 |
+| Raw transcripts | 695 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-07-22 |
-| Archive updated | 2026-07-22 |
+| Archive updated | 2026-07-23 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 67 notes
+### [Latent Space](channels/latent-space/README.md) · 68 notes
 
+- 2026-07-22 · [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md)
 - 2026-07-21 · [Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)](channels/latent-space/2026-07-21-causal-models-need-causal-data-xaira’s-x-cell-model-(bo-wang-&-ci-chu)-2AdS-2uuH80.md)
 - 2026-07-16 · [🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences](channels/latent-space/2026-07-16-🔬-rl-with-verifiable-rewards,-but-the-verifier-is-a-lab-—-lila-sciences-2wIxPWK6nCs.md)
-- 2026-07-13 · [The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO](channels/latent-space/2026-07-13-the-ai-memory-problem-why-long-context-isn’t-enough-—-dan-biderman,-engram-co-founder-&-ceo-jhpmMTus5a0.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 54 notes
 
@@ -51,11 +51,11 @@ Each episode can include up to three versions:
 - 2026-07-15 · [The $1,000/hour Solo AI business (Full Course)](channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md)
 - 2026-07-13 · [Making $$$ with Loop Engineering](channels/greg-isenberg/2026-07-13-making-$$$-with-loop-engineering-5p_BBdfvzgQ.md)
 
-### [a16z](channels/a16z/README.md) · 52 notes
+### [a16z](channels/a16z/README.md) · 53 notes
 
+- 2026-07-22 · [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md)
 - 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](channels/a16z/2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 - 2026-07-17 · ["Being Canceled is a Choice" | Replit CEO with a16z](channels/a16z/2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md)
-- 2026-07-07 · [Software in the Age of Agents | The a16z Show](channels/a16z/2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 48 notes
 
@@ -86,6 +86,9 @@ Each episode can include up to three versions:
 ### 2026-07-22
 
 - [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
+- [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md) · Latent Space
+- [GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype](channels/ai-explained/2026-07-22-gpt-6-goes-rogue-the-huggingface-incident,-sans-hype-wzY2fV4Mp3U.md) · AI Explained
+- [Building a Company in Stealth | Travis Kalanick with a16z](channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md) · a16z
 - [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](channels/张晓珺/2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md) · 张晓珺
 
 ### 2026-07-21
@@ -115,12 +118,6 @@ Each episode can include up to three versions:
 - [E244｜端到端vs上下分层：机器人路径之争，正在转向？](channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md) · 硅谷101
 - [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md) · Riley Brown
 - [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md) · Y Combinator
-- [146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角](channels/张晓珺/2026-07-16-146.-对physical-intelligence柯丽一鸣4小时访谈-pi的开源模型研究,机器人的江湖、族谱与主角-ghKTtfM-R6g.md) · 张晓珺
-
-### 2026-07-15
-
-- [The $1,000/hour Solo AI business (Full Course)](channels/greg-isenberg/2026-07-15-the-$1,000-hour-solo-ai-business-(full-course)-dhbcVxYhWaQ.md) · Greg Isenberg
-- [Codex and Claude Shipped Browser Updates. This Changes Everything.](channels/riley-brown/2026-07-15-codex-and-claude-shipped-browser-updates.-this-changes-everything-juPDqb89dew.md) · Riley Brown
 
 ## Data
 

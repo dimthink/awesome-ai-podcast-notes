@@ -6,9 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-07-22](2026/07/2026-07-22.md) · 2 篇
+## [2026-07-22](2026/07/2026-07-22.md) · 5 篇
 
+- [GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype](../channels/ai-explained/2026-07-22-gpt-6-goes-rogue-the-huggingface-incident,-sans-hype-wzY2fV4Mp3U.md) · AI Explained
 - [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](../channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
+- [Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI](../channels/latent-space/2026-07-22-poolside’s-model-factory,-laguna-s,-open-models,-and-the-race-to-agi-—-eiso-kant,-poolside-ai-9_0hs2sxHHo.md) · Latent Space
+- [Building a Company in Stealth | Travis Kalanick with a16z](../channels/a16z/2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md) · a16z
 - [147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥](../channels/张晓珺/2026-07-22-147.-和蚂蚁灵波沈宇军聊-机器人原生基础模型、大脑和本体的关系、预训练与数据scale-up、老师汤晓鸥-fww9LN9baKQ.md) · 张晓珺
 
 ## [2026-07-21](2026/07/2026-07-21.md) · 3 篇

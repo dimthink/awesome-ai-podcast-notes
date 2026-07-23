@@ -1,9 +1,10 @@
 # a16z
 
-52 notes in this channel.
+53 notes in this channel.
 
-本频道共 52 篇。
+本频道共 53 篇。
 
+- 2026-07-22 · [Building a Company in Stealth | Travis Kalanick with a16z](2026-07-22-building-a-company-in-stealth-travis-kalanick-with-a16z-z6gH_v0buUc.md)
 - 2026-07-21 · [Why Physical AI Is the Next Frontier | The a16z Show](2026-07-21-why-physical-ai-is-the-next-frontier-the-a16z-show-56XgWH9ch0U.md)
 - 2026-07-17 · ["Being Canceled is a Choice" | Replit CEO with a16z](2026-07-17-being-canceled-is-a-choice-replit-ceo-with-a16z-rghTqkclDqA.md)
 - 2026-07-07 · [Software in the Age of Agents | The a16z Show](2026-07-07-software-in-the-age-of-agents-the-a16z-show-Mxs4erDxOEE.md)
