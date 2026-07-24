@@ -1,5 +1,29 @@
 [
   {
+    "id": "ifyzclKzVOA",
+    "video_id": "ifyzclKzVOA",
+    "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+    "channel": "硅谷101",
+    "published": "2026-07-24",
+    "source_url": "https://www.youtube.com/watch?v=ifyzclKzVOA",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "内容工程师",
+      "新闻业转型",
+      "人机交互",
+      "创意产业"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 8348,
+    "duration": "46:01",
+    "duration_seconds": 2761,
+    "path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md",
+    "structured_path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.structured.md",
+    "transcript_path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.transcript.md"
+  },
+  {
     "id": "uxR9pOkbiY8",
     "video_id": "uxR9pOkbiY8",
     "title": "知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话",
@@ -1189,29 +1213,5 @@
     "path": "channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.md",
     "structured_path": "channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.structured.md",
     "transcript_path": "channels/lenny's-podcast/2026-06-28-openai-codex-lead-on-the-new-shape-of-product-work-andrew-ambrosino-P3KDebPTUrw.transcript.md"
-  },
-  {
-    "id": "80eZ7DjCGSo",
-    "video_id": "80eZ7DjCGSo",
-    "title": "How Warp Went From YC to a $60M Series B",
-    "channel": "Y Combinator",
-    "published": "2026-06-26",
-    "source_url": "https://www.youtube.com/watch?v=80eZ7DjCGSo",
-    "notion_url": "",
-    "tags": [
-      "AI原生",
-      "创业",
-      "员工管理",
-      "YC",
-      "B轮融资"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 10573,
-    "duration": "26:59",
-    "duration_seconds": 1619,
-    "path": "channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.md",
-    "structured_path": "channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.structured.md",
-    "transcript_path": "channels/y-combinator/2026-06-26-how-warp-went-from-yc-to-a-$60m-series-b-80eZ7DjCGSo.transcript.md"
   }
 ]

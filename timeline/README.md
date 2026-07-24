@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-07-24](2026/07/2026-07-24.md) · 1 篇
+
+- [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](../channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md) · 硅谷101
+
 ## [2026-07-22](2026/07/2026-07-22.md) · 5 篇
 
 - [GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype](../channels/ai-explained/2026-07-22-gpt-6-goes-rogue-the-huggingface-incident,-sans-hype-wzY2fV4Mp3U.md) · AI Explained

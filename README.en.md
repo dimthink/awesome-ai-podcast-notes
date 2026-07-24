@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 735 |
+| Notes | 736 |
 | Channels | 16 |
-| Structured notes | 412 |
-| Raw transcripts | 695 |
+| Structured notes | 413 |
+| Raw transcripts | 696 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-07-22 |
-| Archive updated | 2026-07-23 |
+| Latest source date | 2026-07-24 |
+| Archive updated | 2026-07-24 |
 
 Each episode can include up to three versions:
 
@@ -83,6 +83,10 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-07-24
+
+- [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md) · 硅谷101
+
 ### 2026-07-22
 
 - [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
@@ -117,7 +121,6 @@ Each episode can include up to three versions:
 - [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md) · 张晓珺
 - [E244｜端到端vs上下分层：机器人路径之争，正在转向？](channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md) · 硅谷101
 - [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md) · Riley Brown
-- [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md) · Y Combinator
 
 ## Data
 

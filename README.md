@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-735-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-736-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 735 |
+| 笔记 | 736 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 412 |
-| 原始文稿 | 695 |
+| 结构化文稿 | 413 |
+| 原始文稿 | 696 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-07-22 |
-| 仓库更新日期 | 2026-07-23 |
+| 最新来源日期 | 2026-07-24 |
+| 仓库更新日期 | 2026-07-24 |
 
 ## 适合谁
 
@@ -94,6 +94,10 @@
 
 ## 最新更新
 
+### 2026-07-24
+
+- [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md) · 硅谷101
+
 ### 2026-07-22
 
 - [知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话](channels/koji-yang/2026-07-22-知识、代码、教程都不值钱了,ai时代什么值得学-waic-2026-围炉夜话-uxR9pOkbiY8.md) · Koji Yang
@@ -128,7 +132,6 @@
 - [Kay Ke: Inside Physical Intelligence's Open-Source Robot Models and the Robotics Landscape](channels/张晓珺/2026-07-16-kay-ke-inside-physical-intelligence's-open-source-robot-models-and-the-robotics-landscape-dPXZrTw-Hgk.md) · 张晓珺
 - [E244｜端到端vs上下分层：机器人路径之争，正在转向？](channels/硅谷101/2026-07-16-e244-端到端vs上下分层-机器人路径之争,正在转向-Dxh1srVJr4s.md) · 硅谷101
 - [Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)](channels/riley-brown/2026-07-16-devin-ai-the-full-beginner’s-guide-(better-than-claude-code-)-Vyyrvna-hUY.md) · Riley Brown
-- [Building the Agentic AI Platform for Hospitals](channels/y-combinator/2026-07-16-building-the-agentic-ai-platform-for-hospitals-3lQQadC6vKg.md) · Y Combinator
 
 ## 数据与自动更新
 

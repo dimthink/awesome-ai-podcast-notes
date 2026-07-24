@@ -1,5 +1,29 @@
 [
   {
+    "id": "ifyzclKzVOA",
+    "video_id": "ifyzclKzVOA",
+    "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+    "channel": "硅谷101",
+    "published": "2026-07-24",
+    "source_url": "https://www.youtube.com/watch?v=ifyzclKzVOA",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "内容工程师",
+      "新闻业转型",
+      "人机交互",
+      "创意产业"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 8348,
+    "duration": "46:01",
+    "duration_seconds": 2761,
+    "path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md",
+    "structured_path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.structured.md",
+    "transcript_path": "channels/硅谷101/2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.transcript.md"
+  },
+  {
     "id": "uxR9pOkbiY8",
     "video_id": "uxR9pOkbiY8",
     "title": "知识、代码、教程都不值钱了，AI时代什么值得学？｜WAIC 2026 围炉夜话",
