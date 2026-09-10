@@ -1,9 +1,11 @@
 # Riley Brown
 
-64 notes in this channel.
+66 notes in this channel.
 
-本频道共 64 篇。
+本频道共 66 篇。
 
+- 2026-09-09 · [Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)](2026-09-09-claude-users-you’re-missing-out-on-fable-5.1-(it’s-that-good)-3cYTWLdHgAE.md)
+- 2026-09-07 · [I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)](2026-09-07-i-spent-100-hours-using-gpt-6-astra-(this-feels-like-agi)-Ju41cQSe7hY.md)
 - 2026-09-04 · [8 Agents That Make ChatGPT 10x MORE Powerful](2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md)
 - 2026-09-02 · [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md)
 - 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)

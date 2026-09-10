@@ -1,9 +1,10 @@
 # Dwarkesh Patel
 
-14 notes in this channel.
+15 notes in this channel.
 
-本频道共 14 篇。
+本频道共 15 篇。
 
+- 2026-09-09 · [Why Punishing AI for Cheating Could Backfire - Ajeya Cotra](2026-09-09-why-punishing-ai-for-cheating-could-backfire-ajeya-cotra-Wth831jKhlw.md)
 - 2026-09-03 · [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md)
 - 2026-08-26 · [Could the AI Boom Trigger a Global Debt Crisis? - Dylan Patel](2026-08-26-could-the-ai-boom-trigger-a-global-debt-crisis-dylan-patel-0Hx7QGJhoGs.md)
 - 2026-06-23 · [How On Policy Self Distillation Works - Sasha Rush](2026-06-23-how-on-policy-self-distillation-works-sasha-rush-wxOZWD6wYVY.md)

@@ -6,6 +6,27 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-10](2026/09/2026-09-10.md) · 1 篇
+
+- [Why jobs are becoming a series of loops | Anish Acharya (a16z)](../channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md) · Lenny's Podcast
+
+## [2026-09-09](2026/09/2026-09-09.md) · 3 篇
+
+- [Why Punishing AI for Cheating Could Backfire - Ajeya Cotra](../channels/dwarkesh-patel/2026-09-09-why-punishing-ai-for-cheating-could-backfire-ajeya-cotra-Wth831jKhlw.md) · Dwarkesh Patel
+- [Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)](../channels/riley-brown/2026-09-09-claude-users-you’re-missing-out-on-fable-5.1-(it’s-that-good)-3cYTWLdHgAE.md) · Riley Brown
+- [Inside the Race to Measure Frontier Intelligence](../channels/a16z/2026-09-09-inside-the-race-to-measure-frontier-intelligence-WO9c9qxDxzU.md) · a16z
+
+## [2026-09-08](2026/09/2026-09-08.md) · 3 篇
+
+- [I'm Obsessed With Local AI. Here's Why](../channels/greg-isenberg/2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md) · Greg Isenberg
+- [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](../channels/lenny's-podcast/2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md) · Lenny's Podcast
+- [Inside OpenAI’s Breakthroughs in Mathematical Reasoning](../channels/a16z/2026-09-08-inside-openai’s-breakthroughs-in-mathematical-reasoning-1JvyLGd2Sfs.md) · a16z
+
+## [2026-09-07](2026/09/2026-09-07.md) · 2 篇
+
+- [Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP](../channels/latent-space/2026-09-07-inside-the-team-that-killed-mandatory-code-review-—-quinn-slack,-amp-hvwtHZ5E27c.md) · Latent Space
+- [I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)](../channels/riley-brown/2026-09-07-i-spent-100-hours-using-gpt-6-astra-(this-feels-like-agi)-Ju41cQSe7hY.md) · Riley Brown
+
 ## [2026-09-04](2026/09/2026-09-04.md) · 4 篇
 
 - [GPT 6 Astra, so good even OpenAI are worried](../channels/ai-explained/2026-09-04-gpt-6-astra,-so-good-even-openai-are-worried-Spuza-KwTJ4.md) · AI Explained

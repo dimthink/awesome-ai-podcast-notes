@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 827 |
+| Notes | 836 |
 | Channels | 16 |
-| Structured notes | 503 |
-| Raw transcripts | 787 |
+| Structured notes | 512 |
+| Raw transcripts | 796 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-09-04 |
-| Archive updated | 2026-09-05 |
+| Latest source date | 2026-09-10 |
+| Archive updated | 2026-09-10 |
 
 Each episode can include up to three versions:
 
@@ -39,35 +39,35 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 77 notes
+### [Latent Space](channels/latent-space/README.md) · 78 notes
 
+- 2026-09-07 · [Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP](channels/latent-space/2026-09-07-inside-the-team-that-killed-mandatory-code-review-—-quinn-slack,-amp-hvwtHZ5E27c.md)
 - 2026-09-04 · [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md)
 - 2026-09-02 · [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md)
-- 2026-08-26 · [🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech](channels/latent-space/2026-08-26-🔬-why-transformers-hit-a-wall-the-moment-physics-shows-up-—-anima-anandkumar,-caltech-79mIutht1f4.md)
 
-### [a16z](channels/a16z/README.md) · 75 notes
+### [a16z](channels/a16z/README.md) · 77 notes
 
+- 2026-09-09 · [Inside the Race to Measure Frontier Intelligence](channels/a16z/2026-09-09-inside-the-race-to-measure-frontier-intelligence-WO9c9qxDxzU.md)
+- 2026-09-08 · [Inside OpenAI’s Breakthroughs in Mathematical Reasoning](channels/a16z/2026-09-08-inside-openai’s-breakthroughs-in-mathematical-reasoning-1JvyLGd2Sfs.md)
 - 2026-09-04 · [Why World Models Could Change Robotics, 3D, and Creativity](channels/a16z/2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md)
-- 2026-09-03 · [Why AI Agents Could Finally Reinvent the Credit Card](channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md)
-- 2026-09-02 · [Inside Moderna’s Biggest mRNA Test Since COVID](channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 67 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 68 notes
 
+- 2026-09-08 · [I'm Obsessed With Local AI. Here's Why](channels/greg-isenberg/2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md)
 - 2026-09-02 · [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](channels/greg-isenberg/2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md)
 - 2026-08-31 · [Marketing Engineer: The $1M Job with AI Agents](channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md)
-- 2026-08-26 · [WebMCP: Let AI Agents pay you money](channels/greg-isenberg/2026-08-26-webmcp-let-ai-agents-pay-you-money-EoNH3Tn8wYE.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 64 notes
+### [Riley Brown](channels/riley-brown/README.md) · 66 notes
 
+- 2026-09-09 · [Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)](channels/riley-brown/2026-09-09-claude-users-you’re-missing-out-on-fable-5.1-(it’s-that-good)-3cYTWLdHgAE.md)
+- 2026-09-07 · [I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)](channels/riley-brown/2026-09-07-i-spent-100-hours-using-gpt-6-astra-(this-feels-like-agi)-Ju41cQSe7hY.md)
 - 2026-09-04 · [8 Agents That Make ChatGPT 10x MORE Powerful](channels/riley-brown/2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md)
-- 2026-09-02 · [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](channels/riley-brown/2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md)
-- 2026-08-26 · [ChatGPT Can Build Apps You’ll Actually Use (ChatGPT Sites)](channels/riley-brown/2026-08-26-chatgpt-can-build-apps-you’ll-actually-use-(chatgpt-sites)-mHqSBCHEZOY.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 46 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 48 notes
 
+- 2026-09-10 · [Why jobs are becoming a series of loops | Anish Acharya (a16z)](channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md)
+- 2026-09-08 · [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](channels/lenny's-podcast/2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md)
 - 2026-08-30 · [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md)
-- 2026-08-23 · [84 minutes of enterprise sales alpha | Jen Abel](channels/lenny's-podcast/2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md)
-- 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](channels/lenny's-podcast/2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 46 notes
 
@@ -82,6 +82,27 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-09-10
+
+- [Why jobs are becoming a series of loops | Anish Acharya (a16z)](channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md) · Lenny's Podcast
+
+### 2026-09-09
+
+- [Why Punishing AI for Cheating Could Backfire - Ajeya Cotra](channels/dwarkesh-patel/2026-09-09-why-punishing-ai-for-cheating-could-backfire-ajeya-cotra-Wth831jKhlw.md) · Dwarkesh Patel
+- [Inside the Race to Measure Frontier Intelligence](channels/a16z/2026-09-09-inside-the-race-to-measure-frontier-intelligence-WO9c9qxDxzU.md) · a16z
+- [Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)](channels/riley-brown/2026-09-09-claude-users-you’re-missing-out-on-fable-5.1-(it’s-that-good)-3cYTWLdHgAE.md) · Riley Brown
+
+### 2026-09-08
+
+- [Inside OpenAI’s Breakthroughs in Mathematical Reasoning](channels/a16z/2026-09-08-inside-openai’s-breakthroughs-in-mathematical-reasoning-1JvyLGd2Sfs.md) · a16z
+- [I'm Obsessed With Local AI. Here's Why](channels/greg-isenberg/2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md) · Greg Isenberg
+- [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](channels/lenny's-podcast/2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md) · Lenny's Podcast
+
+### 2026-09-07
+
+- [Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP](channels/latent-space/2026-09-07-inside-the-team-that-killed-mandatory-code-review-—-quinn-slack,-amp-hvwtHZ5E27c.md) · Latent Space
+- [I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)](channels/riley-brown/2026-09-07-i-spent-100-hours-using-gpt-6-astra-(this-feels-like-agi)-Ju41cQSe7hY.md) · Riley Brown
 
 ### 2026-09-04
 
@@ -100,30 +121,6 @@ Each episode can include up to three versions:
 
 - [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md) · Latent Space
 - [Inside Moderna’s Biggest mRNA Test Since COVID](channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md) · a16z
-- [I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)](channels/riley-brown/2026-09-02-i-gave-grokbot-its-own-email-and-credit-card-(it-actually-worked)-9lsnEn0tih4.md) · Riley Brown
-- [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](channels/greg-isenberg/2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md) · Greg Isenberg
-
-### 2026-09-01
-
-- [Can AI Learn Mathematical Intuition?](channels/a16z/2026-09-01-can-ai-learn-mathematical-intuition-tQI35CSNB08.md) · a16z
-- [Building AI That Optimizes AI](channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md) · Y Combinator
-
-### 2026-08-31
-
-- [Why AI Demand Is Outrunning Compute Supply](channels/a16z/2026-08-31-why-ai-demand-is-outrunning-compute-supply-FGC4ofTcg2k.md) · a16z
-- [Marketing Engineer: The $1M Job with AI Agents](channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md) · Greg Isenberg
-
-### 2026-08-30
-
-- [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md) · Lenny's Podcast
-
-### 2026-08-28
-
-- [Why Top Founders Are Racing Into AI Infrastructure](channels/a16z/2026-08-28-why-top-founders-are-racing-into-ai-infrastructure-Zx1Ec8LWFeM.md) · a16z
-
-### 2026-08-27
-
-- [Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves](channels/ai-explained/2026-08-27-sam-altman-‘agi-in-2026’,-just-as-models-start-to-mis-train-themselves-KL9_1GbmCic.md) · AI Explained
 
 ## Data
 

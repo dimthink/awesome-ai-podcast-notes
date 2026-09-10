@@ -1,9 +1,11 @@
 # Lenny's Podcast
 
-46 notes in this channel.
+48 notes in this channel.
 
-本频道共 46 篇。
+本频道共 48 篇。
 
+- 2026-09-10 · [Why jobs are becoming a series of loops | Anish Acharya (a16z)](2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md)
+- 2026-09-08 · [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md)
 - 2026-08-30 · [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md)
 - 2026-08-23 · [84 minutes of enterprise sales alpha | Jen Abel](2026-08-23-84-minutes-of-enterprise-sales-alpha-jen-abel-YS9In813jJ0.md)
 - 2026-08-16 · [OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](2026-08-16-openai’s-head-of-design-this-is-the-best-time-in-history-to-be-a-designer-ian-silber-BV0hy6NET-U.md)
