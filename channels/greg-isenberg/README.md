@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-68 notes in this channel.
+69 notes in this channel.
 
-本频道共 68 篇。
+本频道共 69 篇。
 
+- 2026-09-10 · [GPT-6 Astra: How I’d Make Money With It](2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md)
 - 2026-09-08 · [I'm Obsessed With Local AI. Here's Why](2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md)
 - 2026-09-02 · [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md)
 - 2026-08-31 · [Marketing Engineer: The $1M Job with AI Agents](2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md)

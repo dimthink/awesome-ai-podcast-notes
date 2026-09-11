@@ -1,9 +1,10 @@
 # a16z
 
-77 notes in this channel.
+78 notes in this channel.
 
-本频道共 77 篇。
+本频道共 78 篇。
 
+- 2026-09-10 · [Why Investors Are Rethinking Everything for the AI Era](2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md)
 - 2026-09-09 · [Inside the Race to Measure Frontier Intelligence](2026-09-09-inside-the-race-to-measure-frontier-intelligence-WO9c9qxDxzU.md)
 - 2026-09-08 · [Inside OpenAI’s Breakthroughs in Mathematical Reasoning](2026-09-08-inside-openai’s-breakthroughs-in-mathematical-reasoning-1JvyLGd2Sfs.md)
 - 2026-09-04 · [Why World Models Could Change Robotics, 3D, and Creativity](2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md)

@@ -24,6 +24,54 @@
     "transcript_path": "channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.transcript.md"
   },
   {
+    "id": "bsdJd2VeLvg",
+    "video_id": "bsdJd2VeLvg",
+    "title": "Why Investors Are Rethinking Everything for the AI Era",
+    "channel": "a16z",
+    "published": "2026-09-10",
+    "source_url": "https://www.youtube.com/watch?v=bsdJd2VeLvg",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "风投",
+      "投资策略",
+      "资产配置",
+      "幂律分布"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 16429,
+    "duration": "48:19",
+    "duration_seconds": 2899,
+    "path": "channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md",
+    "structured_path": "channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.structured.md",
+    "transcript_path": "channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.transcript.md"
+  },
+  {
+    "id": "nglqTHwuZ-8",
+    "video_id": "nglqTHwuZ-8",
+    "title": "GPT-6 Astra: How I’d Make Money With It",
+    "channel": "Greg Isenberg",
+    "published": "2026-09-10",
+    "source_url": "https://www.youtube.com/watch?v=nglqTHwuZ-8",
+    "notion_url": "",
+    "tags": [
+      "GPT-6",
+      "AI赚钱",
+      "硬件创业",
+      "生产力提升",
+      "VibeManufacturing"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 12892,
+    "duration": "22:52",
+    "duration_seconds": 1372,
+    "path": "channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md",
+    "structured_path": "channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.transcript.md"
+  },
+  {
     "id": "Wth831jKhlw",
     "video_id": "Wth831jKhlw",
     "title": "Why Punishing AI for Cheating Could Backfire - Ajeya Cotra",
@@ -1152,53 +1200,5 @@
     "path": "channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.md",
     "structured_path": "channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.structured.md",
     "transcript_path": "channels/a16z/2026-08-19-inside-whatnot's-bet-on-live-shopping-XqEr7hk89HY.transcript.md"
-  },
-  {
-    "id": "xHsftiyT9pQ",
-    "video_id": "xHsftiyT9pQ",
-    "title": "Biggest Unlock for AI Agents in 2026: Skillsmaxxing",
-    "channel": "Greg Isenberg",
-    "published": "2026-08-19",
-    "source_url": "https://www.youtube.com/watch?v=xHsftiyT9pQ",
-    "notion_url": "",
-    "tags": [
-      "AI Agent",
-      "Skills",
-      "Claude Code",
-      "团队协作",
-      "效率工具"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 28102,
-    "duration": "32:27",
-    "duration_seconds": 1947,
-    "path": "channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.md",
-    "structured_path": "channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-08-19-biggest-unlock-for-ai-agents-in-2026-skillsmaxxing-xHsftiyT9pQ.transcript.md"
-  },
-  {
-    "id": "P5iICDVn5gc",
-    "video_id": "P5iICDVn5gc",
-    "title": "Tokens Are the New Dollars | Stripe with a16z",
-    "channel": "a16z",
-    "published": "2026-08-17",
-    "source_url": "https://www.youtube.com/watch?v=P5iICDVn5gc",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "Stripe",
-      "智能体经济",
-      "稳定币",
-      "组织管理"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 25606,
-    "duration": "53:49",
-    "duration_seconds": 3229,
-    "path": "channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.md",
-    "structured_path": "channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.structured.md",
-    "transcript_path": "channels/a16z/2026-08-17-tokens-are-the-new-dollars-stripe-with-a16z-P5iICDVn5gc.transcript.md"
   }
 ]

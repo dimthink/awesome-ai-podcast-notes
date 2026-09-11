@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 836 |
+| Notes | 838 |
 | Channels | 16 |
-| Structured notes | 512 |
-| Raw transcripts | 796 |
+| Structured notes | 514 |
+| Raw transcripts | 798 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-09-10 |
-| Archive updated | 2026-09-10 |
+| Archive updated | 2026-09-11 |
 
 Each episode can include up to three versions:
 
@@ -45,17 +45,17 @@ Each episode can include up to three versions:
 - 2026-09-04 · [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md)
 - 2026-09-02 · [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md)
 
-### [a16z](channels/a16z/README.md) · 77 notes
+### [a16z](channels/a16z/README.md) · 78 notes
 
+- 2026-09-10 · [Why Investors Are Rethinking Everything for the AI Era](channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md)
 - 2026-09-09 · [Inside the Race to Measure Frontier Intelligence](channels/a16z/2026-09-09-inside-the-race-to-measure-frontier-intelligence-WO9c9qxDxzU.md)
 - 2026-09-08 · [Inside OpenAI’s Breakthroughs in Mathematical Reasoning](channels/a16z/2026-09-08-inside-openai’s-breakthroughs-in-mathematical-reasoning-1JvyLGd2Sfs.md)
-- 2026-09-04 · [Why World Models Could Change Robotics, 3D, and Creativity](channels/a16z/2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 68 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 69 notes
 
+- 2026-09-10 · [GPT-6 Astra: How I’d Make Money With It](channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md)
 - 2026-09-08 · [I'm Obsessed With Local AI. Here's Why](channels/greg-isenberg/2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md)
 - 2026-09-02 · [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](channels/greg-isenberg/2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md)
-- 2026-08-31 · [Marketing Engineer: The $1M Job with AI Agents](channels/greg-isenberg/2026-08-31-marketing-engineer-the-$1m-job-with-ai-agents-8ZC1G1ezN5o.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 66 notes
 
@@ -86,6 +86,8 @@ Each episode can include up to three versions:
 ### 2026-09-10
 
 - [Why jobs are becoming a series of loops | Anish Acharya (a16z)](channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md) · Lenny's Podcast
+- [Why Investors Are Rethinking Everything for the AI Era](channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md) · a16z
+- [GPT-6 Astra: How I’d Make Money With It](channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md) · Greg Isenberg
 
 ### 2026-09-09
 
@@ -116,11 +118,6 @@ Each episode can include up to three versions:
 - [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md) · 张晓珺
 - [Why AI Agents Could Finally Reinvent the Credit Card](channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md) · a16z
 - [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](channels/dwarkesh-patel/2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md) · Dwarkesh Patel
-
-### 2026-09-02
-
-- [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md) · Latent Space
-- [Inside Moderna’s Biggest mRNA Test Since COVID](channels/a16z/2026-09-02-inside-moderna’s-biggest-mrna-test-since-covid-yTNMEYeCgWw.md) · a16z
 
 ## Data
 

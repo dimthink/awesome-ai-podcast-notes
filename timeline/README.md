@@ -6,9 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-10](2026/09/2026-09-10.md) · 1 篇
+## [2026-09-10](2026/09/2026-09-10.md) · 3 篇
 
+- [GPT-6 Astra: How I’d Make Money With It](../channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md) · Greg Isenberg
 - [Why jobs are becoming a series of loops | Anish Acharya (a16z)](../channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md) · Lenny's Podcast
+- [Why Investors Are Rethinking Everything for the AI Era](../channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md) · a16z
 
 ## [2026-09-09](2026/09/2026-09-09.md) · 3 篇
 
