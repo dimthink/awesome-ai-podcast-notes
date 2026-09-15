@@ -1,9 +1,10 @@
 # Latent Space
 
-78 notes in this channel.
+79 notes in this channel.
 
-本频道共 78 篇。
+本频道共 79 篇。
 
+- 2026-09-14 · [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md)
 - 2026-09-07 · [Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP](2026-09-07-inside-the-team-that-killed-mandatory-code-review-—-quinn-slack,-amp-hvwtHZ5E27c.md)
 - 2026-09-04 · [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md)
 - 2026-09-02 · [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md)

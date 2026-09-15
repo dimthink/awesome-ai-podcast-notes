@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-69 notes in this channel.
+70 notes in this channel.
 
-本频道共 69 篇。
+本频道共 70 篇。
 
+- 2026-09-14 · [Building a Software Factory that actually works (Full Course)](2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md)
 - 2026-09-10 · [GPT-6 Astra: How I’d Make Money With It](2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md)
 - 2026-09-08 · [I'm Obsessed With Local AI. Here's Why](2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md)
 - 2026-09-02 · [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md)

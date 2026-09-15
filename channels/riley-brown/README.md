@@ -1,9 +1,10 @@
 # Riley Brown
 
-66 notes in this channel.
+67 notes in this channel.
 
-本频道共 66 篇。
+本频道共 67 篇。
 
+- 2026-09-14 · [28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)](2026-09-14-28-insane-things-gpt-6-astra-+-codex-can-do-(2-hour-course)-ifz8NGHuHtY.md)
 - 2026-09-09 · [Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)](2026-09-09-claude-users-you’re-missing-out-on-fable-5.1-(it’s-that-good)-3cYTWLdHgAE.md)
 - 2026-09-07 · [I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)](2026-09-07-i-spent-100-hours-using-gpt-6-astra-(this-feels-like-agi)-Ju41cQSe7hY.md)
 - 2026-09-04 · [8 Agents That Make ChatGPT 10x MORE Powerful](2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md)

@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-838-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-842-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 838 |
+| 笔记 | 842 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 514 |
-| 原始文稿 | 798 |
+| 结构化文稿 | 518 |
+| 原始文稿 | 802 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-09-10 |
-| 仓库更新日期 | 2026-09-11 |
+| 最新来源日期 | 2026-09-14 |
+| 仓库更新日期 | 2026-09-15 |
 
 ## 适合谁
 
@@ -50,29 +50,29 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 78 篇
+### [Latent Space](channels/latent-space/README.md) · 79 篇
 
+- 2026-09-14 · [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](channels/latent-space/2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md)
 - 2026-09-07 · [Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP](channels/latent-space/2026-09-07-inside-the-team-that-killed-mandatory-code-review-—-quinn-slack,-amp-hvwtHZ5E27c.md)
 - 2026-09-04 · [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md)
-- 2026-09-02 · [The Inference Frontier: from 100 to 10,000 tokens per second — Sean Lie, Cerebras CTO](channels/latent-space/2026-09-02-the-inference-frontier-from-100-to-10,000-tokens-per-second-—-sean-lie,-cerebras-cto-3uSI8q_RN-o.md)
 
-### [a16z](channels/a16z/README.md) · 78 篇
+### [a16z](channels/a16z/README.md) · 79 篇
 
+- 2026-09-14 · [Greg Brockman Says AGI Has Arrived](channels/a16z/2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md)
 - 2026-09-10 · [Why Investors Are Rethinking Everything for the AI Era](channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md)
 - 2026-09-09 · [Inside the Race to Measure Frontier Intelligence](channels/a16z/2026-09-09-inside-the-race-to-measure-frontier-intelligence-WO9c9qxDxzU.md)
-- 2026-09-08 · [Inside OpenAI’s Breakthroughs in Mathematical Reasoning](channels/a16z/2026-09-08-inside-openai’s-breakthroughs-in-mathematical-reasoning-1JvyLGd2Sfs.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 69 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 70 篇
 
+- 2026-09-14 · [Building a Software Factory that actually works (Full Course)](channels/greg-isenberg/2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md)
 - 2026-09-10 · [GPT-6 Astra: How I’d Make Money With It](channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md)
 - 2026-09-08 · [I'm Obsessed With Local AI. Here's Why](channels/greg-isenberg/2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md)
-- 2026-09-02 · [5 GitHub Repos: Kill AI Slop, Go Viral, Make Money](channels/greg-isenberg/2026-09-02-5-github-repos-kill-ai-slop,-go-viral,-make-money-9_SZFIW7tus.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 66 篇
+### [Riley Brown](channels/riley-brown/README.md) · 67 篇
 
+- 2026-09-14 · [28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)](channels/riley-brown/2026-09-14-28-insane-things-gpt-6-astra-+-codex-can-do-(2-hour-course)-ifz8NGHuHtY.md)
 - 2026-09-09 · [Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)](channels/riley-brown/2026-09-09-claude-users-you’re-missing-out-on-fable-5.1-(it’s-that-good)-3cYTWLdHgAE.md)
 - 2026-09-07 · [I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)](channels/riley-brown/2026-09-07-i-spent-100-hours-using-gpt-6-astra-(this-feels-like-agi)-Ju41cQSe7hY.md)
-- 2026-09-04 · [8 Agents That Make ChatGPT 10x MORE Powerful](channels/riley-brown/2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 48 篇
 
@@ -93,6 +93,13 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## 最新更新
+
+### 2026-09-14
+
+- [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](channels/latent-space/2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md) · Latent Space
+- [Greg Brockman Says AGI Has Arrived](channels/a16z/2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md) · a16z
+- [Building a Software Factory that actually works (Full Course)](channels/greg-isenberg/2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md) · Greg Isenberg
+- [28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)](channels/riley-brown/2026-09-14-28-insane-things-gpt-6-astra-+-codex-can-do-(2-hour-course)-ifz8NGHuHtY.md) · Riley Brown
 
 ### 2026-09-10
 
@@ -122,13 +129,6 @@
 - [Why World Models Could Change Robotics, 3D, and Creativity](channels/a16z/2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md) · a16z
 - [GPT 6 Astra, so good even OpenAI are worried](channels/ai-explained/2026-09-04-gpt-6-astra,-so-good-even-openai-are-worried-Spuza-KwTJ4.md) · AI Explained
 - [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md) · Latent Space
-- [8 Agents That Make ChatGPT 10x MORE Powerful](channels/riley-brown/2026-09-04-8-agents-that-make-chatgpt-10x-more-powerful-ubzhh4kMCLo.md) · Riley Brown
-
-### 2026-09-03
-
-- [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md) · 张晓珺
-- [Why AI Agents Could Finally Reinvent the Credit Card](channels/a16z/2026-09-03-why-ai-agents-could-finally-reinvent-the-credit-card-J3pegsM5drk.md) · a16z
-- [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](channels/dwarkesh-patel/2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md) · Dwarkesh Patel
 
 ## 数据与自动更新
 

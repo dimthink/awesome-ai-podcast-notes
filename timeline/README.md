@@ -6,6 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-14](2026/09/2026-09-14.md) · 4 篇
+
+- [Building a Software Factory that actually works (Full Course)](../channels/greg-isenberg/2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md) · Greg Isenberg
+- [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](../channels/latent-space/2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md) · Latent Space
+- [28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)](../channels/riley-brown/2026-09-14-28-insane-things-gpt-6-astra-+-codex-can-do-(2-hour-course)-ifz8NGHuHtY.md) · Riley Brown
+- [Greg Brockman Says AGI Has Arrived](../channels/a16z/2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md) · a16z
+
 ## [2026-09-10](2026/09/2026-09-10.md) · 3 篇
 
 - [GPT-6 Astra: How I’d Make Money With It](../channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md) · Greg Isenberg
