@@ -1,5 +1,79 @@
 [
   {
+    "id": "aS69y40BoyM",
+    "video_id": "aS69y40BoyM",
+    "title": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
+    "channel": "硅谷101",
+    "published": "2026-09-16",
+    "source_url": "https://www.youtube.com/watch?v=aS69y40BoyM",
+    "notion_url": "",
+    "tags": [
+      "推理芯片",
+      "SRAM",
+      "HBM",
+      "Groq",
+      "Cerebras",
+      "芯片设计",
+      "Bill Dally"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 13646,
+    "duration": "1:31:33",
+    "duration_seconds": 5493,
+    "path": "channels/硅谷101/2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.md",
+    "structured_path": "channels/硅谷101/2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.structured.md",
+    "transcript_path": "channels/硅谷101/2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.transcript.md"
+  },
+  {
+    "id": "HKZdte6exaw",
+    "video_id": "HKZdte6exaw",
+    "title": "The Real Story Behind the Internet's Biggest Wellness Trends",
+    "channel": "a16z",
+    "published": "2026-09-15",
+    "source_url": "https://www.youtube.com/watch?v=HKZdte6exaw",
+    "notion_url": "",
+    "tags": [
+      "健康潮流",
+      "GLP-1/肽类",
+      "网络文化",
+      "身体未来主义",
+      "量化自我"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 13076,
+    "duration": "42:10",
+    "duration_seconds": 2530,
+    "path": "channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md",
+    "structured_path": "channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.structured.md",
+    "transcript_path": "channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.transcript.md"
+  },
+  {
+    "id": "mUAsaprJ66s",
+    "video_id": "mUAsaprJ66s",
+    "title": "Instinct AI is For Real. What You Need to Know.",
+    "channel": "Greg Isenberg",
+    "published": "2026-09-15",
+    "source_url": "https://www.youtube.com/watch?v=mUAsaprJ66s",
+    "notion_url": "",
+    "tags": [
+      "AI代理",
+      "Instinct AI",
+      "产品评测",
+      "个人助理",
+      "隐私安全"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 12775,
+    "duration": "27:30",
+    "duration_seconds": 1650,
+    "path": "channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md",
+    "structured_path": "channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.transcript.md"
+  },
+  {
     "id": "eDFXtSg3zB8",
     "video_id": "eDFXtSg3zB8",
     "title": "Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive",
@@ -1128,77 +1202,5 @@
     "path": "channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.md",
     "structured_path": "channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.structured.md",
     "transcript_path": "channels/latent-space/2026-08-21-simulating-humanity-from-generative-agents-to-8-billion-digital-twins-—-joon-sung-park,-simile-ai-KpOW9Pk4BUs.transcript.md"
-  },
-  {
-    "id": "qQluNEfSVHk",
-    "video_id": "qQluNEfSVHk",
-    "title": "Making $$$ with Grok Bot",
-    "channel": "Greg Isenberg",
-    "published": "2026-08-21",
-    "source_url": "https://www.youtube.com/watch?v=qQluNEfSVHk",
-    "notion_url": "",
-    "tags": [
-      "Grokbot",
-      "AI代理",
-      "自动化创业",
-      "通讯稿",
-      "副业"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 20917,
-    "duration": "44:21",
-    "duration_seconds": 2661,
-    "path": "channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.md",
-    "structured_path": "channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-08-21-making-$$$-with-grok-bot-qQluNEfSVHk.transcript.md"
-  },
-  {
-    "id": "ETa6ZYqoIXo",
-    "video_id": "ETa6ZYqoIXo",
-    "title": "Codex Can CONTROL Your Messages Now (Endless Possibilities)",
-    "channel": "Riley Brown",
-    "published": "2026-08-21",
-    "source_url": "https://www.youtube.com/watch?v=ETa6ZYqoIXo",
-    "notion_url": "",
-    "tags": [
-      "AI智能体",
-      "OpenAI",
-      "Anthropic",
-      "Grokbot",
-      "Slack Code"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 16135,
-    "duration": "22:49",
-    "duration_seconds": 1369,
-    "path": "channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.md",
-    "structured_path": "channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.structured.md",
-    "transcript_path": "channels/riley-brown/2026-08-21-codex-can-control-your-messages-now-(endless-possibilities)-ETa6ZYqoIXo.transcript.md"
-  },
-  {
-    "id": "0t3TpJXa5-A",
-    "video_id": "0t3TpJXa5-A",
-    "title": "Why the Next Great Founders Will Be Borderless",
-    "channel": "a16z",
-    "published": "2026-08-20",
-    "source_url": "https://www.youtube.com/watch?v=0t3TpJXa5-A",
-    "notion_url": "",
-    "tags": [
-      "无国界创始人",
-      "风险投资",
-      "全球化创业",
-      "人才网络",
-      "AI"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 16628,
-    "duration": "44:49",
-    "duration_seconds": 2689,
-    "path": "channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.md",
-    "structured_path": "channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.structured.md",
-    "transcript_path": "channels/a16z/2026-08-20-why-the-next-great-founders-will-be-borderless-0t3TpJXa5-A.transcript.md"
   }
 ]

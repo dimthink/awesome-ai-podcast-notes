@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-16](2026/09/2026-09-16.md) · 1 篇
+
+- [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](../channels/硅谷101/2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.md) · 硅谷101
+
+## [2026-09-15](2026/09/2026-09-15.md) · 2 篇
+
+- [Instinct AI is For Real. What You Need to Know.](../channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md) · Greg Isenberg
+- [The Real Story Behind the Internet's Biggest Wellness Trends](../channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md) · a16z
+
 ## [2026-09-14](2026/09/2026-09-14.md) · 4 篇
 
 - [Building a Software Factory that actually works (Full Course)](../channels/greg-isenberg/2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md) · Greg Isenberg

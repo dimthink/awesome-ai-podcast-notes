@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-842-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-845-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 842 |
+| 笔记 | 845 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 518 |
-| 原始文稿 | 802 |
+| 结构化文稿 | 521 |
+| 原始文稿 | 805 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-09-14 |
-| 仓库更新日期 | 2026-09-15 |
+| 最新来源日期 | 2026-09-16 |
+| 仓库更新日期 | 2026-09-16 |
 
 ## 适合谁
 
@@ -50,23 +50,23 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
+### [a16z](channels/a16z/README.md) · 80 篇
+
+- 2026-09-15 · [The Real Story Behind the Internet's Biggest Wellness Trends](channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md)
+- 2026-09-14 · [Greg Brockman Says AGI Has Arrived](channels/a16z/2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md)
+- 2026-09-10 · [Why Investors Are Rethinking Everything for the AI Era](channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md)
+
 ### [Latent Space](channels/latent-space/README.md) · 79 篇
 
 - 2026-09-14 · [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](channels/latent-space/2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md)
 - 2026-09-07 · [Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP](channels/latent-space/2026-09-07-inside-the-team-that-killed-mandatory-code-review-—-quinn-slack,-amp-hvwtHZ5E27c.md)
 - 2026-09-04 · [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md)
 
-### [a16z](channels/a16z/README.md) · 79 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 71 篇
 
-- 2026-09-14 · [Greg Brockman Says AGI Has Arrived](channels/a16z/2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md)
-- 2026-09-10 · [Why Investors Are Rethinking Everything for the AI Era](channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md)
-- 2026-09-09 · [Inside the Race to Measure Frontier Intelligence](channels/a16z/2026-09-09-inside-the-race-to-measure-frontier-intelligence-WO9c9qxDxzU.md)
-
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 70 篇
-
+- 2026-09-15 · [Instinct AI is For Real. What You Need to Know.](channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md)
 - 2026-09-14 · [Building a Software Factory that actually works (Full Course)](channels/greg-isenberg/2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md)
 - 2026-09-10 · [GPT-6 Astra: How I’d Make Money With It](channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md)
-- 2026-09-08 · [I'm Obsessed With Local AI. Here's Why](channels/greg-isenberg/2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 67 篇
 
@@ -93,6 +93,15 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## 最新更新
+
+### 2026-09-16
+
+- [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](channels/硅谷101/2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.md) · 硅谷101
+
+### 2026-09-15
+
+- [The Real Story Behind the Internet's Biggest Wellness Trends](channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md) · a16z
+- [Instinct AI is For Real. What You Need to Know.](channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md) · Greg Isenberg
 
 ### 2026-09-14
 
@@ -123,12 +132,6 @@
 
 - [Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP](channels/latent-space/2026-09-07-inside-the-team-that-killed-mandatory-code-review-—-quinn-slack,-amp-hvwtHZ5E27c.md) · Latent Space
 - [I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)](channels/riley-brown/2026-09-07-i-spent-100-hours-using-gpt-6-astra-(this-feels-like-agi)-Ju41cQSe7hY.md) · Riley Brown
-
-### 2026-09-04
-
-- [Why World Models Could Change Robotics, 3D, and Creativity](channels/a16z/2026-09-04-why-world-models-could-change-robotics,-3d,-and-creativity-qn1QDDBnTA0.md) · a16z
-- [GPT 6 Astra, so good even OpenAI are worried](channels/ai-explained/2026-09-04-gpt-6-astra,-so-good-even-openai-are-worried-Spuza-KwTJ4.md) · AI Explained
-- [Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding](channels/latent-space/2026-09-04-faster-chips-that-don't-melt-—-anima-anandkumar-&-benedikt-jenik,-accelerated-understanding-KS_IpnX7n9I.md) · Latent Space
 
 ## 数据与自动更新
 

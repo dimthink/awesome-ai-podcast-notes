@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-70 notes in this channel.
+71 notes in this channel.
 
-本频道共 70 篇。
+本频道共 71 篇。
 
+- 2026-09-15 · [Instinct AI is For Real. What You Need to Know.](2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md)
 - 2026-09-14 · [Building a Software Factory that actually works (Full Course)](2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md)
 - 2026-09-10 · [GPT-6 Astra: How I’d Make Money With It](2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md)
 - 2026-09-08 · [I'm Obsessed With Local AI. Here's Why](2026-09-08-i'm-obsessed-with-local-ai.-here's-why-UtFo1ZNC2ns.md)

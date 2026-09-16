@@ -1,9 +1,10 @@
 # 硅谷101
 
-36 notes in this channel.
+37 notes in this channel.
 
-本频道共 36 篇。
+本频道共 37 篇。
 
+- 2026-09-16 · [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.md)
 - 2026-08-20 · [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](2026-08-20-e249-token经济转点-openclaw、hermes到本地自研的agent进化之路-6FUJbpMrYRA.md)
 - 2026-08-01 · [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.md)
 - 2026-07-24 · [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](2026-07-24-e245-藏在大模型背后的新闻人-gpt们的回复是这样写出来的-ifyzclKzVOA.md)
