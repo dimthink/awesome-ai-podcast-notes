@@ -1,9 +1,10 @@
 # a16z
 
-80 notes in this channel.
+81 notes in this channel.
 
-本频道共 80 篇。
+本频道共 81 篇。
 
+- 2026-09-16 · [Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce](2026-09-16-why-the-next-generation-of-enterprise-software-looks-nothing-like-salesforce-K5yGLO8c6T0.md)
 - 2026-09-15 · [The Real Story Behind the Internet's Biggest Wellness Trends](2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md)
 - 2026-09-14 · [Greg Brockman Says AGI Has Arrived](2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md)
 - 2026-09-10 · [Why Investors Are Rethinking Everything for the AI Era](2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md)

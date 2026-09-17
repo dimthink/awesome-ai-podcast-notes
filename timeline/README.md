@@ -6,8 +6,16 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-16](2026/09/2026-09-16.md) · 1 篇
+## [2026-09-17](2026/09/2026-09-17.md) · 1 篇
 
+- [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502](../channels/lex-fridman/2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.md) · Lex Fridman
+
+## [2026-09-16](2026/09/2026-09-16.md) · 5 篇
+
+- [What AI Researchers Saw, Before Their Demand to ‘Pace’ AI](../channels/ai-explained/2026-09-16-what-ai-researchers-saw,-before-their-demand-to-‘pace’-ai-J3ljHm57yU0.md) · AI Explained
+- [The Watchdogs of AGI — Rune Kvist of AI Underwriting Company](../channels/latent-space/2026-09-16-the-watchdogs-of-agi-—-rune-kvist-of-ai-underwriting-company-Sc2_LfWgHb4.md) · Latent Space
+- [GPT-6 Astra Created This Entire Product Launch](../channels/riley-brown/2026-09-16-gpt-6-astra-created-this-entire-product-launch-O8pzzIP1RyM.md) · Riley Brown
+- [Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce](../channels/a16z/2026-09-16-why-the-next-generation-of-enterprise-software-looks-nothing-like-salesforce-K5yGLO8c6T0.md) · a16z
 - [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](../channels/硅谷101/2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.md) · 硅谷101
 
 ## [2026-09-15](2026/09/2026-09-15.md) · 2 篇

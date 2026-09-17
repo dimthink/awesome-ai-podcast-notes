@@ -1,9 +1,10 @@
 # AI Explained
 
-30 notes in this channel.
+31 notes in this channel.
 
-本频道共 30 篇。
+本频道共 31 篇。
 
+- 2026-09-16 · [What AI Researchers Saw, Before Their Demand to ‘Pace’ AI](2026-09-16-what-ai-researchers-saw,-before-their-demand-to-‘pace’-ai-J3ljHm57yU0.md)
 - 2026-09-04 · [GPT 6 Astra, so good even OpenAI are worried](2026-09-04-gpt-6-astra,-so-good-even-openai-are-worried-Spuza-KwTJ4.md)
 - 2026-08-27 · [Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves](2026-08-27-sam-altman-‘agi-in-2026’,-just-as-models-start-to-mis-train-themselves-KL9_1GbmCic.md)
 - 2026-08-06 · [AI is getting a little out of control](2026-08-06-ai-is-getting-a-little-out-of-control-xGzseSSStnw.md)
