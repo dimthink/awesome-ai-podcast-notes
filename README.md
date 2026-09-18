@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-850-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-853-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 850 |
+| 笔记 | 853 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 526 |
-| 原始文稿 | 810 |
+| 结构化文稿 | 529 |
+| 原始文稿 | 813 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-09-17 |
-| 仓库更新日期 | 2026-09-17 |
+| 最新来源日期 | 2026-09-18 |
+| 仓库更新日期 | 2026-09-18 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 81 篇
+### [a16z](channels/a16z/README.md) · 82 篇
 
+- 2026-09-17 · [How Real-Time AI Video Is Changing How Creators Work](channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md)
 - 2026-09-16 · [Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce](channels/a16z/2026-09-16-why-the-next-generation-of-enterprise-software-looks-nothing-like-salesforce-K5yGLO8c6T0.md)
 - 2026-09-15 · [The Real Story Behind the Internet's Biggest Wellness Trends](channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md)
-- 2026-09-14 · [Greg Brockman Says AGI Has Arrived](channels/a16z/2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 80 篇
 
@@ -80,11 +80,11 @@
 - 2026-09-08 · [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](channels/lenny's-podcast/2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md)
 - 2026-08-30 · [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 46 篇
+### [Y Combinator](channels/y-combinator/README.md) · 47 篇
 
+- 2026-09-17 · [Building the Safety Layer for AI Agents](channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md)
 - 2026-09-01 · [Building AI That Optimizes AI](channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md)
 - 2026-08-27 · [How Outset Turned AI Interviews Into a New Category](channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md)
-- 2026-08-21 · [Supabase: Cash Does Not Equal Success](channels/y-combinator/2026-08-21-supabase-cash-does-not-equal-success-2cRbdYhs3VY.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 45 篇
 
@@ -94,9 +94,15 @@
 
 ## 最新更新
 
+### 2026-09-18
+
+- [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md) · 硅谷101
+
 ### 2026-09-17
 
 - [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502](channels/lex-fridman/2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.md) · Lex Fridman
+- [How Real-Time AI Video Is Changing How Creators Work](channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md) · a16z
+- [Building the Safety Layer for AI Agents](channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md) · Y Combinator
 
 ### 2026-09-16
 
@@ -123,12 +129,6 @@
 - [Why jobs are becoming a series of loops | Anish Acharya (a16z)](channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md) · Lenny's Podcast
 - [Why Investors Are Rethinking Everything for the AI Era](channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md) · a16z
 - [GPT-6 Astra: How I’d Make Money With It](channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md) · Greg Isenberg
-
-### 2026-09-09
-
-- [Why Punishing AI for Cheating Could Backfire - Ajeya Cotra](channels/dwarkesh-patel/2026-09-09-why-punishing-ai-for-cheating-could-backfire-ajeya-cotra-Wth831jKhlw.md) · Dwarkesh Patel
-- [Inside the Race to Measure Frontier Intelligence](channels/a16z/2026-09-09-inside-the-race-to-measure-frontier-intelligence-WO9c9qxDxzU.md) · a16z
-- [Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)](channels/riley-brown/2026-09-09-claude-users-you’re-missing-out-on-fable-5.1-(it’s-that-good)-3cYTWLdHgAE.md) · Riley Brown
 
 ## 数据与自动更新
 

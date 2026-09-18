@@ -1,5 +1,29 @@
 [
   {
+    "id": "2oIrZM6e8Ro",
+    "video_id": "2oIrZM6e8Ro",
+    "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+    "channel": "硅谷101",
+    "published": "2026-09-18",
+    "source_url": "https://www.youtube.com/watch?v=2oIrZM6e8Ro",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "智能体支付",
+      "信任基建",
+      "KYA",
+      "Agentic Commerce"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 20835,
+    "duration": "35:44",
+    "duration_seconds": 2144,
+    "path": "channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md",
+    "structured_path": "channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.structured.md",
+    "transcript_path": "channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.transcript.md"
+  },
+  {
     "id": "s7d2d8FhevU",
     "video_id": "s7d2d8FhevU",
     "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
@@ -22,6 +46,54 @@
     "path": "channels/lex-fridman/2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.md",
     "structured_path": "channels/lex-fridman/2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.structured.md",
     "transcript_path": "channels/lex-fridman/2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.transcript.md"
+  },
+  {
+    "id": "SDbRJXQrYGY",
+    "video_id": "SDbRJXQrYGY",
+    "title": "How Real-Time AI Video Is Changing How Creators Work",
+    "channel": "a16z",
+    "published": "2026-09-17",
+    "source_url": "https://www.youtube.com/watch?v=SDbRJXQrYGY",
+    "notion_url": "",
+    "tags": [
+      "AI视频生成",
+      "实时推理",
+      "后训练优化",
+      "好莱坞",
+      "创作者经济"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 11793,
+    "duration": "38:57",
+    "duration_seconds": 2337,
+    "path": "channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md",
+    "structured_path": "channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.structured.md",
+    "transcript_path": "channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.transcript.md"
+  },
+  {
+    "id": "5XO7ZEOGpJc",
+    "video_id": "5XO7ZEOGpJc",
+    "title": "Building the Safety Layer for AI Agents",
+    "channel": "Y Combinator",
+    "published": "2026-09-17",
+    "source_url": "https://www.youtube.com/watch?v=5XO7ZEOGpJc",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "AI Agent",
+      "创业",
+      "可观测性",
+      "风险投资"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 12247,
+    "duration": "10:18",
+    "duration_seconds": 618,
+    "path": "channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md",
+    "structured_path": "channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.structured.md",
+    "transcript_path": "channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.transcript.md"
   },
   {
     "id": "K5yGLO8c6T0",

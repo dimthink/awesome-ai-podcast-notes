@@ -6,9 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-17](2026/09/2026-09-17.md) · 1 篇
+## [2026-09-18](2026/09/2026-09-18.md) · 1 篇
+
+- [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](../channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md) · 硅谷101
+
+## [2026-09-17](2026/09/2026-09-17.md) · 3 篇
 
 - [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502](../channels/lex-fridman/2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.md) · Lex Fridman
+- [Building the Safety Layer for AI Agents](../channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md) · Y Combinator
+- [How Real-Time AI Video Is Changing How Creators Work](../channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md) · a16z
 
 ## [2026-09-16](2026/09/2026-09-16.md) · 5 篇
 

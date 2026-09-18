@@ -1,9 +1,10 @@
 # 硅谷101
 
-37 notes in this channel.
+38 notes in this channel.
 
-本频道共 37 篇。
+本频道共 38 篇。
 
+- 2026-09-18 · [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md)
 - 2026-09-16 · [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.md)
 - 2026-08-20 · [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](2026-08-20-e249-token经济转点-openclaw、hermes到本地自研的agent进化之路-6FUJbpMrYRA.md)
 - 2026-08-01 · [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](2026-08-01-e246-何谓蒸馏-聊聊硅谷如何看中国开放模型逼近前沿-evm0wG6QxkA.md)
