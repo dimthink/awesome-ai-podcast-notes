@@ -1,9 +1,10 @@
 # a16z
 
-82 notes in this channel.
+83 notes in this channel.
 
-本频道共 82 篇。
+本频道共 83 篇。
 
+- 2026-09-18 · [Databricks CEO: Stop Scaring People About AI](2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md)
 - 2026-09-17 · [How Real-Time AI Video Is Changing How Creators Work](2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md)
 - 2026-09-16 · [Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce](2026-09-16-why-the-next-generation-of-enterprise-software-looks-nothing-like-salesforce-K5yGLO8c6T0.md)
 - 2026-09-15 · [The Real Story Behind the Internet's Biggest Wellness Trends](2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md)

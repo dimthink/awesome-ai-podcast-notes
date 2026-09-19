@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 853 |
+| Notes | 858 |
 | Channels | 16 |
-| Structured notes | 529 |
-| Raw transcripts | 813 |
+| Structured notes | 532 |
+| Raw transcripts | 818 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-09-18 |
-| Archive updated | 2026-09-18 |
+| Archive updated | 2026-09-19 |
 
 Each episode can include up to three versions:
 
@@ -39,29 +39,29 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 82 notes
+### [a16z](channels/a16z/README.md) · 83 notes
 
+- 2026-09-18 · [Databricks CEO: Stop Scaring People About AI](channels/a16z/2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md)
 - 2026-09-17 · [How Real-Time AI Video Is Changing How Creators Work](channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md)
 - 2026-09-16 · [Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce](channels/a16z/2026-09-16-why-the-next-generation-of-enterprise-software-looks-nothing-like-salesforce-K5yGLO8c6T0.md)
-- 2026-09-15 · [The Real Story Behind the Internet's Biggest Wellness Trends](channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 80 notes
+### [Latent Space](channels/latent-space/README.md) · 81 notes
 
+- 2026-09-18 · [A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI](channels/latent-space/2026-09-18-a-worm-with-302-neurons-inspired-their-architecture-—-ramin-hasani,-liquid-ai-V_9TCu_21SE.md)
 - 2026-09-16 · [The Watchdogs of AGI — Rune Kvist of AI Underwriting Company](channels/latent-space/2026-09-16-the-watchdogs-of-agi-—-rune-kvist-of-ai-underwriting-company-Sc2_LfWgHb4.md)
 - 2026-09-14 · [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](channels/latent-space/2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md)
-- 2026-09-07 · [Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP](channels/latent-space/2026-09-07-inside-the-team-that-killed-mandatory-code-review-—-quinn-slack,-amp-hvwtHZ5E27c.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 71 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 72 notes
 
+- 2026-09-18 · [Jev is HERE. How to use it](channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md)
 - 2026-09-15 · [Instinct AI is For Real. What You Need to Know.](channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md)
 - 2026-09-14 · [Building a Software Factory that actually works (Full Course)](channels/greg-isenberg/2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md)
-- 2026-09-10 · [GPT-6 Astra: How I’d Make Money With It](channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 68 notes
+### [Riley Brown](channels/riley-brown/README.md) · 69 notes
 
+- 2026-09-18 · [JEV: How It Works and What You Can Build](channels/riley-brown/2026-09-18-jev-how-it-works-and-what-you-can-build-o1CogAtWdBk.md)
 - 2026-09-16 · [GPT-6 Astra Created This Entire Product Launch](channels/riley-brown/2026-09-16-gpt-6-astra-created-this-entire-product-launch-O8pzzIP1RyM.md)
 - 2026-09-14 · [28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)](channels/riley-brown/2026-09-14-28-insane-things-gpt-6-astra-+-codex-can-do-(2-hour-course)-ifz8NGHuHtY.md)
-- 2026-09-09 · [Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)](channels/riley-brown/2026-09-09-claude-users-you’re-missing-out-on-fable-5.1-(it’s-that-good)-3cYTWLdHgAE.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 48 notes
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-09-08 · [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](channels/lenny's-podcast/2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md)
 - 2026-08-30 · [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 47 notes
+### [Y Combinator](channels/y-combinator/README.md) · 48 notes
 
+- 2026-09-18 · [The AI Employee for Banks](channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md)
 - 2026-09-17 · [Building the Safety Layer for AI Agents](channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md)
 - 2026-09-01 · [Building AI That Optimizes AI](channels/y-combinator/2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md)
-- 2026-08-27 · [How Outset Turned AI Interviews Into a New Category](channels/y-combinator/2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 45 notes
 
@@ -86,6 +86,11 @@ Each episode can include up to three versions:
 ### 2026-09-18
 
 - [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md) · 硅谷101
+- [The AI Employee for Banks](channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md) · Y Combinator
+- [Jev is HERE. How to use it](channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md) · Greg Isenberg
+- [JEV: How It Works and What You Can Build](channels/riley-brown/2026-09-18-jev-how-it-works-and-what-you-can-build-o1CogAtWdBk.md) · Riley Brown
+- [Databricks CEO: Stop Scaring People About AI](channels/a16z/2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md) · a16z
+- [A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI](channels/latent-space/2026-09-18-a-worm-with-302-neurons-inspired-their-architecture-—-ramin-hasani,-liquid-ai-V_9TCu_21SE.md) · Latent Space
 
 ### 2026-09-17
 
@@ -110,14 +115,6 @@ Each episode can include up to three versions:
 
 - [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](channels/latent-space/2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md) · Latent Space
 - [Greg Brockman Says AGI Has Arrived](channels/a16z/2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md) · a16z
-- [Building a Software Factory that actually works (Full Course)](channels/greg-isenberg/2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md) · Greg Isenberg
-- [28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)](channels/riley-brown/2026-09-14-28-insane-things-gpt-6-astra-+-codex-can-do-(2-hour-course)-ifz8NGHuHtY.md) · Riley Brown
-
-### 2026-09-10
-
-- [Why jobs are becoming a series of loops | Anish Acharya (a16z)](channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md) · Lenny's Podcast
-- [Why Investors Are Rethinking Everything for the AI Era](channels/a16z/2026-09-10-why-investors-are-rethinking-everything-for-the-ai-era-bsdJd2VeLvg.md) · a16z
-- [GPT-6 Astra: How I’d Make Money With It](channels/greg-isenberg/2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md) · Greg Isenberg
 
 ## Data
 

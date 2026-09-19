@@ -1,9 +1,10 @@
 # Y Combinator
 
-47 notes in this channel.
+48 notes in this channel.
 
-本频道共 47 篇。
+本频道共 48 篇。
 
+- 2026-09-18 · [The AI Employee for Banks](2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md)
 - 2026-09-17 · [Building the Safety Layer for AI Agents](2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md)
 - 2026-09-01 · [Building AI That Optimizes AI](2026-09-01-building-ai-that-optimizes-ai-7JoqmM5EPXo.md)
 - 2026-08-27 · [How Outset Turned AI Interviews Into a New Category](2026-08-27-how-outset-turned-ai-interviews-into-a-new-category-x3XOeDckUX0.md)

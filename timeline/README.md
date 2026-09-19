@@ -6,8 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-18](2026/09/2026-09-18.md) · 1 篇
+## [2026-09-18](2026/09/2026-09-18.md) · 6 篇
 
+- [Jev is HERE. How to use it](../channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md) · Greg Isenberg
+- [A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI](../channels/latent-space/2026-09-18-a-worm-with-302-neurons-inspired-their-architecture-—-ramin-hasani,-liquid-ai-V_9TCu_21SE.md) · Latent Space
+- [JEV: How It Works and What You Can Build](../channels/riley-brown/2026-09-18-jev-how-it-works-and-what-you-can-build-o1CogAtWdBk.md) · Riley Brown
+- [The AI Employee for Banks](../channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md) · Y Combinator
+- [Databricks CEO: Stop Scaring People About AI](../channels/a16z/2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md) · a16z
 - [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](../channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md) · 硅谷101
 
 ## [2026-09-17](2026/09/2026-09-17.md) · 3 篇

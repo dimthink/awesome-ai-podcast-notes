@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-71 notes in this channel.
+72 notes in this channel.
 
-本频道共 71 篇。
+本频道共 72 篇。
 
+- 2026-09-18 · [Jev is HERE. How to use it](2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md)
 - 2026-09-15 · [Instinct AI is For Real. What You Need to Know.](2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md)
 - 2026-09-14 · [Building a Software Factory that actually works (Full Course)](2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md)
 - 2026-09-10 · [GPT-6 Astra: How I’d Make Money With It](2026-09-10-gpt-6-astra-how-i’d-make-money-with-it-nglqTHwuZ-8.md)
