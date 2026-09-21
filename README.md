@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-858-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-861-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 858 |
+| 笔记 | 861 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 532 |
-| 原始文稿 | 818 |
+| 结构化文稿 | 535 |
+| 原始文稿 | 821 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-09-18 |
-| 仓库更新日期 | 2026-09-19 |
+| 最新来源日期 | 2026-09-20 |
+| 仓库更新日期 | 2026-09-21 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 83 篇
+### [a16z](channels/a16z/README.md) · 84 篇
 
+- 2026-09-20 · [Why the People Who Built Hip-Hop Ended Up With Nothing](channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md)
 - 2026-09-18 · [Databricks CEO: Stop Scaring People About AI](channels/a16z/2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md)
 - 2026-09-17 · [How Real-Time AI Video Is Changing How Creators Work](channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md)
-- 2026-09-16 · [Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce](channels/a16z/2026-09-16-why-the-next-generation-of-enterprise-software-looks-nothing-like-salesforce-K5yGLO8c6T0.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 81 篇
 
@@ -74,11 +74,11 @@
 - 2026-09-16 · [GPT-6 Astra Created This Entire Product Launch](channels/riley-brown/2026-09-16-gpt-6-astra-created-this-entire-product-launch-O8pzzIP1RyM.md)
 - 2026-09-14 · [28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)](channels/riley-brown/2026-09-14-28-insane-things-gpt-6-astra-+-codex-can-do-(2-hour-course)-ifz8NGHuHtY.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 48 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 49 篇
 
+- 2026-09-20 · [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md)
 - 2026-09-10 · [Why jobs are becoming a series of loops | Anish Acharya (a16z)](channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md)
 - 2026-09-08 · [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](channels/lenny's-podcast/2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md)
-- 2026-08-30 · [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](channels/lenny's-podcast/2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 48 篇
 
@@ -93,6 +93,12 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## 最新更新
+
+### 2026-09-20
+
+- [Why the People Who Built Hip-Hop Ended Up With Nothing](channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md) · a16z
+- [Are We Training AI to Behave or to Cheat Better? - Noam Brown](channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.md) · Dwarkesh Patel
+- [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md) · Lenny's Podcast
 
 ### 2026-09-18
 
@@ -120,12 +126,6 @@
 ### 2026-09-15
 
 - [The Real Story Behind the Internet's Biggest Wellness Trends](channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md) · a16z
-- [Instinct AI is For Real. What You Need to Know.](channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md) · Greg Isenberg
-
-### 2026-09-14
-
-- [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](channels/latent-space/2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md) · Latent Space
-- [Greg Brockman Says AGI Has Arrived](channels/a16z/2026-09-14-greg-brockman-says-agi-has-arrived-IJn8cagMW18.md) · a16z
 
 ## 数据与自动更新
 

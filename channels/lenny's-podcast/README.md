@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-48 notes in this channel.
+49 notes in this channel.
 
-本频道共 48 篇。
+本频道共 49 篇。
 
+- 2026-09-20 · [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md)
 - 2026-09-10 · [Why jobs are becoming a series of loops | Anish Acharya (a16z)](2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md)
 - 2026-09-08 · [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md)
 - 2026-08-30 · [AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](2026-08-30-ai’s-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-(openai’s-product-lead)-zMvBMfj4cSQ.md)

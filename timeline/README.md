@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-20](2026/09/2026-09-20.md) · 3 篇
+
+- [Are We Training AI to Behave or to Cheat Better? - Noam Brown](../channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.md) · Dwarkesh Patel
+- [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](../channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md) · Lenny's Podcast
+- [Why the People Who Built Hip-Hop Ended Up With Nothing](../channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md) · a16z
+
 ## [2026-09-18](2026/09/2026-09-18.md) · 6 篇
 
 - [Jev is HERE. How to use it](../channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md) · Greg Isenberg

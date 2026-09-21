@@ -1,5 +1,77 @@
 [
   {
+    "id": "ZO6VyDvysxY",
+    "video_id": "ZO6VyDvysxY",
+    "title": "Why the People Who Built Hip-Hop Ended Up With Nothing",
+    "channel": "a16z",
+    "published": "2026-09-20",
+    "source_url": "https://www.youtube.com/watch?v=ZO6VyDvysxY",
+    "notion_url": "",
+    "tags": [
+      "Hip-Hop",
+      "文化债务",
+      "慈善基金会",
+      "Ben Horowitz",
+      "音乐产业"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 7777,
+    "duration": "57:03",
+    "duration_seconds": 3423,
+    "path": "channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md",
+    "structured_path": "channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.structured.md",
+    "transcript_path": "channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.transcript.md"
+  },
+  {
+    "id": "deCyYLBfpHI",
+    "video_id": "deCyYLBfpHI",
+    "title": "Are We Training AI to Behave or to Cheat Better? - Noam Brown",
+    "channel": "Dwarkesh Patel",
+    "published": "2026-09-20",
+    "source_url": "https://www.youtube.com/watch?v=deCyYLBfpHI",
+    "notion_url": "",
+    "tags": [
+      "AI对齐",
+      "强化学习",
+      "AI安全",
+      "智能体",
+      "评估作弊"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 10040,
+    "duration": "10:39",
+    "duration_seconds": 639,
+    "path": "channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.md",
+    "structured_path": "channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.structured.md",
+    "transcript_path": "channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.transcript.md"
+  },
+  {
+    "id": "97LRJUUPy_w",
+    "video_id": "97LRJUUPy_w",
+    "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+    "channel": "Lenny's Podcast",
+    "published": "2026-09-20",
+    "source_url": "https://www.youtube.com/watch?v=97LRJUUPy_w",
+    "notion_url": "",
+    "tags": [
+      "产品管理",
+      "领导力",
+      "增长策略",
+      "广告变现",
+      "团队建设"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 25453,
+    "duration": "1:36:53",
+    "duration_seconds": 5813,
+    "path": "channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md",
+    "structured_path": "channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.transcript.md"
+  },
+  {
     "id": "2oIrZM6e8Ro",
     "video_id": "2oIrZM6e8Ro",
     "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
