@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-72 notes in this channel.
+73 notes in this channel.
 
-本频道共 72 篇。
+本频道共 73 篇。
 
+- 2026-09-21 · [$30M Writer: Never write AI slop again](2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md)
 - 2026-09-18 · [Jev is HERE. How to use it](2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md)
 - 2026-09-15 · [Instinct AI is For Real. What You Need to Know.](2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md)
 - 2026-09-14 · [Building a Software Factory that actually works (Full Course)](2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md)

@@ -6,6 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-21](2026/09/2026-09-21.md) · 4 篇
+
+- [What AI’s Math Breakthrough Means for Superintelligence - Noam Brown](../channels/dwarkesh-patel/2026-09-21-what-ai’s-math-breakthrough-means-for-superintelligence-noam-brown-Ux1mOqAoaq0.md) · Dwarkesh Patel
+- [$30M Writer: Never write AI slop again](../channels/greg-isenberg/2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md) · Greg Isenberg
+- [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](../channels/latent-space/2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md) · Latent Space
+- [NEW Claude Projects Changes Everything](../channels/riley-brown/2026-09-21-new-claude-projects-changes-everything-NDTbUObZTlM.md) · Riley Brown
+
 ## [2026-09-20](2026/09/2026-09-20.md) · 3 篇
 
 - [Are We Training AI to Behave or to Cheat Better? - Noam Brown](../channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.md) · Dwarkesh Patel

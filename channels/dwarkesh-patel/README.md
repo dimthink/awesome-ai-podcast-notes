@@ -1,9 +1,10 @@
 # Dwarkesh Patel
 
-16 notes in this channel.
+17 notes in this channel.
 
-本频道共 16 篇。
+本频道共 17 篇。
 
+- 2026-09-21 · [What AI’s Math Breakthrough Means for Superintelligence - Noam Brown](2026-09-21-what-ai’s-math-breakthrough-means-for-superintelligence-noam-brown-Ux1mOqAoaq0.md)
 - 2026-09-20 · [Are We Training AI to Behave or to Cheat Better? - Noam Brown](2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.md)
 - 2026-09-09 · [Why Punishing AI for Cheating Could Backfire - Ajeya Cotra](2026-09-09-why-punishing-ai-for-cheating-could-backfire-ajeya-cotra-Wth831jKhlw.md)
 - 2026-09-03 · [How a Rogue AI Swarm Could Hide Inside an AI Company - Ajeya Cotra](2026-09-03-how-a-rogue-ai-swarm-could-hide-inside-an-ai-company-ajeya-cotra-xRKOpMeEQgQ.md)

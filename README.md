@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-861-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-865-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 861 |
+| 笔记 | 865 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 535 |
-| 原始文稿 | 821 |
+| 结构化文稿 | 539 |
+| 原始文稿 | 825 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-09-20 |
-| 仓库更新日期 | 2026-09-21 |
+| 最新来源日期 | 2026-09-21 |
+| 仓库更新日期 | 2026-09-22 |
 
 ## 适合谁
 
@@ -56,23 +56,23 @@
 - 2026-09-18 · [Databricks CEO: Stop Scaring People About AI](channels/a16z/2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md)
 - 2026-09-17 · [How Real-Time AI Video Is Changing How Creators Work](channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md)
 
-### [Latent Space](channels/latent-space/README.md) · 81 篇
+### [Latent Space](channels/latent-space/README.md) · 82 篇
 
+- 2026-09-21 · [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](channels/latent-space/2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md)
 - 2026-09-18 · [A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI](channels/latent-space/2026-09-18-a-worm-with-302-neurons-inspired-their-architecture-—-ramin-hasani,-liquid-ai-V_9TCu_21SE.md)
 - 2026-09-16 · [The Watchdogs of AGI — Rune Kvist of AI Underwriting Company](channels/latent-space/2026-09-16-the-watchdogs-of-agi-—-rune-kvist-of-ai-underwriting-company-Sc2_LfWgHb4.md)
-- 2026-09-14 · [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](channels/latent-space/2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 72 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 73 篇
 
+- 2026-09-21 · [$30M Writer: Never write AI slop again](channels/greg-isenberg/2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md)
 - 2026-09-18 · [Jev is HERE. How to use it](channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md)
 - 2026-09-15 · [Instinct AI is For Real. What You Need to Know.](channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md)
-- 2026-09-14 · [Building a Software Factory that actually works (Full Course)](channels/greg-isenberg/2026-09-14-building-a-software-factory-that-actually-works-(full-course)-_LCeJZFIsd4.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 69 篇
+### [Riley Brown](channels/riley-brown/README.md) · 70 篇
 
+- 2026-09-21 · [NEW Claude Projects Changes Everything](channels/riley-brown/2026-09-21-new-claude-projects-changes-everything-NDTbUObZTlM.md)
 - 2026-09-18 · [JEV: How It Works and What You Can Build](channels/riley-brown/2026-09-18-jev-how-it-works-and-what-you-can-build-o1CogAtWdBk.md)
 - 2026-09-16 · [GPT-6 Astra Created This Entire Product Launch](channels/riley-brown/2026-09-16-gpt-6-astra-created-this-entire-product-launch-O8pzzIP1RyM.md)
-- 2026-09-14 · [28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)](channels/riley-brown/2026-09-14-28-insane-things-gpt-6-astra-+-codex-can-do-(2-hour-course)-ifz8NGHuHtY.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 49 篇
 
@@ -93,6 +93,13 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## 最新更新
+
+### 2026-09-21
+
+- [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](channels/latent-space/2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md) · Latent Space
+- [What AI’s Math Breakthrough Means for Superintelligence - Noam Brown](channels/dwarkesh-patel/2026-09-21-what-ai’s-math-breakthrough-means-for-superintelligence-noam-brown-Ux1mOqAoaq0.md) · Dwarkesh Patel
+- [NEW Claude Projects Changes Everything](channels/riley-brown/2026-09-21-new-claude-projects-changes-everything-NDTbUObZTlM.md) · Riley Brown
+- [$30M Writer: Never write AI slop again](channels/greg-isenberg/2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md) · Greg Isenberg
 
 ### 2026-09-20
 
@@ -119,13 +126,6 @@
 
 - [Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce](channels/a16z/2026-09-16-why-the-next-generation-of-enterprise-software-looks-nothing-like-salesforce-K5yGLO8c6T0.md) · a16z
 - [What AI Researchers Saw, Before Their Demand to ‘Pace’ AI](channels/ai-explained/2026-09-16-what-ai-researchers-saw,-before-their-demand-to-‘pace’-ai-J3ljHm57yU0.md) · AI Explained
-- [The Watchdogs of AGI — Rune Kvist of AI Underwriting Company](channels/latent-space/2026-09-16-the-watchdogs-of-agi-—-rune-kvist-of-ai-underwriting-company-Sc2_LfWgHb4.md) · Latent Space
-- [GPT-6 Astra Created This Entire Product Launch](channels/riley-brown/2026-09-16-gpt-6-astra-created-this-entire-product-launch-O8pzzIP1RyM.md) · Riley Brown
-- [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](channels/硅谷101/2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.md) · 硅谷101
-
-### 2026-09-15
-
-- [The Real Story Behind the Internet's Biggest Wellness Trends](channels/a16z/2026-09-15-the-real-story-behind-the-internet's-biggest-wellness-trends-HKZdte6exaw.md) · a16z
 
 ## 数据与自动更新
 

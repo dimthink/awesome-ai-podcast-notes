@@ -1,9 +1,10 @@
 # Latent Space
 
-81 notes in this channel.
+82 notes in this channel.
 
-本频道共 81 篇。
+本频道共 82 篇。
 
+- 2026-09-21 · [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md)
 - 2026-09-18 · [A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI](2026-09-18-a-worm-with-302-neurons-inspired-their-architecture-—-ramin-hasani,-liquid-ai-V_9TCu_21SE.md)
 - 2026-09-16 · [The Watchdogs of AGI — Rune Kvist of AI Underwriting Company](2026-09-16-the-watchdogs-of-agi-—-rune-kvist-of-ai-underwriting-company-Sc2_LfWgHb4.md)
 - 2026-09-14 · [Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive](2026-09-14-recursive-self-improvement-from-auto-research-to-superintelligence-—-richard-socher,-recursive-eDFXtSg3zB8.md)
