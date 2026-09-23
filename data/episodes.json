@@ -1,5 +1,53 @@
 [
   {
+    "id": "2xBSGluFkG0",
+    "video_id": "2xBSGluFkG0",
+    "title": "🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow",
+    "channel": "Latent Space",
+    "published": "2026-09-22",
+    "source_url": "https://www.youtube.com/watch?v=2xBSGluFkG0",
+    "notion_url": "",
+    "tags": [
+      "AI for Science",
+      "ERA",
+      "机器学习",
+      "气候科学",
+      "科学家未来"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 19304,
+    "duration": "2:01:26",
+    "duration_seconds": 7286,
+    "path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md",
+    "structured_path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.structured.md",
+    "transcript_path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.transcript.md"
+  },
+  {
+    "id": "Z4x71naDx1Q",
+    "video_id": "Z4x71naDx1Q",
+    "title": "Why Education Has to Change",
+    "channel": "a16z",
+    "published": "2026-09-22",
+    "source_url": "https://www.youtube.com/watch?v=Z4x71naDx1Q",
+    "notion_url": "",
+    "tags": [
+      "教育",
+      "AI",
+      "创业",
+      "a16z",
+      "硅谷"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 23639,
+    "duration": "42:42",
+    "duration_seconds": 2562,
+    "path": "channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md",
+    "structured_path": "channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.structured.md",
+    "transcript_path": "channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.transcript.md"
+  },
+  {
     "id": "cFx9Z3ZXca0",
     "video_id": "cFx9Z3ZXca0",
     "title": "Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO",

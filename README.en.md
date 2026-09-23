@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 865 |
+| Notes | 867 |
 | Channels | 16 |
-| Structured notes | 539 |
-| Raw transcripts | 825 |
+| Structured notes | 541 |
+| Raw transcripts | 827 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-09-21 |
-| Archive updated | 2026-09-22 |
+| Latest source date | 2026-09-22 |
+| Archive updated | 2026-09-23 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 84 notes
+### [a16z](channels/a16z/README.md) · 85 notes
 
+- 2026-09-22 · [Why Education Has to Change](channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md)
 - 2026-09-20 · [Why the People Who Built Hip-Hop Ended Up With Nothing](channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md)
 - 2026-09-18 · [Databricks CEO: Stop Scaring People About AI](channels/a16z/2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md)
-- 2026-09-17 · [How Real-Time AI Video Is Changing How Creators Work](channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md)
 
-### [Latent Space](channels/latent-space/README.md) · 82 notes
+### [Latent Space](channels/latent-space/README.md) · 83 notes
 
+- 2026-09-22 · [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md)
 - 2026-09-21 · [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](channels/latent-space/2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md)
 - 2026-09-18 · [A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI](channels/latent-space/2026-09-18-a-worm-with-302-neurons-inspired-their-architecture-—-ramin-hasani,-liquid-ai-V_9TCu_21SE.md)
-- 2026-09-16 · [The Watchdogs of AGI — Rune Kvist of AI Underwriting Company](channels/latent-space/2026-09-16-the-watchdogs-of-agi-—-rune-kvist-of-ai-underwriting-company-Sc2_LfWgHb4.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 73 notes
 
@@ -83,6 +83,11 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-09-22
+
+- [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md) · Latent Space
+- [Why Education Has to Change](channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md) · a16z
+
 ### 2026-09-21
 
 - [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](channels/latent-space/2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md) · Latent Space
@@ -110,11 +115,6 @@ Each episode can include up to three versions:
 - [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502](channels/lex-fridman/2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.md) · Lex Fridman
 - [How Real-Time AI Video Is Changing How Creators Work](channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md) · a16z
 - [Building the Safety Layer for AI Agents](channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md) · Y Combinator
-
-### 2026-09-16
-
-- [Why the Next Generation of Enterprise Software Looks Nothing Like Salesforce](channels/a16z/2026-09-16-why-the-next-generation-of-enterprise-software-looks-nothing-like-salesforce-K5yGLO8c6T0.md) · a16z
-- [What AI Researchers Saw, Before Their Demand to ‘Pace’ AI](channels/ai-explained/2026-09-16-what-ai-researchers-saw,-before-their-demand-to-‘pace’-ai-J3ljHm57yU0.md) · AI Explained
 
 ## Data
 

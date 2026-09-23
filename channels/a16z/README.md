@@ -1,9 +1,10 @@
 # a16z
 
-84 notes in this channel.
+85 notes in this channel.
 
-本频道共 84 篇。
+本频道共 85 篇。
 
+- 2026-09-22 · [Why Education Has to Change](2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md)
 - 2026-09-20 · [Why the People Who Built Hip-Hop Ended Up With Nothing](2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md)
 - 2026-09-18 · [Databricks CEO: Stop Scaring People About AI](2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md)
 - 2026-09-17 · [How Real-Time AI Video Is Changing How Creators Work](2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md)

@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-22](2026/09/2026-09-22.md) · 2 篇
+
+- [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](../channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md) · Latent Space
+- [Why Education Has to Change](../channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md) · a16z
+
 ## [2026-09-21](2026/09/2026-09-21.md) · 4 篇
 
 - [What AI’s Math Breakthrough Means for Superintelligence - Noam Brown](../channels/dwarkesh-patel/2026-09-21-what-ai’s-math-breakthrough-means-for-superintelligence-noam-brown-Ux1mOqAoaq0.md) · Dwarkesh Patel
