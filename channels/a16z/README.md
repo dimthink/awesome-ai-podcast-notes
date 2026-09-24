@@ -1,9 +1,10 @@
 # a16z
 
-85 notes in this channel.
+86 notes in this channel.
 
-本频道共 85 篇。
+本频道共 86 篇。
 
+- 2026-09-23 · [Replit CEO Amjad Masad on What Young People Should Learn in the AI Era](2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.md)
 - 2026-09-22 · [Why Education Has to Change](2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md)
 - 2026-09-20 · [Why the People Who Built Hip-Hop Ended Up With Nothing](2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md)
 - 2026-09-18 · [Databricks CEO: Stop Scaring People About AI](2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md)

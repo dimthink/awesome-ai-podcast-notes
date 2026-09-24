@@ -6,8 +6,20 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-22](2026/09/2026-09-22.md) · 2 篇
+## [2026-09-24](2026/09/2026-09-24.md) · 1 篇
 
+- [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](../channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md) · 硅谷101
+
+## [2026-09-23](2026/09/2026-09-23.md) · 4 篇
+
+- [What If AI Progress Doesn’t Slow Down? - Noam Brown](../channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.md) · Dwarkesh Patel
+- [The $3,000/Day Solo AI business with Astra + Upwork](../channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md) · Greg Isenberg
+- [🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)](../channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md) · Latent Space
+- [Replit CEO Amjad Masad on What Young People Should Learn in the AI Era](../channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.md) · a16z
+
+## [2026-09-22](2026/09/2026-09-22.md) · 3 篇
+
+- [Why Punishing an AI’s “Bad Thoughts” Can Backfire - Noam Brown](../channels/dwarkesh-patel/2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.md) · Dwarkesh Patel
 - [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](../channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md) · Latent Space
 - [Why Education Has to Change](../channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md) · a16z
 
@@ -23,6 +35,10 @@ Browse notes by source publish date. Date headings open daily detail pages, and 
 - [Are We Training AI to Behave or to Cheat Better? - Noam Brown](../channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.md) · Dwarkesh Patel
 - [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](../channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md) · Lenny's Podcast
 - [Why the People Who Built Hip-Hop Ended Up With Nothing](../channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md) · a16z
+
+## [2026-09-19](2026/09/2026-09-19.md) · 1 篇
+
+- [The Growing Gap Between ChatGPT and the AI Inside OpenAI - Noam Brown](../channels/dwarkesh-patel/2026-09-19-the-growing-gap-between-chatgpt-and-the-ai-inside-openai-noam-brown-eXFMtMovXXY.md) · Dwarkesh Patel
 
 ## [2026-09-18](2026/09/2026-09-18.md) · 6 篇
 

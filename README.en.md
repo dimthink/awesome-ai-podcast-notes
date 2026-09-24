@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 867 |
+| Notes | 874 |
 | Channels | 16 |
-| Structured notes | 541 |
-| Raw transcripts | 827 |
+| Structured notes | 548 |
+| Raw transcripts | 834 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-09-22 |
-| Archive updated | 2026-09-23 |
+| Latest source date | 2026-09-24 |
+| Archive updated | 2026-09-24 |
 
 Each episode can include up to three versions:
 
@@ -39,23 +39,23 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 85 notes
+### [a16z](channels/a16z/README.md) · 86 notes
 
+- 2026-09-23 · [Replit CEO Amjad Masad on What Young People Should Learn in the AI Era](channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.md)
 - 2026-09-22 · [Why Education Has to Change](channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md)
 - 2026-09-20 · [Why the People Who Built Hip-Hop Ended Up With Nothing](channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md)
-- 2026-09-18 · [Databricks CEO: Stop Scaring People About AI](channels/a16z/2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md)
 
-### [Latent Space](channels/latent-space/README.md) · 83 notes
+### [Latent Space](channels/latent-space/README.md) · 84 notes
 
+- 2026-09-23 · [🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)](channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md)
 - 2026-09-22 · [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md)
 - 2026-09-21 · [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](channels/latent-space/2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md)
-- 2026-09-18 · [A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI](channels/latent-space/2026-09-18-a-worm-with-302-neurons-inspired-their-architecture-—-ramin-hasani,-liquid-ai-V_9TCu_21SE.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 73 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 74 notes
 
+- 2026-09-23 · [The $3,000/Day Solo AI business with Astra + Upwork](channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md)
 - 2026-09-21 · [$30M Writer: Never write AI slop again](channels/greg-isenberg/2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md)
 - 2026-09-18 · [Jev is HERE. How to use it](channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md)
-- 2026-09-15 · [Instinct AI is For Real. What You Need to Know.](channels/greg-isenberg/2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 70 notes
 
@@ -83,9 +83,21 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-09-24
+
+- [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md) · 硅谷101
+
+### 2026-09-23
+
+- [🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)](channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md) · Latent Space
+- [What If AI Progress Doesn’t Slow Down? - Noam Brown](channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.md) · Dwarkesh Patel
+- [The $3,000/Day Solo AI business with Astra + Upwork](channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md) · Greg Isenberg
+- [Replit CEO Amjad Masad on What Young People Should Learn in the AI Era](channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.md) · a16z
+
 ### 2026-09-22
 
 - [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md) · Latent Space
+- [Why Punishing an AI’s “Bad Thoughts” Can Backfire - Noam Brown](channels/dwarkesh-patel/2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.md) · Dwarkesh Patel
 - [Why Education Has to Change](channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md) · a16z
 
 ### 2026-09-21
@@ -101,20 +113,14 @@ Each episode can include up to three versions:
 - [Are We Training AI to Behave or to Cheat Better? - Noam Brown](channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.md) · Dwarkesh Patel
 - [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md) · Lenny's Podcast
 
+### 2026-09-19
+
+- [The Growing Gap Between ChatGPT and the AI Inside OpenAI - Noam Brown](channels/dwarkesh-patel/2026-09-19-the-growing-gap-between-chatgpt-and-the-ai-inside-openai-noam-brown-eXFMtMovXXY.md) · Dwarkesh Patel
+
 ### 2026-09-18
 
 - [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md) · 硅谷101
 - [The AI Employee for Banks](channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md) · Y Combinator
-- [Jev is HERE. How to use it](channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md) · Greg Isenberg
-- [JEV: How It Works and What You Can Build](channels/riley-brown/2026-09-18-jev-how-it-works-and-what-you-can-build-o1CogAtWdBk.md) · Riley Brown
-- [Databricks CEO: Stop Scaring People About AI](channels/a16z/2026-09-18-databricks-ceo-stop-scaring-people-about-ai-GzEtpAKYRvE.md) · a16z
-- [A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI](channels/latent-space/2026-09-18-a-worm-with-302-neurons-inspired-their-architecture-—-ramin-hasani,-liquid-ai-V_9TCu_21SE.md) · Latent Space
-
-### 2026-09-17
-
-- [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502](channels/lex-fridman/2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.md) · Lex Fridman
-- [How Real-Time AI Video Is Changing How Creators Work](channels/a16z/2026-09-17-how-real-time-ai-video-is-changing-how-creators-work-SDbRJXQrYGY.md) · a16z
-- [Building the Safety Layer for AI Agents](channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md) · Y Combinator
 
 ## Data
 

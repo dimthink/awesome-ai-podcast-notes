@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-73 notes in this channel.
+74 notes in this channel.
 
-本频道共 73 篇。
+本频道共 74 篇。
 
+- 2026-09-23 · [The $3,000/Day Solo AI business with Astra + Upwork](2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md)
 - 2026-09-21 · [$30M Writer: Never write AI slop again](2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md)
 - 2026-09-18 · [Jev is HERE. How to use it](2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md)
 - 2026-09-15 · [Instinct AI is For Real. What You Need to Know.](2026-09-15-instinct-ai-is-for-real.-what-you-need-to-know-mUAsaprJ66s.md)

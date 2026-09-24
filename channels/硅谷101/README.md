@@ -1,9 +1,10 @@
 # 硅谷101
 
-38 notes in this channel.
+39 notes in this channel.
 
-本频道共 38 篇。
+本频道共 39 篇。
 
+- 2026-09-24 · [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md)
 - 2026-09-18 · [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md)
 - 2026-09-16 · [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](2026-09-16-e251-推理芯片之战-聊聊groq、cerebras与openai三大路径与bill-dally的设计哲学-aS69y40BoyM.md)
 - 2026-08-20 · [E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路](2026-08-20-e249-token经济转点-openclaw、hermes到本地自研的agent进化之路-6FUJbpMrYRA.md)

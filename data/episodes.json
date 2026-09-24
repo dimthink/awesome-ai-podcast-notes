@@ -1,5 +1,126 @@
 [
   {
+    "id": "wqI7kJQEnV8",
+    "video_id": "wqI7kJQEnV8",
+    "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
+    "channel": "硅谷101",
+    "published": "2026-09-24",
+    "source_url": "https://www.youtube.com/watch?v=wqI7kJQEnV8",
+    "notion_url": "",
+    "tags": [
+      "睡眠科技",
+      "健康科技",
+      "创业故事",
+      "预防医疗",
+      "中国市场"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 15130,
+    "duration": "44:56",
+    "duration_seconds": 2696,
+    "path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md",
+    "structured_path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.structured.md",
+    "transcript_path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.transcript.md"
+  },
+  {
+    "id": "B7DdNj_VjcU",
+    "video_id": "B7DdNj_VjcU",
+    "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+    "channel": "Latent Space",
+    "published": "2026-09-23",
+    "source_url": "https://www.youtube.com/watch?v=B7DdNj_VjcU",
+    "notion_url": "",
+    "tags": [
+      "基因组AI",
+      "生物安全",
+      "AI军备竞赛",
+      "生成生物学",
+      "AI对齐"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 21523,
+    "duration": "1:31:59",
+    "duration_seconds": 5519,
+    "path": "channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md",
+    "structured_path": "channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.structured.md",
+    "transcript_path": "channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.transcript.md"
+  },
+  {
+    "id": "LXBrk0F7HC0",
+    "video_id": "LXBrk0F7HC0",
+    "title": "What If AI Progress Doesn’t Slow Down? - Noam Brown",
+    "channel": "Dwarkesh Patel",
+    "published": "2026-09-23",
+    "source_url": "https://www.youtube.com/watch?v=LXBrk0F7HC0",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "人工智能",
+      "技术奇点",
+      "OpenAI",
+      "加速回报",
+      "预测失效"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 10992,
+    "duration": "未知",
+    "duration_seconds": 0,
+    "path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.md",
+    "structured_path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.structured.md",
+    "transcript_path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.transcript.md"
+  },
+  {
+    "id": "e7s7jRgHWsg",
+    "video_id": "e7s7jRgHWsg",
+    "title": "The $3,000/Day Solo AI business with Astra + Upwork",
+    "channel": "Greg Isenberg",
+    "published": "2026-09-23",
+    "source_url": "https://www.youtube.com/watch?v=e7s7jRgHWsg",
+    "notion_url": "",
+    "tags": [
+      "AI创业",
+      "一人公司",
+      "创意模型",
+      "Astra",
+      "服务型AI"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 23064,
+    "duration": "48:05",
+    "duration_seconds": 2885,
+    "path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md",
+    "structured_path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.transcript.md"
+  },
+  {
+    "id": "Q8yFrGwIftE",
+    "video_id": "Q8yFrGwIftE",
+    "title": "Replit CEO Amjad Masad on What Young People Should Learn in the AI Era",
+    "channel": "a16z",
+    "published": "2026-09-23",
+    "source_url": "https://www.youtube.com/watch?v=Q8yFrGwIftE",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "教育",
+      "创业",
+      "好奇心",
+      "硅谷"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 17458,
+    "duration": "47:04",
+    "duration_seconds": 2824,
+    "path": "channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.md",
+    "structured_path": "channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.structured.md",
+    "transcript_path": "channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.transcript.md"
+  },
+  {
     "id": "2xBSGluFkG0",
     "video_id": "2xBSGluFkG0",
     "title": "🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow",
@@ -22,6 +143,30 @@
     "path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md",
     "structured_path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.structured.md",
     "transcript_path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.transcript.md"
+  },
+  {
+    "id": "rSQzMoDESTY",
+    "video_id": "rSQzMoDESTY",
+    "title": "Why Punishing an AI’s “Bad Thoughts” Can Backfire - Noam Brown",
+    "channel": "Dwarkesh Patel",
+    "published": "2026-09-22",
+    "source_url": "https://www.youtube.com/watch?v=rSQzMoDESTY",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "思维链监控",
+      "对齐问题",
+      "OpenAI",
+      "递归自我改进"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 8568,
+    "duration": "未知",
+    "duration_seconds": 0,
+    "path": "channels/dwarkesh-patel/2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.md",
+    "structured_path": "channels/dwarkesh-patel/2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.structured.md",
+    "transcript_path": "channels/dwarkesh-patel/2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.transcript.md"
   },
   {
     "id": "Z4x71naDx1Q",
@@ -215,6 +360,30 @@
     "path": "channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md",
     "structured_path": "channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.structured.md",
     "transcript_path": "channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.transcript.md"
+  },
+  {
+    "id": "eXFMtMovXXY",
+    "video_id": "eXFMtMovXXY",
+    "title": "The Growing Gap Between ChatGPT and the AI Inside OpenAI - Noam Brown",
+    "channel": "Dwarkesh Patel",
+    "published": "2026-09-19",
+    "source_url": "https://www.youtube.com/watch?v=eXFMtMovXXY",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "AGI治理",
+      "模型发布周期",
+      "对齐问题",
+      "权力集中"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 7674,
+    "duration": "未知",
+    "duration_seconds": 0,
+    "path": "channels/dwarkesh-patel/2026-09-19-the-growing-gap-between-chatgpt-and-the-ai-inside-openai-noam-brown-eXFMtMovXXY.md",
+    "structured_path": "channels/dwarkesh-patel/2026-09-19-the-growing-gap-between-chatgpt-and-the-ai-inside-openai-noam-brown-eXFMtMovXXY.structured.md",
+    "transcript_path": "channels/dwarkesh-patel/2026-09-19-the-growing-gap-between-chatgpt-and-the-ai-inside-openai-noam-brown-eXFMtMovXXY.transcript.md"
   },
   {
     "id": "2oIrZM6e8Ro",
