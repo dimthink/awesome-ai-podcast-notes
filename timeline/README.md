@@ -6,8 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-24](2026/09/2026-09-24.md) · 1 篇
+## [2026-09-25](2026/09/2026-09-25.md) · 1 篇
 
+- [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](../channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md) · Latent Space
+
+## [2026-09-24](2026/09/2026-09-24.md) · 6 篇
+
+- [Opus 5.5: How Close Are We to Automated AI Research?](../channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.md) · AI Explained
+- [What the Hugging Face Incident Reveals About AI Alignment - Noam Brown](../channels/dwarkesh-patel/2026-09-24-what-the-hugging-face-incident-reveals-about-ai-alignment-noam-brown-Z88ZUZB2VWs.md) · Dwarkesh Patel
+- [Meta Muse AI Connectors: The Next App Store Moment?](../channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md) · Greg Isenberg
+- [The last roadmap | Claire Vo](../channels/lenny's-podcast/2026-09-24-the-last-roadmap-claire-vo-VM5kuvWgwDY.md) · Lenny's Podcast
+- [How to build products on a moving frontier | Dan Shipper (Every)](../channels/lenny's-podcast/2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.md) · Lenny's Podcast
 - [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](../channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md) · 硅谷101
 
 ## [2026-09-23](2026/09/2026-09-23.md) · 4 篇

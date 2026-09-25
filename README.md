@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-874-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-880-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 874 |
+| 笔记 | 880 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 548 |
-| 原始文稿 | 834 |
+| 结构化文稿 | 554 |
+| 原始文稿 | 840 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-09-24 |
-| 仓库更新日期 | 2026-09-24 |
+| 最新来源日期 | 2026-09-25 |
+| 仓库更新日期 | 2026-09-25 |
 
 ## 适合谁
 
@@ -56,17 +56,17 @@
 - 2026-09-22 · [Why Education Has to Change](channels/a16z/2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md)
 - 2026-09-20 · [Why the People Who Built Hip-Hop Ended Up With Nothing](channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md)
 
-### [Latent Space](channels/latent-space/README.md) · 84 篇
+### [Latent Space](channels/latent-space/README.md) · 85 篇
 
+- 2026-09-25 · [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md)
 - 2026-09-23 · [🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)](channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md)
 - 2026-09-22 · [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md)
-- 2026-09-21 · [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](channels/latent-space/2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 74 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 75 篇
 
+- 2026-09-24 · [Meta Muse AI Connectors: The Next App Store Moment?](channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md)
 - 2026-09-23 · [The $3,000/Day Solo AI business with Astra + Upwork](channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md)
 - 2026-09-21 · [$30M Writer: Never write AI slop again](channels/greg-isenberg/2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md)
-- 2026-09-18 · [Jev is HERE. How to use it](channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 70 篇
 
@@ -74,11 +74,11 @@
 - 2026-09-18 · [JEV: How It Works and What You Can Build](channels/riley-brown/2026-09-18-jev-how-it-works-and-what-you-can-build-o1CogAtWdBk.md)
 - 2026-09-16 · [GPT-6 Astra Created This Entire Product Launch](channels/riley-brown/2026-09-16-gpt-6-astra-created-this-entire-product-launch-O8pzzIP1RyM.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 49 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 51 篇
 
+- 2026-09-24 · [The last roadmap | Claire Vo](channels/lenny's-podcast/2026-09-24-the-last-roadmap-claire-vo-VM5kuvWgwDY.md)
+- 2026-09-24 · [How to build products on a moving frontier | Dan Shipper (Every)](channels/lenny's-podcast/2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.md)
 - 2026-09-20 · [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md)
-- 2026-09-10 · [Why jobs are becoming a series of loops | Anish Acharya (a16z)](channels/lenny's-podcast/2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md)
-- 2026-09-08 · [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](channels/lenny's-podcast/2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 48 篇
 
@@ -94,8 +94,17 @@
 
 ## 最新更新
 
+### 2026-09-25
+
+- [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md) · Latent Space
+
 ### 2026-09-24
 
+- [What the Hugging Face Incident Reveals About AI Alignment - Noam Brown](channels/dwarkesh-patel/2026-09-24-what-the-hugging-face-incident-reveals-about-ai-alignment-noam-brown-Z88ZUZB2VWs.md) · Dwarkesh Patel
+- [The last roadmap | Claire Vo](channels/lenny's-podcast/2026-09-24-the-last-roadmap-claire-vo-VM5kuvWgwDY.md) · Lenny's Podcast
+- [Opus 5.5: How Close Are We to Automated AI Research?](channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.md) · AI Explained
+- [Meta Muse AI Connectors: The Next App Store Moment?](channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md) · Greg Isenberg
+- [How to build products on a moving frontier | Dan Shipper (Every)](channels/lenny's-podcast/2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.md) · Lenny's Podcast
 - [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md) · 硅谷101
 
 ### 2026-09-23
@@ -117,21 +126,6 @@
 - [What AI’s Math Breakthrough Means for Superintelligence - Noam Brown](channels/dwarkesh-patel/2026-09-21-what-ai’s-math-breakthrough-means-for-superintelligence-noam-brown-Ux1mOqAoaq0.md) · Dwarkesh Patel
 - [NEW Claude Projects Changes Everything](channels/riley-brown/2026-09-21-new-claude-projects-changes-everything-NDTbUObZTlM.md) · Riley Brown
 - [$30M Writer: Never write AI slop again](channels/greg-isenberg/2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md) · Greg Isenberg
-
-### 2026-09-20
-
-- [Why the People Who Built Hip-Hop Ended Up With Nothing](channels/a16z/2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md) · a16z
-- [Are We Training AI to Behave or to Cheat Better? - Noam Brown](channels/dwarkesh-patel/2026-09-20-are-we-training-ai-to-behave-or-to-cheat-better-noam-brown-deCyYLBfpHI.md) · Dwarkesh Patel
-- [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](channels/lenny's-podcast/2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md) · Lenny's Podcast
-
-### 2026-09-19
-
-- [The Growing Gap Between ChatGPT and the AI Inside OpenAI - Noam Brown](channels/dwarkesh-patel/2026-09-19-the-growing-gap-between-chatgpt-and-the-ai-inside-openai-noam-brown-eXFMtMovXXY.md) · Dwarkesh Patel
-
-### 2026-09-18
-
-- [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md) · 硅谷101
-- [The AI Employee for Banks](channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md) · Y Combinator
 
 ## 数据与自动更新
 

@@ -1,9 +1,10 @@
 # Latent Space
 
-84 notes in this channel.
+85 notes in this channel.
 
-本频道共 84 篇。
+本频道共 85 篇。
 
+- 2026-09-25 · [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md)
 - 2026-09-23 · [🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)](2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md)
 - 2026-09-22 · [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md)
 - 2026-09-21 · [Why We Made Jev — Diogo Almeida, TypeSafe Co-founder & CEO](2026-09-21-why-we-made-jev-—-diogo-almeida,-typesafe-co-founder-&-ceo-cFx9Z3ZXca0.md)

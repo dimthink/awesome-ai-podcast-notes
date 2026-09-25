@@ -1,9 +1,10 @@
 # Dwarkesh Patel
 
-20 notes in this channel.
+21 notes in this channel.
 
-本频道共 20 篇。
+本频道共 21 篇。
 
+- 2026-09-24 · [What the Hugging Face Incident Reveals About AI Alignment - Noam Brown](2026-09-24-what-the-hugging-face-incident-reveals-about-ai-alignment-noam-brown-Z88ZUZB2VWs.md)
 - 2026-09-23 · [What If AI Progress Doesn’t Slow Down? - Noam Brown](2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.md)
 - 2026-09-22 · [Why Punishing an AI’s “Bad Thoughts” Can Backfire - Noam Brown](2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.md)
 - 2026-09-21 · [What AI’s Math Breakthrough Means for Superintelligence - Noam Brown](2026-09-21-what-ai’s-math-breakthrough-means-for-superintelligence-noam-brown-Ux1mOqAoaq0.md)

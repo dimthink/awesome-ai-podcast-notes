@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-74 notes in this channel.
+75 notes in this channel.
 
-本频道共 74 篇。
+本频道共 75 篇。
 
+- 2026-09-24 · [Meta Muse AI Connectors: The Next App Store Moment?](2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md)
 - 2026-09-23 · [The $3,000/Day Solo AI business with Astra + Upwork](2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md)
 - 2026-09-21 · [$30M Writer: Never write AI slop again](2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md)
 - 2026-09-18 · [Jev is HERE. How to use it](2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md)

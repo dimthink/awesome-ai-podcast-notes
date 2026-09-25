@@ -1,9 +1,11 @@
 # Lenny's Podcast
 
-49 notes in this channel.
+51 notes in this channel.
 
-本频道共 49 篇。
+本频道共 51 篇。
 
+- 2026-09-24 · [The last roadmap | Claire Vo](2026-09-24-the-last-roadmap-claire-vo-VM5kuvWgwDY.md)
+- 2026-09-24 · [How to build products on a moving frontier | Dan Shipper (Every)](2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.md)
 - 2026-09-20 · [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md)
 - 2026-09-10 · [Why jobs are becoming a series of loops | Anish Acharya (a16z)](2026-09-10-why-jobs-are-becoming-a-series-of-loops-anish-acharya-(a16z)-LdIyXiq2DTY.md)
 - 2026-09-08 · [How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)](2026-09-08-how-we-built-grok-bot-in-a-month-roman-ugarte-(spacexai)-maSdsTLaMuU.md)
