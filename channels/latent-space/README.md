@@ -1,9 +1,10 @@
 # Latent Space
 
-85 notes in this channel.
+86 notes in this channel.
 
-本频道共 85 篇。
+本频道共 86 篇。
 
+- 2026-09-25 · [The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP](2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.md)
 - 2026-09-25 · [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md)
 - 2026-09-23 · [🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)](2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md)
 - 2026-09-22 · [🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow](2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md)

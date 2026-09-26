@@ -1,9 +1,10 @@
 # a16z
 
-86 notes in this channel.
+87 notes in this channel.
 
-本频道共 86 篇。
+本频道共 87 篇。
 
+- 2026-09-25 · [How to Spot Exceptional Talent Before Everyone Else](2026-09-25-how-to-spot-exceptional-talent-before-everyone-else--ywZlfznTa4.md)
 - 2026-09-23 · [Replit CEO Amjad Masad on What Young People Should Learn in the AI Era](2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.md)
 - 2026-09-22 · [Why Education Has to Change](2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md)
 - 2026-09-20 · [Why the People Who Built Hip-Hop Ended Up With Nothing](2026-09-20-why-the-people-who-built-hip-hop-ended-up-with-nothing-ZO6VyDvysxY.md)

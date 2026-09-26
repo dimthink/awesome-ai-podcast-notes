@@ -1,9 +1,12 @@
 # Lenny's Podcast
 
-51 notes in this channel.
+54 notes in this channel.
 
-本频道共 51 篇。
+本频道共 54 篇。
 
+- 2026-09-25 · [The limiting factor—how to design an AI software factory for speed | Geoff Charles (Ramp CPO)](2026-09-25-the-limiting-factor—how-to-design-an-ai-software-factory-for-speed-geoff-charles-(ramp-cpo)-ZG8Mf3P9xzI.md)
+- 2026-09-25 · [Raise the ceiling: how to scale intent, quality, and artistry with Al | Katie Dill (Stripe)](2026-09-25-raise-the-ceiling-how-to-scale-intent,-quality,-and-artistry-with-al-katie-dill-(stripe)-GLvFTMtw4Jk.md)
+- 2026-09-25 · [Marty Cagan: Strong Opinions, loosely held](2026-09-25-marty-cagan-strong-opinions,-loosely-held-fF3lkTCM5-c.md)
 - 2026-09-24 · [The last roadmap | Claire Vo](2026-09-24-the-last-roadmap-claire-vo-VM5kuvWgwDY.md)
 - 2026-09-24 · [How to build products on a moving frontier | Dan Shipper (Every)](2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.md)
 - 2026-09-20 · [90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis](2026-09-20-90-minutes-of-unfiltered-product-advice-from-snap-and-discord’s-product-chief-peter-sellis-97LRJUUPy_w.md)

@@ -6,9 +6,20 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-25](2026/09/2026-09-25.md) · 1 篇
+## [2026-09-26](2026/09/2026-09-26.md) · 1 篇
 
+- [【十字路口】AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO【视频播客】](../channels/koji-yang/2026-09-26-【十字路口】ai-下半场,不会只剩一个超级模型-对谈-kevin-ding-pyromind-创始人-ceo【视频播客】-NpMR0lO6Fjc.md) · Koji Yang
+
+## [2026-09-25](2026/09/2026-09-25.md) · 8 篇
+
+- [The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP](../channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.md) · Latent Space
 - [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](../channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md) · Latent Space
+- [The limiting factor—how to design an AI software factory for speed | Geoff Charles (Ramp CPO)](../channels/lenny's-podcast/2026-09-25-the-limiting-factor—how-to-design-an-ai-software-factory-for-speed-geoff-charles-(ramp-cpo)-ZG8Mf3P9xzI.md) · Lenny's Podcast
+- [Raise the ceiling: how to scale intent, quality, and artistry with Al | Katie Dill (Stripe)](../channels/lenny's-podcast/2026-09-25-raise-the-ceiling-how-to-scale-intent,-quality,-and-artistry-with-al-katie-dill-(stripe)-GLvFTMtw4Jk.md) · Lenny's Podcast
+- [Marty Cagan: Strong Opinions, loosely held](../channels/lenny's-podcast/2026-09-25-marty-cagan-strong-opinions,-loosely-held-fF3lkTCM5-c.md) · Lenny's Podcast
+- [Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger](../channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.md) · Riley Brown
+- [The Voice AI Platform Powering a Billion Calls a Year](../channels/y-combinator/2026-09-25-the-voice-ai-platform-powering-a-billion-calls-a-year-2otGNwNOEUM.md) · Y Combinator
+- [How to Spot Exceptional Talent Before Everyone Else](../channels/a16z/2026-09-25-how-to-spot-exceptional-talent-before-everyone-else--ywZlfznTa4.md) · a16z
 
 ## [2026-09-24](2026/09/2026-09-24.md) · 6 篇
 
