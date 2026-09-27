@@ -1,9 +1,10 @@
 # a16z
 
-87 notes in this channel.
+88 notes in this channel.
 
-本频道共 87 篇。
+本频道共 88 篇。
 
+- 2026-09-26 · [Why AI’s Next Breakthroughs Could Come from Outside the Big Labs](2026-09-26-why-ai’s-next-breakthroughs-could-come-from-outside-the-big-labs-TLJNJDf2XGo.md)
 - 2026-09-25 · [How to Spot Exceptional Talent Before Everyone Else](2026-09-25-how-to-spot-exceptional-talent-before-everyone-else--ywZlfznTa4.md)
 - 2026-09-23 · [Replit CEO Amjad Masad on What Young People Should Learn in the AI Era](2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.md)
 - 2026-09-22 · [Why Education Has to Change](2026-09-22-why-education-has-to-change-Z4x71naDx1Q.md)
