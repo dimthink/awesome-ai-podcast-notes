@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-09-28](2026/09/2026-09-28.md) · 1 篇
+
+- [E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](../channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.md) · 硅谷101
+
+## [2026-09-27](2026/09/2026-09-27.md) · 2 篇
+
+- [Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition](../channels/lenny's-podcast/2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.md) · Lenny's Podcast
+- [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](../channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md) · Riley Brown
+
 ## [2026-09-26](2026/09/2026-09-26.md) · 2 篇
 
 - [【十字路口】AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO【视频播客】](../channels/koji-yang/2026-09-26-【十字路口】ai-下半场,不会只剩一个超级模型-对谈-kevin-ding-pyromind-创始人-ceo【视频播客】-NpMR0lO6Fjc.md) · Koji Yang

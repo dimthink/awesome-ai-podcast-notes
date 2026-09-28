@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-54 notes in this channel.
+55 notes in this channel.
 
-本频道共 54 篇。
+本频道共 55 篇。
 
+- 2026-09-27 · [Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition](2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.md)
 - 2026-09-25 · [What product looks like when coding is solved | Geoff Charles (Ramp CPO)](2026-09-25-what-product-looks-like-when-coding-is-solved-geoff-charles-(ramp-cpo)-ZG8Mf3P9xzI.md)
 - 2026-09-25 · [Raise the ceiling: how to scale intent, quality, and artistry with Al | Katie Dill (Stripe)](2026-09-25-raise-the-ceiling-how-to-scale-intent,-quality,-and-artistry-with-al-katie-dill-(stripe)-GLvFTMtw4Jk.md)
 - 2026-09-25 · [Marty Cagan: Strong Opinions, loosely held](2026-09-25-marty-cagan-strong-opinions,-loosely-held-fF3lkTCM5-c.md)

@@ -1,5 +1,77 @@
 [
   {
+    "id": "I-rLxiIGf-4",
+    "video_id": "I-rLxiIGf-4",
+    "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+    "channel": "硅谷101",
+    "published": "2026-09-28",
+    "source_url": "https://www.youtube.com/watch?v=I-rLxiIGf-4",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "数据标注",
+      "大模型训练",
+      "评测基准",
+      "数据采购"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 16535,
+    "duration": "58:03",
+    "duration_seconds": 3483,
+    "path": "channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.md",
+    "structured_path": "channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.structured.md",
+    "transcript_path": "channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.transcript.md"
+  },
+  {
+    "id": "959RFRspIIc",
+    "video_id": "959RFRspIIc",
+    "title": "Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.",
+    "channel": "Riley Brown",
+    "published": "2026-09-27",
+    "source_url": "https://www.youtube.com/watch?v=959RFRspIIc",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "Opus 5.5",
+      "OpenAI",
+      "DevDay",
+      "自建软件"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 15319,
+    "duration": "22:28",
+    "duration_seconds": 1348,
+    "path": "channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md",
+    "structured_path": "channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.structured.md",
+    "transcript_path": "channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.transcript.md"
+  },
+  {
+    "id": "5-96FyJFiCA",
+    "video_id": "5-96FyJFiCA",
+    "title": "Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition",
+    "channel": "Lenny's Podcast",
+    "published": "2026-09-27",
+    "source_url": "https://www.youtube.com/watch?v=5-96FyJFiCA",
+    "notion_url": "",
+    "tags": [
+      "AI转型",
+      "职业发展",
+      "倦怠与悲伤",
+      "管理智慧",
+      "领导者思维"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 17444,
+    "duration": "1:34:15",
+    "duration_seconds": 5655,
+    "path": "channels/lenny's-podcast/2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.md",
+    "structured_path": "channels/lenny's-podcast/2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.transcript.md"
+  },
+  {
     "id": "NpMR0lO6Fjc",
     "video_id": "NpMR0lO6Fjc",
     "title": "【十字路口】AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO【视频播客】",

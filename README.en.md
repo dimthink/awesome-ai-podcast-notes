@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 889 |
+| Notes | 892 |
 | Channels | 16 |
-| Structured notes | 563 |
-| Raw transcripts | 849 |
+| Structured notes | 566 |
+| Raw transcripts | 852 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-09-26 |
-| Archive updated | 2026-09-27 |
+| Latest source date | 2026-09-28 |
+| Archive updated | 2026-09-28 |
 
 Each episode can include up to three versions:
 
@@ -57,17 +57,17 @@ Each episode can include up to three versions:
 - 2026-09-23 · [The $3,000/Day Solo AI business with Astra + Upwork](channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md)
 - 2026-09-21 · [$30M Writer: Never write AI slop again](channels/greg-isenberg/2026-09-21-$30m-writer-never-write-ai-slop-again-YuOSyRj3sXg.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 71 notes
+### [Riley Brown](channels/riley-brown/README.md) · 72 notes
 
+- 2026-09-27 · [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md)
 - 2026-09-25 · [Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger](channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.md)
 - 2026-09-21 · [NEW Claude Projects Changes Everything](channels/riley-brown/2026-09-21-new-claude-projects-changes-everything-NDTbUObZTlM.md)
-- 2026-09-18 · [JEV: How It Works and What You Can Build](channels/riley-brown/2026-09-18-jev-how-it-works-and-what-you-can-build-o1CogAtWdBk.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 54 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 55 notes
 
+- 2026-09-27 · [Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition](channels/lenny's-podcast/2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.md)
 - 2026-09-25 · [What product looks like when coding is solved | Geoff Charles (Ramp CPO)](channels/lenny's-podcast/2026-09-25-what-product-looks-like-when-coding-is-solved-geoff-charles-(ramp-cpo)-ZG8Mf3P9xzI.md)
 - 2026-09-25 · [Raise the ceiling: how to scale intent, quality, and artistry with Al | Katie Dill (Stripe)](channels/lenny's-podcast/2026-09-25-raise-the-ceiling-how-to-scale-intent,-quality,-and-artistry-with-al-katie-dill-(stripe)-GLvFTMtw4Jk.md)
-- 2026-09-25 · [Marty Cagan: Strong Opinions, loosely held](channels/lenny's-podcast/2026-09-25-marty-cagan-strong-opinions,-loosely-held-fF3lkTCM5-c.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 49 notes
 
@@ -82,6 +82,15 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-09-28
+
+- [E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.md) · 硅谷101
+
+### 2026-09-27
+
+- [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md) · Riley Brown
+- [Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition](channels/lenny's-podcast/2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.md) · Lenny's Podcast
 
 ### 2026-09-26
 
@@ -106,12 +115,6 @@ Each episode can include up to three versions:
 - [Opus 5.5: How Close Are We to Automated AI Research?](channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.md) · AI Explained
 - [Meta Muse AI Connectors: The Next App Store Moment?](channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md) · Greg Isenberg
 - [How to build products on a moving frontier | Dan Shipper (Every)](channels/lenny's-podcast/2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.md) · Lenny's Podcast
-- [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md) · 硅谷101
-
-### 2026-09-23
-
-- [🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)](channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md) · Latent Space
-- [What If AI Progress Doesn’t Slow Down? - Noam Brown](channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.md) · Dwarkesh Patel
 
 ## Data
 

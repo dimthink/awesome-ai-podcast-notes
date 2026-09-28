@@ -1,9 +1,10 @@
 # Riley Brown
 
-71 notes in this channel.
+72 notes in this channel.
 
-本频道共 71 篇。
+本频道共 72 篇。
 
+- 2026-09-27 · [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md)
 - 2026-09-25 · [Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger](2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.md)
 - 2026-09-21 · [NEW Claude Projects Changes Everything](2026-09-21-new-claude-projects-changes-everything-NDTbUObZTlM.md)
 - 2026-09-18 · [JEV: How It Works and What You Can Build](2026-09-18-jev-how-it-works-and-what-you-can-build-o1CogAtWdBk.md)
