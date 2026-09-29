@@ -1,9 +1,12 @@
 # Lenny's Podcast
 
-55 notes in this channel.
+58 notes in this channel.
 
-本频道共 55 篇。
+本频道共 58 篇。
 
+- 2026-09-28 · [What it takes to be a top PM today | Robby Stein (Google Search)](2026-09-28-what-it-takes-to-be-a-top-pm-today-robby-stein-(google-search)-sTgM_sbLMNg.md)
+- 2026-09-28 · [The rise of HI-ICs | Elena Verna (Lovable)](2026-09-28-the-rise-of-hi-ics-elena-verna-(lovable)-fn8wnmpVqeI.md)
+- 2026-09-28 · [Roles aren't converging—they're expanding | Tamar Yehoshua (Atlassian CPO)](2026-09-28-roles-aren't-converging—they're-expanding-tamar-yehoshua-(atlassian-cpo)-BtK4kFI1LNo.md)
 - 2026-09-27 · [Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition](2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.md)
 - 2026-09-25 · [What product looks like when coding is solved | Geoff Charles (Ramp CPO)](2026-09-25-what-product-looks-like-when-coding-is-solved-geoff-charles-(ramp-cpo)-ZG8Mf3P9xzI.md)
 - 2026-09-25 · [Raise the ceiling: how to scale intent, quality, and artistry with Al | Katie Dill (Stripe)](2026-09-25-raise-the-ceiling-how-to-scale-intent,-quality,-and-artistry-with-al-katie-dill-(stripe)-GLvFTMtw4Jk.md)

@@ -1,9 +1,10 @@
 # Latent Space
 
-86 notes in this channel.
+87 notes in this channel.
 
-本频道共 86 篇。
+本频道共 87 篇。
 
+- 2026-09-29 · [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md)
 - 2026-09-25 · [The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP](2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.md)
 - 2026-09-25 · [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md)
 - 2026-09-23 · [🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)](2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md)

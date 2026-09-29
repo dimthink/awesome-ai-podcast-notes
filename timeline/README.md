@@ -6,8 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-28](2026/09/2026-09-28.md) · 1 篇
+## [2026-09-29](2026/09/2026-09-29.md) · 1 篇
 
+- [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](../channels/latent-space/2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md) · Latent Space
+
+## [2026-09-28](2026/09/2026-09-28.md) · 6 篇
+
+- [$5T opportunity: AI Roll Ups](../channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md) · Greg Isenberg
+- [What it takes to be a top PM today | Robby Stein (Google Search)](../channels/lenny's-podcast/2026-09-28-what-it-takes-to-be-a-top-pm-today-robby-stein-(google-search)-sTgM_sbLMNg.md) · Lenny's Podcast
+- [The rise of HI-ICs | Elena Verna (Lovable)](../channels/lenny's-podcast/2026-09-28-the-rise-of-hi-ics-elena-verna-(lovable)-fn8wnmpVqeI.md) · Lenny's Podcast
+- [Roles aren't converging—they're expanding | Tamar Yehoshua (Atlassian CPO)](../channels/lenny's-podcast/2026-09-28-roles-aren't-converging—they're-expanding-tamar-yehoshua-(atlassian-cpo)-BtK4kFI1LNo.md) · Lenny's Podcast
+- [How Jev Turns AI Into Software That Gets Things Done](../channels/a16z/2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.md) · a16z
 - [E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](../channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.md) · 硅谷101
 
 ## [2026-09-27](2026/09/2026-09-27.md) · 2 篇
