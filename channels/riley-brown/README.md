@@ -1,9 +1,10 @@
 # Riley Brown
 
-72 notes in this channel.
+73 notes in this channel.
 
-本频道共 72 篇。
+本频道共 73 篇。
 
+- 2026-09-29 · [The Ultimate AI Setup for Windows (Full Guide)](2026-09-29-the-ultimate-ai-setup-for-windows-(full-guide)-A8ptWsvM3cw.md)
 - 2026-09-27 · [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md)
 - 2026-09-25 · [Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger](2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.md)
 - 2026-09-21 · [NEW Claude Projects Changes Everything](2026-09-21-new-claude-projects-changes-everything-NDTbUObZTlM.md)

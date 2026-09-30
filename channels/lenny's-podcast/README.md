@@ -1,9 +1,12 @@
 # Lenny's Podcast
 
-58 notes in this channel.
+61 notes in this channel.
 
-本频道共 58 篇。
+本频道共 61 篇。
 
+- 2026-09-29 · [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md)
+- 2026-09-29 · [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md)
+- 2026-09-29 · [Context is now the product: Product leadership when software can build itself | Karri Saarinen](2026-09-29-context-is-now-the-product-product-leadership-when-software-can-build-itself-karri-saarinen-Zn9NZ-r1-C4.md)
 - 2026-09-28 · [What it takes to be a top PM today | Robby Stein (Google Search)](2026-09-28-what-it-takes-to-be-a-top-pm-today-robby-stein-(google-search)-sTgM_sbLMNg.md)
 - 2026-09-28 · [The rise of HI-ICs | Elena Verna (Lovable)](2026-09-28-the-rise-of-hi-ics-elena-verna-(lovable)-fn8wnmpVqeI.md)
 - 2026-09-28 · [Roles aren't converging—they're expanding | Tamar Yehoshua (Atlassian CPO)](2026-09-28-roles-aren't-converging—they're-expanding-tamar-yehoshua-(atlassian-cpo)-BtK4kFI1LNo.md)

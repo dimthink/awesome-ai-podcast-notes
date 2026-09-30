@@ -1,9 +1,10 @@
 # a16z
 
-89 notes in this channel.
+90 notes in this channel.
 
-本频道共 89 篇。
+本频道共 90 篇。
 
+- 2026-09-29 · [What Would Make an AI Assistant Worth Paying For?](2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md)
 - 2026-09-28 · [How Jev Turns AI Into Software That Gets Things Done](2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.md)
 - 2026-09-26 · [Why AI’s Next Breakthroughs Could Come from Outside the Big Labs](2026-09-26-why-ai’s-next-breakthroughs-could-come-from-outside-the-big-labs-TLJNJDf2XGo.md)
 - 2026-09-25 · [How to Spot Exceptional Talent Before Everyone Else](2026-09-25-how-to-spot-exceptional-talent-before-everyone-else--ywZlfznTa4.md)

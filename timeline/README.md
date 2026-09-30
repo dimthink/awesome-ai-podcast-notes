@@ -6,9 +6,19 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-29](2026/09/2026-09-29.md) · 1 篇
+## [2026-09-30](2026/09/2026-09-30.md) · 1 篇
 
+- [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](../channels/硅谷101/2026-09-30-e254-超级厄尔尼诺来了,我们的日常所需真会因它涨价吗-INQvcDh-RFQ.md) · 硅谷101
+
+## [2026-09-29](2026/09/2026-09-29.md) · 7 篇
+
+- [OpenAI DevDay: Dots, Agents & $100B Opportunities](../channels/greg-isenberg/2026-09-29-openai-devday-dots,-agents-&-$100b-opportunities-Y_RevX5yMq8.md) · Greg Isenberg
 - [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](../channels/latent-space/2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md) · Latent Space
+- [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](../channels/lenny's-podcast/2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md) · Lenny's Podcast
+- [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](../channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md) · Lenny's Podcast
+- [Context is now the product: Product leadership when software can build itself | Karri Saarinen](../channels/lenny's-podcast/2026-09-29-context-is-now-the-product-product-leadership-when-software-can-build-itself-karri-saarinen-Zn9NZ-r1-C4.md) · Lenny's Podcast
+- [The Ultimate AI Setup for Windows (Full Guide)](../channels/riley-brown/2026-09-29-the-ultimate-ai-setup-for-windows-(full-guide)-A8ptWsvM3cw.md) · Riley Brown
+- [What Would Make an AI Assistant Worth Paying For?](../channels/a16z/2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md) · a16z
 
 ## [2026-09-28](2026/09/2026-09-28.md) · 6 篇
 
