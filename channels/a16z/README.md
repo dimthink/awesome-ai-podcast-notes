@@ -1,9 +1,10 @@
 # a16z
 
-90 notes in this channel.
+91 notes in this channel.
 
-本频道共 90 篇。
+本频道共 91 篇。
 
+- 2026-09-30 · [AI, Infrastructure, and the Next Investment Cycle](2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md)
 - 2026-09-29 · [What Would Make an AI Assistant Worth Paying For?](2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md)
 - 2026-09-28 · [How Jev Turns AI Into Software That Gets Things Done](2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.md)
 - 2026-09-26 · [Why AI’s Next Breakthroughs Could Come from Outside the Big Labs](2026-09-26-why-ai’s-next-breakthroughs-could-come-from-outside-the-big-labs-TLJNJDf2XGo.md)

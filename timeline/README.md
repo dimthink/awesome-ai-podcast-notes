@@ -6,8 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-09-30](2026/09/2026-09-30.md) · 1 篇
+## [2026-09-30](2026/09/2026-09-30.md) · 3 篇
 
+- [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](../channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md) · Latent Space
+- [AI, Infrastructure, and the Next Investment Cycle](../channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md) · a16z
 - [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](../channels/硅谷101/2026-09-30-e254-超级厄尔尼诺来了,我们的日常所需真会因它涨价吗-INQvcDh-RFQ.md) · 硅谷101
 
 ## [2026-09-29](2026/09/2026-09-29.md) · 7 篇

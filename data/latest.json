@@ -1,5 +1,29 @@
 [
   {
+    "id": "z9OkBD2-MDU",
+    "video_id": "z9OkBD2-MDU",
+    "title": "OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa",
+    "channel": "Latent Space",
+    "published": "2026-09-30",
+    "source_url": "https://www.youtube.com/watch?v=z9OkBD2-MDU",
+    "notion_url": "",
+    "tags": [
+      "OpenAI",
+      "计算机使用Agent",
+      "API平台",
+      "Dots",
+      "DecisionsAPI"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20313,
+    "duration": "40:24",
+    "duration_seconds": 2424,
+    "path": "channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md",
+    "structured_path": "channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.structured.md",
+    "transcript_path": "channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.transcript.md"
+  },
+  {
     "id": "INQvcDh-RFQ",
     "video_id": "INQvcDh-RFQ",
     "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
@@ -22,6 +46,30 @@
     "path": "channels/硅谷101/2026-09-30-e254-超级厄尔尼诺来了,我们的日常所需真会因它涨价吗-INQvcDh-RFQ.md",
     "structured_path": "channels/硅谷101/2026-09-30-e254-超级厄尔尼诺来了,我们的日常所需真会因它涨价吗-INQvcDh-RFQ.structured.md",
     "transcript_path": "channels/硅谷101/2026-09-30-e254-超级厄尔尼诺来了,我们的日常所需真会因它涨价吗-INQvcDh-RFQ.transcript.md"
+  },
+  {
+    "id": "lr3hNhA0IfQ",
+    "video_id": "lr3hNhA0IfQ",
+    "title": "AI, Infrastructure, and the Next Investment Cycle",
+    "channel": "a16z",
+    "published": "2026-09-30",
+    "source_url": "https://www.youtube.com/watch?v=lr3hNhA0IfQ",
+    "notion_url": "",
+    "tags": [
+      "AI基础设施",
+      "资本开支",
+      "风险投资",
+      "估值周期",
+      "企业软件"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 24900,
+    "duration": "52:21",
+    "duration_seconds": 3141,
+    "path": "channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md",
+    "structured_path": "channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.structured.md",
+    "transcript_path": "channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.transcript.md"
   },
   {
     "id": "sEXdyK6woKU",
@@ -1154,53 +1202,5 @@
     "path": "channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.md",
     "structured_path": "channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.structured.md",
     "transcript_path": "channels/硅谷101/2026-09-18-外滩大会线下圆桌-敢把钱包交给ai吗-聊聊agent交易爆发前夜的信任基建-2oIrZM6e8Ro.transcript.md"
-  },
-  {
-    "id": "UKwpr_Trvns",
-    "video_id": "UKwpr_Trvns",
-    "title": "The AI Employee for Banks",
-    "channel": "Y Combinator",
-    "published": "2026-09-18",
-    "source_url": "https://www.youtube.com/watch?v=UKwpr_Trvns",
-    "notion_url": "",
-    "tags": [
-      "YC",
-      "创业",
-      "AI员工",
-      "金融科技",
-      "语音AI"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 13503,
-    "duration": "11:48",
-    "duration_seconds": 708,
-    "path": "channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md",
-    "structured_path": "channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.structured.md",
-    "transcript_path": "channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.transcript.md"
-  },
-  {
-    "id": "4mTLpuQpB80",
-    "video_id": "4mTLpuQpB80",
-    "title": "Jev is HERE. How to use it",
-    "channel": "Greg Isenberg",
-    "published": "2026-09-18",
-    "source_url": "https://www.youtube.com/watch?v=4mTLpuQpB80",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "创业",
-      "Jev",
-      "技术趋势",
-      "产品开发"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 8564,
-    "duration": "28:25",
-    "duration_seconds": 1705,
-    "path": "channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.md",
-    "structured_path": "channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-09-18-jev-is-here.-how-to-use-it-4mTLpuQpB80.transcript.md"
   }
 ]

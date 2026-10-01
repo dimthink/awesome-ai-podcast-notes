@@ -1,9 +1,10 @@
 # Latent Space
 
-87 notes in this channel.
+88 notes in this channel.
 
-本频道共 87 篇。
+本频道共 88 篇。
 
+- 2026-09-30 · [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md)
 - 2026-09-29 · [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md)
 - 2026-09-25 · [The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP](2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.md)
 - 2026-09-25 · [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md)

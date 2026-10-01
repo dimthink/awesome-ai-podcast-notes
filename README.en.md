@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 905 |
+| Notes | 907 |
 | Channels | 16 |
-| Structured notes | 579 |
-| Raw transcripts | 865 |
+| Structured notes | 581 |
+| Raw transcripts | 867 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-09-30 |
-| Archive updated | 2026-09-30 |
+| Archive updated | 2026-10-01 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 90 notes
+### [a16z](channels/a16z/README.md) · 91 notes
 
+- 2026-09-30 · [AI, Infrastructure, and the Next Investment Cycle](channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md)
 - 2026-09-29 · [What Would Make an AI Assistant Worth Paying For?](channels/a16z/2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md)
 - 2026-09-28 · [How Jev Turns AI Into Software That Gets Things Done](channels/a16z/2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.md)
-- 2026-09-26 · [Why AI’s Next Breakthroughs Could Come from Outside the Big Labs](channels/a16z/2026-09-26-why-ai’s-next-breakthroughs-could-come-from-outside-the-big-labs-TLJNJDf2XGo.md)
 
-### [Latent Space](channels/latent-space/README.md) · 87 notes
+### [Latent Space](channels/latent-space/README.md) · 88 notes
 
+- 2026-09-30 · [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md)
 - 2026-09-29 · [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](channels/latent-space/2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md)
 - 2026-09-25 · [The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP](channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.md)
-- 2026-09-25 · [Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis](channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 77 notes
 
@@ -85,7 +85,9 @@ Each episode can include up to three versions:
 
 ### 2026-09-30
 
+- [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md) · Latent Space
 - [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](channels/硅谷101/2026-09-30-e254-超级厄尔尼诺来了,我们的日常所需真会因它涨价吗-INQvcDh-RFQ.md) · 硅谷101
+- [AI, Infrastructure, and the Next Investment Cycle](channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md) · a16z
 
 ### 2026-09-29
 
@@ -110,11 +112,6 @@ Each episode can include up to three versions:
 
 - [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md) · Riley Brown
 - [Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition](channels/lenny's-podcast/2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.md) · Lenny's Podcast
-
-### 2026-09-26
-
-- [【十字路口】AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO【视频播客】](channels/koji-yang/2026-09-26-【十字路口】ai-下半场,不会只剩一个超级模型-对谈-kevin-ding-pyromind-创始人-ceo【视频播客】-NpMR0lO6Fjc.md) · Koji Yang
-- [Why AI’s Next Breakthroughs Could Come from Outside the Big Labs](channels/a16z/2026-09-26-why-ai’s-next-breakthroughs-could-come-from-outside-the-big-labs-TLJNJDf2XGo.md) · a16z
 
 ## Data
 
