@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-77 notes in this channel.
+78 notes in this channel.
 
-本频道共 77 篇。
+本频道共 78 篇。
 
+- 2026-10-01 · [Masterclass: How FDEs make $1M/yr deploying AI agents](2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md)
 - 2026-09-29 · [OpenAI DevDay: Dots, Agents & $100B Opportunities](2026-09-29-openai-devday-dots,-agents-&-$100b-opportunities-Y_RevX5yMq8.md)
 - 2026-09-28 · [$5T opportunity: AI Roll Ups](2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md)
 - 2026-09-24 · [Meta Muse AI Connectors: The Next App Store Moment?](2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md)

@@ -6,6 +6,18 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-02](2026/10/2026-10-02.md) · 2 篇
+
+- [Recursive Language Models — Alex Zhang, MIT PhD](../channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md) · Latent Space
+- [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](../channels/riley-brown/2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md) · Riley Brown
+
+## [2026-10-01](2026/10/2026-10-01.md) · 4 篇
+
+- [OpenAI Security: Controlling Models is Now ‘Hell’](../channels/ai-explained/2026-10-01-openai-security-controlling-models-is-now-‘hell’-_rtp1XzaP6Q.md) · AI Explained
+- [Masterclass: How FDEs make $1M/yr deploying AI agents](../channels/greg-isenberg/2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md) · Greg Isenberg
+- [Better AI Starts With Better Verification](../channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md) · Y Combinator
+- [Why One Internet Pioneer Thinks the Original Model Broke](../channels/a16z/2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md) · a16z
+
 ## [2026-09-30](2026/09/2026-09-30.md) · 3 篇
 
 - [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](../channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md) · Latent Space

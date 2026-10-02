@@ -1,9 +1,10 @@
 # AI Explained
 
-32 notes in this channel.
+33 notes in this channel.
 
-本频道共 32 篇。
+本频道共 33 篇。
 
+- 2026-10-01 · [OpenAI Security: Controlling Models is Now ‘Hell’](2026-10-01-openai-security-controlling-models-is-now-‘hell’-_rtp1XzaP6Q.md)
 - 2026-09-24 · [Opus 5.5: How Close Are We to Automated AI Research?](2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.md)
 - 2026-09-16 · [What AI Researchers Saw, Before Their Demand to ‘Pace’ AI](2026-09-16-what-ai-researchers-saw,-before-their-demand-to-‘pace’-ai-J3ljHm57yU0.md)
 - 2026-09-04 · [GPT 6 Astra, so good even OpenAI are worried](2026-09-04-gpt-6-astra,-so-good-even-openai-are-worried-Spuza-KwTJ4.md)

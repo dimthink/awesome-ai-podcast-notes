@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-907-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-913-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 907 |
+| 笔记 | 913 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 581 |
-| 原始文稿 | 867 |
+| 结构化文稿 | 587 |
+| 原始文稿 | 873 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-09-30 |
-| 仓库更新日期 | 2026-10-01 |
+| 最新来源日期 | 2026-10-02 |
+| 仓库更新日期 | 2026-10-02 |
 
 ## 适合谁
 
@@ -50,29 +50,29 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 91 篇
+### [a16z](channels/a16z/README.md) · 92 篇
 
+- 2026-10-01 · [Why One Internet Pioneer Thinks the Original Model Broke](channels/a16z/2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md)
 - 2026-09-30 · [AI, Infrastructure, and the Next Investment Cycle](channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md)
 - 2026-09-29 · [What Would Make an AI Assistant Worth Paying For?](channels/a16z/2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md)
-- 2026-09-28 · [How Jev Turns AI Into Software That Gets Things Done](channels/a16z/2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.md)
 
-### [Latent Space](channels/latent-space/README.md) · 88 篇
+### [Latent Space](channels/latent-space/README.md) · 89 篇
 
+- 2026-10-02 · [Recursive Language Models — Alex Zhang, MIT PhD](channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md)
 - 2026-09-30 · [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md)
 - 2026-09-29 · [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](channels/latent-space/2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md)
-- 2026-09-25 · [The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP](channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 77 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 78 篇
 
+- 2026-10-01 · [Masterclass: How FDEs make $1M/yr deploying AI agents](channels/greg-isenberg/2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md)
 - 2026-09-29 · [OpenAI DevDay: Dots, Agents & $100B Opportunities](channels/greg-isenberg/2026-09-29-openai-devday-dots,-agents-&-$100b-opportunities-Y_RevX5yMq8.md)
 - 2026-09-28 · [$5T opportunity: AI Roll Ups](channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md)
-- 2026-09-24 · [Meta Muse AI Connectors: The Next App Store Moment?](channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 73 篇
+### [Riley Brown](channels/riley-brown/README.md) · 74 篇
 
+- 2026-10-02 · [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](channels/riley-brown/2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md)
 - 2026-09-29 · [The Ultimate AI Setup for Windows (Full Guide)](channels/riley-brown/2026-09-29-the-ultimate-ai-setup-for-windows-(full-guide)-A8ptWsvM3cw.md)
 - 2026-09-27 · [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md)
-- 2026-09-25 · [Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger](channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 61 篇
 
@@ -80,11 +80,11 @@
 - 2026-09-29 · [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md)
 - 2026-09-29 · [Context is now the product: Product leadership when software can build itself | Karri Saarinen](channels/lenny's-podcast/2026-09-29-context-is-now-the-product-product-leadership-when-software-can-build-itself-karri-saarinen-Zn9NZ-r1-C4.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 49 篇
+### [Y Combinator](channels/y-combinator/README.md) · 50 篇
 
+- 2026-10-01 · [Better AI Starts With Better Verification](channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md)
 - 2026-09-25 · [The Voice AI Platform Powering a Billion Calls a Year](channels/y-combinator/2026-09-25-the-voice-ai-platform-powering-a-billion-calls-a-year-2otGNwNOEUM.md)
 - 2026-09-18 · [The AI Employee for Banks](channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md)
-- 2026-09-17 · [Building the Safety Layer for AI Agents](channels/y-combinator/2026-09-17-building-the-safety-layer-for-ai-agents-5XO7ZEOGpJc.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 45 篇
 
@@ -93,6 +93,18 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## 最新更新
+
+### 2026-10-02
+
+- [Recursive Language Models — Alex Zhang, MIT PhD](channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md) · Latent Space
+- [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](channels/riley-brown/2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md) · Riley Brown
+
+### 2026-10-01
+
+- [Why One Internet Pioneer Thinks the Original Model Broke](channels/a16z/2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md) · a16z
+- [OpenAI Security: Controlling Models is Now ‘Hell’](channels/ai-explained/2026-10-01-openai-security-controlling-models-is-now-‘hell’-_rtp1XzaP6Q.md) · AI Explained
+- [Masterclass: How FDEs make $1M/yr deploying AI agents](channels/greg-isenberg/2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md) · Greg Isenberg
+- [Better AI Starts With Better Verification](channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md) · Y Combinator
 
 ### 2026-09-30
 
@@ -114,15 +126,6 @@
 
 - [What it takes to be a top PM today | Robby Stein (Google Search)](channels/lenny's-podcast/2026-09-28-what-it-takes-to-be-a-top-pm-today-robby-stein-(google-search)-sTgM_sbLMNg.md) · Lenny's Podcast
 - [The rise of HI-ICs | Elena Verna (Lovable)](channels/lenny's-podcast/2026-09-28-the-rise-of-hi-ics-elena-verna-(lovable)-fn8wnmpVqeI.md) · Lenny's Podcast
-- [Roles aren't converging—they're expanding | Tamar Yehoshua (Atlassian CPO)](channels/lenny's-podcast/2026-09-28-roles-aren't-converging—they're-expanding-tamar-yehoshua-(atlassian-cpo)-BtK4kFI1LNo.md) · Lenny's Podcast
-- [How Jev Turns AI Into Software That Gets Things Done](channels/a16z/2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.md) · a16z
-- [E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.md) · 硅谷101
-- [$5T opportunity: AI Roll Ups](channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md) · Greg Isenberg
-
-### 2026-09-27
-
-- [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md) · Riley Brown
-- [Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition](channels/lenny's-podcast/2026-09-27-molly-graham-the-grief,-burnout,-and-opportunity-hiding-inside-the-ai-transition-5-96FyJFiCA.md) · Lenny's Podcast
 
 ## 数据与自动更新
 
