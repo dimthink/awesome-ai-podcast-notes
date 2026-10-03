@@ -1,9 +1,10 @@
 # Y Combinator
 
-50 notes in this channel.
+51 notes in this channel.
 
-本频道共 50 篇。
+本频道共 51 篇。
 
+- 2026-10-02 · [Building AI Agents for Everyone](2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.md)
 - 2026-10-01 · [Better AI Starts With Better Verification](2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md)
 - 2026-09-25 · [The Voice AI Platform Powering a Billion Calls a Year](2026-09-25-the-voice-ai-platform-powering-a-billion-calls-a-year-2otGNwNOEUM.md)
 - 2026-09-18 · [The AI Employee for Banks](2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md)

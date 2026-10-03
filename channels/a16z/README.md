@@ -1,9 +1,10 @@
 # a16z
 
-92 notes in this channel.
+93 notes in this channel.
 
-本频道共 92 篇。
+本频道共 93 篇。
 
+- 2026-10-02 · [Why AI Is Reinventing How Businesses Buy Everything](2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md)
 - 2026-10-01 · [Why One Internet Pioneer Thinks the Original Model Broke](2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md)
 - 2026-09-30 · [AI, Infrastructure, and the Next Investment Cycle](2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md)
 - 2026-09-29 · [What Would Make an AI Assistant Worth Paying For?](2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md)

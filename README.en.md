@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 913 |
+| Notes | 917 |
 | Channels | 16 |
-| Structured notes | 587 |
-| Raw transcripts | 873 |
+| Structured notes | 591 |
+| Raw transcripts | 877 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-10-02 |
-| Archive updated | 2026-10-02 |
+| Archive updated | 2026-10-03 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 92 notes
+### [a16z](channels/a16z/README.md) · 93 notes
 
+- 2026-10-02 · [Why AI Is Reinventing How Businesses Buy Everything](channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md)
 - 2026-10-01 · [Why One Internet Pioneer Thinks the Original Model Broke](channels/a16z/2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md)
 - 2026-09-30 · [AI, Infrastructure, and the Next Investment Cycle](channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md)
-- 2026-09-29 · [What Would Make an AI Assistant Worth Paying For?](channels/a16z/2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 89 notes
+### [Latent Space](channels/latent-space/README.md) · 90 notes
 
+- 2026-10-02 · [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md)
 - 2026-10-02 · [Recursive Language Models — Alex Zhang, MIT PhD](channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md)
 - 2026-09-30 · [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md)
-- 2026-09-29 · [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](channels/latent-space/2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 78 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-09-29 · [OpenAI DevDay: Dots, Agents & $100B Opportunities](channels/greg-isenberg/2026-09-29-openai-devday-dots,-agents-&-$100b-opportunities-Y_RevX5yMq8.md)
 - 2026-09-28 · [$5T opportunity: AI Roll Ups](channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 74 notes
+### [Riley Brown](channels/riley-brown/README.md) · 75 notes
 
+- 2026-10-02 · [ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger](channels/riley-brown/2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md)
 - 2026-10-02 · [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](channels/riley-brown/2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md)
 - 2026-09-29 · [The Ultimate AI Setup for Windows (Full Guide)](channels/riley-brown/2026-09-29-the-ultimate-ai-setup-for-windows-(full-guide)-A8ptWsvM3cw.md)
-- 2026-09-27 · [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 61 notes
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-09-29 · [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md)
 - 2026-09-29 · [Context is now the product: Product leadership when software can build itself | Karri Saarinen](channels/lenny's-podcast/2026-09-29-context-is-now-the-product-product-leadership-when-software-can-build-itself-karri-saarinen-Zn9NZ-r1-C4.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 50 notes
+### [Y Combinator](channels/y-combinator/README.md) · 51 notes
 
+- 2026-10-02 · [Building AI Agents for Everyone](channels/y-combinator/2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.md)
 - 2026-10-01 · [Better AI Starts With Better Verification](channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md)
 - 2026-09-25 · [The Voice AI Platform Powering a Billion Calls a Year](channels/y-combinator/2026-09-25-the-voice-ai-platform-powering-a-billion-calls-a-year-2otGNwNOEUM.md)
-- 2026-09-18 · [The AI Employee for Banks](channels/y-combinator/2026-09-18-the-ai-employee-for-banks-UKwpr_Trvns.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 45 notes
 
@@ -85,7 +85,11 @@ Each episode can include up to three versions:
 
 ### 2026-10-02
 
+- [Why AI Is Reinventing How Businesses Buy Everything](channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md) · a16z
+- [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md) · Latent Space
 - [Recursive Language Models — Alex Zhang, MIT PhD](channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md) · Latent Space
+- [ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger](channels/riley-brown/2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md) · Riley Brown
+- [Building AI Agents for Everyone](channels/y-combinator/2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.md) · Y Combinator
 - [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](channels/riley-brown/2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md) · Riley Brown
 
 ### 2026-10-01
@@ -108,13 +112,6 @@ Each episode can include up to three versions:
 - [What Would Make an AI Assistant Worth Paying For?](channels/a16z/2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md) · a16z
 - [The Ultimate AI Setup for Windows (Full Guide)](channels/riley-brown/2026-09-29-the-ultimate-ai-setup-for-windows-(full-guide)-A8ptWsvM3cw.md) · Riley Brown
 - [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](channels/latent-space/2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md) · Latent Space
-- [OpenAI DevDay: Dots, Agents & $100B Opportunities](channels/greg-isenberg/2026-09-29-openai-devday-dots,-agents-&-$100b-opportunities-Y_RevX5yMq8.md) · Greg Isenberg
-- [Context is now the product: Product leadership when software can build itself | Karri Saarinen](channels/lenny's-podcast/2026-09-29-context-is-now-the-product-product-leadership-when-software-can-build-itself-karri-saarinen-Zn9NZ-r1-C4.md) · Lenny's Podcast
-
-### 2026-09-28
-
-- [What it takes to be a top PM today | Robby Stein (Google Search)](channels/lenny's-podcast/2026-09-28-what-it-takes-to-be-a-top-pm-today-robby-stein-(google-search)-sTgM_sbLMNg.md) · Lenny's Podcast
-- [The rise of HI-ICs | Elena Verna (Lovable)](channels/lenny's-podcast/2026-09-28-the-rise-of-hi-ics-elena-verna-(lovable)-fn8wnmpVqeI.md) · Lenny's Podcast
 
 ## Data
 

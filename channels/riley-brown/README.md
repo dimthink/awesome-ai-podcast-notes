@@ -1,9 +1,10 @@
 # Riley Brown
 
-74 notes in this channel.
+75 notes in this channel.
 
-本频道共 74 篇。
+本频道共 75 篇。
 
+- 2026-10-02 · [ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger](2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md)
 - 2026-10-02 · [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md)
 - 2026-09-29 · [The Ultimate AI Setup for Windows (Full Guide)](2026-09-29-the-ultimate-ai-setup-for-windows-(full-guide)-A8ptWsvM3cw.md)
 - 2026-09-27 · [Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.](2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md)

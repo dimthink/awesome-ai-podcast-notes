@@ -1,5 +1,54 @@
 [
   {
+    "id": "OTQ-lFsq7zA",
+    "video_id": "OTQ-lFsq7zA",
+    "title": "Why AI Is Reinventing How Businesses Buy Everything",
+    "channel": "a16z",
+    "published": "2026-10-02",
+    "source_url": "https://www.youtube.com/watch?v=OTQ-lFsq7zA",
+    "notion_url": "",
+    "tags": [
+      "AI代理",
+      "企业采购",
+      "垂直AI",
+      "创业竞争",
+      "a16z"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 23624,
+    "duration": "59:14",
+    "duration_seconds": 3554,
+    "path": "channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md",
+    "structured_path": "channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.structured.md",
+    "transcript_path": "channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.transcript.md"
+  },
+  {
+    "id": "MWX36ZYnsm0",
+    "video_id": "MWX36ZYnsm0",
+    "title": "Which GPU Clouds Are Actually Good? | ClusterMAX 3.0",
+    "channel": "Latent Space",
+    "published": "2026-10-02",
+    "source_url": "https://www.youtube.com/watch?v=MWX36ZYnsm0",
+    "notion_url": "",
+    "tags": [
+      "AI基础设施",
+      "GPU云",
+      "ClusterMAX",
+      "算力市场",
+      "Nvidia",
+      "网络安全"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 18388,
+    "duration": "57:52",
+    "duration_seconds": 3472,
+    "path": "channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md",
+    "structured_path": "channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.transcript.md"
+  },
+  {
     "id": "kog7mwsDqnk",
     "video_id": "kog7mwsDqnk",
     "title": "Recursive Language Models — Alex Zhang, MIT PhD",
@@ -22,6 +71,55 @@
     "path": "channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md",
     "structured_path": "channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.structured.md",
     "transcript_path": "channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.transcript.md"
+  },
+  {
+    "id": "kmo9Mk_gIUk",
+    "video_id": "kmo9Mk_gIUk",
+    "title": "ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger",
+    "channel": "Riley Brown",
+    "published": "2026-10-02",
+    "source_url": "https://www.youtube.com/watch?v=kmo9Mk_gIUk",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "AI代理",
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Grokbot"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 12258,
+    "duration": "24:35",
+    "duration_seconds": 1475,
+    "path": "channels/riley-brown/2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md",
+    "structured_path": "channels/riley-brown/2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.transcript.md"
+  },
+  {
+    "id": "kDLji2s7LV4",
+    "video_id": "kDLji2s7LV4",
+    "title": "Building AI Agents for Everyone",
+    "channel": "Y Combinator",
+    "published": "2026-10-02",
+    "source_url": "https://www.youtube.com/watch?v=kDLji2s7LV4",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "创业",
+      "企业服务",
+      "YC",
+      "产品驱动增长"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 50489,
+    "duration": "34:16",
+    "duration_seconds": 2056,
+    "path": "channels/y-combinator/2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.md",
+    "structured_path": "channels/y-combinator/2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.structured.md",
+    "transcript_path": "channels/y-combinator/2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.transcript.md"
   },
   {
     "id": "t0ZwER9Y99c",
