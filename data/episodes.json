@@ -1,5 +1,77 @@
 [
   {
+    "id": "ekK8urKHPMQ",
+    "video_id": "ekK8urKHPMQ",
+    "title": "Why Specialized AI Could Beat The God Model",
+    "channel": "a16z",
+    "published": "2026-10-03",
+    "source_url": "https://www.youtube.com/watch?v=ekK8urKHPMQ",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "专用模型",
+      "智能体架构",
+      "模型路由",
+      "创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 16442,
+    "duration": "48:20",
+    "duration_seconds": 2900,
+    "path": "channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md",
+    "structured_path": "channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.structured.md",
+    "transcript_path": "channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.transcript.md"
+  },
+  {
+    "id": "KO8JE7XK4Gs",
+    "video_id": "KO8JE7XK4Gs",
+    "title": "Why Spain’s New World Riches Backfired - Si Sheppard",
+    "channel": "Dwarkesh Patel",
+    "published": "2026-10-03",
+    "source_url": "https://www.youtube.com/watch?v=KO8JE7XK4Gs",
+    "notion_url": "",
+    "tags": [
+      "西班牙帝国",
+      "资源诅咒",
+      "全球化",
+      "白银贸易",
+      "明朝灭亡"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 10715,
+    "duration": "10:20",
+    "duration_seconds": 620,
+    "path": "channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md",
+    "structured_path": "channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.structured.md",
+    "transcript_path": "channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.transcript.md"
+  },
+  {
+    "id": "fSilBzYdHUw",
+    "video_id": "fSilBzYdHUw",
+    "title": "ChatGPT Just Changed EVERYTHING (Here’s What’s New)",
+    "channel": "Riley Brown",
+    "published": "2026-10-03",
+    "source_url": "https://www.youtube.com/watch?v=fSilBzYdHUw",
+    "notion_url": "",
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "AI智能体",
+      "Codex",
+      "开发者平台"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 14439,
+    "duration": "31:40",
+    "duration_seconds": 1900,
+    "path": "channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md",
+    "structured_path": "channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.transcript.md"
+  },
+  {
     "id": "OTQ-lFsq7zA",
     "video_id": "OTQ-lFsq7zA",
     "title": "Why AI Is Reinventing How Businesses Buy Everything",

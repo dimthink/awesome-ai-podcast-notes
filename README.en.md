@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 917 |
+| Notes | 920 |
 | Channels | 16 |
-| Structured notes | 591 |
-| Raw transcripts | 877 |
+| Structured notes | 594 |
+| Raw transcripts | 880 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-02 |
-| Archive updated | 2026-10-03 |
+| Latest source date | 2026-10-03 |
+| Archive updated | 2026-10-04 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 93 notes
+### [a16z](channels/a16z/README.md) · 94 notes
 
+- 2026-10-03 · [Why Specialized AI Could Beat The God Model](channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md)
 - 2026-10-02 · [Why AI Is Reinventing How Businesses Buy Everything](channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md)
 - 2026-10-01 · [Why One Internet Pioneer Thinks the Original Model Broke](channels/a16z/2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md)
-- 2026-09-30 · [AI, Infrastructure, and the Next Investment Cycle](channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 90 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-09-29 · [OpenAI DevDay: Dots, Agents & $100B Opportunities](channels/greg-isenberg/2026-09-29-openai-devday-dots,-agents-&-$100b-opportunities-Y_RevX5yMq8.md)
 - 2026-09-28 · [$5T opportunity: AI Roll Ups](channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 75 notes
+### [Riley Brown](channels/riley-brown/README.md) · 76 notes
 
+- 2026-10-03 · [ChatGPT Just Changed EVERYTHING (Here’s What’s New)](channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md)
 - 2026-10-02 · [ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger](channels/riley-brown/2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md)
 - 2026-10-02 · [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](channels/riley-brown/2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md)
-- 2026-09-29 · [The Ultimate AI Setup for Windows (Full Guide)](channels/riley-brown/2026-09-29-the-ultimate-ai-setup-for-windows-(full-guide)-A8ptWsvM3cw.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 61 notes
 
@@ -82,6 +82,12 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-10-03
+
+- [Why Specialized AI Could Beat The God Model](channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md) · a16z
+- [Why Spain’s New World Riches Backfired - Si Sheppard](channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md) · Dwarkesh Patel
+- [ChatGPT Just Changed EVERYTHING (Here’s What’s New)](channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md) · Riley Brown
 
 ### 2026-10-02
 
@@ -109,9 +115,6 @@ Each episode can include up to three versions:
 
 - [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](channels/lenny's-podcast/2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md) · Lenny's Podcast
 - [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md) · Lenny's Podcast
-- [What Would Make an AI Assistant Worth Paying For?](channels/a16z/2026-09-29-what-would-make-an-ai-assistant-worth-paying-for-3T5sij3spWw.md) · a16z
-- [The Ultimate AI Setup for Windows (Full Guide)](channels/riley-brown/2026-09-29-the-ultimate-ai-setup-for-windows-(full-guide)-A8ptWsvM3cw.md) · Riley Brown
-- [The Future of Claude Code: Mods, Mutable Software, & Multiplayer Agents — Thariq Shihipar, Anthropic](channels/latent-space/2026-09-29-the-future-of-claude-code-mods,-mutable-software,-&-multiplayer-agents-—-thariq-shihipar,-anthropic-IZAlq-V19U8.md) · Latent Space
 
 ## Data
 

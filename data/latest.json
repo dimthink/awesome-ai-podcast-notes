@@ -1,5 +1,77 @@
 [
   {
+    "id": "ekK8urKHPMQ",
+    "video_id": "ekK8urKHPMQ",
+    "title": "Why Specialized AI Could Beat The God Model",
+    "channel": "a16z",
+    "published": "2026-10-03",
+    "source_url": "https://www.youtube.com/watch?v=ekK8urKHPMQ",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "专用模型",
+      "智能体架构",
+      "模型路由",
+      "创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 16442,
+    "duration": "48:20",
+    "duration_seconds": 2900,
+    "path": "channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md",
+    "structured_path": "channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.structured.md",
+    "transcript_path": "channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.transcript.md"
+  },
+  {
+    "id": "KO8JE7XK4Gs",
+    "video_id": "KO8JE7XK4Gs",
+    "title": "Why Spain’s New World Riches Backfired - Si Sheppard",
+    "channel": "Dwarkesh Patel",
+    "published": "2026-10-03",
+    "source_url": "https://www.youtube.com/watch?v=KO8JE7XK4Gs",
+    "notion_url": "",
+    "tags": [
+      "西班牙帝国",
+      "资源诅咒",
+      "全球化",
+      "白银贸易",
+      "明朝灭亡"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 10715,
+    "duration": "10:20",
+    "duration_seconds": 620,
+    "path": "channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md",
+    "structured_path": "channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.structured.md",
+    "transcript_path": "channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.transcript.md"
+  },
+  {
+    "id": "fSilBzYdHUw",
+    "video_id": "fSilBzYdHUw",
+    "title": "ChatGPT Just Changed EVERYTHING (Here’s What’s New)",
+    "channel": "Riley Brown",
+    "published": "2026-10-03",
+    "source_url": "https://www.youtube.com/watch?v=fSilBzYdHUw",
+    "notion_url": "",
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "AI智能体",
+      "Codex",
+      "开发者平台"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 14439,
+    "duration": "31:40",
+    "duration_seconds": 1900,
+    "path": "channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md",
+    "structured_path": "channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.transcript.md"
+  },
+  {
     "id": "OTQ-lFsq7zA",
     "video_id": "OTQ-lFsq7zA",
     "title": "Why AI Is Reinventing How Businesses Buy Everything",
@@ -1132,77 +1204,5 @@
     "path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md",
     "structured_path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.structured.md",
     "transcript_path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.transcript.md"
-  },
-  {
-    "id": "Q8yFrGwIftE",
-    "video_id": "Q8yFrGwIftE",
-    "title": "Replit CEO Amjad Masad on What Young People Should Learn in the AI Era",
-    "channel": "a16z",
-    "published": "2026-09-23",
-    "source_url": "https://www.youtube.com/watch?v=Q8yFrGwIftE",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "教育",
-      "创业",
-      "好奇心",
-      "硅谷"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 17458,
-    "duration": "47:04",
-    "duration_seconds": 2824,
-    "path": "channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.md",
-    "structured_path": "channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.structured.md",
-    "transcript_path": "channels/a16z/2026-09-23-replit-ceo-amjad-masad-on-what-young-people-should-learn-in-the-ai-era-Q8yFrGwIftE.transcript.md"
-  },
-  {
-    "id": "2xBSGluFkG0",
-    "video_id": "2xBSGluFkG0",
-    "title": "🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow",
-    "channel": "Latent Space",
-    "published": "2026-09-22",
-    "source_url": "https://www.youtube.com/watch?v=2xBSGluFkG0",
-    "notion_url": "",
-    "tags": [
-      "AI for Science",
-      "ERA",
-      "机器学习",
-      "气候科学",
-      "科学家未来"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 19304,
-    "duration": "2:01:26",
-    "duration_seconds": 7286,
-    "path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.md",
-    "structured_path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.structured.md",
-    "transcript_path": "channels/latent-space/2026-09-22-🔬-google's-ai-scientist-started-as-an-attempt-to-automate-kaggle-—-john-platt,-google-fellow-2xBSGluFkG0.transcript.md"
-  },
-  {
-    "id": "rSQzMoDESTY",
-    "video_id": "rSQzMoDESTY",
-    "title": "Why Punishing an AI’s “Bad Thoughts” Can Backfire - Noam Brown",
-    "channel": "Dwarkesh Patel",
-    "published": "2026-09-22",
-    "source_url": "https://www.youtube.com/watch?v=rSQzMoDESTY",
-    "notion_url": "",
-    "tags": [
-      "AI安全",
-      "思维链监控",
-      "对齐问题",
-      "OpenAI",
-      "递归自我改进"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 8568,
-    "duration": "未知",
-    "duration_seconds": 0,
-    "path": "channels/dwarkesh-patel/2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.md",
-    "structured_path": "channels/dwarkesh-patel/2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.structured.md",
-    "transcript_path": "channels/dwarkesh-patel/2026-09-22-why-punishing-an-ai’s-“bad-thoughts”-can-backfire-noam-brown-rSQzMoDESTY.transcript.md"
   }
 ]

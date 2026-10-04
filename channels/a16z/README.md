@@ -1,9 +1,10 @@
 # a16z
 
-93 notes in this channel.
+94 notes in this channel.
 
-本频道共 93 篇。
+本频道共 94 篇。
 
+- 2026-10-03 · [Why Specialized AI Could Beat The God Model](2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md)
 - 2026-10-02 · [Why AI Is Reinventing How Businesses Buy Everything](2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md)
 - 2026-10-01 · [Why One Internet Pioneer Thinks the Original Model Broke](2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md)
 - 2026-09-30 · [AI, Infrastructure, and the Next Investment Cycle](2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md)

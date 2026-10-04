@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-03](2026/10/2026-10-03.md) · 3 篇
+
+- [Why Spain’s New World Riches Backfired - Si Sheppard](../channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md) · Dwarkesh Patel
+- [ChatGPT Just Changed EVERYTHING (Here’s What’s New)](../channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md) · Riley Brown
+- [Why Specialized AI Could Beat The God Model](../channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md) · a16z
+
 ## [2026-10-02](2026/10/2026-10-02.md) · 6 篇
 
 - [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](../channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md) · Latent Space
