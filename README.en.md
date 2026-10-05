@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 920 |
+| Notes | 921 |
 | Channels | 16 |
-| Structured notes | 594 |
-| Raw transcripts | 880 |
+| Structured notes | 595 |
+| Raw transcripts | 881 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-03 |
-| Archive updated | 2026-10-04 |
+| Latest source date | 2026-10-04 |
+| Archive updated | 2026-10-05 |
 
 Each episode can include up to three versions:
 
@@ -63,11 +63,11 @@ Each episode can include up to three versions:
 - 2026-10-02 · [ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger](channels/riley-brown/2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md)
 - 2026-10-02 · [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](channels/riley-brown/2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 61 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 62 notes
 
+- 2026-10-04 · [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md)
 - 2026-09-29 · [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](channels/lenny's-podcast/2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md)
 - 2026-09-29 · [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md)
-- 2026-09-29 · [Context is now the product: Product leadership when software can build itself | Karri Saarinen](channels/lenny's-podcast/2026-09-29-context-is-now-the-product-product-leadership-when-software-can-build-itself-karri-saarinen-Zn9NZ-r1-C4.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 51 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-10-04
+
+- [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md) · Lenny's Podcast
 
 ### 2026-10-03
 
@@ -114,7 +118,6 @@ Each episode can include up to three versions:
 ### 2026-09-29
 
 - [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](channels/lenny's-podcast/2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md) · Lenny's Podcast
-- [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md) · Lenny's Podcast
 
 ## Data
 

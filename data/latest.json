@@ -1,5 +1,23 @@
 [
   {
+    "id": "MM-C3JqCXBk",
+    "video_id": "MM-C3JqCXBk",
+    "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+    "channel": "Lenny's Podcast",
+    "published": "2026-10-04",
+    "source_url": "https://www.youtube.com/watch?v=MM-C3JqCXBk",
+    "notion_url": "",
+    "tags": [],
+    "rating": 0,
+    "language": "英文",
+    "word_count": 3538,
+    "duration": "37:23",
+    "duration_seconds": 2243,
+    "path": "channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md",
+    "structured_path": "channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.transcript.md"
+  },
+  {
     "id": "ekK8urKHPMQ",
     "video_id": "ekK8urKHPMQ",
     "title": "Why Specialized AI Could Beat The God Model",
@@ -1180,29 +1198,5 @@
     "path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.md",
     "structured_path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.structured.md",
     "transcript_path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.transcript.md"
-  },
-  {
-    "id": "e7s7jRgHWsg",
-    "video_id": "e7s7jRgHWsg",
-    "title": "The $3,000/Day Solo AI business with Astra + Upwork",
-    "channel": "Greg Isenberg",
-    "published": "2026-09-23",
-    "source_url": "https://www.youtube.com/watch?v=e7s7jRgHWsg",
-    "notion_url": "",
-    "tags": [
-      "AI创业",
-      "一人公司",
-      "创意模型",
-      "Astra",
-      "服务型AI"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 23064,
-    "duration": "48:05",
-    "duration_seconds": 2885,
-    "path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.md",
-    "structured_path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-09-23-the-$3,000-day-solo-ai-business-with-astra-+-upwork-e7s7jRgHWsg.transcript.md"
   }
 ]

@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-61 notes in this channel.
+62 notes in this channel.
 
-本频道共 61 篇。
+本频道共 62 篇。
 
+- 2026-10-04 · [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md)
 - 2026-09-29 · [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md)
 - 2026-09-29 · [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md)
 - 2026-09-29 · [Context is now the product: Product leadership when software can build itself | Karri Saarinen](2026-09-29-context-is-now-the-product-product-leadership-when-software-can-build-itself-karri-saarinen-Zn9NZ-r1-C4.md)

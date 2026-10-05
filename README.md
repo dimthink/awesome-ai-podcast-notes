@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-920-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-921-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 920 |
+| 笔记 | 921 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 594 |
-| 原始文稿 | 880 |
+| 结构化文稿 | 595 |
+| 原始文稿 | 881 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-10-03 |
-| 仓库更新日期 | 2026-10-04 |
+| 最新来源日期 | 2026-10-04 |
+| 仓库更新日期 | 2026-10-05 |
 
 ## 适合谁
 
@@ -74,11 +74,11 @@
 - 2026-10-02 · [ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger](channels/riley-brown/2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md)
 - 2026-10-02 · [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](channels/riley-brown/2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 61 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 62 篇
 
+- 2026-10-04 · [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md)
 - 2026-09-29 · [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](channels/lenny's-podcast/2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md)
 - 2026-09-29 · [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md)
-- 2026-09-29 · [Context is now the product: Product leadership when software can build itself | Karri Saarinen](channels/lenny's-podcast/2026-09-29-context-is-now-the-product-product-leadership-when-software-can-build-itself-karri-saarinen-Zn9NZ-r1-C4.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 51 篇
 
@@ -93,6 +93,10 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## 最新更新
+
+### 2026-10-04
+
+- [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md) · Lenny's Podcast
 
 ### 2026-10-03
 
@@ -125,7 +129,6 @@
 ### 2026-09-29
 
 - [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](channels/lenny's-podcast/2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md) · Lenny's Podcast
-- [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md) · Lenny's Podcast
 
 ## 数据与自动更新
 

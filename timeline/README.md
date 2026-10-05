@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-04](2026/10/2026-10-04.md) · 1 篇
+
+- [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](../channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md) · Lenny's Podcast
+
 ## [2026-10-03](2026/10/2026-10-03.md) · 3 篇
 
 - [Why Spain’s New World Riches Backfired - Si Sheppard](../channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md) · Dwarkesh Patel
