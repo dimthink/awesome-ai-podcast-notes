@@ -1,5 +1,53 @@
 [
   {
+    "id": "aCvrzhwUxg0",
+    "video_id": "aCvrzhwUxg0",
+    "title": "The Current State of Consumer AI",
+    "channel": "a16z",
+    "published": "2026-10-05",
+    "source_url": "https://www.youtube.com/watch?v=aCvrzhwUxg0",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "消费级AI",
+      "智能体",
+      "投资趋势",
+      "商业模式"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 19036,
+    "duration": "49:48",
+    "duration_seconds": 2988,
+    "path": "channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md",
+    "structured_path": "channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.structured.md",
+    "transcript_path": "channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.transcript.md"
+  },
+  {
+    "id": "c9Z7ixVr4CU",
+    "video_id": "c9Z7ixVr4CU",
+    "title": "Grok Bot Just Changed A LOT (Here’s What’s New)",
+    "channel": "Riley Brown",
+    "published": "2026-10-05",
+    "source_url": "https://www.youtube.com/watch?v=c9Z7ixVr4CU",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "GrokBot",
+      "团队协作",
+      "自动化工作流",
+      "AI产品更新"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 14999,
+    "duration": "21:09",
+    "duration_seconds": 1269,
+    "path": "channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md",
+    "structured_path": "channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.transcript.md"
+  },
+  {
     "id": "MM-C3JqCXBk",
     "video_id": "MM-C3JqCXBk",
     "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",

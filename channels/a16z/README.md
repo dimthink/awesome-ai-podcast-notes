@@ -1,9 +1,10 @@
 # a16z
 
-94 notes in this channel.
+95 notes in this channel.
 
-本频道共 94 篇。
+本频道共 95 篇。
 
+- 2026-10-05 · [The Current State of Consumer AI](2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md)
 - 2026-10-03 · [Why Specialized AI Could Beat The God Model](2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md)
 - 2026-10-02 · [Why AI Is Reinventing How Businesses Buy Everything](2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md)
 - 2026-10-01 · [Why One Internet Pioneer Thinks the Original Model Broke](2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md)

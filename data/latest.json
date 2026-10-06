@@ -1,5 +1,53 @@
 [
   {
+    "id": "aCvrzhwUxg0",
+    "video_id": "aCvrzhwUxg0",
+    "title": "The Current State of Consumer AI",
+    "channel": "a16z",
+    "published": "2026-10-05",
+    "source_url": "https://www.youtube.com/watch?v=aCvrzhwUxg0",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "消费级AI",
+      "智能体",
+      "投资趋势",
+      "商业模式"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 19036,
+    "duration": "49:48",
+    "duration_seconds": 2988,
+    "path": "channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md",
+    "structured_path": "channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.structured.md",
+    "transcript_path": "channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.transcript.md"
+  },
+  {
+    "id": "c9Z7ixVr4CU",
+    "video_id": "c9Z7ixVr4CU",
+    "title": "Grok Bot Just Changed A LOT (Here’s What’s New)",
+    "channel": "Riley Brown",
+    "published": "2026-10-05",
+    "source_url": "https://www.youtube.com/watch?v=c9Z7ixVr4CU",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "GrokBot",
+      "团队协作",
+      "自动化工作流",
+      "AI产品更新"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 14999,
+    "duration": "21:09",
+    "duration_seconds": 1269,
+    "path": "channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md",
+    "structured_path": "channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.transcript.md"
+  },
+  {
     "id": "MM-C3JqCXBk",
     "video_id": "MM-C3JqCXBk",
     "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
@@ -1149,54 +1197,5 @@
     "path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md",
     "structured_path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.structured.md",
     "transcript_path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.transcript.md"
-  },
-  {
-    "id": "B7DdNj_VjcU",
-    "video_id": "B7DdNj_VjcU",
-    "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
-    "channel": "Latent Space",
-    "published": "2026-09-23",
-    "source_url": "https://www.youtube.com/watch?v=B7DdNj_VjcU",
-    "notion_url": "",
-    "tags": [
-      "基因组AI",
-      "生物安全",
-      "AI军备竞赛",
-      "生成生物学",
-      "AI对齐"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 21523,
-    "duration": "1:31:59",
-    "duration_seconds": 5519,
-    "path": "channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.md",
-    "structured_path": "channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.structured.md",
-    "transcript_path": "channels/latent-space/2026-09-23-🔬bio-security-is-an-ai-arms-race-eric-nguyen-(ceo,-radical-numerics)-B7DdNj_VjcU.transcript.md"
-  },
-  {
-    "id": "LXBrk0F7HC0",
-    "video_id": "LXBrk0F7HC0",
-    "title": "What If AI Progress Doesn’t Slow Down? - Noam Brown",
-    "channel": "Dwarkesh Patel",
-    "published": "2026-09-23",
-    "source_url": "https://www.youtube.com/watch?v=LXBrk0F7HC0",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "人工智能",
-      "技术奇点",
-      "OpenAI",
-      "加速回报",
-      "预测失效"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 10992,
-    "duration": "未知",
-    "duration_seconds": 0,
-    "path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.md",
-    "structured_path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.structured.md",
-    "transcript_path": "channels/dwarkesh-patel/2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.transcript.md"
   }
 ]

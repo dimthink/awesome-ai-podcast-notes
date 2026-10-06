@@ -1,9 +1,10 @@
 # Riley Brown
 
-76 notes in this channel.
+77 notes in this channel.
 
-本频道共 76 篇。
+本频道共 77 篇。
 
+- 2026-10-05 · [Grok Bot Just Changed A LOT (Here’s What’s New)](2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md)
 - 2026-10-03 · [ChatGPT Just Changed EVERYTHING (Here’s What’s New)](2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md)
 - 2026-10-02 · [ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger](2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md)
 - 2026-10-02 · [Build iPhone Duo Apps with Opus 5.5 (Huge Opportunity)](2026-10-02-build-iphone-duo-apps-with-opus-5.5-(huge-opportunity)-t0ZwER9Y99c.md)

@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-05](2026/10/2026-10-05.md) · 2 篇
+
+- [Grok Bot Just Changed A LOT (Here’s What’s New)](../channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md) · Riley Brown
+- [The Current State of Consumer AI](../channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md) · a16z
+
 ## [2026-10-04](2026/10/2026-10-04.md) · 1 篇
 
 - [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](../channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md) · Lenny's Podcast
