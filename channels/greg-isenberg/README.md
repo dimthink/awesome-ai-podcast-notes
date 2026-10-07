@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-78 notes in this channel.
+79 notes in this channel.
 
-本频道共 78 篇。
+本频道共 79 篇。
 
+- 2026-10-06 · [13 Businesses for the Age of AI](2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md)
 - 2026-10-01 · [Masterclass: How FDEs make $1M/yr deploying AI agents](2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md)
 - 2026-09-29 · [OpenAI DevDay: Dots, Agents & $100B Opportunities](2026-09-29-openai-devday-dots,-agents-&-$100b-opportunities-Y_RevX5yMq8.md)
 - 2026-09-28 · [$5T opportunity: AI Roll Ups](2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md)

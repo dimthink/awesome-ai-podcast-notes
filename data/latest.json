@@ -1,5 +1,53 @@
 [
   {
+    "id": "cJsHel27Z6M",
+    "video_id": "cJsHel27Z6M",
+    "title": "Building Cyber Defense for the Agentic Era",
+    "channel": "a16z",
+    "published": "2026-10-06",
+    "source_url": "https://www.youtube.com/watch?v=cJsHel27Z6M",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "网络防御",
+      "自主响应",
+      "红队",
+      "创业"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 21701,
+    "duration": "47:50",
+    "duration_seconds": 2870,
+    "path": "channels/a16z/2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md",
+    "structured_path": "channels/a16z/2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.structured.md",
+    "transcript_path": "channels/a16z/2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.transcript.md"
+  },
+  {
+    "id": "bQPU6UJ4iCw",
+    "video_id": "bQPU6UJ4iCw",
+    "title": "13 Businesses for the Age of AI",
+    "channel": "Greg Isenberg",
+    "published": "2026-10-06",
+    "source_url": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+    "notion_url": "",
+    "tags": [
+      "AI创业",
+      "Agent经济",
+      "数字资产",
+      "商业模式",
+      "未来学"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 13155,
+    "duration": "25:17",
+    "duration_seconds": 1517,
+    "path": "channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md",
+    "structured_path": "channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.transcript.md"
+  },
+  {
     "id": "aCvrzhwUxg0",
     "video_id": "aCvrzhwUxg0",
     "title": "The Current State of Consumer AI",
@@ -1149,53 +1197,5 @@
     "path": "channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md",
     "structured_path": "channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.structured.md",
     "transcript_path": "channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.transcript.md"
-  },
-  {
-    "id": "DqF08Dz3nok",
-    "video_id": "DqF08Dz3nok",
-    "title": "How to build products on a moving frontier | Dan Shipper (Every)",
-    "channel": "Lenny's Podcast",
-    "published": "2026-09-24",
-    "source_url": "https://www.youtube.com/watch?v=DqF08Dz3nok",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "产品管理",
-      "创新管理",
-      "组织设计",
-      "团队建设"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 9910,
-    "duration": "18:32",
-    "duration_seconds": 1112,
-    "path": "channels/lenny's-podcast/2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.md",
-    "structured_path": "channels/lenny's-podcast/2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.structured.md",
-    "transcript_path": "channels/lenny's-podcast/2026-09-24-how-to-build-products-on-a-moving-frontier-dan-shipper-(every)-DqF08Dz3nok.transcript.md"
-  },
-  {
-    "id": "wqI7kJQEnV8",
-    "video_id": "wqI7kJQEnV8",
-    "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
-    "channel": "硅谷101",
-    "published": "2026-09-24",
-    "source_url": "https://www.youtube.com/watch?v=wqI7kJQEnV8",
-    "notion_url": "",
-    "tags": [
-      "睡眠科技",
-      "健康科技",
-      "创业故事",
-      "预防医疗",
-      "中国市场"
-    ],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 15130,
-    "duration": "44:56",
-    "duration_seconds": 2696,
-    "path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.md",
-    "structured_path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.structured.md",
-    "transcript_path": "channels/硅谷101/2026-09-24-e252-硅谷睡眠外挂-富人的玩具,还是预防医疗的入口-对话eight-sleep创始人-wqI7kJQEnV8.transcript.md"
   }
 ]

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 923 |
+| Notes | 925 |
 | Channels | 16 |
-| Structured notes | 597 |
-| Raw transcripts | 883 |
+| Structured notes | 599 |
+| Raw transcripts | 885 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-05 |
-| Archive updated | 2026-10-06 |
+| Latest source date | 2026-10-06 |
+| Archive updated | 2026-10-07 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 95 notes
+### [a16z](channels/a16z/README.md) · 96 notes
 
+- 2026-10-06 · [Building Cyber Defense for the Agentic Era](channels/a16z/2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md)
 - 2026-10-05 · [The Current State of Consumer AI](channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md)
 - 2026-10-03 · [Why Specialized AI Could Beat The God Model](channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md)
-- 2026-10-02 · [Why AI Is Reinventing How Businesses Buy Everything](channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 90 notes
 
@@ -51,11 +51,11 @@ Each episode can include up to three versions:
 - 2026-10-02 · [Recursive Language Models — Alex Zhang, MIT PhD](channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md)
 - 2026-09-30 · [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 78 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 79 notes
 
+- 2026-10-06 · [13 Businesses for the Age of AI](channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md)
 - 2026-10-01 · [Masterclass: How FDEs make $1M/yr deploying AI agents](channels/greg-isenberg/2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md)
 - 2026-09-29 · [OpenAI DevDay: Dots, Agents & $100B Opportunities](channels/greg-isenberg/2026-09-29-openai-devday-dots,-agents-&-$100b-opportunities-Y_RevX5yMq8.md)
-- 2026-09-28 · [$5T opportunity: AI Roll Ups](channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 77 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-10-06
+
+- [Building Cyber Defense for the Agentic Era](channels/a16z/2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md) · a16z
+- [13 Businesses for the Age of AI](channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md) · Greg Isenberg
 
 ### 2026-10-05
 
@@ -113,11 +118,6 @@ Each episode can include up to three versions:
 - [OpenAI Security: Controlling Models is Now ‘Hell’](channels/ai-explained/2026-10-01-openai-security-controlling-models-is-now-‘hell’-_rtp1XzaP6Q.md) · AI Explained
 - [Masterclass: How FDEs make $1M/yr deploying AI agents](channels/greg-isenberg/2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md) · Greg Isenberg
 - [Better AI Starts With Better Verification](channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md) · Y Combinator
-
-### 2026-09-30
-
-- [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md) · Latent Space
-- [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](channels/硅谷101/2026-09-30-e254-超级厄尔尼诺来了,我们的日常所需真会因它涨价吗-INQvcDh-RFQ.md) · 硅谷101
 
 ## Data
 

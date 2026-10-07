@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-06](2026/10/2026-10-06.md) · 2 篇
+
+- [13 Businesses for the Age of AI](../channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md) · Greg Isenberg
+- [Building Cyber Defense for the Agentic Era](../channels/a16z/2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md) · a16z
+
 ## [2026-10-05](2026/10/2026-10-05.md) · 2 篇
 
 - [Grok Bot Just Changed A LOT (Here’s What’s New)](../channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md) · Riley Brown

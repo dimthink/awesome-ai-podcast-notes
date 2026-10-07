@@ -1,9 +1,10 @@
 # a16z
 
-95 notes in this channel.
+96 notes in this channel.
 
-本频道共 95 篇。
+本频道共 96 篇。
 
+- 2026-10-06 · [Building Cyber Defense for the Agentic Era](2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md)
 - 2026-10-05 · [The Current State of Consumer AI](2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md)
 - 2026-10-03 · [Why Specialized AI Could Beat The God Model](2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md)
 - 2026-10-02 · [Why AI Is Reinventing How Businesses Buy Everything](2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md)
