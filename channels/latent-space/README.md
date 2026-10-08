@@ -1,9 +1,10 @@
 # Latent Space
 
-90 notes in this channel.
+91 notes in this channel.
 
-本频道共 90 篇。
+本频道共 91 篇。
 
+- 2026-10-08 · [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md)
 - 2026-10-02 · [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md)
 - 2026-10-02 · [Recursive Language Models — Alex Zhang, MIT PhD](2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md)
 - 2026-09-30 · [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md)

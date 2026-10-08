@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-08](2026/10/2026-10-08.md) · 1 篇
+
+- [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](../channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md) · Latent Space
+
 ## [2026-10-06](2026/10/2026-10-06.md) · 2 篇
 
 - [13 Businesses for the Age of AI](../channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md) · Greg Isenberg

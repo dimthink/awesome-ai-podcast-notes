@@ -9,7 +9,7 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 - [Greg Isenberg](greg-isenberg/README.md) (79)
 - [Hung-yi Lee](hung-yi-lee/README.md) (5)
 - [Koji Yang](koji-yang/README.md) (41)
-- [Latent Space](latent-space/README.md) (90)
+- [Latent Space](latent-space/README.md) (91)
 - [Lenny's Podcast](lenny's-podcast/README.md) (62)
 - [Lex Fridman](lex-fridman/README.md) (28)
 - [Matthew Berman](matthew-berman/README.md) (1)

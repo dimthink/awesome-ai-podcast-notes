@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 925 |
+| Notes | 926 |
 | Channels | 16 |
-| Structured notes | 599 |
-| Raw transcripts | 885 |
+| Structured notes | 600 |
+| Raw transcripts | 886 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-06 |
-| Archive updated | 2026-10-07 |
+| Latest source date | 2026-10-08 |
+| Archive updated | 2026-10-08 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-10-05 · [The Current State of Consumer AI](channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md)
 - 2026-10-03 · [Why Specialized AI Could Beat The God Model](channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md)
 
-### [Latent Space](channels/latent-space/README.md) · 90 notes
+### [Latent Space](channels/latent-space/README.md) · 91 notes
 
+- 2026-10-08 · [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md)
 - 2026-10-02 · [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md)
 - 2026-10-02 · [Recursive Language Models — Alex Zhang, MIT PhD](channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md)
-- 2026-09-30 · [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 79 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-10-08
+
+- [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md) · Latent Space
 
 ### 2026-10-06
 
@@ -117,7 +121,6 @@ Each episode can include up to three versions:
 - [Why One Internet Pioneer Thinks the Original Model Broke](channels/a16z/2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md) · a16z
 - [OpenAI Security: Controlling Models is Now ‘Hell’](channels/ai-explained/2026-10-01-openai-security-controlling-models-is-now-‘hell’-_rtp1XzaP6Q.md) · AI Explained
 - [Masterclass: How FDEs make $1M/yr deploying AI agents](channels/greg-isenberg/2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md) · Greg Isenberg
-- [Better AI Starts With Better Verification](channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md) · Y Combinator
 
 ## Data
 

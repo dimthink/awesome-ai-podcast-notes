@@ -1,5 +1,29 @@
 [
   {
+    "id": "YHiqVRxGViM",
+    "video_id": "YHiqVRxGViM",
+    "title": "AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs",
+    "channel": "Latent Space",
+    "published": "2026-10-08",
+    "source_url": "https://www.youtube.com/watch?v=YHiqVRxGViM",
+    "notion_url": "",
+    "tags": [
+      "AI科学",
+      "材料发现",
+      "自动化实验室",
+      "超导材料",
+      "数据飞轮"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 17751,
+    "duration": "1:25:21",
+    "duration_seconds": 5121,
+    "path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md",
+    "structured_path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.transcript.md"
+  },
+  {
     "id": "cJsHel27Z6M",
     "video_id": "cJsHel27Z6M",
     "title": "Building Cyber Defense for the Agentic Era",
@@ -1173,29 +1197,5 @@
     "path": "channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.md",
     "structured_path": "channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.structured.md",
     "transcript_path": "channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.transcript.md"
-  },
-  {
-    "id": "84q4WA3kA8Q",
-    "video_id": "84q4WA3kA8Q",
-    "title": "Meta Muse AI Connectors: The Next App Store Moment?",
-    "channel": "Greg Isenberg",
-    "published": "2026-09-24",
-    "source_url": "https://www.youtube.com/watch?v=84q4WA3kA8Q",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "创业",
-      "Meta",
-      "连接器",
-      "平台生态"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 13419,
-    "duration": "26:16",
-    "duration_seconds": 1576,
-    "path": "channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.md",
-    "structured_path": "channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-09-24-meta-muse-ai-connectors-the-next-app-store-moment-84q4WA3kA8Q.transcript.md"
   }
 ]
