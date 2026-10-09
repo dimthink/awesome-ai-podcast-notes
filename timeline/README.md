@@ -6,9 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-08](2026/10/2026-10-08.md) · 1 篇
+## [2026-10-09](2026/10/2026-10-09.md) · 1 篇
 
+- [E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](../channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.md) · 硅谷101
+
+## [2026-10-08](2026/10/2026-10-08.md) · 3 篇
+
+- [8 GitHub Repos To Go Viral and Make Money](../channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.md) · Greg Isenberg
 - [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](../channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md) · Latent Space
+- [Building the Cloud for AI Agents | AWS CEO Matt Garman](../channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md) · a16z
 
 ## [2026-10-06](2026/10/2026-10-06.md) · 2 篇
 

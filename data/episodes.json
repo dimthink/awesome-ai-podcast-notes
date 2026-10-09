@@ -1,5 +1,53 @@
 [
   {
+    "id": "Fhx_qNS2P8g",
+    "video_id": "Fhx_qNS2P8g",
+    "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+    "channel": "硅谷101",
+    "published": "2026-10-09",
+    "source_url": "https://www.youtube.com/watch?v=Fhx_qNS2P8g",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "跨境电商",
+      "垂直模型",
+      "基准测试",
+      "人机协作"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 11782,
+    "duration": "46:14",
+    "duration_seconds": 2774,
+    "path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.md",
+    "structured_path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.structured.md",
+    "transcript_path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.transcript.md"
+  },
+  {
+    "id": "rn_afJaPldg",
+    "video_id": "rn_afJaPldg",
+    "title": "Building the Cloud for AI Agents | AWS CEO Matt Garman",
+    "channel": "a16z",
+    "published": "2026-10-08",
+    "source_url": "https://www.youtube.com/watch?v=rn_afJaPldg",
+    "notion_url": "",
+    "tags": [
+      "AWS",
+      "AI Agent",
+      "云计算",
+      "GPU",
+      "芯片"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 13673,
+    "duration": "56:18",
+    "duration_seconds": 3378,
+    "path": "channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md",
+    "structured_path": "channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.structured.md",
+    "transcript_path": "channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.transcript.md"
+  },
+  {
     "id": "YHiqVRxGViM",
     "video_id": "YHiqVRxGViM",
     "title": "AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs",
@@ -22,6 +70,30 @@
     "path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md",
     "structured_path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.structured.md",
     "transcript_path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.transcript.md"
+  },
+  {
+    "id": "rkK8ZyzYyEA",
+    "video_id": "rkK8ZyzYyEA",
+    "title": "8 GitHub Repos To Go Viral and Make Money",
+    "channel": "Greg Isenberg",
+    "published": "2026-10-08",
+    "source_url": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+    "notion_url": "",
+    "tags": [
+      "GitHub",
+      "AI技能",
+      "创业",
+      "开源工具",
+      "生产力"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 12856,
+    "duration": "24:29",
+    "duration_seconds": 1469,
+    "path": "channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.md",
+    "structured_path": "channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.transcript.md"
   },
   {
     "id": "cJsHel27Z6M",

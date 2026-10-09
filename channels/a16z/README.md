@@ -1,9 +1,10 @@
 # a16z
 
-96 notes in this channel.
+97 notes in this channel.
 
-本频道共 96 篇。
+本频道共 97 篇。
 
+- 2026-10-08 · [Building the Cloud for AI Agents | AWS CEO Matt Garman](2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md)
 - 2026-10-06 · [Building Cyber Defense for the Agentic Era](2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md)
 - 2026-10-05 · [The Current State of Consumer AI](2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md)
 - 2026-10-03 · [Why Specialized AI Could Beat The God Model](2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md)

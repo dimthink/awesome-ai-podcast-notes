@@ -1,5 +1,53 @@
 [
   {
+    "id": "Fhx_qNS2P8g",
+    "video_id": "Fhx_qNS2P8g",
+    "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+    "channel": "硅谷101",
+    "published": "2026-10-09",
+    "source_url": "https://www.youtube.com/watch?v=Fhx_qNS2P8g",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "跨境电商",
+      "垂直模型",
+      "基准测试",
+      "人机协作"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 11782,
+    "duration": "46:14",
+    "duration_seconds": 2774,
+    "path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.md",
+    "structured_path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.structured.md",
+    "transcript_path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.transcript.md"
+  },
+  {
+    "id": "rn_afJaPldg",
+    "video_id": "rn_afJaPldg",
+    "title": "Building the Cloud for AI Agents | AWS CEO Matt Garman",
+    "channel": "a16z",
+    "published": "2026-10-08",
+    "source_url": "https://www.youtube.com/watch?v=rn_afJaPldg",
+    "notion_url": "",
+    "tags": [
+      "AWS",
+      "AI Agent",
+      "云计算",
+      "GPU",
+      "芯片"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 13673,
+    "duration": "56:18",
+    "duration_seconds": 3378,
+    "path": "channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md",
+    "structured_path": "channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.structured.md",
+    "transcript_path": "channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.transcript.md"
+  },
+  {
     "id": "YHiqVRxGViM",
     "video_id": "YHiqVRxGViM",
     "title": "AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs",
@@ -22,6 +70,30 @@
     "path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md",
     "structured_path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.structured.md",
     "transcript_path": "channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.transcript.md"
+  },
+  {
+    "id": "rkK8ZyzYyEA",
+    "video_id": "rkK8ZyzYyEA",
+    "title": "8 GitHub Repos To Go Viral and Make Money",
+    "channel": "Greg Isenberg",
+    "published": "2026-10-08",
+    "source_url": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+    "notion_url": "",
+    "tags": [
+      "GitHub",
+      "AI技能",
+      "创业",
+      "开源工具",
+      "生产力"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 12856,
+    "duration": "24:29",
+    "duration_seconds": 1469,
+    "path": "channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.md",
+    "structured_path": "channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.transcript.md"
   },
   {
     "id": "cJsHel27Z6M",
@@ -1125,77 +1197,5 @@
     "path": "channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.md",
     "structured_path": "channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.structured.md",
     "transcript_path": "channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.transcript.md"
-  },
-  {
-    "id": "Z88ZUZB2VWs",
-    "video_id": "Z88ZUZB2VWs",
-    "title": "What the Hugging Face Incident Reveals About AI Alignment - Noam Brown",
-    "channel": "Dwarkesh Patel",
-    "published": "2026-09-24",
-    "source_url": "https://www.youtube.com/watch?v=Z88ZUZB2VWs",
-    "notion_url": "",
-    "tags": [
-      "AI对齐",
-      "多智能体协作",
-      "Hugging Face事件",
-      "奖励错误指定",
-      "AI安全"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 12117,
-    "duration": "10:13",
-    "duration_seconds": 613,
-    "path": "channels/dwarkesh-patel/2026-09-24-what-the-hugging-face-incident-reveals-about-ai-alignment-noam-brown-Z88ZUZB2VWs.md",
-    "structured_path": "channels/dwarkesh-patel/2026-09-24-what-the-hugging-face-incident-reveals-about-ai-alignment-noam-brown-Z88ZUZB2VWs.structured.md",
-    "transcript_path": "channels/dwarkesh-patel/2026-09-24-what-the-hugging-face-incident-reveals-about-ai-alignment-noam-brown-Z88ZUZB2VWs.transcript.md"
-  },
-  {
-    "id": "VM5kuvWgwDY",
-    "video_id": "VM5kuvWgwDY",
-    "title": "The last roadmap | Claire Vo",
-    "channel": "Lenny's Podcast",
-    "published": "2026-09-24",
-    "source_url": "https://www.youtube.com/watch?v=VM5kuvWgwDY",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "产品管理",
-      "路线图",
-      "决策",
-      "领导力"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 11337,
-    "duration": "23:58",
-    "duration_seconds": 1438,
-    "path": "channels/lenny's-podcast/2026-09-24-the-last-roadmap-claire-vo-VM5kuvWgwDY.md",
-    "structured_path": "channels/lenny's-podcast/2026-09-24-the-last-roadmap-claire-vo-VM5kuvWgwDY.structured.md",
-    "transcript_path": "channels/lenny's-podcast/2026-09-24-the-last-roadmap-claire-vo-VM5kuvWgwDY.transcript.md"
-  },
-  {
-    "id": "R9momwXV9w4",
-    "video_id": "R9momwXV9w4",
-    "title": "Opus 5.5: How Close Are We to Automated AI Research?",
-    "channel": "AI Explained",
-    "published": "2026-09-24",
-    "source_url": "https://www.youtube.com/watch?v=R9momwXV9w4",
-    "notion_url": "",
-    "tags": [
-      "AI安全",
-      "递归自我改进",
-      "Claude Opus",
-      "前沿模型",
-      "大模型竞赛"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 18076,
-    "duration": "32:55",
-    "duration_seconds": 1975,
-    "path": "channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.md",
-    "structured_path": "channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.structured.md",
-    "transcript_path": "channels/ai-explained/2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.transcript.md"
   }
 ]
