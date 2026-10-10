@@ -1,9 +1,10 @@
 # Riley Brown
 
-77 notes in this channel.
+78 notes in this channel.
 
-本频道共 77 篇。
+本频道共 78 篇。
 
+- 2026-10-09 · [ChatGPT Dots Is WAY More Powerful Than You Think](2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.md)
 - 2026-10-05 · [Grok Bot Just Changed A LOT (Here’s What’s New)](2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md)
 - 2026-10-03 · [ChatGPT Just Changed EVERYTHING (Here’s What’s New)](2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md)
 - 2026-10-02 · [ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger](2026-10-02-chatgpt-dots-is-insane...-but-gemini-4-argon-is-even-bigger-kmo9Mk_gIUk.md)

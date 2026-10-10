@@ -6,8 +6,14 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-09](2026/10/2026-10-09.md) · 1 篇
+## [2026-10-10](2026/10/2026-10-10.md) · 1 篇
 
+- [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](../channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md) · Latent Space
+
+## [2026-10-09](2026/10/2026-10-09.md) · 3 篇
+
+- [ChatGPT Dots Is WAY More Powerful Than You Think](../channels/riley-brown/2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.md) · Riley Brown
+- [Former Intel CEO: Why This is the Best Time to Build Hardware](../channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.md) · a16z
 - [E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](../channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.md) · 硅谷101
 
 ## [2026-10-08](2026/10/2026-10-08.md) · 3 篇
@@ -52,9 +58,10 @@ Browse notes by source publish date. Date headings open daily detail pages, and 
 - [Better AI Starts With Better Verification](../channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md) · Y Combinator
 - [Why One Internet Pioneer Thinks the Original Model Broke](../channels/a16z/2026-10-01-why-one-internet-pioneer-thinks-the-original-model-broke-bmDrbHOh7Bo.md) · a16z
 
-## [2026-09-30](2026/09/2026-09-30.md) · 3 篇
+## [2026-09-30](2026/09/2026-09-30.md) · 4 篇
 
 - [OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein & Nikunj Handa](../channels/latent-space/2026-09-30-openai’s-new-agent-stack-computer-use,-decisions-api,-ultrafast,-dots—ari-weinstein-&-nikunj-handa-z9OkBD2-MDU.md) · Latent Space
+- [The Startup Industrial Base: Building for the Next 250 — Washington, D.C.](../channels/y-combinator/2026-09-30-the-startup-industrial-base-building-for-the-next-250-—-washington,-d.c-T6hVGJ4gepk.md) · Y Combinator
 - [AI, Infrastructure, and the Next Investment Cycle](../channels/a16z/2026-09-30-ai,-infrastructure,-and-the-next-investment-cycle-lr3hNhA0IfQ.md) · a16z
 - [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](../channels/硅谷101/2026-09-30-e254-超级厄尔尼诺来了,我们的日常所需真会因它涨价吗-INQvcDh-RFQ.md) · 硅谷101
 

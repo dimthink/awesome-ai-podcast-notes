@@ -1,9 +1,10 @@
 # a16z
 
-97 notes in this channel.
+98 notes in this channel.
 
-本频道共 97 篇。
+本频道共 98 篇。
 
+- 2026-10-09 · [Former Intel CEO: Why This is the Best Time to Build Hardware](2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.md)
 - 2026-10-08 · [Building the Cloud for AI Agents | AWS CEO Matt Garman](2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md)
 - 2026-10-06 · [Building Cyber Defense for the Agentic Era](2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md)
 - 2026-10-05 · [The Current State of Consumer AI](2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md)

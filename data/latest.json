@@ -1,5 +1,53 @@
 [
   {
+    "id": "NufiHZfMwaw",
+    "video_id": "NufiHZfMwaw",
+    "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+    "channel": "Latent Space",
+    "published": "2026-10-10",
+    "source_url": "https://www.youtube.com/watch?v=NufiHZfMwaw",
+    "notion_url": "",
+    "tags": [
+      "AI for Science",
+      "蛋白质折叠",
+      "AlphaFold",
+      "数据规模化",
+      "可解释性"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 19936,
+    "duration": "32:42",
+    "duration_seconds": 1962,
+    "path": "channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md",
+    "structured_path": "channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.transcript.md"
+  },
+  {
+    "id": "1Q_7yU7FZ1k",
+    "video_id": "1Q_7yU7FZ1k",
+    "title": "Former Intel CEO: Why This is the Best Time to Build Hardware",
+    "channel": "a16z",
+    "published": "2026-10-09",
+    "source_url": "https://www.youtube.com/watch?v=1Q_7yU7FZ1k",
+    "notion_url": "",
+    "tags": [
+      "半导体",
+      "AI芯片",
+      "硬件创业",
+      "能源基础设施",
+      "内存创新"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 22733,
+    "duration": "53:15",
+    "duration_seconds": 3195,
+    "path": "channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.md",
+    "structured_path": "channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.structured.md",
+    "transcript_path": "channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.transcript.md"
+  },
+  {
     "id": "Fhx_qNS2P8g",
     "video_id": "Fhx_qNS2P8g",
     "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
@@ -22,6 +70,30 @@
     "path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.md",
     "structured_path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.structured.md",
     "transcript_path": "channels/硅谷101/2026-10-09-e255-模型越来越强,为什么用户没感觉-再访阿里国际站总裁张阔-Fhx_qNS2P8g.transcript.md"
+  },
+  {
+    "id": "WXhOxfPECnM",
+    "video_id": "WXhOxfPECnM",
+    "title": "ChatGPT Dots Is WAY More Powerful Than You Think",
+    "channel": "Riley Brown",
+    "published": "2026-10-09",
+    "source_url": "https://www.youtube.com/watch?v=WXhOxfPECnM",
+    "notion_url": "",
+    "tags": [
+      "AI智能体",
+      "ChatGPT",
+      "语音交互",
+      "自动化",
+      "生产力工具"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 11488,
+    "duration": "25:56",
+    "duration_seconds": 1556,
+    "path": "channels/riley-brown/2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.md",
+    "structured_path": "channels/riley-brown/2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.transcript.md"
   },
   {
     "id": "rn_afJaPldg",
@@ -523,6 +595,30 @@
     "path": "channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md",
     "structured_path": "channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.structured.md",
     "transcript_path": "channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.transcript.md"
+  },
+  {
+    "id": "T6hVGJ4gepk",
+    "video_id": "T6hVGJ4gepk",
+    "title": "The Startup Industrial Base: Building for the Next 250 — Washington, D.C.",
+    "channel": "Y Combinator",
+    "published": "2026-09-30",
+    "source_url": "https://www.youtube.com/watch?v=T6hVGJ4gepk",
+    "notion_url": "",
+    "tags": [
+      "国防科技",
+      "创业生态",
+      "采购改革",
+      "供应链安全",
+      "人工智能"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 19567,
+    "duration": "8:01:10",
+    "duration_seconds": 28870,
+    "path": "channels/y-combinator/2026-09-30-the-startup-industrial-base-building-for-the-next-250-—-washington,-d.c-T6hVGJ4gepk.md",
+    "structured_path": "channels/y-combinator/2026-09-30-the-startup-industrial-base-building-for-the-next-250-—-washington,-d.c-T6hVGJ4gepk.structured.md",
+    "transcript_path": "channels/y-combinator/2026-09-30-the-startup-industrial-base-building-for-the-next-250-—-washington,-d.c-T6hVGJ4gepk.transcript.md"
   },
   {
     "id": "z9OkBD2-MDU",
@@ -1101,101 +1197,5 @@
     "path": "channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md",
     "structured_path": "channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.structured.md",
     "transcript_path": "channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.transcript.md"
-  },
-  {
-    "id": "GLvFTMtw4Jk",
-    "video_id": "GLvFTMtw4Jk",
-    "title": "Raise the ceiling: how to scale intent, quality, and artistry with Al | Katie Dill (Stripe)",
-    "channel": "Lenny's Podcast",
-    "published": "2026-09-25",
-    "source_url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "设计思维",
-      "产品设计",
-      "领导力",
-      "创意培养"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 13666,
-    "duration": "21:48",
-    "duration_seconds": 1308,
-    "path": "channels/lenny's-podcast/2026-09-25-raise-the-ceiling-how-to-scale-intent,-quality,-and-artistry-with-al-katie-dill-(stripe)-GLvFTMtw4Jk.md",
-    "structured_path": "channels/lenny's-podcast/2026-09-25-raise-the-ceiling-how-to-scale-intent,-quality,-and-artistry-with-al-katie-dill-(stripe)-GLvFTMtw4Jk.structured.md",
-    "transcript_path": "channels/lenny's-podcast/2026-09-25-raise-the-ceiling-how-to-scale-intent,-quality,-and-artistry-with-al-katie-dill-(stripe)-GLvFTMtw4Jk.transcript.md"
-  },
-  {
-    "id": "fF3lkTCM5-c",
-    "video_id": "fF3lkTCM5-c",
-    "title": "Marty Cagan: Strong Opinions, loosely held",
-    "channel": "Lenny's Podcast",
-    "published": "2026-09-25",
-    "source_url": "https://www.youtube.com/watch?v=fF3lkTCM5-c",
-    "notion_url": "",
-    "tags": [
-      "产品管理",
-      "产品策略",
-      "AI",
-      "领导力",
-      "产品发现"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 15613,
-    "duration": "22:32",
-    "duration_seconds": 1352,
-    "path": "channels/lenny's-podcast/2026-09-25-marty-cagan-strong-opinions,-loosely-held-fF3lkTCM5-c.md",
-    "structured_path": "channels/lenny's-podcast/2026-09-25-marty-cagan-strong-opinions,-loosely-held-fF3lkTCM5-c.structured.md",
-    "transcript_path": "channels/lenny's-podcast/2026-09-25-marty-cagan-strong-opinions,-loosely-held-fF3lkTCM5-c.transcript.md"
-  },
-  {
-    "id": "-ywZlfznTa4",
-    "video_id": "-ywZlfznTa4",
-    "title": "How to Spot Exceptional Talent Before Everyone Else",
-    "channel": "a16z",
-    "published": "2026-09-25",
-    "source_url": "https://www.youtube.com/watch?v=-ywZlfznTa4",
-    "notion_url": "",
-    "tags": [
-      "人才发现",
-      "社会资本",
-      "投资",
-      "产品设计",
-      "硅谷文化"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 10481,
-    "duration": "49:52",
-    "duration_seconds": 2992,
-    "path": "channels/a16z/2026-09-25-how-to-spot-exceptional-talent-before-everyone-else--ywZlfznTa4.md",
-    "structured_path": "channels/a16z/2026-09-25-how-to-spot-exceptional-talent-before-everyone-else--ywZlfznTa4.structured.md",
-    "transcript_path": "channels/a16z/2026-09-25-how-to-spot-exceptional-talent-before-everyone-else--ywZlfznTa4.transcript.md"
-  },
-  {
-    "id": "_NRuT_d1PZE",
-    "video_id": "_NRuT_d1PZE",
-    "title": "Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger",
-    "channel": "Riley Brown",
-    "published": "2026-09-25",
-    "source_url": "https://www.youtube.com/watch?v=_NRuT_d1PZE",
-    "notion_url": "",
-    "tags": [
-      "AI代理",
-      "Claude Opus 5.5",
-      "Meta Muse",
-      "OpenAI",
-      "AI趋势"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 15348,
-    "duration": "25:21",
-    "duration_seconds": 1521,
-    "path": "channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.md",
-    "structured_path": "channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.structured.md",
-    "transcript_path": "channels/riley-brown/2026-09-25-claude-opus-5.5-is-insane...-but-muse-is-even-bigger-_NRuT_d1PZE.transcript.md"
   }
 ]
