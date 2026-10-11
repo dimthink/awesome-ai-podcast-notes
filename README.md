@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-933-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-934-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 933 |
+| 笔记 | 934 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 607 |
-| 原始文稿 | 893 |
+| 结构化文稿 | 608 |
+| 原始文稿 | 894 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-10-10 |
-| 仓库更新日期 | 2026-10-10 |
+| 仓库更新日期 | 2026-10-11 |
 
 ## 适合谁
 
@@ -68,11 +68,11 @@
 - 2026-10-06 · [13 Businesses for the Age of AI](channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md)
 - 2026-10-01 · [Masterclass: How FDEs make $1M/yr deploying AI agents](channels/greg-isenberg/2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 78 篇
+### [Riley Brown](channels/riley-brown/README.md) · 79 篇
 
+- 2026-10-10 · [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md)
 - 2026-10-09 · [ChatGPT Dots Is WAY More Powerful Than You Think](channels/riley-brown/2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.md)
 - 2026-10-05 · [Grok Bot Just Changed A LOT (Here’s What’s New)](channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md)
-- 2026-10-03 · [ChatGPT Just Changed EVERYTHING (Here’s What’s New)](channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 62 篇
 
@@ -97,6 +97,7 @@
 ### 2026-10-10
 
 - [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md) · Latent Space
+- [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md) · Riley Brown
 
 ### 2026-10-09
 
@@ -134,7 +135,6 @@
 
 - [Why AI Is Reinventing How Businesses Buy Everything](channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md) · a16z
 - [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md) · Latent Space
-- [Recursive Language Models — Alex Zhang, MIT PhD](channels/latent-space/2026-10-02-recursive-language-models-—-alex-zhang,-mit-phd-kog7mwsDqnk.md) · Latent Space
 
 ## 数据与自动更新
 

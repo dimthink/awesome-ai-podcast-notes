@@ -24,6 +24,30 @@
     "transcript_path": "channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.transcript.md"
   },
   {
+    "id": "UFa8pXW9A3k",
+    "video_id": "UFa8pXW9A3k",
+    "title": "Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger",
+    "channel": "Riley Brown",
+    "published": "2026-10-10",
+    "source_url": "https://www.youtube.com/watch?v=UFa8pXW9A3k",
+    "notion_url": "",
+    "tags": [
+      "AI智能体",
+      "Claude",
+      "Grokbot",
+      "OpenAI",
+      "个人智能体平台"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 36130,
+    "duration": "20:50",
+    "duration_seconds": 1250,
+    "path": "channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md",
+    "structured_path": "channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.transcript.md"
+  },
+  {
     "id": "1Q_7yU7FZ1k",
     "video_id": "1Q_7yU7FZ1k",
     "title": "Former Intel CEO: Why This is the Best Time to Build Hardware",
@@ -1173,29 +1197,5 @@
     "path": "channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.md",
     "structured_path": "channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.structured.md",
     "transcript_path": "channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.transcript.md"
-  },
-  {
-    "id": "fGRd5gYhztg",
-    "video_id": "fGRd5gYhztg",
-    "title": "Runway’s Bet Beyond Video: World Models, Robotics, and the Neural OS — Anastasis Germanidis",
-    "channel": "Latent Space",
-    "published": "2026-09-25",
-    "source_url": "https://www.youtube.com/watch?v=fGRd5gYhztg",
-    "notion_url": "",
-    "tags": [
-      "世界模型",
-      "视频生成",
-      "机器人",
-      "Runway",
-      "AI基础设施"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 21101,
-    "duration": "1:38:06",
-    "duration_seconds": 5886,
-    "path": "channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.md",
-    "structured_path": "channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.structured.md",
-    "transcript_path": "channels/latent-space/2026-09-25-runway’s-bet-beyond-video-world-models,-robotics,-and-the-neural-os-—-anastasis-germanidis-fGRd5gYhztg.transcript.md"
   }
 ]

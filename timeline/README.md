@@ -6,9 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-10](2026/10/2026-10-10.md) · 1 篇
+## [2026-10-10](2026/10/2026-10-10.md) · 2 篇
 
 - [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](../channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md) · Latent Space
+- [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](../channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md) · Riley Brown
 
 ## [2026-10-09](2026/10/2026-10-09.md) · 3 篇
 
