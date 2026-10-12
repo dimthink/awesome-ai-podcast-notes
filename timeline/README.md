@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-11](2026/10/2026-10-11.md) · 1 篇
+
+- [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](../channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md) · Lenny's Podcast
+
 ## [2026-10-10](2026/10/2026-10-10.md) · 2 篇
 
 - [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](../channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md) · Latent Space

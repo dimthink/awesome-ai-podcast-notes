@@ -1,5 +1,29 @@
 [
   {
+    "id": "3I6QYkccd3o",
+    "video_id": "3I6QYkccd3o",
+    "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-10-11",
+    "source_url": "https://www.youtube.com/watch?v=3I6QYkccd3o",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "产品创新",
+      "组织管理",
+      "产品市场匹配",
+      "Google"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 22810,
+    "duration": "1:02:12",
+    "duration_seconds": 3732,
+    "path": "channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md",
+    "structured_path": "channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.transcript.md"
+  },
+  {
     "id": "NufiHZfMwaw",
     "video_id": "NufiHZfMwaw",
     "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",

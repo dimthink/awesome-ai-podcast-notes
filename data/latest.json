@@ -1,5 +1,29 @@
 [
   {
+    "id": "3I6QYkccd3o",
+    "video_id": "3I6QYkccd3o",
+    "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-10-11",
+    "source_url": "https://www.youtube.com/watch?v=3I6QYkccd3o",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "产品创新",
+      "组织管理",
+      "产品市场匹配",
+      "Google"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 22810,
+    "duration": "1:02:12",
+    "duration_seconds": 3732,
+    "path": "channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md",
+    "structured_path": "channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.transcript.md"
+  },
+  {
     "id": "NufiHZfMwaw",
     "video_id": "NufiHZfMwaw",
     "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
@@ -1171,31 +1195,5 @@
     "path": "channels/y-combinator/2026-09-25-the-voice-ai-platform-powering-a-billion-calls-a-year-2otGNwNOEUM.md",
     "structured_path": "channels/y-combinator/2026-09-25-the-voice-ai-platform-powering-a-billion-calls-a-year-2otGNwNOEUM.structured.md",
     "transcript_path": "channels/y-combinator/2026-09-25-the-voice-ai-platform-powering-a-billion-calls-a-year-2otGNwNOEUM.transcript.md"
-  },
-  {
-    "id": "dCX4PE2HxMs",
-    "video_id": "dCX4PE2HxMs",
-    "title": "The $10 Trillion Token Economy — Alex Atallah, OpenRouter & Anjney Midha, AMP",
-    "channel": "Latent Space",
-    "published": "2026-09-25",
-    "source_url": "https://www.youtube.com/watch?v=dCX4PE2HxMs",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "OpenRouter",
-      "创业者访谈",
-      "基础设施",
-      "AI安全",
-      "令牌经济",
-      "Stripe并购"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 20771,
-    "duration": "1:22:41",
-    "duration_seconds": 4961,
-    "path": "channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.md",
-    "structured_path": "channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.structured.md",
-    "transcript_path": "channels/latent-space/2026-09-25-the-$10-trillion-token-economy-—-alex-atallah,-openrouter-&-anjney-midha,-amp-dCX4PE2HxMs.transcript.md"
   }
 ]

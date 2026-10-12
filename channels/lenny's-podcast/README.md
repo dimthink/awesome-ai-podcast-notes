@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-62 notes in this channel.
+63 notes in this channel.
 
-本频道共 62 篇。
+本频道共 63 篇。
 
+- 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)
 - 2026-10-04 · [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md)
 - 2026-09-29 · [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md)
 - 2026-09-29 · [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md)

@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-934-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-935-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 934 |
+| 笔记 | 935 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 608 |
-| 原始文稿 | 894 |
+| 结构化文稿 | 609 |
+| 原始文稿 | 895 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-10-10 |
-| 仓库更新日期 | 2026-10-11 |
+| 最新来源日期 | 2026-10-11 |
+| 仓库更新日期 | 2026-10-12 |
 
 ## 适合谁
 
@@ -74,11 +74,11 @@
 - 2026-10-09 · [ChatGPT Dots Is WAY More Powerful Than You Think](channels/riley-brown/2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.md)
 - 2026-10-05 · [Grok Bot Just Changed A LOT (Here’s What’s New)](channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 62 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 63 篇
 
+- 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)
 - 2026-10-04 · [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md)
 - 2026-09-29 · [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](channels/lenny's-podcast/2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md)
-- 2026-09-29 · [Where AI products go next: voice, agents, and self-driving software | Tara Sesha and Nan Yu (OpenAI)](channels/lenny's-podcast/2026-09-29-where-ai-products-go-next-voice,-agents,-and-self-driving-software-tara-sesha-and-nan-yu-(openai)--ciSTkEVy30.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 52 篇
 
@@ -93,6 +93,10 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## 最新更新
+
+### 2026-10-11
+
+- [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md) · Lenny's Podcast
 
 ### 2026-10-10
 
@@ -134,7 +138,6 @@
 ### 2026-10-02
 
 - [Why AI Is Reinventing How Businesses Buy Everything](channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md) · a16z
-- [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md) · Latent Space
 
 ## 数据与自动更新
 
