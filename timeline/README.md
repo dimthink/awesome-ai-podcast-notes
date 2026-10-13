@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-12](2026/10/2026-10-12.md) · 2 篇
+
+- [AI Labs Warn Race Makes Breach ‘Inevitable’](../channels/ai-explained/2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.md) · AI Explained
+- [Recursive Self-Improvement and the Future of AI](../channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.md) · a16z
+
 ## [2026-10-11](2026/10/2026-10-11.md) · 1 篇
 
 - [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](../channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md) · Lenny's Podcast

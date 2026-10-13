@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 935 |
+| Notes | 937 |
 | Channels | 16 |
-| Structured notes | 609 |
-| Raw transcripts | 895 |
+| Structured notes | 611 |
+| Raw transcripts | 897 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-11 |
-| Archive updated | 2026-10-12 |
+| Latest source date | 2026-10-12 |
+| Archive updated | 2026-10-13 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 98 notes
+### [a16z](channels/a16z/README.md) · 99 notes
 
+- 2026-10-12 · [Recursive Self-Improvement and the Future of AI](channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.md)
 - 2026-10-09 · [Former Intel CEO: Why This is the Best Time to Build Hardware](channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.md)
 - 2026-10-08 · [Building the Cloud for AI Agents | AWS CEO Matt Garman](channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md)
-- 2026-10-06 · [Building Cyber Defense for the Agentic Era](channels/a16z/2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 92 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-10-12
+
+- [Recursive Self-Improvement and the Future of AI](channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.md) · a16z
+- [AI Labs Warn Race Makes Breach ‘Inevitable’](channels/ai-explained/2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.md) · AI Explained
 
 ### 2026-10-11
 
@@ -122,11 +127,6 @@ Each episode can include up to three versions:
 
 - [Why Specialized AI Could Beat The God Model](channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md) · a16z
 - [Why Spain’s New World Riches Backfired - Si Sheppard](channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md) · Dwarkesh Patel
-- [ChatGPT Just Changed EVERYTHING (Here’s What’s New)](channels/riley-brown/2026-10-03-chatgpt-just-changed-everything-(here’s-what’s-new)-fSilBzYdHUw.md) · Riley Brown
-
-### 2026-10-02
-
-- [Why AI Is Reinventing How Businesses Buy Everything](channels/a16z/2026-10-02-why-ai-is-reinventing-how-businesses-buy-everything-OTQ-lFsq7zA.md) · a16z
 
 ## Data
 

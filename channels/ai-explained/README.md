@@ -1,9 +1,10 @@
 # AI Explained
 
-33 notes in this channel.
+34 notes in this channel.
 
-本频道共 33 篇。
+本频道共 34 篇。
 
+- 2026-10-12 · [AI Labs Warn Race Makes Breach ‘Inevitable’](2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.md)
 - 2026-10-01 · [OpenAI Security: Controlling Models is Now ‘Hell’](2026-10-01-openai-security-controlling-models-is-now-‘hell’-_rtp1XzaP6Q.md)
 - 2026-09-24 · [Opus 5.5: How Close Are We to Automated AI Research?](2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.md)
 - 2026-09-16 · [What AI Researchers Saw, Before Their Demand to ‘Pace’ AI](2026-09-16-what-ai-researchers-saw,-before-their-demand-to-‘pace’-ai-J3ljHm57yU0.md)

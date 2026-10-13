@@ -1,5 +1,55 @@
 [
   {
+    "id": "3Q1mdn5ZGvM",
+    "video_id": "3Q1mdn5ZGvM",
+    "title": "Recursive Self-Improvement and the Future of AI",
+    "channel": "a16z",
+    "published": "2026-10-12",
+    "source_url": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM",
+    "notion_url": "",
+    "tags": [
+      "RSI",
+      "AI",
+      "创业",
+      "控制论",
+      "实证测量"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20728,
+    "duration": "32:07",
+    "duration_seconds": 1927,
+    "path": "channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.md",
+    "structured_path": "channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.structured.md",
+    "transcript_path": "channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.transcript.md"
+  },
+  {
+    "id": "C4Sq3Rot8FU",
+    "video_id": "C4Sq3Rot8FU",
+    "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+    "channel": "AI Explained",
+    "published": "2026-10-12",
+    "source_url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "OpenAI",
+      "Anthropic",
+      "前沿实验室",
+      "地缘政治竞赛",
+      "能力跃升",
+      "未来预测"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 9321,
+    "duration": "31:01",
+    "duration_seconds": 1861,
+    "path": "channels/ai-explained/2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.md",
+    "structured_path": "channels/ai-explained/2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.structured.md",
+    "transcript_path": "channels/ai-explained/2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.transcript.md"
+  },
+  {
     "id": "3I6QYkccd3o",
     "video_id": "3I6QYkccd3o",
     "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)",
