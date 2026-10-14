@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 937 |
+| Notes | 940 |
 | Channels | 16 |
-| Structured notes | 611 |
-| Raw transcripts | 897 |
+| Structured notes | 614 |
+| Raw transcripts | 900 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-12 |
-| Archive updated | 2026-10-13 |
+| Latest source date | 2026-10-13 |
+| Archive updated | 2026-10-14 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-10-09 · [Former Intel CEO: Why This is the Best Time to Build Hardware](channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.md)
 - 2026-10-08 · [Building the Cloud for AI Agents | AWS CEO Matt Garman](channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md)
 
-### [Latent Space](channels/latent-space/README.md) · 92 notes
+### [Latent Space](channels/latent-space/README.md) · 94 notes
 
+- 2026-10-13 · [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md)
+- 2026-10-13 · [How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents](channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md)
 - 2026-10-10 · [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md)
-- 2026-10-08 · [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md)
-- 2026-10-02 · [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 80 notes
 
@@ -82,6 +82,12 @@ Each episode can include up to three versions:
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## Latest Updates
+
+### 2026-10-13
+
+- [Visiting Taiwan w/ Jensen Huang | Lex Fridman](channels/lex-fridman/2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md) · Lex Fridman
+- [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md) · Latent Space
+- [How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents](channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md) · Latent Space
 
 ### 2026-10-12
 
@@ -118,15 +124,6 @@ Each episode can include up to three versions:
 
 - [The Current State of Consumer AI](channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md) · a16z
 - [Grok Bot Just Changed A LOT (Here’s What’s New)](channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md) · Riley Brown
-
-### 2026-10-04
-
-- [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md) · Lenny's Podcast
-
-### 2026-10-03
-
-- [Why Specialized AI Could Beat The God Model](channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md) · a16z
-- [Why Spain’s New World Riches Backfired - Si Sheppard](channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md) · Dwarkesh Patel
 
 ## Data
 

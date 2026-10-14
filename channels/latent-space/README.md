@@ -1,9 +1,11 @@
 # Latent Space
 
-92 notes in this channel.
+94 notes in this channel.
 
-本频道共 92 篇。
+本频道共 94 篇。
 
+- 2026-10-13 · [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md)
+- 2026-10-13 · [How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents](2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md)
 - 2026-10-10 · [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md)
 - 2026-10-08 · [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md)
 - 2026-10-02 · [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md)

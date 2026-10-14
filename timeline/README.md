@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-13](2026/10/2026-10-13.md) · 3 篇
+
+- [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](../channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md) · Latent Space
+- [How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents](../channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md) · Latent Space
+- [Visiting Taiwan w/ Jensen Huang | Lex Fridman](../channels/lex-fridman/2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md) · Lex Fridman
+
 ## [2026-10-12](2026/10/2026-10-12.md) · 2 篇
 
 - [AI Labs Warn Race Makes Breach ‘Inevitable’](../channels/ai-explained/2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.md) · AI Explained

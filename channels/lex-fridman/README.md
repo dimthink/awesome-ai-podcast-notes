@@ -1,9 +1,10 @@
 # Lex Fridman
 
-28 notes in this channel.
+29 notes in this channel.
 
-本频道共 28 篇。
+本频道共 29 篇。
 
+- 2026-10-13 · [Visiting Taiwan w/ Jensen Huang | Lex Fridman](2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md)
 - 2026-09-17 · [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502](2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.md)
 - 2026-08-26 · [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501](2026-08-26-dhh-future-of-programming,-ai,-agentic-engineering,-vibe-coding-&-linux-lex-fridman-podcast-501-NYFGCESmikA.md)
 - 2026-08-12 · [Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500](2026-08-12-khabib-nurmagomedov-dagestan,-mma,-ufc,-islam,-conor,-fedor-&-football-lex-fridman-podcast-500-l6USUAIKJls.md)

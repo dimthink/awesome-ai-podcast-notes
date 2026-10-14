@@ -1,5 +1,77 @@
 [
   {
+    "id": "FGCP2F_7rQk",
+    "video_id": "FGCP2F_7rQk",
+    "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+    "channel": "Lex Fridman",
+    "published": "2026-10-13",
+    "source_url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+    "notion_url": "",
+    "tags": [
+      "黄仁勋",
+      "台湾半导体",
+      "出口管制",
+      "AI飞轮",
+      "跨文化理解"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 55222,
+    "duration": "1:30:18",
+    "duration_seconds": 5418,
+    "path": "channels/lex-fridman/2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md",
+    "structured_path": "channels/lex-fridman/2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.structured.md",
+    "transcript_path": "channels/lex-fridman/2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.transcript.md"
+  },
+  {
+    "id": "BHiYomkfoGQ",
+    "video_id": "BHiYomkfoGQ",
+    "title": "Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics",
+    "channel": "Latent Space",
+    "published": "2026-10-13",
+    "source_url": "https://www.youtube.com/watch?v=BHiYomkfoGQ",
+    "notion_url": "",
+    "tags": [
+      "机器人",
+      "世界模型",
+      "物理AI",
+      "强化学习",
+      "创业"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 35902,
+    "duration": "1:21:06",
+    "duration_seconds": 4866,
+    "path": "channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md",
+    "structured_path": "channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.transcript.md"
+  },
+  {
+    "id": "zlD-CkLVKtU",
+    "video_id": "zlD-CkLVKtU",
+    "title": "How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents",
+    "channel": "Latent Space",
+    "published": "2026-10-13",
+    "source_url": "https://www.youtube.com/watch?v=zlD-CkLVKtU",
+    "notion_url": "",
+    "tags": [
+      "AI智能体",
+      "SaaS替代",
+      "软件工程",
+      "产品评测",
+      "活动运营"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 18334,
+    "duration": "28:05",
+    "duration_seconds": 1685,
+    "path": "channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md",
+    "structured_path": "channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.transcript.md"
+  },
+  {
     "id": "3Q1mdn5ZGvM",
     "video_id": "3Q1mdn5ZGvM",
     "title": "Recursive Self-Improvement and the Future of AI",

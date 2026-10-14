@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-937-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-940-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 937 |
+| 笔记 | 940 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 611 |
-| 原始文稿 | 897 |
+| 结构化文稿 | 614 |
+| 原始文稿 | 900 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-10-12 |
-| 仓库更新日期 | 2026-10-13 |
+| 最新来源日期 | 2026-10-13 |
+| 仓库更新日期 | 2026-10-14 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-10-09 · [Former Intel CEO: Why This is the Best Time to Build Hardware](channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.md)
 - 2026-10-08 · [Building the Cloud for AI Agents | AWS CEO Matt Garman](channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md)
 
-### [Latent Space](channels/latent-space/README.md) · 92 篇
+### [Latent Space](channels/latent-space/README.md) · 94 篇
 
+- 2026-10-13 · [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md)
+- 2026-10-13 · [How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents](channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md)
 - 2026-10-10 · [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md)
-- 2026-10-08 · [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md)
-- 2026-10-02 · [Which GPU Clouds Are Actually Good? | ClusterMAX 3.0](channels/latent-space/2026-10-02-which-gpu-clouds-are-actually-good-clustermax-3.0-MWX36ZYnsm0.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 80 篇
 
@@ -93,6 +93,12 @@
 - 2026-08-12 · [150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手](channels/张晓珺/2026-08-12-150.-对英伟达研究副总裁刘洺堉的4小时访谈-功夫、cosmos-3、开源世界模型、黄仁勋、你不需要击败所有对手-Cj_kb9nlAlE.md)
 
 ## 最新更新
+
+### 2026-10-13
+
+- [Visiting Taiwan w/ Jensen Huang | Lex Fridman](channels/lex-fridman/2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md) · Lex Fridman
+- [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md) · Latent Space
+- [How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents](channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md) · Latent Space
 
 ### 2026-10-12
 
@@ -129,15 +135,6 @@
 
 - [The Current State of Consumer AI](channels/a16z/2026-10-05-the-current-state-of-consumer-ai-aCvrzhwUxg0.md) · a16z
 - [Grok Bot Just Changed A LOT (Here’s What’s New)](channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md) · Riley Brown
-
-### 2026-10-04
-
-- [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md) · Lenny's Podcast
-
-### 2026-10-03
-
-- [Why Specialized AI Could Beat The God Model](channels/a16z/2026-10-03-why-specialized-ai-could-beat-the-god-model-ekK8urKHPMQ.md) · a16z
-- [Why Spain’s New World Riches Backfired - Si Sheppard](channels/dwarkesh-patel/2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md) · Dwarkesh Patel
 
 ## 数据与自动更新
 
