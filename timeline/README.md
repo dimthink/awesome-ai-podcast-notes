@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-15](2026/10/2026-10-15.md) · 1 篇
+
+- [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](../channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md) · 张晓珺
+
+## [2026-10-14](2026/10/2026-10-14.md) · 2 篇
+
+- [From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio](../channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.md) · Latent Space
+- [Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert](../channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md) · a16z
+
 ## [2026-10-13](2026/10/2026-10-13.md) · 3 篇
 
 - [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](../channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md) · Latent Space

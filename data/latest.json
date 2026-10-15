@@ -1,5 +1,78 @@
 [
   {
+    "id": "iDaxRNIddME",
+    "video_id": "iDaxRNIddME",
+    "title": "Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming",
+    "channel": "张晓珺",
+    "published": "2026-10-15",
+    "source_url": "https://www.youtube.com/watch?v=iDaxRNIddME",
+    "notion_url": "",
+    "tags": [
+      "机器人",
+      "创业",
+      "具身智能",
+      "产品研究",
+      "修心",
+      "王阳明"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 20061,
+    "duration": "2:51:19",
+    "duration_seconds": 10279,
+    "path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md",
+    "structured_path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.structured.md",
+    "transcript_path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.transcript.md"
+  },
+  {
+    "id": "hQSBJVreLms",
+    "video_id": "hQSBJVreLms",
+    "title": "From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio",
+    "channel": "Latent Space",
+    "published": "2026-10-14",
+    "source_url": "https://www.youtube.com/watch?v=hQSBJVreLms",
+    "notion_url": "",
+    "tags": [
+      "AI药物发现",
+      "DNA编码化合物库",
+      "强化学习环境",
+      "实验室闭环",
+      "苦涩教训"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 11069,
+    "duration": "1:49:57",
+    "duration_seconds": 6597,
+    "path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.md",
+    "structured_path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.transcript.md"
+  },
+  {
+    "id": "BKuK0M6oDTI",
+    "video_id": "BKuK0M6oDTI",
+    "title": "Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert",
+    "channel": "a16z",
+    "published": "2026-10-14",
+    "source_url": "https://www.youtube.com/watch?v=BKuK0M6oDTI",
+    "notion_url": "",
+    "tags": [
+      "开源AI",
+      "前沿模型",
+      "蒸馏",
+      "RSI",
+      "AI竞争格局"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 33258,
+    "duration": "58:49",
+    "duration_seconds": 3529,
+    "path": "channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md",
+    "structured_path": "channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.structured.md",
+    "transcript_path": "channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.transcript.md"
+  },
+  {
     "id": "FGCP2F_7rQk",
     "video_id": "FGCP2F_7rQk",
     "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
@@ -1125,77 +1198,5 @@
     "path": "channels/a16z/2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.md",
     "structured_path": "channels/a16z/2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.structured.md",
     "transcript_path": "channels/a16z/2026-09-28-how-jev-turns-ai-into-software-that-gets-things-done-Ut3LOjKNJaE.transcript.md"
-  },
-  {
-    "id": "I-rLxiIGf-4",
-    "video_id": "I-rLxiIGf-4",
-    "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
-    "channel": "硅谷101",
-    "published": "2026-09-28",
-    "source_url": "https://www.youtube.com/watch?v=I-rLxiIGf-4",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "数据标注",
-      "大模型训练",
-      "评测基准",
-      "数据采购"
-    ],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 16535,
-    "duration": "58:03",
-    "duration_seconds": 3483,
-    "path": "channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.md",
-    "structured_path": "channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.structured.md",
-    "transcript_path": "channels/硅谷101/2026-09-28-e253-谁在给大模型出题、卖题、判卷-聊聊ai数据行业的野蛮生长-I-rLxiIGf-4.transcript.md"
-  },
-  {
-    "id": "ZT4mpjx0JnE",
-    "video_id": "ZT4mpjx0JnE",
-    "title": "$5T opportunity: AI Roll Ups",
-    "channel": "Greg Isenberg",
-    "published": "2026-09-28",
-    "source_url": "https://www.youtube.com/watch?v=ZT4mpjx0JnE",
-    "notion_url": "",
-    "tags": [
-      "AI代理",
-      "创业",
-      "投资",
-      "控股公司",
-      "商业模型"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 10388,
-    "duration": "29:50",
-    "duration_seconds": 1790,
-    "path": "channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.md",
-    "structured_path": "channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-09-28-$5t-opportunity-ai-roll-ups-ZT4mpjx0JnE.transcript.md"
-  },
-  {
-    "id": "959RFRspIIc",
-    "video_id": "959RFRspIIc",
-    "title": "Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.",
-    "channel": "Riley Brown",
-    "published": "2026-09-27",
-    "source_url": "https://www.youtube.com/watch?v=959RFRspIIc",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "Opus 5.5",
-      "OpenAI",
-      "DevDay",
-      "自建软件"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 15319,
-    "duration": "22:28",
-    "duration_seconds": 1348,
-    "path": "channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.md",
-    "structured_path": "channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.structured.md",
-    "transcript_path": "channels/riley-brown/2026-09-27-opus-5.5-is-just-the-beginning.-things-are-about-to-get-crazier-959RFRspIIc.transcript.md"
   }
 ]

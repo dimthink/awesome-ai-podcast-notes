@@ -1,5 +1,78 @@
 [
   {
+    "id": "iDaxRNIddME",
+    "video_id": "iDaxRNIddME",
+    "title": "Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming",
+    "channel": "张晓珺",
+    "published": "2026-10-15",
+    "source_url": "https://www.youtube.com/watch?v=iDaxRNIddME",
+    "notion_url": "",
+    "tags": [
+      "机器人",
+      "创业",
+      "具身智能",
+      "产品研究",
+      "修心",
+      "王阳明"
+    ],
+    "rating": 5,
+    "language": "中文",
+    "word_count": 20061,
+    "duration": "2:51:19",
+    "duration_seconds": 10279,
+    "path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md",
+    "structured_path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.structured.md",
+    "transcript_path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.transcript.md"
+  },
+  {
+    "id": "hQSBJVreLms",
+    "video_id": "hQSBJVreLms",
+    "title": "From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio",
+    "channel": "Latent Space",
+    "published": "2026-10-14",
+    "source_url": "https://www.youtube.com/watch?v=hQSBJVreLms",
+    "notion_url": "",
+    "tags": [
+      "AI药物发现",
+      "DNA编码化合物库",
+      "强化学习环境",
+      "实验室闭环",
+      "苦涩教训"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 11069,
+    "duration": "1:49:57",
+    "duration_seconds": 6597,
+    "path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.md",
+    "structured_path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.transcript.md"
+  },
+  {
+    "id": "BKuK0M6oDTI",
+    "video_id": "BKuK0M6oDTI",
+    "title": "Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert",
+    "channel": "a16z",
+    "published": "2026-10-14",
+    "source_url": "https://www.youtube.com/watch?v=BKuK0M6oDTI",
+    "notion_url": "",
+    "tags": [
+      "开源AI",
+      "前沿模型",
+      "蒸馏",
+      "RSI",
+      "AI竞争格局"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 33258,
+    "duration": "58:49",
+    "duration_seconds": 3529,
+    "path": "channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md",
+    "structured_path": "channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.structured.md",
+    "transcript_path": "channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.transcript.md"
+  },
+  {
     "id": "FGCP2F_7rQk",
     "video_id": "FGCP2F_7rQk",
     "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
