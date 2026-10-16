@@ -1,5 +1,29 @@
 [
   {
+    "id": "q8cb1XL9sXA",
+    "video_id": "q8cb1XL9sXA",
+    "title": "What Happens When AI Agents Can Spend Your Money?",
+    "channel": "a16z",
+    "published": "2026-10-15",
+    "source_url": "https://www.youtube.com/watch?v=q8cb1XL9sXA",
+    "notion_url": "",
+    "tags": [
+      "AI智能体",
+      "支付基础设施",
+      "智能体商业",
+      "金融科技",
+      "a16z"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 29008,
+    "duration": "50:31",
+    "duration_seconds": 3031,
+    "path": "channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md",
+    "structured_path": "channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.structured.md",
+    "transcript_path": "channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.transcript.md"
+  },
+  {
     "id": "iDaxRNIddME",
     "video_id": "iDaxRNIddME",
     "title": "Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming",
@@ -23,6 +47,30 @@
     "path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md",
     "structured_path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.structured.md",
     "transcript_path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.transcript.md"
+  },
+  {
+    "id": "fDE5R4fSq2w",
+    "video_id": "fDE5R4fSq2w",
+    "title": "Claude Code Makes Regular Claude Feel Dumb",
+    "channel": "Riley Brown",
+    "published": "2026-10-15",
+    "source_url": "https://www.youtube.com/watch?v=fDE5R4fSq2w",
+    "notion_url": "",
+    "tags": [
+      "Claude Code",
+      "AI代理",
+      "工作效率",
+      "无代码开发",
+      "Anthropic"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20138,
+    "duration": "27:35",
+    "duration_seconds": 1655,
+    "path": "channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md",
+    "structured_path": "channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.transcript.md"
   },
   {
     "id": "hQSBJVreLms",

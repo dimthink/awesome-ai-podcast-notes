@@ -1,9 +1,10 @@
 # Riley Brown
 
-79 notes in this channel.
+80 notes in this channel.
 
-本频道共 79 篇。
+本频道共 80 篇。
 
+- 2026-10-15 · [Claude Code Makes Regular Claude Feel Dumb](2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md)
 - 2026-10-10 · [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md)
 - 2026-10-09 · [ChatGPT Dots Is WAY More Powerful Than You Think](2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.md)
 - 2026-10-05 · [Grok Bot Just Changed A LOT (Here’s What’s New)](2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md)

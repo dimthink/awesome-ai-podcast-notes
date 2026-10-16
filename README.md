@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-943-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-945-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 943 |
+| 笔记 | 945 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 617 |
-| 原始文稿 | 903 |
+| 结构化文稿 | 619 |
+| 原始文稿 | 905 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-10-15 |
-| 仓库更新日期 | 2026-10-15 |
+| 仓库更新日期 | 2026-10-16 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 100 篇
+### [a16z](channels/a16z/README.md) · 101 篇
 
+- 2026-10-15 · [What Happens When AI Agents Can Spend Your Money?](channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md)
 - 2026-10-14 · [Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert](channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md)
 - 2026-10-12 · [Recursive Self-Improvement and the Future of AI](channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.md)
-- 2026-10-09 · [Former Intel CEO: Why This is the Best Time to Build Hardware](channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 95 篇
 
@@ -68,11 +68,11 @@
 - 2026-10-06 · [13 Businesses for the Age of AI](channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md)
 - 2026-10-01 · [Masterclass: How FDEs make $1M/yr deploying AI agents](channels/greg-isenberg/2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 79 篇
+### [Riley Brown](channels/riley-brown/README.md) · 80 篇
 
+- 2026-10-15 · [Claude Code Makes Regular Claude Feel Dumb](channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md)
 - 2026-10-10 · [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md)
 - 2026-10-09 · [ChatGPT Dots Is WAY More Powerful Than You Think](channels/riley-brown/2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.md)
-- 2026-10-05 · [Grok Bot Just Changed A LOT (Here’s What’s New)](channels/riley-brown/2026-10-05-grok-bot-just-changed-a-lot-(here’s-what’s-new)-c9Z7ixVr4CU.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 63 篇
 
@@ -96,7 +96,9 @@
 
 ### 2026-10-15
 
+- [What Happens When AI Agents Can Spend Your Money?](channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md) · a16z
 - [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md) · 张晓珺
+- [Claude Code Makes Regular Claude Feel Dumb](channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md) · Riley Brown
 
 ### 2026-10-14
 
@@ -133,11 +135,6 @@
 
 - [Building the Cloud for AI Agents | AWS CEO Matt Garman](channels/a16z/2026-10-08-building-the-cloud-for-ai-agents-aws-ceo-matt-garman-rn_afJaPldg.md) · a16z
 - [AI Scientists Are Here: Autonomous Labs & Synthesis Superintelligence — Periodic Labs](channels/latent-space/2026-10-08-ai-scientists-are-here-autonomous-labs-&-synthesis-superintelligence-—-periodic-labs-YHiqVRxGViM.md) · Latent Space
-- [8 GitHub Repos To Go Viral and Make Money](channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.md) · Greg Isenberg
-
-### 2026-10-06
-
-- [Building Cyber Defense for the Agentic Era](channels/a16z/2026-10-06-building-cyber-defense-for-the-agentic-era-cJsHel27Z6M.md) · a16z
 
 ## 数据与自动更新
 

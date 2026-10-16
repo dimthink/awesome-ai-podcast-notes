@@ -6,8 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-15](2026/10/2026-10-15.md) · 1 篇
+## [2026-10-15](2026/10/2026-10-15.md) · 3 篇
 
+- [Claude Code Makes Regular Claude Feel Dumb](../channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md) · Riley Brown
+- [What Happens When AI Agents Can Spend Your Money?](../channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md) · a16z
 - [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](../channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md) · 张晓珺
 
 ## [2026-10-14](2026/10/2026-10-14.md) · 2 篇
