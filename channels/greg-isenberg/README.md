@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-80 notes in this channel.
+81 notes in this channel.
 
-本频道共 80 篇。
+本频道共 81 篇。
 
+- 2026-10-15 · [Make cool things with AI that people buy (Gemini 4 Argon)](2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md)
 - 2026-10-08 · [8 GitHub Repos To Go Viral and Make Money](2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.md)
 - 2026-10-06 · [13 Businesses for the Age of AI](2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md)
 - 2026-10-01 · [Masterclass: How FDEs make $1M/yr deploying AI agents](2026-10-01-masterclass-how-fdes-make-$1m-yr-deploying-ai-agents-1a5HxU52vCQ.md)

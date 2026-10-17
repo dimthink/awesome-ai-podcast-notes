@@ -1,5 +1,77 @@
 [
   {
+    "id": "blkIGLlZePg",
+    "video_id": "blkIGLlZePg",
+    "title": "Why AI Can Write Code But Can’t Keep It Running (Yet)",
+    "channel": "a16z",
+    "published": "2026-10-16",
+    "source_url": "https://www.youtube.com/watch?v=blkIGLlZePg",
+    "notion_url": "",
+    "tags": [
+      "AI运维",
+      "分布式系统",
+      "可观测性",
+      "LLM边界",
+      "系统思维"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 28059,
+    "duration": "58:58",
+    "duration_seconds": 3538,
+    "path": "channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md",
+    "structured_path": "channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.structured.md",
+    "transcript_path": "channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.transcript.md"
+  },
+  {
+    "id": "ZOH8Q401vt0",
+    "video_id": "ZOH8Q401vt0",
+    "title": "High Taste Testers: OpenAI Shipped Everything. What Actually Works?",
+    "channel": "Latent Space",
+    "published": "2026-10-16",
+    "source_url": "https://www.youtube.com/watch?v=ZOH8Q401vt0",
+    "notion_url": "",
+    "tags": [
+      "AI Agent",
+      "个人助手",
+      "模型评测",
+      "产品设计",
+      "开发者工具"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 57928,
+    "duration": "1:15:21",
+    "duration_seconds": 4521,
+    "path": "channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md",
+    "structured_path": "channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.transcript.md"
+  },
+  {
+    "id": "1d7P3ewd9AA",
+    "video_id": "1d7P3ewd9AA",
+    "title": "Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING",
+    "channel": "Riley Brown",
+    "published": "2026-10-16",
+    "source_url": "https://www.youtube.com/watch?v=1d7P3ewd9AA",
+    "notion_url": "",
+    "tags": [
+      "AI模型",
+      "智能体",
+      "编程工具",
+      "语音交互",
+      "游戏共创"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20083,
+    "duration": "26:13",
+    "duration_seconds": 1573,
+    "path": "channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md",
+    "structured_path": "channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.transcript.md"
+  },
+  {
     "id": "q8cb1XL9sXA",
     "video_id": "q8cb1XL9sXA",
     "title": "What Happens When AI Agents Can Spend Your Money?",
@@ -22,6 +94,30 @@
     "path": "channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md",
     "structured_path": "channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.structured.md",
     "transcript_path": "channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.transcript.md"
+  },
+  {
+    "id": "jEOUUAPC1sc",
+    "video_id": "jEOUUAPC1sc",
+    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+    "channel": "Greg Isenberg",
+    "published": "2026-10-15",
+    "source_url": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+    "notion_url": "",
+    "tags": [
+      "AI创业",
+      "Gemini Argon",
+      "氛围制造",
+      "SaaS重建",
+      "3D打印"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 18181,
+    "duration": "30:50",
+    "duration_seconds": 1850,
+    "path": "channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md",
+    "structured_path": "channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.transcript.md"
   },
   {
     "id": "iDaxRNIddME",

@@ -1,9 +1,10 @@
 # a16z
 
-101 notes in this channel.
+102 notes in this channel.
 
-本频道共 101 篇。
+本频道共 102 篇。
 
+- 2026-10-16 · [Why AI Can Write Code But Can’t Keep It Running (Yet)](2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md)
 - 2026-10-15 · [What Happens When AI Agents Can Spend Your Money?](2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md)
 - 2026-10-14 · [Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert](2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md)
 - 2026-10-12 · [Recursive Self-Improvement and the Future of AI](2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.md)

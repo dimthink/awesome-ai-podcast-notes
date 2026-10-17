@@ -6,8 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-15](2026/10/2026-10-15.md) · 3 篇
+## [2026-10-16](2026/10/2026-10-16.md) · 3 篇
 
+- [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](../channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md) · Latent Space
+- [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](../channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md) · Riley Brown
+- [Why AI Can Write Code But Can’t Keep It Running (Yet)](../channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md) · a16z
+
+## [2026-10-15](2026/10/2026-10-15.md) · 4 篇
+
+- [Make cool things with AI that people buy (Gemini 4 Argon)](../channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md) · Greg Isenberg
 - [Claude Code Makes Regular Claude Feel Dumb](../channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md) · Riley Brown
 - [What Happens When AI Agents Can Spend Your Money?](../channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md) · a16z
 - [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](../channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md) · 张晓珺

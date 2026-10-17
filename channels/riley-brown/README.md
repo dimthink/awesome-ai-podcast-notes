@@ -1,9 +1,10 @@
 # Riley Brown
 
-80 notes in this channel.
+81 notes in this channel.
 
-本频道共 80 篇。
+本频道共 81 篇。
 
+- 2026-10-16 · [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md)
 - 2026-10-15 · [Claude Code Makes Regular Claude Feel Dumb](2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md)
 - 2026-10-10 · [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md)
 - 2026-10-09 · [ChatGPT Dots Is WAY More Powerful Than You Think](2026-10-09-chatgpt-dots-is-way-more-powerful-than-you-think-WXhOxfPECnM.md)
