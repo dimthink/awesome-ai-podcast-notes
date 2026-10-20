@@ -1,9 +1,10 @@
 # a16z
 
-102 notes in this channel.
+103 notes in this channel.
 
-本频道共 102 篇。
+本频道共 103 篇。
 
+- 2026-10-19 · [Why a $1M Startup Wasn’t Worth Building in the Age of AI](2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md)
 - 2026-10-16 · [Why AI Can Write Code But Can’t Keep It Running (Yet)](2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md)
 - 2026-10-15 · [What Happens When AI Agents Can Spend Your Money?](2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md)
 - 2026-10-14 · [Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert](2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md)

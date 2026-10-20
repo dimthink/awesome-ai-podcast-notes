@@ -6,6 +6,14 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-19](2026/10/2026-10-19.md) · 1 篇
+
+- [Why a $1M Startup Wasn’t Worth Building in the Age of AI](../channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md) · a16z
+
+## [2026-10-18](2026/10/2026-10-18.md) · 1 篇
+
+- [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](../channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md) · Lenny's Podcast
+
 ## [2026-10-16](2026/10/2026-10-16.md) · 3 篇
 
 - [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](../channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md) · Latent Space

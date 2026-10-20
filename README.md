@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-949-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-951-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 949 |
+| 笔记 | 951 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 623 |
-| 原始文稿 | 909 |
+| 结构化文稿 | 625 |
+| 原始文稿 | 911 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-10-16 |
-| 仓库更新日期 | 2026-10-17 |
+| 最新来源日期 | 2026-10-19 |
+| 仓库更新日期 | 2026-10-20 |
 
 ## 适合谁
 
@@ -50,11 +50,11 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 102 篇
+### [a16z](channels/a16z/README.md) · 103 篇
 
+- 2026-10-19 · [Why a $1M Startup Wasn’t Worth Building in the Age of AI](channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md)
 - 2026-10-16 · [Why AI Can Write Code But Can’t Keep It Running (Yet)](channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md)
 - 2026-10-15 · [What Happens When AI Agents Can Spend Your Money?](channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md)
-- 2026-10-14 · [Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert](channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 96 篇
 
@@ -74,11 +74,11 @@
 - 2026-10-15 · [Claude Code Makes Regular Claude Feel Dumb](channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md)
 - 2026-10-10 · [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 63 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 64 篇
 
+- 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
 - 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)
 - 2026-10-04 · [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md)
-- 2026-09-29 · [Why Claude can’t be your PM (yet) | Anthropic CPO Panel](channels/lenny's-podcast/2026-09-29-why-claude-can’t-be-your-pm-(yet)-anthropic-cpo-panel-sEXdyK6woKU.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 52 篇
 
@@ -93,6 +93,14 @@
 - 2026-08-13 · [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md)
 
 ## 最新更新
+
+### 2026-10-19
+
+- [Why a $1M Startup Wasn’t Worth Building in the Age of AI](channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md) · a16z
+
+### 2026-10-18
+
+- [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md) · Lenny's Podcast
 
 ### 2026-10-16
 
@@ -130,11 +138,6 @@
 ### 2026-10-10
 
 - [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md) · Latent Space
-- [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md) · Riley Brown
-
-### 2026-10-09
-
-- [Former Intel CEO: Why This is the Best Time to Build Hardware](channels/a16z/2026-10-09-former-intel-ceo-why-this-is-the-best-time-to-build-hardware-1Q_7yU7FZ1k.md) · a16z
 
 ## 数据与自动更新
 

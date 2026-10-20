@@ -1,5 +1,53 @@
 [
   {
+    "id": "o_5f4N6Nq80",
+    "video_id": "o_5f4N6Nq80",
+    "title": "Why a $1M Startup Wasn’t Worth Building in the Age of AI",
+    "channel": "a16z",
+    "published": "2026-10-19",
+    "source_url": "https://www.youtube.com/watch?v=o_5f4N6Nq80",
+    "notion_url": "",
+    "tags": [
+      "AI创业",
+      "产品市场契合",
+      "代理经济",
+      "模型中立性",
+      "供应聚合"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 29351,
+    "duration": "1:01:59",
+    "duration_seconds": 3719,
+    "path": "channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md",
+    "structured_path": "channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.structured.md",
+    "transcript_path": "channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.transcript.md"
+  },
+  {
+    "id": "JHo-aiePjoM",
+    "video_id": "JHo-aiePjoM",
+    "title": "A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-10-18",
+    "source_url": "https://www.youtube.com/watch?v=JHo-aiePjoM",
+    "notion_url": "",
+    "tags": [
+      "AI可解释性",
+      "大语言模型",
+      "AI对齐",
+      "Anthropic",
+      "智能本质"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 32233,
+    "duration": "1:12:13",
+    "duration_seconds": 4333,
+    "path": "channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md",
+    "structured_path": "channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.transcript.md"
+  },
+  {
     "id": "blkIGLlZePg",
     "video_id": "blkIGLlZePg",
     "title": "Why AI Can Write Code But Can’t Keep It Running (Yet)",
