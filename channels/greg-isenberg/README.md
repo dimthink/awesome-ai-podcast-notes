@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-81 notes in this channel.
+82 notes in this channel.
 
-本频道共 81 篇。
+本频道共 82 篇。
 
+- 2026-10-19 · [Meta Muse Will Create 1,000 Millionaires](2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md)
 - 2026-10-15 · [Make cool things with AI that people buy (Gemini 4 Argon)](2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md)
 - 2026-10-08 · [8 GitHub Repos To Go Viral and Make Money](2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.md)
 - 2026-10-06 · [13 Businesses for the Age of AI](2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md)

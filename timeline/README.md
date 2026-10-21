@@ -6,8 +6,20 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-19](2026/10/2026-10-19.md) · 1 篇
+## [2026-10-21](2026/10/2026-10-21.md) · 2 篇
 
+- [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](../channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md) · Latent Space
+- [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](../channels/张晓珺/2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md) · 张晓珺
+
+## [2026-10-20](2026/10/2026-10-20.md) · 3 篇
+
+- [The Programmable Data Center — Evan Conrad, SF Compute](../channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md) · Latent Space
+- [Should You Trust ChatGPT With Your Health?](../channels/a16z/2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md) · a16z
+- [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](../channels/硅谷101/2026-10-20-e256-agent、机器人与制药,谁先被gpt-6-astra改写-lsANSvYQks0.md) · 硅谷101
+
+## [2026-10-19](2026/10/2026-10-19.md) · 2 篇
+
+- [Meta Muse Will Create 1,000 Millionaires](../channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md) · Greg Isenberg
 - [Why a $1M Startup Wasn’t Worth Building in the Age of AI](../channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md) · a16z
 
 ## [2026-10-18](2026/10/2026-10-18.md) · 1 篇

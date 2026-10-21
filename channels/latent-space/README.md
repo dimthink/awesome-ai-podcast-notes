@@ -1,9 +1,11 @@
 # Latent Space
 
-96 notes in this channel.
+98 notes in this channel.
 
-本频道共 96 篇。
+本频道共 98 篇。
 
+- 2026-10-21 · [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md)
+- 2026-10-20 · [The Programmable Data Center — Evan Conrad, SF Compute](2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md)
 - 2026-10-16 · [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md)
 - 2026-10-14 · [From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio](2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.md)
 - 2026-10-13 · [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md)

@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-951-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-957-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 951 |
+| 笔记 | 957 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 625 |
-| 原始文稿 | 911 |
+| 结构化文稿 | 631 |
+| 原始文稿 | 917 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-10-19 |
-| 仓库更新日期 | 2026-10-20 |
+| 最新来源日期 | 2026-10-21 |
+| 仓库更新日期 | 2026-10-21 |
 
 ## 适合谁
 
@@ -50,23 +50,23 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 103 篇
+### [a16z](channels/a16z/README.md) · 104 篇
 
+- 2026-10-20 · [Should You Trust ChatGPT With Your Health?](channels/a16z/2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md)
 - 2026-10-19 · [Why a $1M Startup Wasn’t Worth Building in the Age of AI](channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md)
 - 2026-10-16 · [Why AI Can Write Code But Can’t Keep It Running (Yet)](channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md)
-- 2026-10-15 · [What Happens When AI Agents Can Spend Your Money?](channels/a16z/2026-10-15-what-happens-when-ai-agents-can-spend-your-money-q8cb1XL9sXA.md)
 
-### [Latent Space](channels/latent-space/README.md) · 96 篇
+### [Latent Space](channels/latent-space/README.md) · 98 篇
 
+- 2026-10-21 · [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md)
+- 2026-10-20 · [The Programmable Data Center — Evan Conrad, SF Compute](channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md)
 - 2026-10-16 · [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md)
-- 2026-10-14 · [From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio](channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.md)
-- 2026-10-13 · [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 81 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 82 篇
 
+- 2026-10-19 · [Meta Muse Will Create 1,000 Millionaires](channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md)
 - 2026-10-15 · [Make cool things with AI that people buy (Gemini 4 Argon)](channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md)
 - 2026-10-08 · [8 GitHub Repos To Go Viral and Make Money](channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.md)
-- 2026-10-06 · [13 Businesses for the Age of AI](channels/greg-isenberg/2026-10-06-13-businesses-for-the-age-of-ai-bQPU6UJ4iCw.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 81 篇
 
@@ -86,17 +86,29 @@
 - 2026-10-01 · [Better AI Starts With Better Verification](channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md)
 - 2026-09-30 · [The Startup Industrial Base: Building for the Next 250 — Washington, D.C.](channels/y-combinator/2026-09-30-the-startup-industrial-base-building-for-the-next-250-—-washington,-d.c-T6hVGJ4gepk.md)
 
-### [张晓珺](channels/张晓珺/README.md) · 46 篇
+### [张晓珺](channels/张晓珺/README.md) · 47 篇
 
+- 2026-10-21 · [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](channels/张晓珺/2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md)
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
-- 2026-08-13 · [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](channels/张晓珺/2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md)
 
 ## 最新更新
+
+### 2026-10-21
+
+- [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](channels/张晓珺/2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md) · 张晓珺
+- [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md) · Latent Space
+
+### 2026-10-20
+
+- [The Programmable Data Center — Evan Conrad, SF Compute](channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md) · Latent Space
+- [Should You Trust ChatGPT With Your Health?](channels/a16z/2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md) · a16z
+- [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](channels/硅谷101/2026-10-20-e256-agent、机器人与制药,谁先被gpt-6-astra改写-lsANSvYQks0.md) · 硅谷101
 
 ### 2026-10-19
 
 - [Why a $1M Startup Wasn’t Worth Building in the Age of AI](channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md) · a16z
+- [Meta Muse Will Create 1,000 Millionaires](channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md) · Greg Isenberg
 
 ### 2026-10-18
 
@@ -123,21 +135,6 @@
 ### 2026-10-13
 
 - [Visiting Taiwan w/ Jensen Huang | Lex Fridman](channels/lex-fridman/2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md) · Lex Fridman
-- [Robots That Predict the Future: Dyna-2 & Physical AI — Jason Ma, Dyna Robotics](channels/latent-space/2026-10-13-robots-that-predict-the-future-dyna-2-&-physical-ai-—-jason-ma,-dyna-robotics-BHiYomkfoGQ.md) · Latent Space
-- [How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents](channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md) · Latent Space
-
-### 2026-10-12
-
-- [Recursive Self-Improvement and the Future of AI](channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.md) · a16z
-- [AI Labs Warn Race Makes Breach ‘Inevitable’](channels/ai-explained/2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.md) · AI Explained
-
-### 2026-10-11
-
-- [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md) · Lenny's Podcast
-
-### 2026-10-10
-
-- [Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](channels/latent-space/2026-10-10-why-alphafold-didn't-solve-protein-folding-—-pushmeet-kohli,-google-deepmind-&-sal-candido,-biohub-NufiHZfMwaw.md) · Latent Space
 
 ## 数据与自动更新
 

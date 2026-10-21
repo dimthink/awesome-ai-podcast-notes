@@ -1,9 +1,10 @@
 # 张晓珺
 
-46 notes in this channel.
+47 notes in this channel.
 
-本频道共 46 篇。
+本频道共 47 篇。
 
+- 2026-10-21 · [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md)
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 - 2026-08-13 · [NVIDIA VP Ming-Yu Liu: Cosmos 3, World Models, Kung Fu, What Jensen Taught Me](2026-08-13-nvidia-vp-ming-yu-liu-cosmos-3,-world-models,-kung-fu,-what-jensen-taught-me-zawGTDLtWFY.md)
