@@ -6,8 +6,9 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-21](2026/10/2026-10-21.md) · 2 篇
+## [2026-10-21](2026/10/2026-10-21.md) · 3 篇
 
+- [The 9 Stages of AI Agent Adoption, Explained](../channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md) · Greg Isenberg
 - [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](../channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md) · Latent Space
 - [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](../channels/张晓珺/2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md) · 张晓珺
 

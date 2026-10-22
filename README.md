@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-957-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-958-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 957 |
+| 笔记 | 958 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 631 |
-| 原始文稿 | 917 |
+| 结构化文稿 | 632 |
+| 原始文稿 | 918 |
 | 最早来源日期 | 2016-10-07 |
 | 最新来源日期 | 2026-10-21 |
-| 仓库更新日期 | 2026-10-21 |
+| 仓库更新日期 | 2026-10-22 |
 
 ## 适合谁
 
@@ -62,11 +62,11 @@
 - 2026-10-20 · [The Programmable Data Center — Evan Conrad, SF Compute](channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md)
 - 2026-10-16 · [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 82 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 83 篇
 
+- 2026-10-21 · [The 9 Stages of AI Agent Adoption, Explained](channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md)
 - 2026-10-19 · [Meta Muse Will Create 1,000 Millionaires](channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md)
 - 2026-10-15 · [Make cool things with AI that people buy (Gemini 4 Argon)](channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md)
-- 2026-10-08 · [8 GitHub Repos To Go Viral and Make Money](channels/greg-isenberg/2026-10-08-8-github-repos-to-go-viral-and-make-money-rkK8ZyzYyEA.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 81 篇
 
@@ -96,6 +96,7 @@
 
 ### 2026-10-21
 
+- [The 9 Stages of AI Agent Adoption, Explained](channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md) · Greg Isenberg
 - [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](channels/张晓珺/2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md) · 张晓珺
 - [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md) · Latent Space
 
@@ -131,10 +132,6 @@
 
 - [From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio](channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.md) · Latent Space
 - [Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert](channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md) · a16z
-
-### 2026-10-13
-
-- [Visiting Taiwan w/ Jensen Huang | Lex Fridman](channels/lex-fridman/2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md) · Lex Fridman
 
 ## 数据与自动更新
 
