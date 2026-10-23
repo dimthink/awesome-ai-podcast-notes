@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-22](2026/10/2026-10-22.md) · 2 篇
+
+- [How Smart People Are Using AI Right Now (7 Insane Use Cases)](../channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md) · Riley Brown
+- [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](../channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md) · a16z
+
 ## [2026-10-21](2026/10/2026-10-21.md) · 3 篇
 
 - [The 9 Stages of AI Agent Adoption, Explained](../channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md) · Greg Isenberg

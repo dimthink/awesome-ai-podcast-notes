@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 958 |
+| Notes | 960 |
 | Channels | 16 |
-| Structured notes | 632 |
-| Raw transcripts | 918 |
+| Structured notes | 634 |
+| Raw transcripts | 920 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-21 |
-| Archive updated | 2026-10-22 |
+| Latest source date | 2026-10-22 |
+| Archive updated | 2026-10-23 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 104 notes
+### [a16z](channels/a16z/README.md) · 105 notes
 
+- 2026-10-22 · [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md)
 - 2026-10-20 · [Should You Trust ChatGPT With Your Health?](channels/a16z/2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md)
 - 2026-10-19 · [Why a $1M Startup Wasn’t Worth Building in the Age of AI](channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md)
-- 2026-10-16 · [Why AI Can Write Code But Can’t Keep It Running (Yet)](channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 98 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-10-19 · [Meta Muse Will Create 1,000 Millionaires](channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md)
 - 2026-10-15 · [Make cool things with AI that people buy (Gemini 4 Argon)](channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 81 notes
+### [Riley Brown](channels/riley-brown/README.md) · 82 notes
 
+- 2026-10-22 · [How Smart People Are Using AI Right Now (7 Insane Use Cases)](channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md)
 - 2026-10-16 · [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md)
 - 2026-10-15 · [Claude Code Makes Regular Claude Feel Dumb](channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md)
-- 2026-10-10 · [Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger](channels/riley-brown/2026-10-10-claude's-new-updates-are-insane...-but-grok-bot-is-even-bigger-UFa8pXW9A3k.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 64 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-10-22
+
+- [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md) · a16z
+- [How Smart People Are Using AI Right Now (7 Insane Use Cases)](channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md) · Riley Brown
 
 ### 2026-10-21
 
@@ -116,11 +121,6 @@ Each episode can include up to three versions:
 - [Make cool things with AI that people buy (Gemini 4 Argon)](channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md) · Greg Isenberg
 - [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md) · 张晓珺
 - [Claude Code Makes Regular Claude Feel Dumb](channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md) · Riley Brown
-
-### 2026-10-14
-
-- [From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio](channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.md) · Latent Space
-- [Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert](channels/a16z/2026-10-14-can-open-models-keep-up-with-openai-and-anthropic-nathan-lambert-BKuK0M6oDTI.md) · a16z
 
 ## Data
 

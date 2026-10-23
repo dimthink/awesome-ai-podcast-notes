@@ -1,9 +1,10 @@
 # a16z
 
-104 notes in this channel.
+105 notes in this channel.
 
-本频道共 104 篇。
+本频道共 105 篇。
 
+- 2026-10-22 · [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md)
 - 2026-10-20 · [Should You Trust ChatGPT With Your Health?](2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md)
 - 2026-10-19 · [Why a $1M Startup Wasn’t Worth Building in the Age of AI](2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md)
 - 2026-10-16 · [Why AI Can Write Code But Can’t Keep It Running (Yet)](2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md)

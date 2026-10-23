@@ -1,5 +1,54 @@
 [
   {
+    "id": "-9XQMHhpypc",
+    "video_id": "-9XQMHhpypc",
+    "title": "The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon",
+    "channel": "a16z",
+    "published": "2026-10-22",
+    "source_url": "https://www.youtube.com/watch?v=-9XQMHhpypc",
+    "notion_url": "",
+    "tags": [
+      "a16z",
+      "AI投资",
+      "开源",
+      "前沿科技",
+      "风险投资",
+      "创业"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 25545,
+    "duration": "1:00:35",
+    "duration_seconds": 3635,
+    "path": "channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md",
+    "structured_path": "channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.structured.md",
+    "transcript_path": "channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.transcript.md"
+  },
+  {
+    "id": "4PO0x-myitw",
+    "video_id": "4PO0x-myitw",
+    "title": "How Smart People Are Using AI Right Now (7 Insane Use Cases)",
+    "channel": "Riley Brown",
+    "published": "2026-10-22",
+    "source_url": "https://www.youtube.com/watch?v=4PO0x-myitw",
+    "notion_url": "",
+    "tags": [
+      "AI应用",
+      "效率工具",
+      "智能体",
+      "信息过滤",
+      "去中心化"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 11082,
+    "duration": "28:06",
+    "duration_seconds": 1686,
+    "path": "channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md",
+    "structured_path": "channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.structured.md",
+    "transcript_path": "channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.transcript.md"
+  },
+  {
     "id": "nRl-7Yhmbog",
     "video_id": "nRl-7Yhmbog",
     "title": "The 9 Stages of AI Agent Adoption, Explained",
