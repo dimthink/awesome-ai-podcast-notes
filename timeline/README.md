@@ -6,8 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-22](2026/10/2026-10-22.md) · 2 篇
+## [2026-10-23](2026/10/2026-10-23.md) · 2 篇
 
+- [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](../channels/riley-brown/2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md) · Riley Brown
+- [Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs](../channels/a16z/2026-10-23-amazon-ceo-andy-jassy-on-the-infrastructure-the-ai-era-needs--YMMRQ1qscI.md) · a16z
+
+## [2026-10-22](2026/10/2026-10-22.md) · 4 篇
+
+- [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal](../channels/latent-space/2026-10-22-why-ai-compute-comes-in-rectangles-—-erik-bernhardsson,-modal-IiZ9yd2Do8I.md) · Latent Space
+- [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](../channels/latent-space/2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.md) · Latent Space
 - [How Smart People Are Using AI Right Now (7 Insane Use Cases)](../channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md) · Riley Brown
 - [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](../channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md) · a16z
 

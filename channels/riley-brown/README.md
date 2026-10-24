@@ -1,9 +1,10 @@
 # Riley Brown
 
-82 notes in this channel.
+83 notes in this channel.
 
-本频道共 82 篇。
+本频道共 83 篇。
 
+- 2026-10-23 · [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md)
 - 2026-10-22 · [How Smart People Are Using AI Right Now (7 Insane Use Cases)](2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md)
 - 2026-10-16 · [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md)
 - 2026-10-15 · [Claude Code Makes Regular Claude Feel Dumb](2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md)

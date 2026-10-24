@@ -1,9 +1,11 @@
 # Latent Space
 
-98 notes in this channel.
+100 notes in this channel.
 
-本频道共 98 篇。
+本频道共 100 篇。
 
+- 2026-10-22 · [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal](2026-10-22-why-ai-compute-comes-in-rectangles-—-erik-bernhardsson,-modal-IiZ9yd2Do8I.md)
+- 2026-10-22 · [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.md)
 - 2026-10-21 · [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md)
 - 2026-10-20 · [The Programmable Data Center — Evan Conrad, SF Compute](2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md)
 - 2026-10-16 · [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md)
