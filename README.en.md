@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 964 |
+| Notes | 965 |
 | Channels | 16 |
-| Structured notes | 638 |
-| Raw transcripts | 924 |
+| Structured notes | 639 |
+| Raw transcripts | 925 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-23 |
-| Archive updated | 2026-10-24 |
+| Latest source date | 2026-10-25 |
+| Archive updated | 2026-10-26 |
 
 Each episode can include up to three versions:
 
@@ -63,11 +63,11 @@ Each episode can include up to three versions:
 - 2026-10-22 · [How Smart People Are Using AI Right Now (7 Insane Use Cases)](channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md)
 - 2026-10-16 · [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 64 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 65 notes
 
+- 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 - 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
 - 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)
-- 2026-10-04 · [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 52 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-10-25
+
+- [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md) · Lenny's Podcast
 
 ### 2026-10-23
 
@@ -120,7 +124,6 @@ Each episode can include up to three versions:
 
 - [Why AI Can Write Code But Can’t Keep It Running (Yet)](channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md) · a16z
 - [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md) · Latent Space
-- [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md) · Riley Brown
 
 ## Data
 

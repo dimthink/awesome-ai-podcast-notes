@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-964-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-965-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 964 |
+| 笔记 | 965 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 638 |
-| 原始文稿 | 924 |
+| 结构化文稿 | 639 |
+| 原始文稿 | 925 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-10-23 |
-| 仓库更新日期 | 2026-10-24 |
+| 最新来源日期 | 2026-10-25 |
+| 仓库更新日期 | 2026-10-26 |
 
 ## 适合谁
 
@@ -74,11 +74,11 @@
 - 2026-10-22 · [How Smart People Are Using AI Right Now (7 Insane Use Cases)](channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md)
 - 2026-10-16 · [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 64 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 65 篇
 
+- 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 - 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
 - 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)
-- 2026-10-04 · [OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux](channels/lenny's-podcast/2026-10-04-openai’s-head-of-chatgpt-we’re-entering-a-new-era-of-ai-(again)-tibo-sottiaux-MM-C3JqCXBk.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 52 篇
 
@@ -93,6 +93,10 @@
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## 最新更新
+
+### 2026-10-25
+
+- [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md) · Lenny's Podcast
 
 ### 2026-10-23
 
@@ -131,7 +135,6 @@
 
 - [Why AI Can Write Code But Can’t Keep It Running (Yet)](channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md) · a16z
 - [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md) · Latent Space
-- [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md) · Riley Brown
 
 ## 数据与自动更新
 

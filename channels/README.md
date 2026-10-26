@@ -10,7 +10,7 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 - [Hung-yi Lee](hung-yi-lee/README.md) (5)
 - [Koji Yang](koji-yang/README.md) (41)
 - [Latent Space](latent-space/README.md) (100)
-- [Lenny's Podcast](lenny's-podcast/README.md) (64)
+- [Lenny's Podcast](lenny's-podcast/README.md) (65)
 - [Lex Fridman](lex-fridman/README.md) (29)
 - [Matthew Berman](matthew-berman/README.md) (1)
 - [Riley Brown](riley-brown/README.md) (83)

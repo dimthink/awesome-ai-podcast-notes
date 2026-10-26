@@ -1,5 +1,29 @@
 [
   {
+    "id": "19qrLchbQEc",
+    "video_id": "19qrLchbQEc",
+    "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+    "channel": "Lenny's Podcast",
+    "published": "2026-10-25",
+    "source_url": "https://www.youtube.com/watch?v=19qrLchbQEc",
+    "notion_url": "",
+    "tags": [
+      "产品市场契合",
+      "创业",
+      "销售",
+      "留存",
+      "Pull框架"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 15003,
+    "duration": "1:25:48",
+    "duration_seconds": 5148,
+    "path": "channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md",
+    "structured_path": "channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.transcript.md"
+  },
+  {
     "id": "ZIBI6FiLxgQ",
     "video_id": "ZIBI6FiLxgQ",
     "title": "How I’m Actually Using Claude Duet (After 10 Hours of Testing)",

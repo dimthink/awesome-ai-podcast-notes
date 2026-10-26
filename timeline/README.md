@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-25](2026/10/2026-10-25.md) · 1 篇
+
+- [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](../channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md) · Lenny's Podcast
+
 ## [2026-10-23](2026/10/2026-10-23.md) · 2 篇
 
 - [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](../channels/riley-brown/2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md) · Riley Brown
