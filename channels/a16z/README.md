@@ -1,9 +1,10 @@
 # a16z
 
-106 notes in this channel.
+107 notes in this channel.
 
-本频道共 106 篇。
+本频道共 107 篇。
 
+- 2026-10-26 · [Why OpenAI Is Racing to Make Computer Use Superhuman](2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md)
 - 2026-10-23 · [Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs](2026-10-23-amazon-ceo-andy-jassy-on-the-infrastructure-the-ai-era-needs--YMMRQ1qscI.md)
 - 2026-10-22 · [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md)
 - 2026-10-20 · [Should You Trust ChatGPT With Your Health?](2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md)

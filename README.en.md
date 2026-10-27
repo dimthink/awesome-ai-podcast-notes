@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 965 |
+| Notes | 970 |
 | Channels | 16 |
-| Structured notes | 639 |
-| Raw transcripts | 925 |
+| Structured notes | 643 |
+| Raw transcripts | 930 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-25 |
-| Archive updated | 2026-10-26 |
+| Latest source date | 2026-10-26 |
+| Archive updated | 2026-10-27 |
 
 Each episode can include up to three versions:
 
@@ -39,29 +39,29 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 106 notes
+### [a16z](channels/a16z/README.md) · 107 notes
 
+- 2026-10-26 · [Why OpenAI Is Racing to Make Computer Use Superhuman](channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md)
 - 2026-10-23 · [Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs](channels/a16z/2026-10-23-amazon-ceo-andy-jassy-on-the-infrastructure-the-ai-era-needs--YMMRQ1qscI.md)
 - 2026-10-22 · [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md)
-- 2026-10-20 · [Should You Trust ChatGPT With Your Health?](channels/a16z/2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md)
 
-### [Latent Space](channels/latent-space/README.md) · 100 notes
+### [Latent Space](channels/latent-space/README.md) · 101 notes
 
+- 2026-10-26 · [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](channels/latent-space/2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md)
 - 2026-10-22 · [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal](channels/latent-space/2026-10-22-why-ai-compute-comes-in-rectangles-—-erik-bernhardsson,-modal-IiZ9yd2Do8I.md)
 - 2026-10-22 · [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](channels/latent-space/2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.md)
-- 2026-10-21 · [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 83 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 84 notes
 
+- 2026-10-26 · [The $1,000/hour 1-person AI business](channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md)
 - 2026-10-21 · [The 9 Stages of AI Agent Adoption, Explained](channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md)
 - 2026-10-19 · [Meta Muse Will Create 1,000 Millionaires](channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md)
-- 2026-10-15 · [Make cool things with AI that people buy (Gemini 4 Argon)](channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 83 notes
+### [Riley Brown](channels/riley-brown/README.md) · 84 notes
 
+- 2026-10-26 · [The Most Terrifying Week in AI History...](channels/riley-brown/2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md)
 - 2026-10-23 · [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](channels/riley-brown/2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md)
 - 2026-10-22 · [How Smart People Are Using AI Right Now (7 Insane Use Cases)](channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md)
-- 2026-10-16 · [Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING](channels/riley-brown/2026-10-16-gemini-4-and-muse-wonder-dropped...-but-fable-5.5-is-terrifying-1d7P3ewd9AA.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 65 notes
 
@@ -82,6 +82,14 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-10-26
+
+- [Why OpenAI Is Racing to Make Computer Use Superhuman](channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md) · a16z
+- [The Most Terrifying Week in AI History...](channels/riley-brown/2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md) · Riley Brown
+- [The $1,000/hour 1-person AI business](channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md) · Greg Isenberg
+- [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](channels/latent-space/2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md) · Latent Space
+- [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503](channels/lex-fridman/2026-10-26-ai-crisis-in-math-navier-stokes,-riemann-hypothesis-&-complexity-theory-lex-fridman-podcast-503-ZAzWPE9CItg.md) · Lex Fridman
 
 ### 2026-10-25
 
@@ -110,20 +118,6 @@ Each episode can include up to three versions:
 - [The Programmable Data Center — Evan Conrad, SF Compute](channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md) · Latent Space
 - [Should You Trust ChatGPT With Your Health?](channels/a16z/2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md) · a16z
 - [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](channels/硅谷101/2026-10-20-e256-agent、机器人与制药,谁先被gpt-6-astra改写-lsANSvYQks0.md) · 硅谷101
-
-### 2026-10-19
-
-- [Why a $1M Startup Wasn’t Worth Building in the Age of AI](channels/a16z/2026-10-19-why-a-$1m-startup-wasn’t-worth-building-in-the-age-of-ai-o_5f4N6Nq80.md) · a16z
-- [Meta Muse Will Create 1,000 Millionaires](channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md) · Greg Isenberg
-
-### 2026-10-18
-
-- [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md) · Lenny's Podcast
-
-### 2026-10-16
-
-- [Why AI Can Write Code But Can’t Keep It Running (Yet)](channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md) · a16z
-- [High Taste Testers: OpenAI Shipped Everything. What Actually Works?](channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md) · Latent Space
 
 ## Data
 

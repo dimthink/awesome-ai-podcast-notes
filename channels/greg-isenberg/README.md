@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-83 notes in this channel.
+84 notes in this channel.
 
-本频道共 83 篇。
+本频道共 84 篇。
 
+- 2026-10-26 · [The $1,000/hour 1-person AI business](2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md)
 - 2026-10-21 · [The 9 Stages of AI Agent Adoption, Explained](2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md)
 - 2026-10-19 · [Meta Muse Will Create 1,000 Millionaires](2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md)
 - 2026-10-15 · [Make cool things with AI that people buy (Gemini 4 Argon)](2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md)
