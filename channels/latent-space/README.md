@@ -1,9 +1,10 @@
 # Latent Space
 
-101 notes in this channel.
+102 notes in this channel.
 
-本频道共 101 篇。
+本频道共 102 篇。
 
+- 2026-10-27 · [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md)
 - 2026-10-26 · [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md)
 - 2026-10-22 · [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal](2026-10-22-why-ai-compute-comes-in-rectangles-—-erik-bernhardsson,-modal-IiZ9yd2Do8I.md)
 - 2026-10-22 · [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.md)

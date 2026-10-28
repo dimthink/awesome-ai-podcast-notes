@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 970 |
+| Notes | 973 |
 | Channels | 16 |
-| Structured notes | 643 |
-| Raw transcripts | 930 |
+| Structured notes | 646 |
+| Raw transcripts | 933 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-26 |
-| Archive updated | 2026-10-27 |
+| Latest source date | 2026-10-27 |
+| Archive updated | 2026-10-28 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 107 notes
+### [a16z](channels/a16z/README.md) · 108 notes
 
+- 2026-10-27 · [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](channels/a16z/2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md)
 - 2026-10-26 · [Why OpenAI Is Racing to Make Computer Use Superhuman](channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md)
 - 2026-10-23 · [Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs](channels/a16z/2026-10-23-amazon-ceo-andy-jassy-on-the-infrastructure-the-ai-era-needs--YMMRQ1qscI.md)
-- 2026-10-22 · [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md)
 
-### [Latent Space](channels/latent-space/README.md) · 101 notes
+### [Latent Space](channels/latent-space/README.md) · 102 notes
 
+- 2026-10-27 · [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md)
 - 2026-10-26 · [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](channels/latent-space/2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md)
 - 2026-10-22 · [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal](channels/latent-space/2026-10-22-why-ai-compute-comes-in-rectangles-—-erik-bernhardsson,-modal-IiZ9yd2Do8I.md)
-- 2026-10-22 · [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](channels/latent-space/2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 84 notes
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
 - 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 52 notes
+### [Y Combinator](channels/y-combinator/README.md) · 53 notes
 
+- 2026-10-27 · [The AI Billing Stack for Healthcare](channels/y-combinator/2026-10-27-the-ai-billing-stack-for-healthcare-e1NQKzBXfM8.md)
 - 2026-10-02 · [Building AI Agents for Everyone](channels/y-combinator/2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.md)
 - 2026-10-01 · [Better AI Starts With Better Verification](channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md)
-- 2026-09-30 · [The Startup Industrial Base: Building for the Next 250 — Washington, D.C.](channels/y-combinator/2026-09-30-the-startup-industrial-base-building-for-the-next-250-—-washington,-d.c-T6hVGJ4gepk.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 47 notes
 
@@ -82,6 +82,12 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-10-27
+
+- [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](channels/a16z/2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md) · a16z
+- [The AI Billing Stack for Healthcare](channels/y-combinator/2026-10-27-the-ai-billing-stack-for-healthcare-e1NQKzBXfM8.md) · Y Combinator
+- [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md) · Latent Space
 
 ### 2026-10-26
 
@@ -112,12 +118,6 @@ Each episode can include up to three versions:
 - [The 9 Stages of AI Agent Adoption, Explained](channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md) · Greg Isenberg
 - [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](channels/张晓珺/2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md) · 张晓珺
 - [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md) · Latent Space
-
-### 2026-10-20
-
-- [The Programmable Data Center — Evan Conrad, SF Compute](channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md) · Latent Space
-- [Should You Trust ChatGPT With Your Health?](channels/a16z/2026-10-20-should-you-trust-chatgpt-with-your-health-9n0MI4D7TCM.md) · a16z
-- [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](channels/硅谷101/2026-10-20-e256-agent、机器人与制药,谁先被gpt-6-astra改写-lsANSvYQks0.md) · 硅谷101
 
 ## Data
 

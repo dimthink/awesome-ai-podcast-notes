@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-27](2026/10/2026-10-27.md) · 3 篇
+
+- [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](../channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md) · Latent Space
+- [The AI Billing Stack for Healthcare](../channels/y-combinator/2026-10-27-the-ai-billing-stack-for-healthcare-e1NQKzBXfM8.md) · Y Combinator
+- [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](../channels/a16z/2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md) · a16z
+
 ## [2026-10-26](2026/10/2026-10-26.md) · 5 篇
 
 - [The $1,000/hour 1-person AI business](../channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md) · Greg Isenberg
