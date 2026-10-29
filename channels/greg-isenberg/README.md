@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-84 notes in this channel.
+85 notes in this channel.
 
-本频道共 84 篇。
+本频道共 85 篇。
 
+- 2026-10-28 · [$100M ARR Founder: The Next Big AI Opportunity](2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md)
 - 2026-10-26 · [The $1,000/hour 1-person AI business](2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md)
 - 2026-10-21 · [The 9 Stages of AI Agent Adoption, Explained](2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md)
 - 2026-10-19 · [Meta Muse Will Create 1,000 Millionaires](2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md)

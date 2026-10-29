@@ -1,9 +1,10 @@
 # a16z
 
-108 notes in this channel.
+109 notes in this channel.
 
-本频道共 108 篇。
+本频道共 109 篇。
 
+- 2026-10-28 · [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md)
 - 2026-10-27 · [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md)
 - 2026-10-26 · [Why OpenAI Is Racing to Make Computer Use Superhuman](2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md)
 - 2026-10-23 · [Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs](2026-10-23-amazon-ceo-andy-jassy-on-the-infrastructure-the-ai-era-needs--YMMRQ1qscI.md)

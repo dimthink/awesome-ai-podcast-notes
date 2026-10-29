@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 973 |
+| Notes | 978 |
 | Channels | 16 |
-| Structured notes | 646 |
-| Raw transcripts | 933 |
+| Structured notes | 651 |
+| Raw transcripts | 938 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-27 |
-| Archive updated | 2026-10-28 |
+| Latest source date | 2026-10-29 |
+| Archive updated | 2026-10-29 |
 
 Each episode can include up to three versions:
 
@@ -39,29 +39,29 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 108 notes
+### [a16z](channels/a16z/README.md) · 109 notes
 
+- 2026-10-28 · [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md)
 - 2026-10-27 · [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](channels/a16z/2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md)
 - 2026-10-26 · [Why OpenAI Is Racing to Make Computer Use Superhuman](channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md)
-- 2026-10-23 · [Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs](channels/a16z/2026-10-23-amazon-ceo-andy-jassy-on-the-infrastructure-the-ai-era-needs--YMMRQ1qscI.md)
 
-### [Latent Space](channels/latent-space/README.md) · 102 notes
+### [Latent Space](channels/latent-space/README.md) · 103 notes
 
+- 2026-10-28 · [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md)
 - 2026-10-27 · [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md)
 - 2026-10-26 · [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](channels/latent-space/2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md)
-- 2026-10-22 · [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal](channels/latent-space/2026-10-22-why-ai-compute-comes-in-rectangles-—-erik-bernhardsson,-modal-IiZ9yd2Do8I.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 84 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 85 notes
 
+- 2026-10-28 · [$100M ARR Founder: The Next Big AI Opportunity](channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md)
 - 2026-10-26 · [The $1,000/hour 1-person AI business](channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md)
 - 2026-10-21 · [The 9 Stages of AI Agent Adoption, Explained](channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md)
-- 2026-10-19 · [Meta Muse Will Create 1,000 Millionaires](channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 84 notes
+### [Riley Brown](channels/riley-brown/README.md) · 85 notes
 
+- 2026-10-28 · [Here Is My ENTIRE AI Setup (Nothing Held Back)](channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md)
 - 2026-10-26 · [The Most Terrifying Week in AI History...](channels/riley-brown/2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md)
 - 2026-10-23 · [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](channels/riley-brown/2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md)
-- 2026-10-22 · [How Smart People Are Using AI Right Now (7 Insane Use Cases)](channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 65 notes
 
@@ -82,6 +82,17 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-10-29
+
+- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.md) · 硅谷101
+
+### 2026-10-28
+
+- [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md) · Latent Space
+- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md) · a16z
+- [Here Is My ENTIRE AI Setup (Nothing Held Back)](channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md) · Riley Brown
+- [$100M ARR Founder: The Next Big AI Opportunity](channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md) · Greg Isenberg
 
 ### 2026-10-27
 
@@ -110,14 +121,6 @@ Each episode can include up to three versions:
 
 - [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal](channels/latent-space/2026-10-22-why-ai-compute-comes-in-rectangles-—-erik-bernhardsson,-modal-IiZ9yd2Do8I.md) · Latent Space
 - [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](channels/latent-space/2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.md) · Latent Space
-- [The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon](channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md) · a16z
-- [How Smart People Are Using AI Right Now (7 Insane Use Cases)](channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md) · Riley Brown
-
-### 2026-10-21
-
-- [The 9 Stages of AI Agent Adoption, Explained](channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md) · Greg Isenberg
-- [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](channels/张晓珺/2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md) · 张晓珺
-- [AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess](channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md) · Latent Space
 
 ## Data
 

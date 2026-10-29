@@ -6,6 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-29](2026/10/2026-10-29.md) · 1 篇
+
+- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](../channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.md) · 硅谷101
+
+## [2026-10-28](2026/10/2026-10-28.md) · 4 篇
+
+- [$100M ARR Founder: The Next Big AI Opportunity](../channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md) · Greg Isenberg
+- [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](../channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md) · Latent Space
+- [Here Is My ENTIRE AI Setup (Nothing Held Back)](../channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md) · Riley Brown
+- [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](../channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md) · a16z
+
 ## [2026-10-27](2026/10/2026-10-27.md) · 3 篇
 
 - [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](../channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md) · Latent Space
