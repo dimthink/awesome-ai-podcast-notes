@@ -1,5 +1,54 @@
 [
   {
+    "id": "AqqjH_uv-_w",
+    "video_id": "AqqjH_uv-_w",
+    "title": "SaaS is dead?",
+    "channel": "Greg Isenberg",
+    "published": "2026-10-29",
+    "source_url": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
+    "notion_url": "",
+    "tags": [
+      "SaaS",
+      "AI 创业",
+      "商业模式",
+      "免费增值",
+      "智能体"
+    ],
+    "rating": 3,
+    "language": "英文",
+    "word_count": 9019,
+    "duration": "11:13",
+    "duration_seconds": 673,
+    "path": "channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md",
+    "structured_path": "channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.transcript.md"
+  },
+  {
+    "id": "cRJ7CfaK1Vc",
+    "video_id": "cRJ7CfaK1Vc",
+    "title": "How to Build the Next SpaceX or Tesla",
+    "channel": "a16z",
+    "published": "2026-10-29",
+    "source_url": "https://www.youtube.com/watch?v=cRJ7CfaK1Vc",
+    "notion_url": "",
+    "tags": [
+      "American Dynamism",
+      "工业基础",
+      "国防科技",
+      "AI与制造",
+      "风险投资",
+      "垂直整合"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 30145,
+    "duration": "49:17",
+    "duration_seconds": 2957,
+    "path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md",
+    "structured_path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.structured.md",
+    "transcript_path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.transcript.md"
+  },
+  {
     "id": "XcastAK9pDM",
     "video_id": "XcastAK9pDM",
     "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
@@ -23,6 +72,31 @@
     "path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.md",
     "structured_path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.structured.md",
     "transcript_path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.transcript.md"
+  },
+  {
+    "id": "5NRNqjlmnKQ",
+    "video_id": "5NRNqjlmnKQ",
+    "title": "Building AI for the $650B Home Services Market",
+    "channel": "Y Combinator",
+    "published": "2026-10-29",
+    "source_url": "https://www.youtube.com/watch?v=5NRNqjlmnKQ",
+    "notion_url": "",
+    "tags": [
+      "创业",
+      "AI",
+      "家庭服务",
+      "产品市场匹配",
+      "YC",
+      "B2B销售"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 14122,
+    "duration": "31:41",
+    "duration_seconds": 1901,
+    "path": "channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md",
+    "structured_path": "channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.structured.md",
+    "transcript_path": "channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.transcript.md"
   },
   {
     "id": "zHG6sAss_kE",

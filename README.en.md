@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 978 |
+| Notes | 981 |
 | Channels | 16 |
-| Structured notes | 651 |
-| Raw transcripts | 938 |
+| Structured notes | 654 |
+| Raw transcripts | 941 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-10-29 |
-| Archive updated | 2026-10-29 |
+| Archive updated | 2026-10-30 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 109 notes
+### [a16z](channels/a16z/README.md) · 110 notes
 
+- 2026-10-29 · [How to Build the Next SpaceX or Tesla](channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md)
 - 2026-10-28 · [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md)
 - 2026-10-27 · [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](channels/a16z/2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md)
-- 2026-10-26 · [Why OpenAI Is Racing to Make Computer Use Superhuman](channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 103 notes
 
@@ -51,11 +51,11 @@ Each episode can include up to three versions:
 - 2026-10-27 · [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md)
 - 2026-10-26 · [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](channels/latent-space/2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 85 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 86 notes
 
+- 2026-10-29 · [SaaS is dead?](channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md)
 - 2026-10-28 · [$100M ARR Founder: The Next Big AI Opportunity](channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md)
 - 2026-10-26 · [The $1,000/hour 1-person AI business](channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md)
-- 2026-10-21 · [The 9 Stages of AI Agent Adoption, Explained](channels/greg-isenberg/2026-10-21-the-9-stages-of-ai-agent-adoption,-explained-nRl-7Yhmbog.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 85 notes
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
 - 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 53 notes
+### [Y Combinator](channels/y-combinator/README.md) · 54 notes
 
+- 2026-10-29 · [Building AI for the $650B Home Services Market](channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md)
 - 2026-10-27 · [The AI Billing Stack for Healthcare](channels/y-combinator/2026-10-27-the-ai-billing-stack-for-healthcare-e1NQKzBXfM8.md)
 - 2026-10-02 · [Building AI Agents for Everyone](channels/y-combinator/2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.md)
-- 2026-10-01 · [Better AI Starts With Better Verification](channels/y-combinator/2026-10-01-better-ai-starts-with-better-verification-0-g2-PRrOdw.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 47 notes
 
@@ -85,7 +85,10 @@ Each episode can include up to three versions:
 
 ### 2026-10-29
 
+- [SaaS is dead?](channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md) · Greg Isenberg
+- [How to Build the Next SpaceX or Tesla](channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md) · a16z
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.md) · 硅谷101
+- [Building AI for the $650B Home Services Market](channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md) · Y Combinator
 
 ### 2026-10-28
 
@@ -115,12 +118,6 @@ Each episode can include up to three versions:
 ### 2026-10-23
 
 - [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](channels/riley-brown/2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md) · Riley Brown
-- [Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs](channels/a16z/2026-10-23-amazon-ceo-andy-jassy-on-the-infrastructure-the-ai-era-needs--YMMRQ1qscI.md) · a16z
-
-### 2026-10-22
-
-- [Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal](channels/latent-space/2026-10-22-why-ai-compute-comes-in-rectangles-—-erik-bernhardsson,-modal-IiZ9yd2Do8I.md) · Latent Space
-- [The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi](channels/latent-space/2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.md) · Latent Space
 
 ## Data
 

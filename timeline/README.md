@@ -6,8 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-29](2026/10/2026-10-29.md) · 1 篇
+## [2026-10-29](2026/10/2026-10-29.md) · 4 篇
 
+- [SaaS is dead?](../channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md) · Greg Isenberg
+- [Building AI for the $650B Home Services Market](../channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md) · Y Combinator
+- [How to Build the Next SpaceX or Tesla](../channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md) · a16z
 - [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](../channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.md) · 硅谷101
 
 ## [2026-10-28](2026/10/2026-10-28.md) · 4 篇
