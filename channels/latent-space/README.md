@@ -1,9 +1,10 @@
 # Latent Space
 
-103 notes in this channel.
+104 notes in this channel.
 
-本频道共 103 篇。
+本频道共 104 篇。
 
+- 2026-10-31 · [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md)
 - 2026-10-28 · [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md)
 - 2026-10-27 · [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md)
 - 2026-10-26 · [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md)

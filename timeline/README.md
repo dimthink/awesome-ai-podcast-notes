@@ -6,6 +6,14 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-10-31](2026/10/2026-10-31.md) · 1 篇
+
+- [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](../channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md) · Latent Space
+
+## [2026-10-30](2026/10/2026-10-30.md) · 1 篇
+
+- [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](../channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md) · a16z
+
 ## [2026-10-29](2026/10/2026-10-29.md) · 4 篇
 
 - [SaaS is dead?](../channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md) · Greg Isenberg

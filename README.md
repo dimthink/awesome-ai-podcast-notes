@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-981-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-983-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 981 |
+| 笔记 | 983 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 654 |
-| 原始文稿 | 941 |
+| 结构化文稿 | 656 |
+| 原始文稿 | 943 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-10-29 |
-| 仓库更新日期 | 2026-10-30 |
+| 最新来源日期 | 2026-10-31 |
+| 仓库更新日期 | 2026-10-31 |
 
 ## 适合谁
 
@@ -50,17 +50,17 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 110 篇
+### [a16z](channels/a16z/README.md) · 111 篇
 
+- 2026-10-30 · [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md)
 - 2026-10-29 · [How to Build the Next SpaceX or Tesla](channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md)
 - 2026-10-28 · [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md)
-- 2026-10-27 · [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](channels/a16z/2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md)
 
-### [Latent Space](channels/latent-space/README.md) · 103 篇
+### [Latent Space](channels/latent-space/README.md) · 104 篇
 
+- 2026-10-31 · [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md)
 - 2026-10-28 · [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md)
 - 2026-10-27 · [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md)
-- 2026-10-26 · [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](channels/latent-space/2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 86 篇
 
@@ -94,6 +94,14 @@
 
 ## 最新更新
 
+### 2026-10-31
+
+- [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md) · Latent Space
+
+### 2026-10-30
+
+- [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md) · a16z
+
 ### 2026-10-29
 
 - [SaaS is dead?](channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md) · Greg Isenberg
@@ -121,14 +129,6 @@
 - [The $1,000/hour 1-person AI business](channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md) · Greg Isenberg
 - [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](channels/latent-space/2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md) · Latent Space
 - [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503](channels/lex-fridman/2026-10-26-ai-crisis-in-math-navier-stokes,-riemann-hypothesis-&-complexity-theory-lex-fridman-podcast-503-ZAzWPE9CItg.md) · Lex Fridman
-
-### 2026-10-25
-
-- [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md) · Lenny's Podcast
-
-### 2026-10-23
-
-- [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](channels/riley-brown/2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md) · Riley Brown
 
 ## 数据与自动更新
 

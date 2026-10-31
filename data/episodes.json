@@ -1,5 +1,53 @@
 [
   {
+    "id": "v-d1WTqIULs",
+    "video_id": "v-d1WTqIULs",
+    "title": "Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services",
+    "channel": "Latent Space",
+    "published": "2026-10-31",
+    "source_url": "https://www.youtube.com/watch?v=v-d1WTqIULs",
+    "notion_url": "",
+    "tags": [
+      "OpenAI",
+      "金融AI",
+      "ChatGPT",
+      "产品设计",
+      "强化学习"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 14864,
+    "duration": "27:35",
+    "duration_seconds": 1655,
+    "path": "channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md",
+    "structured_path": "channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.structured.md",
+    "transcript_path": "channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.transcript.md"
+  },
+  {
+    "id": "iRMmPjunm3Q",
+    "video_id": "iRMmPjunm3Q",
+    "title": "Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses",
+    "channel": "a16z",
+    "published": "2026-10-30",
+    "source_url": "https://www.youtube.com/watch?v=iRMmPjunm3Q",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "法律科技",
+      "创业",
+      "结果导向定价",
+      "市场失灵"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 12346,
+    "duration": "52:11",
+    "duration_seconds": 3131,
+    "path": "channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md",
+    "structured_path": "channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.structured.md",
+    "transcript_path": "channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.transcript.md"
+  },
+  {
     "id": "AqqjH_uv-_w",
     "video_id": "AqqjH_uv-_w",
     "title": "SaaS is dead?",

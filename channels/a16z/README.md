@@ -1,9 +1,10 @@
 # a16z
 
-110 notes in this channel.
+111 notes in this channel.
 
-本频道共 110 篇。
+本频道共 111 篇。
 
+- 2026-10-30 · [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md)
 - 2026-10-29 · [How to Build the Next SpaceX or Tesla](2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md)
 - 2026-10-28 · [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md)
 - 2026-10-27 · [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md)
