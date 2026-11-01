@@ -1,9 +1,10 @@
 # Riley Brown
 
-85 notes in this channel.
+86 notes in this channel.
 
-本频道共 85 篇。
+本频道共 86 篇。
 
+- 2026-10-31 · [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md)
 - 2026-10-28 · [Here Is My ENTIRE AI Setup (Nothing Held Back)](2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md)
 - 2026-10-26 · [The Most Terrifying Week in AI History...](2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md)
 - 2026-10-23 · [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md)

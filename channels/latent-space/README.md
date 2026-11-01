@@ -1,9 +1,10 @@
 # Latent Space
 
-104 notes in this channel.
+105 notes in this channel.
 
-本频道共 104 篇。
+本频道共 105 篇。
 
+- 2026-10-31 · [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md)
 - 2026-10-31 · [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md)
 - 2026-10-28 · [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md)
 - 2026-10-27 · [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md)

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 983 |
+| Notes | 986 |
 | Channels | 16 |
-| Structured notes | 656 |
-| Raw transcripts | 943 |
+| Structured notes | 659 |
+| Raw transcripts | 946 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-10-31 |
-| Archive updated | 2026-10-31 |
+| Archive updated | 2026-11-01 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 111 notes
+### [a16z](channels/a16z/README.md) · 112 notes
 
+- 2026-10-31 · [Hip Hop’s Origin Story, Told by the Legends Who Lived It](channels/a16z/2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md)
 - 2026-10-30 · [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md)
 - 2026-10-29 · [How to Build the Next SpaceX or Tesla](channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md)
-- 2026-10-28 · [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md)
 
-### [Latent Space](channels/latent-space/README.md) · 104 notes
+### [Latent Space](channels/latent-space/README.md) · 105 notes
 
+- 2026-10-31 · [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](channels/latent-space/2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md)
 - 2026-10-31 · [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md)
 - 2026-10-28 · [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md)
-- 2026-10-27 · [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 86 notes
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-10-28 · [$100M ARR Founder: The Next Big AI Opportunity](channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md)
 - 2026-10-26 · [The $1,000/hour 1-person AI business](channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 85 notes
+### [Riley Brown](channels/riley-brown/README.md) · 86 notes
 
+- 2026-10-31 · [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](channels/riley-brown/2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md)
 - 2026-10-28 · [Here Is My ENTIRE AI Setup (Nothing Held Back)](channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md)
 - 2026-10-26 · [The Most Terrifying Week in AI History...](channels/riley-brown/2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md)
-- 2026-10-23 · [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](channels/riley-brown/2026-10-23-how-i’m-actually-using-claude-duet-(after-10-hours-of-testing)-ZIBI6FiLxgQ.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 65 notes
 
@@ -85,6 +85,9 @@ Each episode can include up to three versions:
 
 ### 2026-10-31
 
+- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](channels/latent-space/2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md) · Latent Space
+- [Hip Hop’s Origin Story, Told by the Legends Who Lived It](channels/a16z/2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md) · a16z
+- [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](channels/riley-brown/2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md) · Riley Brown
 - [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md) · Latent Space
 
 ### 2026-10-30
@@ -115,9 +118,6 @@ Each episode can include up to three versions:
 
 - [Why OpenAI Is Racing to Make Computer Use Superhuman](channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md) · a16z
 - [The Most Terrifying Week in AI History...](channels/riley-brown/2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md) · Riley Brown
-- [The $1,000/hour 1-person AI business](channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md) · Greg Isenberg
-- [An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio](channels/latent-space/2026-10-26-an-eval-for-ai-scientists-that-knows-the-answer-key-ian-quigley,-leash-bio-vhPCo-8K78U.md) · Latent Space
-- [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503](channels/lex-fridman/2026-10-26-ai-crisis-in-math-navier-stokes,-riemann-hypothesis-&-complexity-theory-lex-fridman-podcast-503-ZAzWPE9CItg.md) · Lex Fridman
 
 ## Data
 

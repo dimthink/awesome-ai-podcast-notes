@@ -6,9 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-10-31](2026/10/2026-10-31.md) · 1 篇
+## [2026-10-31](2026/10/2026-10-31.md) · 4 篇
 
+- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](../channels/latent-space/2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md) · Latent Space
 - [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](../channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md) · Latent Space
+- [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](../channels/riley-brown/2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md) · Riley Brown
+- [Hip Hop’s Origin Story, Told by the Legends Who Lived It](../channels/a16z/2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md) · a16z
 
 ## [2026-10-30](2026/10/2026-10-30.md) · 1 篇
 

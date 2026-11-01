@@ -1,9 +1,10 @@
 # a16z
 
-111 notes in this channel.
+112 notes in this channel.
 
-本频道共 111 篇。
+本频道共 112 篇。
 
+- 2026-10-31 · [Hip Hop’s Origin Story, Told by the Legends Who Lived It](2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md)
 - 2026-10-30 · [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md)
 - 2026-10-29 · [How to Build the Next SpaceX or Tesla](2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md)
 - 2026-10-28 · [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md)
