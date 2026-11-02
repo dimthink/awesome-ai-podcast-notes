@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-01](2026/11/2026-11-01.md) · 1 篇
+
+- [86 minutes of paid-growth alpha | Hector Serrano](../channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md) · Lenny's Podcast
+
 ## [2026-10-31](2026/10/2026-10-31.md) · 4 篇
 
 - [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](../channels/latent-space/2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md) · Latent Space

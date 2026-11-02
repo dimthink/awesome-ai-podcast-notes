@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 986 |
+| Notes | 987 |
 | Channels | 16 |
-| Structured notes | 659 |
-| Raw transcripts | 946 |
+| Structured notes | 660 |
+| Raw transcripts | 947 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-10-31 |
-| Archive updated | 2026-11-01 |
+| Latest source date | 2026-11-01 |
+| Archive updated | 2026-11-02 |
 
 Each episode can include up to three versions:
 
@@ -63,11 +63,11 @@ Each episode can include up to three versions:
 - 2026-10-28 · [Here Is My ENTIRE AI Setup (Nothing Held Back)](channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md)
 - 2026-10-26 · [The Most Terrifying Week in AI History...](channels/riley-brown/2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 65 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 66 notes
 
+- 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
 - 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 - 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
-- 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](channels/lenny's-podcast/2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 54 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-11-01
+
+- [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md) · Lenny's Podcast
 
 ### 2026-10-31
 
@@ -117,7 +121,6 @@ Each episode can include up to three versions:
 ### 2026-10-26
 
 - [Why OpenAI Is Racing to Make Computer Use Superhuman](channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md) · a16z
-- [The Most Terrifying Week in AI History...](channels/riley-brown/2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md) · Riley Brown
 
 ## Data
 

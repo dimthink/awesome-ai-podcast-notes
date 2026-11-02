@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-65 notes in this channel.
+66 notes in this channel.
 
-本频道共 65 篇。
+本频道共 66 篇。
 
+- 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
 - 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 - 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
 - 2026-10-11 · [Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)](2026-10-11-why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-(vp-google-labs)-3I6QYkccd3o.md)

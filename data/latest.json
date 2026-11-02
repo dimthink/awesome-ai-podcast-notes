@@ -1,5 +1,30 @@
 [
   {
+    "id": "KzS5Qs7vSMg",
+    "video_id": "KzS5Qs7vSMg",
+    "title": "86 minutes of paid-growth alpha | Hector Serrano",
+    "channel": "Lenny's Podcast",
+    "published": "2026-11-01",
+    "source_url": "https://www.youtube.com/watch?v=KzS5Qs7vSMg",
+    "notion_url": "",
+    "tags": [
+      "增长营销",
+      "付费UGC",
+      "创作者经济",
+      "B2B SaaS",
+      "年轻人才",
+      "创始人品牌"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 31381,
+    "duration": "1:27:47",
+    "duration_seconds": 5267,
+    "path": "channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md",
+    "structured_path": "channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.transcript.md"
+  },
+  {
     "id": "KM3VQZKjpiY",
     "video_id": "KM3VQZKjpiY",
     "title": "Using Agents for Long-Horizon Financial Work — Aman Singh, Arca",
@@ -1190,29 +1215,5 @@
     "path": "channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.md",
     "structured_path": "channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.structured.md",
     "transcript_path": "channels/latent-space/2026-10-13-how-to-kill-your-saas-what-we-learned-replacing-a-$43k-yr-tool-with-ai-agents-zlD-CkLVKtU.transcript.md"
-  },
-  {
-    "id": "3Q1mdn5ZGvM",
-    "video_id": "3Q1mdn5ZGvM",
-    "title": "Recursive Self-Improvement and the Future of AI",
-    "channel": "a16z",
-    "published": "2026-10-12",
-    "source_url": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM",
-    "notion_url": "",
-    "tags": [
-      "RSI",
-      "AI",
-      "创业",
-      "控制论",
-      "实证测量"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 20728,
-    "duration": "32:07",
-    "duration_seconds": 1927,
-    "path": "channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.md",
-    "structured_path": "channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.structured.md",
-    "transcript_path": "channels/a16z/2026-10-12-recursive-self-improvement-and-the-future-of-ai-3Q1mdn5ZGvM.transcript.md"
   }
 ]
