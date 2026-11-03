@@ -1,9 +1,10 @@
 # AI Explained
 
-34 notes in this channel.
+35 notes in this channel.
 
-本频道共 34 篇。
+本频道共 35 篇。
 
+- 2026-11-02 · [‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon](2026-11-02-‘we-may-release-models-we-can’t-control’-amodei,-altman-...-and-gemini-carbon-0Kw6_DTZPrY.md)
 - 2026-10-12 · [AI Labs Warn Race Makes Breach ‘Inevitable’](2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.md)
 - 2026-10-01 · [OpenAI Security: Controlling Models is Now ‘Hell’](2026-10-01-openai-security-controlling-models-is-now-‘hell’-_rtp1XzaP6Q.md)
 - 2026-09-24 · [Opus 5.5: How Close Are We to Automated AI Research?](2026-09-24-opus-5.5-how-close-are-we-to-automated-ai-research-R9momwXV9w4.md)

@@ -6,6 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-02](2026/11/2026-11-02.md) · 4 篇
+
+- [‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon](../channels/ai-explained/2026-11-02-‘we-may-release-models-we-can’t-control’-amodei,-altman-...-and-gemini-carbon-0Kw6_DTZPrY.md) · AI Explained
+- [The $1M+ Solo Grok Bot Business (Full Course)](../channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md) · Greg Isenberg
+- [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](../channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md) · Latent Space
+- [What iPhone Packaging Reveals About the Robotics Opportunity](../channels/a16z/2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md) · a16z
+
 ## [2026-11-01](2026/11/2026-11-01.md) · 1 篇
 
 - [86 minutes of paid-growth alpha | Hector Serrano](../channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md) · Lenny's Podcast

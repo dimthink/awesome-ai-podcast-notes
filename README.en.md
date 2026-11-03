@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 987 |
+| Notes | 991 |
 | Channels | 16 |
-| Structured notes | 660 |
-| Raw transcripts | 947 |
+| Structured notes | 664 |
+| Raw transcripts | 951 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-01 |
-| Archive updated | 2026-11-02 |
+| Latest source date | 2026-11-02 |
+| Archive updated | 2026-11-03 |
 
 Each episode can include up to three versions:
 
@@ -39,23 +39,23 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 112 notes
+### [a16z](channels/a16z/README.md) · 113 notes
 
+- 2026-11-02 · [What iPhone Packaging Reveals About the Robotics Opportunity](channels/a16z/2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md)
 - 2026-10-31 · [Hip Hop’s Origin Story, Told by the Legends Who Lived It](channels/a16z/2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md)
 - 2026-10-30 · [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md)
-- 2026-10-29 · [How to Build the Next SpaceX or Tesla](channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md)
 
-### [Latent Space](channels/latent-space/README.md) · 105 notes
+### [Latent Space](channels/latent-space/README.md) · 106 notes
 
+- 2026-11-02 · [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md)
 - 2026-10-31 · [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](channels/latent-space/2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md)
 - 2026-10-31 · [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md)
-- 2026-10-28 · [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 86 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 87 notes
 
+- 2026-11-02 · [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md)
 - 2026-10-29 · [SaaS is dead?](channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md)
 - 2026-10-28 · [$100M ARR Founder: The Next Big AI Opportunity](channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md)
-- 2026-10-26 · [The $1,000/hour 1-person AI business](channels/greg-isenberg/2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 86 notes
 
@@ -82,6 +82,13 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-11-02
+
+- [‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon](channels/ai-explained/2026-11-02-‘we-may-release-models-we-can’t-control’-amodei,-altman-...-and-gemini-carbon-0Kw6_DTZPrY.md) · AI Explained
+- [What iPhone Packaging Reveals About the Robotics Opportunity](channels/a16z/2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md) · a16z
+- [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md) · Greg Isenberg
+- [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md) · Latent Space
 
 ### 2026-11-01
 
@@ -111,16 +118,6 @@ Each episode can include up to three versions:
 - [Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires](channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md) · a16z
 - [Here Is My ENTIRE AI Setup (Nothing Held Back)](channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md) · Riley Brown
 - [$100M ARR Founder: The Next Big AI Opportunity](channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md) · Greg Isenberg
-
-### 2026-10-27
-
-- [The AI School Kids Love More Than Vacation | Alpha School's Joe Liemandt](channels/a16z/2026-10-27-the-ai-school-kids-love-more-than-vacation-alpha-school's-joe-liemandt-T4u2FoIm3pw.md) · a16z
-- [The AI Billing Stack for Healthcare](channels/y-combinator/2026-10-27-the-ai-billing-stack-for-healthcare-e1NQKzBXfM8.md) · Y Combinator
-- [How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang](channels/latent-space/2026-10-27-how-anthropic-ships-the-1-llm-in-the-world-—-with-katelyn-lesse-and-angela-jiang-MRQTlwcW-aQ.md) · Latent Space
-
-### 2026-10-26
-
-- [Why OpenAI Is Racing to Make Computer Use Superhuman](channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md) · a16z
 
 ## Data
 

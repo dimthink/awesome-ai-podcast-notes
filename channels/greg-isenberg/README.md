@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-86 notes in this channel.
+87 notes in this channel.
 
-本频道共 86 篇。
+本频道共 87 篇。
 
+- 2026-11-02 · [The $1M+ Solo Grok Bot Business (Full Course)](2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md)
 - 2026-10-29 · [SaaS is dead?](2026-10-29-saas-is-dead-AqqjH_uv-_w.md)
 - 2026-10-28 · [$100M ARR Founder: The Next Big AI Opportunity](2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md)
 - 2026-10-26 · [The $1,000/hour 1-person AI business](2026-10-26-the-$1,000-hour-1-person-ai-business-HKNpCwG3nlc.md)
