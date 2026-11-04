@@ -1,5 +1,54 @@
 [
   {
+    "id": "LL0YmIyBKSU",
+    "video_id": "LL0YmIyBKSU",
+    "title": "⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev",
+    "channel": "Latent Space",
+    "published": "2026-11-03",
+    "source_url": "https://www.youtube.com/watch?v=LL0YmIyBKSU",
+    "notion_url": "",
+    "tags": [
+      "软件工厂",
+      "AI工程",
+      "智能体基础设施",
+      "Warp",
+      "工厂工程",
+      "编码智能体"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 17261,
+    "duration": "34:48",
+    "duration_seconds": 2088,
+    "path": "channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md",
+    "structured_path": "channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.structured.md",
+    "transcript_path": "channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.transcript.md"
+  },
+  {
+    "id": "Ezi-nwe6LlY",
+    "video_id": "Ezi-nwe6LlY",
+    "title": "Andrew Huberman on Focus, Energy, and Performing at Your Best",
+    "channel": "a16z",
+    "published": "2026-11-03",
+    "source_url": "https://www.youtube.com/watch?v=Ezi-nwe6LlY",
+    "notion_url": "",
+    "tags": [
+      "健康习惯",
+      "生产力",
+      "神经科学",
+      "创始人",
+      "行为设计"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 15644,
+    "duration": "48:08",
+    "duration_seconds": 2888,
+    "path": "channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md",
+    "structured_path": "channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.structured.md",
+    "transcript_path": "channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.transcript.md"
+  },
+  {
     "id": "0Kw6_DTZPrY",
     "video_id": "0Kw6_DTZPrY",
     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
@@ -74,6 +123,31 @@
     "path": "channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md",
     "structured_path": "channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.structured.md",
     "transcript_path": "channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.transcript.md"
+  },
+  {
+    "id": "8QPd6WD9Zzg",
+    "video_id": "8QPd6WD9Zzg",
+    "title": "I Built an App That Watches Me Work (Insane Focus)",
+    "channel": "Riley Brown",
+    "published": "2026-11-02",
+    "source_url": "https://www.youtube.com/watch?v=8QPd6WD9Zzg",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "专注力",
+      "Decisions API",
+      "产品设计",
+      "开源",
+      "AI编程"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 9702,
+    "duration": "16:44",
+    "duration_seconds": 1004,
+    "path": "channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md",
+    "structured_path": "channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.structured.md",
+    "transcript_path": "channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.transcript.md"
   },
   {
     "id": "bJBEFzlKPoQ",
@@ -1147,78 +1221,5 @@
     "path": "channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.md",
     "structured_path": "channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.structured.md",
     "transcript_path": "channels/greg-isenberg/2026-10-15-make-cool-things-with-ai-that-people-buy-(gemini-4-argon)-jEOUUAPC1sc.transcript.md"
-  },
-  {
-    "id": "iDaxRNIddME",
-    "video_id": "iDaxRNIddME",
-    "title": "Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming",
-    "channel": "张晓珺",
-    "published": "2026-10-15",
-    "source_url": "https://www.youtube.com/watch?v=iDaxRNIddME",
-    "notion_url": "",
-    "tags": [
-      "机器人",
-      "创业",
-      "具身智能",
-      "产品研究",
-      "修心",
-      "王阳明"
-    ],
-    "rating": 5,
-    "language": "中文",
-    "word_count": 20061,
-    "duration": "2:51:19",
-    "duration_seconds": 10279,
-    "path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md",
-    "structured_path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.structured.md",
-    "transcript_path": "channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.transcript.md"
-  },
-  {
-    "id": "fDE5R4fSq2w",
-    "video_id": "fDE5R4fSq2w",
-    "title": "Claude Code Makes Regular Claude Feel Dumb",
-    "channel": "Riley Brown",
-    "published": "2026-10-15",
-    "source_url": "https://www.youtube.com/watch?v=fDE5R4fSq2w",
-    "notion_url": "",
-    "tags": [
-      "Claude Code",
-      "AI代理",
-      "工作效率",
-      "无代码开发",
-      "Anthropic"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 20138,
-    "duration": "27:35",
-    "duration_seconds": 1655,
-    "path": "channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.md",
-    "structured_path": "channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.structured.md",
-    "transcript_path": "channels/riley-brown/2026-10-15-claude-code-makes-regular-claude-feel-dumb-fDE5R4fSq2w.transcript.md"
-  },
-  {
-    "id": "hQSBJVreLms",
-    "video_id": "hQSBJVreLms",
-    "title": "From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio",
-    "channel": "Latent Space",
-    "published": "2026-10-14",
-    "source_url": "https://www.youtube.com/watch?v=hQSBJVreLms",
-    "notion_url": "",
-    "tags": [
-      "AI药物发现",
-      "DNA编码化合物库",
-      "强化学习环境",
-      "实验室闭环",
-      "苦涩教训"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 11069,
-    "duration": "1:49:57",
-    "duration_seconds": 6597,
-    "path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.md",
-    "structured_path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.structured.md",
-    "transcript_path": "channels/latent-space/2026-10-14-from-wet-lab-to-rl-env-10,000-drug-discovery-campaigns-in-a-weekend-—-ian-quigley,-leash-bio-hQSBJVreLms.transcript.md"
   }
 ]

@@ -6,11 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-11-02](2026/11/2026-11-02.md) · 4 篇
+## [2026-11-03](2026/11/2026-11-03.md) · 2 篇
+
+- [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](../channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md) · Latent Space
+- [Andrew Huberman on Focus, Energy, and Performing at Your Best](../channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md) · a16z
+
+## [2026-11-02](2026/11/2026-11-02.md) · 5 篇
 
 - [‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon](../channels/ai-explained/2026-11-02-‘we-may-release-models-we-can’t-control’-amodei,-altman-...-and-gemini-carbon-0Kw6_DTZPrY.md) · AI Explained
 - [The $1M+ Solo Grok Bot Business (Full Course)](../channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md) · Greg Isenberg
 - [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](../channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md) · Latent Space
+- [I Built an App That Watches Me Work (Insane Focus)](../channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md) · Riley Brown
 - [What iPhone Packaging Reveals About the Robotics Opportunity](../channels/a16z/2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md) · a16z
 
 ## [2026-11-01](2026/11/2026-11-01.md) · 1 篇

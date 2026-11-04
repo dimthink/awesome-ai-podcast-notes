@@ -1,9 +1,10 @@
 # a16z
 
-113 notes in this channel.
+114 notes in this channel.
 
-本频道共 113 篇。
+本频道共 114 篇。
 
+- 2026-11-03 · [Andrew Huberman on Focus, Energy, and Performing at Your Best](2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md)
 - 2026-11-02 · [What iPhone Packaging Reveals About the Robotics Opportunity](2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md)
 - 2026-10-31 · [Hip Hop’s Origin Story, Told by the Legends Who Lived It](2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md)
 - 2026-10-30 · [Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses](2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md)
