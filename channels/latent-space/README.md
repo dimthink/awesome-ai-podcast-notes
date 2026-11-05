@@ -1,9 +1,10 @@
 # Latent Space
 
-107 notes in this channel.
+108 notes in this channel.
 
-本频道共 107 篇。
+本频道共 108 篇。
 
+- 2026-11-04 · [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md)
 - 2026-11-03 · [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md)
 - 2026-11-02 · [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md)
 - 2026-10-31 · [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md)

@@ -1,9 +1,10 @@
 # Y Combinator
 
-54 notes in this channel.
+55 notes in this channel.
 
-本频道共 54 篇。
+本频道共 55 篇。
 
+- 2026-11-04 · [Stop Wasting AI Tokens](2026-11-04-stop-wasting-ai-tokens-eN92Oatzzks.md)
 - 2026-10-29 · [Building AI for the $650B Home Services Market](2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md)
 - 2026-10-27 · [The AI Billing Stack for Healthcare](2026-10-27-the-ai-billing-stack-for-healthcare-e1NQKzBXfM8.md)
 - 2026-10-02 · [Building AI Agents for Everyone](2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.md)

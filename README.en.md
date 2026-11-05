@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 994 |
+| Notes | 997 |
 | Channels | 16 |
-| Structured notes | 667 |
-| Raw transcripts | 954 |
+| Structured notes | 670 |
+| Raw transcripts | 957 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-03 |
-| Archive updated | 2026-11-04 |
+| Latest source date | 2026-11-04 |
+| Archive updated | 2026-11-05 |
 
 Each episode can include up to three versions:
 
@@ -45,17 +45,17 @@ Each episode can include up to three versions:
 - 2026-11-02 · [What iPhone Packaging Reveals About the Robotics Opportunity](channels/a16z/2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md)
 - 2026-10-31 · [Hip Hop’s Origin Story, Told by the Legends Who Lived It](channels/a16z/2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md)
 
-### [Latent Space](channels/latent-space/README.md) · 107 notes
+### [Latent Space](channels/latent-space/README.md) · 108 notes
 
+- 2026-11-04 · [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](channels/latent-space/2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md)
 - 2026-11-03 · [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md)
 - 2026-11-02 · [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md)
-- 2026-10-31 · [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](channels/latent-space/2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 87 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 88 notes
 
+- 2026-11-04 · [If You Want To Create Wealth In The Age of AI, Watch This](channels/greg-isenberg/2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md)
 - 2026-11-02 · [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md)
 - 2026-10-29 · [SaaS is dead?](channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md)
-- 2026-10-28 · [$100M ARR Founder: The Next Big AI Opportunity](channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 87 notes
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 - 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 54 notes
+### [Y Combinator](channels/y-combinator/README.md) · 55 notes
 
+- 2026-11-04 · [Stop Wasting AI Tokens](channels/y-combinator/2026-11-04-stop-wasting-ai-tokens-eN92Oatzzks.md)
 - 2026-10-29 · [Building AI for the $650B Home Services Market](channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md)
 - 2026-10-27 · [The AI Billing Stack for Healthcare](channels/y-combinator/2026-10-27-the-ai-billing-stack-for-healthcare-e1NQKzBXfM8.md)
-- 2026-10-02 · [Building AI Agents for Everyone](channels/y-combinator/2026-10-02-building-ai-agents-for-everyone-kDLji2s7LV4.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 47 notes
 
@@ -82,6 +82,12 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-11-04
+
+- [Stop Wasting AI Tokens](channels/y-combinator/2026-11-04-stop-wasting-ai-tokens-eN92Oatzzks.md) · Y Combinator
+- [If You Want To Create Wealth In The Age of AI, Watch This](channels/greg-isenberg/2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md) · Greg Isenberg
+- [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](channels/latent-space/2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md) · Latent Space
 
 ### 2026-11-03
 
@@ -115,12 +121,6 @@ Each episode can include up to three versions:
 
 - [SaaS is dead?](channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md) · Greg Isenberg
 - [How to Build the Next SpaceX or Tesla](channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md) · a16z
-- [E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.md) · 硅谷101
-- [Building AI for the $650B Home Services Market](channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md) · Y Combinator
-
-### 2026-10-28
-
-- [Why Agents Love Supabase — with Paul Copplestone and Ant Wilson](channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md) · Latent Space
 
 ## Data
 

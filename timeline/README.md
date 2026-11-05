@@ -6,6 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-04](2026/11/2026-11-04.md) · 3 篇
+
+- [If You Want To Create Wealth In The Age of AI, Watch This](../channels/greg-isenberg/2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md) · Greg Isenberg
+- [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](../channels/latent-space/2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md) · Latent Space
+- [Stop Wasting AI Tokens](../channels/y-combinator/2026-11-04-stop-wasting-ai-tokens-eN92Oatzzks.md) · Y Combinator
+
 ## [2026-11-03](2026/11/2026-11-03.md) · 2 篇
 
 - [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](../channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md) · Latent Space
