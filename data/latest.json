@@ -1,5 +1,78 @@
 [
   {
+    "id": "jzAzzJMVIpU",
+    "video_id": "jzAzzJMVIpU",
+    "title": "The Observability Layer for the Physical World",
+    "channel": "Y Combinator",
+    "published": "2026-11-05",
+    "source_url": "https://www.youtube.com/watch?v=jzAzzJMVIpU",
+    "notion_url": "",
+    "tags": [
+      "物理AI",
+      "工业物联网",
+      "创业方法论",
+      "企业销售",
+      "预测性维护"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 12848,
+    "duration": "50:00",
+    "duration_seconds": 3000,
+    "path": "channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.md",
+    "structured_path": "channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.structured.md",
+    "transcript_path": "channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.transcript.md"
+  },
+  {
+    "id": "9iAQdKxyiQc",
+    "video_id": "9iAQdKxyiQc",
+    "title": "How AI Is Turning Figma’s Finance Team Into Builders",
+    "channel": "a16z",
+    "published": "2026-11-05",
+    "source_url": "https://www.youtube.com/watch?v=9iAQdKxyiQc",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "财务转型",
+      "自动化",
+      "组织管理",
+      "人才策略",
+      "CFO"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 17713,
+    "duration": "50:12",
+    "duration_seconds": 3012,
+    "path": "channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md",
+    "structured_path": "channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.structured.md",
+    "transcript_path": "channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.transcript.md"
+  },
+  {
+    "id": "dSiTwPl0t1U",
+    "video_id": "dSiTwPl0t1U",
+    "title": "The New AI Agents That Shop, Plan, and Gossip",
+    "channel": "a16z",
+    "published": "2026-11-04",
+    "source_url": "https://www.youtube.com/watch?v=dSiTwPl0t1U",
+    "notion_url": "",
+    "tags": [
+      "AI 代理",
+      "信任",
+      "人机交互",
+      "创业",
+      "a16z"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 22169,
+    "duration": "50:16",
+    "duration_seconds": 3016,
+    "path": "channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md",
+    "structured_path": "channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.structured.md",
+    "transcript_path": "channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.transcript.md"
+  },
+  {
     "id": "eN92Oatzzks",
     "video_id": "eN92Oatzzks",
     "title": "Stop Wasting AI Tokens",
@@ -1148,77 +1221,5 @@
     "path": "channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.md",
     "structured_path": "channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.structured.md",
     "transcript_path": "channels/greg-isenberg/2026-10-19-meta-muse-will-create-1,000-millionaires-tpZOU1ugODQ.transcript.md"
-  },
-  {
-    "id": "JHo-aiePjoM",
-    "video_id": "JHo-aiePjoM",
-    "title": "A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)",
-    "channel": "Lenny's Podcast",
-    "published": "2026-10-18",
-    "source_url": "https://www.youtube.com/watch?v=JHo-aiePjoM",
-    "notion_url": "",
-    "tags": [
-      "AI可解释性",
-      "大语言模型",
-      "AI对齐",
-      "Anthropic",
-      "智能本质"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 32233,
-    "duration": "1:12:13",
-    "duration_seconds": 4333,
-    "path": "channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md",
-    "structured_path": "channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.structured.md",
-    "transcript_path": "channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.transcript.md"
-  },
-  {
-    "id": "blkIGLlZePg",
-    "video_id": "blkIGLlZePg",
-    "title": "Why AI Can Write Code But Can’t Keep It Running (Yet)",
-    "channel": "a16z",
-    "published": "2026-10-16",
-    "source_url": "https://www.youtube.com/watch?v=blkIGLlZePg",
-    "notion_url": "",
-    "tags": [
-      "AI运维",
-      "分布式系统",
-      "可观测性",
-      "LLM边界",
-      "系统思维"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 28059,
-    "duration": "58:58",
-    "duration_seconds": 3538,
-    "path": "channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.md",
-    "structured_path": "channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.structured.md",
-    "transcript_path": "channels/a16z/2026-10-16-why-ai-can-write-code-but-can’t-keep-it-running-(yet)-blkIGLlZePg.transcript.md"
-  },
-  {
-    "id": "ZOH8Q401vt0",
-    "video_id": "ZOH8Q401vt0",
-    "title": "High Taste Testers: OpenAI Shipped Everything. What Actually Works?",
-    "channel": "Latent Space",
-    "published": "2026-10-16",
-    "source_url": "https://www.youtube.com/watch?v=ZOH8Q401vt0",
-    "notion_url": "",
-    "tags": [
-      "AI Agent",
-      "个人助手",
-      "模型评测",
-      "产品设计",
-      "开发者工具"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 57928,
-    "duration": "1:15:21",
-    "duration_seconds": 4521,
-    "path": "channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.md",
-    "structured_path": "channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.structured.md",
-    "transcript_path": "channels/latent-space/2026-10-16-high-taste-testers-openai-shipped-everything.-what-actually-works-ZOH8Q401vt0.transcript.md"
   }
 ]

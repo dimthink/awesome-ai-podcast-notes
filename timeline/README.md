@@ -6,11 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-11-04](2026/11/2026-11-04.md) · 3 篇
+## [2026-11-05](2026/11/2026-11-05.md) · 2 篇
+
+- [The Observability Layer for the Physical World](../channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.md) · Y Combinator
+- [How AI Is Turning Figma’s Finance Team Into Builders](../channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md) · a16z
+
+## [2026-11-04](2026/11/2026-11-04.md) · 4 篇
 
 - [If You Want To Create Wealth In The Age of AI, Watch This](../channels/greg-isenberg/2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md) · Greg Isenberg
 - [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](../channels/latent-space/2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md) · Latent Space
 - [Stop Wasting AI Tokens](../channels/y-combinator/2026-11-04-stop-wasting-ai-tokens-eN92Oatzzks.md) · Y Combinator
+- [The New AI Agents That Shop, Plan, and Gossip](../channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md) · a16z
 
 ## [2026-11-03](2026/11/2026-11-03.md) · 2 篇
 

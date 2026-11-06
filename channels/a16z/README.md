@@ -1,9 +1,11 @@
 # a16z
 
-114 notes in this channel.
+116 notes in this channel.
 
-本频道共 114 篇。
+本频道共 116 篇。
 
+- 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
+- 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
 - 2026-11-03 · [Andrew Huberman on Focus, Energy, and Performing at Your Best](2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md)
 - 2026-11-02 · [What iPhone Packaging Reveals About the Robotics Opportunity](2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md)
 - 2026-10-31 · [Hip Hop’s Origin Story, Told by the Legends Who Lived It](2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md)
