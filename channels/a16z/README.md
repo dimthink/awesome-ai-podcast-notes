@@ -1,9 +1,10 @@
 # a16z
 
-116 notes in this channel.
+117 notes in this channel.
 
-本频道共 116 篇。
+本频道共 117 篇。
 
+- 2026-11-06 · [Inside Salesforce’s Acquisition Strategy for the AI Era](2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md)
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
 - 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
 - 2026-11-03 · [Andrew Huberman on Focus, Energy, and Performing at Your Best](2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md)

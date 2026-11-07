@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-1000-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-1004-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 1000 |
+| 笔记 | 1004 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 673 |
-| 原始文稿 | 960 |
+| 结构化文稿 | 677 |
+| 原始文稿 | 964 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-11-05 |
-| 仓库更新日期 | 2026-11-06 |
+| 最新来源日期 | 2026-11-07 |
+| 仓库更新日期 | 2026-11-07 |
 
 ## 适合谁
 
@@ -50,17 +50,17 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 116 篇
+### [a16z](channels/a16z/README.md) · 117 篇
 
+- 2026-11-06 · [Inside Salesforce’s Acquisition Strategy for the AI Era](channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md)
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
 - 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
-- 2026-11-03 · [Andrew Huberman on Focus, Energy, and Performing at Your Best](channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md)
 
-### [Latent Space](channels/latent-space/README.md) · 108 篇
+### [Latent Space](channels/latent-space/README.md) · 111 篇
 
-- 2026-11-04 · [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](channels/latent-space/2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md)
-- 2026-11-03 · [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md)
-- 2026-11-02 · [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md)
+- 2026-11-07 · [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md)
+- 2026-11-06 · [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md)
+- 2026-11-06 · [Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham](channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 88 篇
 
@@ -94,6 +94,16 @@
 
 ## 最新更新
 
+### 2026-11-07
+
+- [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md) · Latent Space
+
+### 2026-11-06
+
+- [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md) · Latent Space
+- [Inside Salesforce’s Acquisition Strategy for the AI Era](channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md) · a16z
+- [Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham](channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md) · Latent Space
+
 ### 2026-11-05
 
 - [The Observability Layer for the Physical World](channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.md) · Y Combinator
@@ -122,13 +132,6 @@
 ### 2026-11-01
 
 - [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md) · Lenny's Podcast
-
-### 2026-10-31
-
-- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](channels/latent-space/2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md) · Latent Space
-- [Hip Hop’s Origin Story, Told by the Legends Who Lived It](channels/a16z/2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md) · a16z
-- [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](channels/riley-brown/2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md) · Riley Brown
-- [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md) · Latent Space
 
 ## 数据与自动更新
 

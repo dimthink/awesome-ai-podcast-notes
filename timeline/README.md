@@ -6,6 +6,16 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-07](2026/11/2026-11-07.md) · 1 篇
+
+- [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](../channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md) · Latent Space
+
+## [2026-11-06](2026/11/2026-11-06.md) · 3 篇
+
+- [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](../channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md) · Latent Space
+- [Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham](../channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md) · Latent Space
+- [Inside Salesforce’s Acquisition Strategy for the AI Era](../channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md) · a16z
+
 ## [2026-11-05](2026/11/2026-11-05.md) · 2 篇
 
 - [The Observability Layer for the Physical World](../channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.md) · Y Combinator

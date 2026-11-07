@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1000 |
+| Notes | 1004 |
 | Channels | 16 |
-| Structured notes | 673 |
-| Raw transcripts | 960 |
+| Structured notes | 677 |
+| Raw transcripts | 964 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-05 |
-| Archive updated | 2026-11-06 |
+| Latest source date | 2026-11-07 |
+| Archive updated | 2026-11-07 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 116 notes
+### [a16z](channels/a16z/README.md) · 117 notes
 
+- 2026-11-06 · [Inside Salesforce’s Acquisition Strategy for the AI Era](channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md)
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
 - 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
-- 2026-11-03 · [Andrew Huberman on Focus, Energy, and Performing at Your Best](channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md)
 
-### [Latent Space](channels/latent-space/README.md) · 108 notes
+### [Latent Space](channels/latent-space/README.md) · 111 notes
 
-- 2026-11-04 · [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](channels/latent-space/2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md)
-- 2026-11-03 · [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md)
-- 2026-11-02 · [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md)
+- 2026-11-07 · [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md)
+- 2026-11-06 · [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md)
+- 2026-11-06 · [Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham](channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 88 notes
 
@@ -83,6 +83,16 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-11-07
+
+- [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md) · Latent Space
+
+### 2026-11-06
+
+- [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md) · Latent Space
+- [Inside Salesforce’s Acquisition Strategy for the AI Era](channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md) · a16z
+- [Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham](channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md) · Latent Space
+
 ### 2026-11-05
 
 - [The Observability Layer for the Physical World](channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.md) · Y Combinator
@@ -111,13 +121,6 @@ Each episode can include up to three versions:
 ### 2026-11-01
 
 - [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md) · Lenny's Podcast
-
-### 2026-10-31
-
-- [Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](channels/latent-space/2026-10-31-using-agents-for-long-horizon-financial-work-—-aman-singh,-arca-KM3VQZKjpiY.md) · Latent Space
-- [Hip Hop’s Origin Story, Told by the Legends Who Lived It](channels/a16z/2026-10-31-hip-hop’s-origin-story,-told-by-the-legends-who-lived-it-_d83IiEU7_0.md) · a16z
-- [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](channels/riley-brown/2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md) · Riley Brown
-- [Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services](channels/latent-space/2026-10-31-building-chatgpt-for-finance-—-joseph-kim,-openai's-head-of-financial-services-v-d1WTqIULs.md) · Latent Space
 
 ## Data
 

@@ -1,9 +1,12 @@
 # Latent Space
 
-108 notes in this channel.
+111 notes in this channel.
 
-本频道共 108 篇。
+本频道共 111 篇。
 
+- 2026-11-07 · [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md)
+- 2026-11-06 · [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md)
+- 2026-11-06 · [Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham](2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md)
 - 2026-11-04 · [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md)
 - 2026-11-03 · [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md)
 - 2026-11-02 · [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md)
