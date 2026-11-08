@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-08](2026/11/2026-11-08.md) · 1 篇
+
+- [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](../channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md) · Latent Space
+
 ## [2026-11-07](2026/11/2026-11-07.md) · 1 篇
 
 - [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](../channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md) · Latent Space

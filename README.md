@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-1004-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-1005-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 1004 |
+| 笔记 | 1005 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 677 |
-| 原始文稿 | 964 |
+| 结构化文稿 | 678 |
+| 原始文稿 | 965 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-11-07 |
-| 仓库更新日期 | 2026-11-07 |
+| 最新来源日期 | 2026-11-08 |
+| 仓库更新日期 | 2026-11-08 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
 - 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
 
-### [Latent Space](channels/latent-space/README.md) · 111 篇
+### [Latent Space](channels/latent-space/README.md) · 112 篇
 
+- 2026-11-08 · [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md)
 - 2026-11-07 · [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md)
 - 2026-11-06 · [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md)
-- 2026-11-06 · [Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham](channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 88 篇
 
@@ -93,6 +93,10 @@
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## 最新更新
+
+### 2026-11-08
+
+- [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md) · Latent Space
 
 ### 2026-11-07
 
@@ -128,10 +132,6 @@
 - [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md) · Greg Isenberg
 - [I Built an App That Watches Me Work (Insane Focus)](channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md) · Riley Brown
 - [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md) · Latent Space
-
-### 2026-11-01
-
-- [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md) · Lenny's Podcast
 
 ## 数据与自动更新
 

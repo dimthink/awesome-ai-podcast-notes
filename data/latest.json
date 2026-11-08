@@ -1,5 +1,30 @@
 [
   {
+    "id": "rSWiNE92xqM",
+    "video_id": "rSWiNE92xqM",
+    "title": "GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft",
+    "channel": "Latent Space",
+    "published": "2026-11-08",
+    "source_url": "https://www.youtube.com/watch?v=rSWiNE92xqM",
+    "notion_url": "",
+    "tags": [
+      "GitHub",
+      "AI编码代理",
+      "Copilot",
+      "平台演进",
+      "开发者工具",
+      "开源安全"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 21030,
+    "duration": "23:15",
+    "duration_seconds": 1395,
+    "path": "channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md",
+    "structured_path": "channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.structured.md",
+    "transcript_path": "channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.transcript.md"
+  },
+  {
     "id": "P735f1xlpL0",
     "video_id": "P735f1xlpL0",
     "title": "Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter",
@@ -1202,29 +1227,5 @@
     "path": "channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.md",
     "structured_path": "channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.structured.md",
     "transcript_path": "channels/latent-space/2026-10-21-ai-in-nyc-how-tenex-builds-an-ai-native-engineering-team-—-alex-lieberman-&-cj-hess-Vki6cklFqxo.transcript.md"
-  },
-  {
-    "id": "EAtLq9_vrE0",
-    "video_id": "EAtLq9_vrE0",
-    "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-    "channel": "Latent Space",
-    "published": "2026-10-20",
-    "source_url": "https://www.youtube.com/watch?v=EAtLq9_vrE0",
-    "notion_url": "",
-    "tags": [
-      "算力交易",
-      "物理交割",
-      "数据中心",
-      "金融衍生品",
-      "GPU"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 14469,
-    "duration": "36:44",
-    "duration_seconds": 2204,
-    "path": "channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.md",
-    "structured_path": "channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.structured.md",
-    "transcript_path": "channels/latent-space/2026-10-20-the-programmable-data-center-—-evan-conrad,-sf-compute-EAtLq9_vrE0.transcript.md"
   }
 ]

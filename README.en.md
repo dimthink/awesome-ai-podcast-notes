@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1004 |
+| Notes | 1005 |
 | Channels | 16 |
-| Structured notes | 677 |
-| Raw transcripts | 964 |
+| Structured notes | 678 |
+| Raw transcripts | 965 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-07 |
-| Archive updated | 2026-11-07 |
+| Latest source date | 2026-11-08 |
+| Archive updated | 2026-11-08 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
 - 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
 
-### [Latent Space](channels/latent-space/README.md) · 111 notes
+### [Latent Space](channels/latent-space/README.md) · 112 notes
 
+- 2026-11-08 · [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md)
 - 2026-11-07 · [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md)
 - 2026-11-06 · [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md)
-- 2026-11-06 · [Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham](channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 88 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-11-08
+
+- [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md) · Latent Space
 
 ### 2026-11-07
 
@@ -117,10 +121,6 @@ Each episode can include up to three versions:
 - [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md) · Greg Isenberg
 - [I Built an App That Watches Me Work (Insane Focus)](channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md) · Riley Brown
 - [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md) · Latent Space
-
-### 2026-11-01
-
-- [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md) · Lenny's Podcast
 
 ## Data
 
