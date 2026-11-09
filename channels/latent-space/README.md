@@ -1,9 +1,10 @@
 # Latent Space
 
-112 notes in this channel.
+113 notes in this channel.
 
-本频道共 112 篇。
+本频道共 113 篇。
 
+- 2026-11-08 · [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md)
 - 2026-11-08 · [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md)
 - 2026-11-07 · [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md)
 - 2026-11-06 · [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md)

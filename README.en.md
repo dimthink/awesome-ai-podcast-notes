@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1005 |
+| Notes | 1008 |
 | Channels | 16 |
-| Structured notes | 678 |
-| Raw transcripts | 965 |
+| Structured notes | 681 |
+| Raw transcripts | 968 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-11-08 |
-| Archive updated | 2026-11-08 |
+| Archive updated | 2026-11-09 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
 - 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
 
-### [Latent Space](channels/latent-space/README.md) · 112 notes
+### [Latent Space](channels/latent-space/README.md) · 113 notes
 
+- 2026-11-08 · [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md)
 - 2026-11-08 · [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md)
 - 2026-11-07 · [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md)
-- 2026-11-06 · [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 88 notes
 
@@ -57,17 +57,17 @@ Each episode can include up to three versions:
 - 2026-11-02 · [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md)
 - 2026-10-29 · [SaaS is dead?](channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 87 notes
+### [Riley Brown](channels/riley-brown/README.md) · 88 notes
 
+- 2026-11-08 · [This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)](channels/riley-brown/2026-11-08-this-new-claude-update-changes-everything-(claude-code-from-your-phone)-zU0jqYKTgMs.md)
 - 2026-11-02 · [I Built an App That Watches Me Work (Insane Focus)](channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md)
 - 2026-10-31 · [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](channels/riley-brown/2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md)
-- 2026-10-28 · [Here Is My ENTIRE AI Setup (Nothing Held Back)](channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 66 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 67 notes
 
+- 2026-11-08 · [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md)
 - 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
 - 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
-- 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](channels/lenny's-podcast/2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 56 notes
 
@@ -85,6 +85,9 @@ Each episode can include up to three versions:
 
 ### 2026-11-08
 
+- [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md) · Latent Space
+- [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md) · Lenny's Podcast
+- [This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)](channels/riley-brown/2026-11-08-this-new-claude-update-changes-everything-(claude-code-from-your-phone)-zU0jqYKTgMs.md) · Riley Brown
 - [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md) · Latent Space
 
 ### 2026-11-07
@@ -118,9 +121,6 @@ Each episode can include up to three versions:
 
 - [‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon](channels/ai-explained/2026-11-02-‘we-may-release-models-we-can’t-control’-amodei,-altman-...-and-gemini-carbon-0Kw6_DTZPrY.md) · AI Explained
 - [What iPhone Packaging Reveals About the Robotics Opportunity](channels/a16z/2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md) · a16z
-- [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md) · Greg Isenberg
-- [I Built an App That Watches Me Work (Insane Focus)](channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md) · Riley Brown
-- [Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora](channels/latent-space/2026-11-02-building-legal-agents-when-you-can't-see-the-data-—-jacob-lauritzen,-cto-of-legora-bJBEFzlKPoQ.md) · Latent Space
 
 ## Data
 

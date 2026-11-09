@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-66 notes in this channel.
+67 notes in this channel.
 
-本频道共 66 篇。
+本频道共 67 篇。
 
+- 2026-11-08 · [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md)
 - 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
 - 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 - 2026-10-18 · [A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)](2026-10-18-a-mind-expanding-conversation-on-how-models-actually-work-emmanuel-ameisen-(anthropic)-JHo-aiePjoM.md)

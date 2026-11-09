@@ -6,9 +6,12 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-11-08](2026/11/2026-11-08.md) · 1 篇
+## [2026-11-08](2026/11/2026-11-08.md) · 4 篇
 
+- [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](../channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md) · Latent Space
 - [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](../channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md) · Latent Space
+- [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](../channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md) · Lenny's Podcast
+- [This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)](../channels/riley-brown/2026-11-08-this-new-claude-update-changes-everything-(claude-code-from-your-phone)-zU0jqYKTgMs.md) · Riley Brown
 
 ## [2026-11-07](2026/11/2026-11-07.md) · 1 篇
 

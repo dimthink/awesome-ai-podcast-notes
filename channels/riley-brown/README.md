@@ -1,9 +1,10 @@
 # Riley Brown
 
-87 notes in this channel.
+88 notes in this channel.
 
-本频道共 87 篇。
+本频道共 88 篇。
 
+- 2026-11-08 · [This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)](2026-11-08-this-new-claude-update-changes-everything-(claude-code-from-your-phone)-zU0jqYKTgMs.md)
 - 2026-11-02 · [I Built an App That Watches Me Work (Insane Focus)](2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md)
 - 2026-10-31 · [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md)
 - 2026-10-28 · [Here Is My ENTIRE AI Setup (Nothing Held Back)](2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md)
