@@ -1,5 +1,54 @@
 [
   {
+    "id": "v5IJwVnTxzg",
+    "video_id": "v5IJwVnTxzg",
+    "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+    "channel": "Latent Space",
+    "published": "2026-11-09",
+    "source_url": "https://www.youtube.com/watch?v=v5IJwVnTxzg",
+    "notion_url": "",
+    "tags": [
+      "AI数据",
+      "前沿实验室",
+      "基准测试",
+      "模拟环境",
+      "企业AI",
+      "安全对齐"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 15611,
+    "duration": "2:43:50",
+    "duration_seconds": 9830,
+    "path": "channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md",
+    "structured_path": "channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.structured.md",
+    "transcript_path": "channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.transcript.md"
+  },
+  {
+    "id": "uJuxenfe-NU",
+    "video_id": "uJuxenfe-NU",
+    "title": "AI Agents are too good at marketing now",
+    "channel": "Greg Isenberg",
+    "published": "2026-11-09",
+    "source_url": "https://www.youtube.com/watch?v=uJuxenfe-NU",
+    "notion_url": "",
+    "tags": [
+      "AI agents",
+      "营销工程",
+      "营销自动化",
+      "UGC广告",
+      "工作流自动化"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 19276,
+    "duration": "52:00",
+    "duration_seconds": 3120,
+    "path": "channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md",
+    "structured_path": "channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.transcript.md"
+  },
+  {
     "id": "dpY7YzZo4kE",
     "video_id": "dpY7YzZo4kE",
     "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
@@ -1182,54 +1231,5 @@
     "path": "channels/latent-space/2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.md",
     "structured_path": "channels/latent-space/2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.structured.md",
     "transcript_path": "channels/latent-space/2026-10-22-the-recommendation-engine-for-commodity-traders-—-anekha-sokhal,-moshi-DWHyPWnzGAI.transcript.md"
-  },
-  {
-    "id": "-9XQMHhpypc",
-    "video_id": "-9XQMHhpypc",
-    "title": "The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon",
-    "channel": "a16z",
-    "published": "2026-10-22",
-    "source_url": "https://www.youtube.com/watch?v=-9XQMHhpypc",
-    "notion_url": "",
-    "tags": [
-      "a16z",
-      "AI投资",
-      "开源",
-      "前沿科技",
-      "风险投资",
-      "创业"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 25545,
-    "duration": "1:00:35",
-    "duration_seconds": 3635,
-    "path": "channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.md",
-    "structured_path": "channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.structured.md",
-    "transcript_path": "channels/a16z/2026-10-22-the-frontier-ideas-a16z-wants-to-fund-now-marc-andreessen,-ben-horowitz-&-chris-dixon--9XQMHhpypc.transcript.md"
-  },
-  {
-    "id": "4PO0x-myitw",
-    "video_id": "4PO0x-myitw",
-    "title": "How Smart People Are Using AI Right Now (7 Insane Use Cases)",
-    "channel": "Riley Brown",
-    "published": "2026-10-22",
-    "source_url": "https://www.youtube.com/watch?v=4PO0x-myitw",
-    "notion_url": "",
-    "tags": [
-      "AI应用",
-      "效率工具",
-      "智能体",
-      "信息过滤",
-      "去中心化"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 11082,
-    "duration": "28:06",
-    "duration_seconds": 1686,
-    "path": "channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.md",
-    "structured_path": "channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.structured.md",
-    "transcript_path": "channels/riley-brown/2026-10-22-how-smart-people-are-using-ai-right-now-(7-insane-use-cases)-4PO0x-myitw.transcript.md"
   }
 ]

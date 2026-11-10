@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-1008-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-1010-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 1008 |
+| 笔记 | 1010 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 681 |
-| 原始文稿 | 968 |
+| 结构化文稿 | 683 |
+| 原始文稿 | 970 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-11-08 |
-| 仓库更新日期 | 2026-11-09 |
+| 最新来源日期 | 2026-11-09 |
+| 仓库更新日期 | 2026-11-10 |
 
 ## 适合谁
 
@@ -56,17 +56,17 @@
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
 - 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
 
-### [Latent Space](channels/latent-space/README.md) · 113 篇
+### [Latent Space](channels/latent-space/README.md) · 114 篇
 
+- 2026-11-09 · [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md)
 - 2026-11-08 · [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md)
 - 2026-11-08 · [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md)
-- 2026-11-07 · [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 88 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 89 篇
 
+- 2026-11-09 · [AI Agents are too good at marketing now](channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md)
 - 2026-11-04 · [If You Want To Create Wealth In The Age of AI, Watch This](channels/greg-isenberg/2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md)
 - 2026-11-02 · [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md)
-- 2026-10-29 · [SaaS is dead?](channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 88 篇
 
@@ -93,6 +93,11 @@
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## 最新更新
+
+### 2026-11-09
+
+- [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md) · Latent Space
+- [AI Agents are too good at marketing now](channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md) · Greg Isenberg
 
 ### 2026-11-08
 
@@ -127,11 +132,6 @@
 
 - [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md) · Latent Space
 - [Andrew Huberman on Focus, Energy, and Performing at Your Best](channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md) · a16z
-
-### 2026-11-02
-
-- [‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon](channels/ai-explained/2026-11-02-‘we-may-release-models-we-can’t-control’-amodei,-altman-...-and-gemini-carbon-0Kw6_DTZPrY.md) · AI Explained
-- [What iPhone Packaging Reveals About the Robotics Opportunity](channels/a16z/2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md) · a16z
 
 ## 数据与自动更新
 

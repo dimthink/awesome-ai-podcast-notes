@@ -1,5 +1,54 @@
 [
   {
+    "id": "v5IJwVnTxzg",
+    "video_id": "v5IJwVnTxzg",
+    "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+    "channel": "Latent Space",
+    "published": "2026-11-09",
+    "source_url": "https://www.youtube.com/watch?v=v5IJwVnTxzg",
+    "notion_url": "",
+    "tags": [
+      "AI数据",
+      "前沿实验室",
+      "基准测试",
+      "模拟环境",
+      "企业AI",
+      "安全对齐"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 15611,
+    "duration": "2:43:50",
+    "duration_seconds": 9830,
+    "path": "channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md",
+    "structured_path": "channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.structured.md",
+    "transcript_path": "channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.transcript.md"
+  },
+  {
+    "id": "uJuxenfe-NU",
+    "video_id": "uJuxenfe-NU",
+    "title": "AI Agents are too good at marketing now",
+    "channel": "Greg Isenberg",
+    "published": "2026-11-09",
+    "source_url": "https://www.youtube.com/watch?v=uJuxenfe-NU",
+    "notion_url": "",
+    "tags": [
+      "AI agents",
+      "营销工程",
+      "营销自动化",
+      "UGC广告",
+      "工作流自动化"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 19276,
+    "duration": "52:00",
+    "duration_seconds": 3120,
+    "path": "channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md",
+    "structured_path": "channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.structured.md",
+    "transcript_path": "channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.transcript.md"
+  },
+  {
     "id": "dpY7YzZo4kE",
     "video_id": "dpY7YzZo4kE",
     "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",

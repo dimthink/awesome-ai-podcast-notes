@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-09](2026/11/2026-11-09.md) · 2 篇
+
+- [AI Agents are too good at marketing now](../channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md) · Greg Isenberg
+- [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](../channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md) · Latent Space
+
 ## [2026-11-08](2026/11/2026-11-08.md) · 4 篇
 
 - [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](../channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md) · Latent Space

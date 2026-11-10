@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-88 notes in this channel.
+89 notes in this channel.
 
-本频道共 88 篇。
+本频道共 89 篇。
 
+- 2026-11-09 · [AI Agents are too good at marketing now](2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md)
 - 2026-11-04 · [If You Want To Create Wealth In The Age of AI, Watch This](2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md)
 - 2026-11-02 · [The $1M+ Solo Grok Bot Business (Full Course)](2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md)
 - 2026-10-29 · [SaaS is dead?](2026-10-29-saas-is-dead-AqqjH_uv-_w.md)
