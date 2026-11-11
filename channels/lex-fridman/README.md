@@ -1,9 +1,10 @@
 # Lex Fridman
 
-30 notes in this channel.
+31 notes in this channel.
 
-本频道共 30 篇。
+本频道共 31 篇。
 
+- 2026-11-10 · [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](2026-11-10-ukraine-war-putin,-zelenskyy,-trump,-drones-and-the-future-of-warfare-lex-fridman-podcast-504-2hJkprFnzhY.md)
 - 2026-10-26 · [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503](2026-10-26-ai-crisis-in-math-navier-stokes,-riemann-hypothesis-&-complexity-theory-lex-fridman-podcast-503-ZAzWPE9CItg.md)
 - 2026-10-13 · [Visiting Taiwan w/ Jensen Huang | Lex Fridman](2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md)
 - 2026-09-17 · [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502](2026-09-17-psychiatry,-insane-asylums,-mental-illness,-ect,-lobotomies,-freud-&-jung-lex-fridman-podcast-502-s7d2d8FhevU.md)

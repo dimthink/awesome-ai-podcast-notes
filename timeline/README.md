@@ -6,6 +6,14 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-10](2026/11/2026-11-10.md) · 5 篇
+
+- [Claude Fable 5.2: How I’d Make Money With It](../channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md) · Greg Isenberg
+- [Designing for Agents — Zeno Rocha, Resend](../channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md) · Latent Space
+- [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](../channels/lex-fridman/2026-11-10-ukraine-war-putin,-zelenskyy,-trump,-drones-and-the-future-of-warfare-lex-fridman-podcast-504-2hJkprFnzhY.md) · Lex Fridman
+- [How Solve Intelligence Is Building the Future of AI Patent Law](../channels/y-combinator/2026-11-10-how-solve-intelligence-is-building-the-future-of-ai-patent-law-27H7XzGx8F8.md) · Y Combinator
+- [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](../channels/a16z/2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md) · a16z
+
 ## [2026-11-09](2026/11/2026-11-09.md) · 2 篇
 
 - [AI Agents are too good at marketing now](../channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md) · Greg Isenberg
@@ -53,8 +61,9 @@ Browse notes by source publish date. Date headings open daily detail pages, and 
 - [I Built an App That Watches Me Work (Insane Focus)](../channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md) · Riley Brown
 - [What iPhone Packaging Reveals About the Robotics Opportunity](../channels/a16z/2026-11-02-what-iphone-packaging-reveals-about-the-robotics-opportunity-lXkjXSul6yg.md) · a16z
 
-## [2026-11-01](2026/11/2026-11-01.md) · 1 篇
+## [2026-11-01](2026/11/2026-11-01.md) · 2 篇
 
+- [【十字路口】[年终复盘①] AI 带给我的 10 个 Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会【视频播客】](../channels/koji-yang/2026-11-01-【十字路口】-年终复盘1-ai-带给我的-10-个-aha-moments-庄明浩-rsi-来了、ai-的奇观与粗糙、巨头夹缝中的创业机会【视频播客】-u89m4_yMI3A.md) · Koji Yang
 - [86 minutes of paid-growth alpha | Hector Serrano](../channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md) · Lenny's Podcast
 
 ## [2026-10-31](2026/10/2026-10-31.md) · 4 篇
@@ -96,8 +105,9 @@ Browse notes by source publish date. Date headings open daily detail pages, and 
 - [The Most Terrifying Week in AI History...](../channels/riley-brown/2026-10-26-the-most-terrifying-week-in-ai-history-3hJ049UPv4Y.md) · Riley Brown
 - [Why OpenAI Is Racing to Make Computer Use Superhuman](../channels/a16z/2026-10-26-why-openai-is-racing-to-make-computer-use-superhuman-9v42ZOdiBJY.md) · a16z
 
-## [2026-10-25](2026/10/2026-10-25.md) · 1 篇
+## [2026-10-25](2026/10/2026-10-25.md) · 2 篇
 
+- [【十字路口】AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员【视频播客】](../channels/koji-yang/2026-10-25-【十字路口】ai-时代,phd-路上的-10-个关键问题-对谈李磊-港大-phd、小米-mimo-研究员【视频播客】-oDdQGehy7uQ.md) · Koji Yang
 - [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](../channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md) · Lenny's Podcast
 
 ## [2026-10-23](2026/10/2026-10-23.md) · 2 篇

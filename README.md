@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-1010-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-1017-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 1010 |
+| 笔记 | 1017 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 683 |
-| 原始文稿 | 970 |
+| 结构化文稿 | 690 |
+| 原始文稿 | 977 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-11-09 |
-| 仓库更新日期 | 2026-11-10 |
+| 最新来源日期 | 2026-11-10 |
+| 仓库更新日期 | 2026-11-11 |
 
 ## 适合谁
 
@@ -50,23 +50,23 @@
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 117 篇
+### [a16z](channels/a16z/README.md) · 118 篇
 
+- 2026-11-10 · [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](channels/a16z/2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md)
 - 2026-11-06 · [Inside Salesforce’s Acquisition Strategy for the AI Era](channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md)
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](channels/a16z/2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)
-- 2026-11-04 · [The New AI Agents That Shop, Plan, and Gossip](channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md)
 
-### [Latent Space](channels/latent-space/README.md) · 114 篇
+### [Latent Space](channels/latent-space/README.md) · 115 篇
 
+- 2026-11-10 · [Designing for Agents — Zeno Rocha, Resend](channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md)
 - 2026-11-09 · [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md)
 - 2026-11-08 · [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md)
-- 2026-11-08 · [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 89 篇
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 90 篇
 
+- 2026-11-10 · [Claude Fable 5.2: How I’d Make Money With It](channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md)
 - 2026-11-09 · [AI Agents are too good at marketing now](channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md)
 - 2026-11-04 · [If You Want To Create Wealth In The Age of AI, Watch This](channels/greg-isenberg/2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md)
-- 2026-11-02 · [The $1M+ Solo Grok Bot Business (Full Course)](channels/greg-isenberg/2026-11-02-the-$1m+-solo-grok-bot-business-(full-course)-67BmkptgTms.md)
 
 ### [Riley Brown](channels/riley-brown/README.md) · 88 篇
 
@@ -80,11 +80,11 @@
 - 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
 - 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 56 篇
+### [Y Combinator](channels/y-combinator/README.md) · 57 篇
 
+- 2026-11-10 · [How Solve Intelligence Is Building the Future of AI Patent Law](channels/y-combinator/2026-11-10-how-solve-intelligence-is-building-the-future-of-ai-patent-law-27H7XzGx8F8.md)
 - 2026-11-05 · [The Observability Layer for the Physical World](channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.md)
 - 2026-11-04 · [Stop Wasting AI Tokens](channels/y-combinator/2026-11-04-stop-wasting-ai-tokens-eN92Oatzzks.md)
-- 2026-10-29 · [Building AI for the $650B Home Services Market](channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 47 篇
 
@@ -93,6 +93,14 @@
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## 最新更新
+
+### 2026-11-10
+
+- [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](channels/a16z/2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md) · a16z
+- [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](channels/lex-fridman/2026-11-10-ukraine-war-putin,-zelenskyy,-trump,-drones-and-the-future-of-warfare-lex-fridman-podcast-504-2hJkprFnzhY.md) · Lex Fridman
+- [How Solve Intelligence Is Building the Future of AI Patent Law](channels/y-combinator/2026-11-10-how-solve-intelligence-is-building-the-future-of-ai-patent-law-27H7XzGx8F8.md) · Y Combinator
+- [Designing for Agents — Zeno Rocha, Resend](channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md) · Latent Space
+- [Claude Fable 5.2: How I’d Make Money With It](channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md) · Greg Isenberg
 
 ### 2026-11-09
 
@@ -124,14 +132,6 @@
 ### 2026-11-04
 
 - [The New AI Agents That Shop, Plan, and Gossip](channels/a16z/2026-11-04-the-new-ai-agents-that-shop,-plan,-and-gossip-dSiTwPl0t1U.md) · a16z
-- [Stop Wasting AI Tokens](channels/y-combinator/2026-11-04-stop-wasting-ai-tokens-eN92Oatzzks.md) · Y Combinator
-- [If You Want To Create Wealth In The Age of AI, Watch This](channels/greg-isenberg/2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md) · Greg Isenberg
-- [Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](channels/latent-space/2026-11-04-behind-latent-space-kill-my-saas,-jev-&-ai-in-2026-aiei-shanghai-QmDLDy3ZSNE.md) · Latent Space
-
-### 2026-11-03
-
-- [⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev](channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md) · Latent Space
-- [Andrew Huberman on Focus, Energy, and Performing at Your Best](channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md) · a16z
 
 ## 数据与自动更新
 
