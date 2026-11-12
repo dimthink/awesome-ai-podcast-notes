@@ -4,9 +4,9 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 
 按播客、博主、频道或发布源浏览笔记。
 
-- [AI Explained](ai-explained/README.md) (35)
+- [AI Explained](ai-explained/README.md) (36)
 - [Dwarkesh Patel](dwarkesh-patel/README.md) (22)
-- [Greg Isenberg](greg-isenberg/README.md) (90)
+- [Greg Isenberg](greg-isenberg/README.md) (91)
 - [Hung-yi Lee](hung-yi-lee/README.md) (5)
 - [Koji Yang](koji-yang/README.md) (43)
 - [Latent Space](latent-space/README.md) (115)
@@ -14,8 +14,8 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 - [Lex Fridman](lex-fridman/README.md) (31)
 - [Matthew Berman](matthew-berman/README.md) (1)
 - [Riley Brown](riley-brown/README.md) (88)
-- [Y Combinator](y-combinator/README.md) (57)
-- [a16z](a16z/README.md) (118)
+- [Y Combinator](y-combinator/README.md) (58)
+- [a16z](a16z/README.md) (119)
 - [张晓珺](张晓珺/README.md) (47)
 - [李弘毅](李弘毅/README.md) (253)
 - [硅谷101](硅谷101/README.md) (44)

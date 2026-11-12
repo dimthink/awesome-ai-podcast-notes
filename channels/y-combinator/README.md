@@ -1,9 +1,10 @@
 # Y Combinator
 
-57 notes in this channel.
+58 notes in this channel.
 
-本频道共 57 篇。
+本频道共 58 篇。
 
+- 2026-11-11 · [How Model ML Is Building the AI Operating System For Finance](2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md)
 - 2026-11-10 · [How Solve Intelligence Is Building the Future of AI Patent Law](2026-11-10-how-solve-intelligence-is-building-the-future-of-ai-patent-law-27H7XzGx8F8.md)
 - 2026-11-05 · [The Observability Layer for the Physical World](2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.md)
 - 2026-11-04 · [Stop Wasting AI Tokens](2026-11-04-stop-wasting-ai-tokens-eN92Oatzzks.md)

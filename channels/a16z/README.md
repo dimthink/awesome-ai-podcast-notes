@@ -1,9 +1,10 @@
 # a16z
 
-118 notes in this channel.
+119 notes in this channel.
 
-本频道共 118 篇。
+本频道共 119 篇。
 
+- 2026-11-11 · [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md)
 - 2026-11-10 · [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md)
 - 2026-11-06 · [Inside Salesforce’s Acquisition Strategy for the AI Era](2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md)
 - 2026-11-05 · [How AI Is Turning Figma’s Finance Team Into Builders](2026-11-05-how-ai-is-turning-figma’s-finance-team-into-builders-9iAQdKxyiQc.md)

@@ -6,8 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-11-10](2026/11/2026-11-10.md) · 5 篇
+## [2026-11-11](2026/11/2026-11-11.md) · 3 篇
 
+- [Use Grok Bot Better Than 99% of People (Full Course)](../channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md) · Greg Isenberg
+- [How Model ML Is Building the AI Operating System For Finance](../channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md) · Y Combinator
+- [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](../channels/a16z/2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md) · a16z
+
+## [2026-11-10](2026/11/2026-11-10.md) · 6 篇
+
+- [Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)](../channels/ai-explained/2026-11-10-fable-5.2-the-self-improvement-loop-keeps-loopin’-...-(plus-gemini-carbon)-583ThJIqQ7k.md) · AI Explained
 - [Claude Fable 5.2: How I’d Make Money With It](../channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md) · Greg Isenberg
 - [Designing for Agents — Zeno Rocha, Resend](../channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md) · Latent Space
 - [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](../channels/lex-fridman/2026-11-10-ukraine-war-putin,-zelenskyy,-trump,-drones-and-the-future-of-warfare-lex-fridman-podcast-504-2hJkprFnzhY.md) · Lex Fridman

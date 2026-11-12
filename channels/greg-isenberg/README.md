@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-90 notes in this channel.
+91 notes in this channel.
 
-本频道共 90 篇。
+本频道共 91 篇。
 
+- 2026-11-11 · [Use Grok Bot Better Than 99% of People (Full Course)](2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md)
 - 2026-11-10 · [Claude Fable 5.2: How I’d Make Money With It](2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md)
 - 2026-11-09 · [AI Agents are too good at marketing now](2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md)
 - 2026-11-04 · [If You Want To Create Wealth In The Age of AI, Watch This](2026-11-04-if-you-want-to-create-wealth-in-the-age-of-ai,-watch-this-b3tMAOFB71o.md)
