@@ -1,9 +1,10 @@
 # 张晓珺
 
-47 notes in this channel.
+48 notes in this channel.
 
-本频道共 47 篇。
+本频道共 48 篇。
 
+- 2026-11-13 · ["Xia" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero](2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.md)
 - 2026-10-21 · [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md)
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 - 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)

@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-13](2026/11/2026-11-13.md) · 1 篇
+
+- ["Xia" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero](../channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.md) · 张晓珺
+
+## [2026-11-12](2026/11/2026-11-12.md) · 2 篇
+
+- [Creating A New Universal Standard For Refueling Spacecraft](../channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md) · Y Combinator
+- [How AI Could Bring Halo and Other Classic Games Back to Life](../channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md) · a16z
+
 ## [2026-11-11](2026/11/2026-11-11.md) · 3 篇
 
 - [Use Grok Bot Better Than 99% of People (Full Course)](../channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md) · Greg Isenberg

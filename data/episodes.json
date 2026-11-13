@@ -1,5 +1,78 @@
 [
   {
+    "id": "4roDSFRJ1Aw",
+    "video_id": "4roDSFRJ1Aw",
+    "title": "\"Xia\" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero",
+    "channel": "张晓珺",
+    "published": "2026-11-13",
+    "source_url": "https://www.youtube.com/watch?v=4roDSFRJ1Aw",
+    "notion_url": "",
+    "tags": [
+      "武侠",
+      "创作者",
+      "游戏",
+      "梁其伟",
+      "影之刃零"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 18436,
+    "duration": "6:27:28",
+    "duration_seconds": 23248,
+    "path": "channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.md",
+    "structured_path": "channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.structured.md",
+    "transcript_path": "channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.transcript.md"
+  },
+  {
+    "id": "HDRy6XmE2RQ",
+    "video_id": "HDRy6XmE2RQ",
+    "title": "How AI Could Bring Halo and Other Classic Games Back to Life",
+    "channel": "a16z",
+    "published": "2026-11-12",
+    "source_url": "https://www.youtube.com/watch?v=HDRy6XmE2RQ",
+    "notion_url": "",
+    "tags": [
+      "AI 游戏开发",
+      "游戏产业",
+      "创意产业",
+      "生成式 AI",
+      "游戏分发"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 16882,
+    "duration": "46:12",
+    "duration_seconds": 2772,
+    "path": "channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md",
+    "structured_path": "channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.structured.md",
+    "transcript_path": "channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.transcript.md"
+  },
+  {
+    "id": "WkbEMw9EQYs",
+    "video_id": "WkbEMw9EQYs",
+    "title": "Creating A New Universal Standard For Refueling Spacecraft",
+    "channel": "Y Combinator",
+    "published": "2026-11-12",
+    "source_url": "https://www.youtube.com/watch?v=WkbEMw9EQYs",
+    "notion_url": "",
+    "tags": [
+      "航天",
+      "开源标准",
+      "在轨加注",
+      "创业",
+      "Y Combinator",
+      "基础设施"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 13590,
+    "duration": "24:20",
+    "duration_seconds": 1460,
+    "path": "channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md",
+    "structured_path": "channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.structured.md",
+    "transcript_path": "channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.transcript.md"
+  },
+  {
     "id": "1cWZ7Ekff6E",
     "video_id": "1cWZ7Ekff6E",
     "title": "Use Grok Bot Better Than 99% of People (Full Course)",

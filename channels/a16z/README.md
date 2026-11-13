@@ -1,9 +1,10 @@
 # a16z
 
-119 notes in this channel.
+120 notes in this channel.
 
-本频道共 119 篇。
+本频道共 120 篇。
 
+- 2026-11-12 · [How AI Could Bring Halo and Other Classic Games Back to Life](2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md)
 - 2026-11-11 · [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md)
 - 2026-11-10 · [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md)
 - 2026-11-06 · [Inside Salesforce’s Acquisition Strategy for the AI Era](2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md)

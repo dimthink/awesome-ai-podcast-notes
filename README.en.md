@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1021 |
+| Notes | 1024 |
 | Channels | 16 |
-| Structured notes | 694 |
-| Raw transcripts | 981 |
+| Structured notes | 697 |
+| Raw transcripts | 984 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-11 |
-| Archive updated | 2026-11-12 |
+| Latest source date | 2026-11-13 |
+| Archive updated | 2026-11-13 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 119 notes
+### [a16z](channels/a16z/README.md) · 120 notes
 
+- 2026-11-12 · [How AI Could Bring Halo and Other Classic Games Back to Life](channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md)
 - 2026-11-11 · [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](channels/a16z/2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md)
 - 2026-11-10 · [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](channels/a16z/2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md)
-- 2026-11-06 · [Inside Salesforce’s Acquisition Strategy for the AI Era](channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 115 notes
 
@@ -69,19 +69,28 @@ Each episode can include up to three versions:
 - 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
 - 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 58 notes
+### [Y Combinator](channels/y-combinator/README.md) · 59 notes
 
+- 2026-11-12 · [Creating A New Universal Standard For Refueling Spacecraft](channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md)
 - 2026-11-11 · [How Model ML Is Building the AI Operating System For Finance](channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md)
 - 2026-11-10 · [How Solve Intelligence Is Building the Future of AI Patent Law](channels/y-combinator/2026-11-10-how-solve-intelligence-is-building-the-future-of-ai-patent-law-27H7XzGx8F8.md)
-- 2026-11-05 · [The Observability Layer for the Physical World](channels/y-combinator/2026-11-05-the-observability-layer-for-the-physical-world-jzAzzJMVIpU.md)
 
-### [张晓珺](channels/张晓珺/README.md) · 47 notes
+### [张晓珺](channels/张晓珺/README.md) · 48 notes
 
+- 2026-11-13 · ["Xia" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero](channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.md)
 - 2026-10-21 · [David Qian / ECOVACS: Father & Son, Inside Business Succession, Robotics, and My Search for Meaning](channels/张晓珺/2026-10-21-david-qian-ecovacs-father-&-son,-inside-business-succession,-robotics,-and-my-search-for-meaning-86wFCPat2GY.md)
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
-- 2026-09-03 · [Zeng Ming: The Brutal Truth, Companies That Will Disappear, Why “Excellent” ≠ “Great”](channels/张晓珺/2026-09-03-zeng-ming-the-brutal-truth,-companies-that-will-disappear,-why-“excellent”-≠-“great”-E7qB_p1D0Xk.md)
 
 ## Latest Updates
+
+### 2026-11-13
+
+- ["Xia" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero](channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.md) · 张晓珺
+
+### 2026-11-12
+
+- [How AI Could Bring Halo and Other Classic Games Back to Life](channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md) · a16z
+- [Creating A New Universal Standard For Refueling Spacecraft](channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md) · Y Combinator
 
 ### 2026-11-11
 
@@ -109,15 +118,6 @@ Each episode can include up to three versions:
 - [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md) · Lenny's Podcast
 - [This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)](channels/riley-brown/2026-11-08-this-new-claude-update-changes-everything-(claude-code-from-your-phone)-zU0jqYKTgMs.md) · Riley Brown
 - [GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft](channels/latent-space/2026-11-08-github’s-growth-225m-developers,-34.3b-commits-—-jay-parikh,-evp-of-coreai,-microsoft-rSWiNE92xqM.md) · Latent Space
-
-### 2026-11-07
-
-- [Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter](channels/latent-space/2026-11-07-deep-dive-anthropic-s-1-myths-and-mythos-—-jamin-ball,-altimeter-P735f1xlpL0.md) · Latent Space
-
-### 2026-11-06
-
-- [Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich](channels/latent-space/2026-11-06-mini-brains,-beating-heart-organoids,-and-the-ai-that-predicts-them-—-fabian-theis,-helmholtz-munich-3nAV2s4GYbs.md) · Latent Space
-- [Inside Salesforce’s Acquisition Strategy for the AI Era](channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md) · a16z
 
 ## Data
 
