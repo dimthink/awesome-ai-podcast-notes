@@ -1,9 +1,10 @@
 # a16z
 
-120 notes in this channel.
+121 notes in this channel.
 
-本频道共 120 篇。
+本频道共 121 篇。
 
+- 2026-11-13 · [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md)
 - 2026-11-12 · [How AI Could Bring Halo and Other Classic Games Back to Life](2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md)
 - 2026-11-11 · [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md)
 - 2026-11-10 · [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md)

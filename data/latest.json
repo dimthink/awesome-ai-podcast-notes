@@ -1,5 +1,54 @@
 [
   {
+    "id": "EWmqL-63tyM",
+    "video_id": "EWmqL-63tyM",
+    "title": "How Intelligence Measures the Frontier",
+    "channel": "Y Combinator",
+    "published": "2026-11-13",
+    "source_url": "https://www.youtube.com/watch?v=EWmqL-63tyM",
+    "notion_url": "",
+    "tags": [
+      "AI评测",
+      "前沿模型",
+      "创业",
+      "主观领域",
+      "产品引领"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 16575,
+    "duration": "25:20",
+    "duration_seconds": 1520,
+    "path": "channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md",
+    "structured_path": "channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.structured.md",
+    "transcript_path": "channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.transcript.md"
+  },
+  {
+    "id": "PbD9pVXxsYM",
+    "video_id": "PbD9pVXxsYM",
+    "title": "Cyberattacks Used to Take Months. AI Can Do It in Minutes.",
+    "channel": "a16z",
+    "published": "2026-11-13",
+    "source_url": "https://www.youtube.com/watch?v=PbD9pVXxsYM",
+    "notion_url": "",
+    "tags": [
+      "AI安全",
+      "网络安全",
+      "黑色十月",
+      "攻防不对称",
+      "自动补丁",
+      "开源模型"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 15564,
+    "duration": "46:07",
+    "duration_seconds": 2767,
+    "path": "channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md",
+    "structured_path": "channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.structured.md",
+    "transcript_path": "channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.transcript.md"
+  },
+  {
     "id": "4roDSFRJ1Aw",
     "video_id": "4roDSFRJ1Aw",
     "title": "\"Xia\" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero",
@@ -1188,55 +1237,5 @@
     "path": "channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md",
     "structured_path": "channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.structured.md",
     "transcript_path": "channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.transcript.md"
-  },
-  {
-    "id": "YT0u2eQ-Aj4",
-    "video_id": "YT0u2eQ-Aj4",
-    "title": "Here Is My ENTIRE AI Setup (Nothing Held Back)",
-    "channel": "Riley Brown",
-    "published": "2026-10-28",
-    "source_url": "https://www.youtube.com/watch?v=YT0u2eQ-Aj4",
-    "notion_url": "",
-    "tags": [
-      "AI agents",
-      "工具栈",
-      "Claude Code",
-      "Codex",
-      "Composio",
-      "内容创作",
-      "工作流自动化"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 20196,
-    "duration": "31:28",
-    "duration_seconds": 1888,
-    "path": "channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.md",
-    "structured_path": "channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.structured.md",
-    "transcript_path": "channels/riley-brown/2026-10-28-here-is-my-entire-ai-setup-(nothing-held-back)-YT0u2eQ-Aj4.transcript.md"
-  },
-  {
-    "id": "st61aKW8P5A",
-    "video_id": "st61aKW8P5A",
-    "title": "$100M ARR Founder: The Next Big AI Opportunity",
-    "channel": "Greg Isenberg",
-    "published": "2026-10-28",
-    "source_url": "https://www.youtube.com/watch?v=st61aKW8P5A",
-    "notion_url": "",
-    "tags": [
-      "AI",
-      "创业",
-      "Product",
-      "Agent Harness",
-      "Gamma"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 45076,
-    "duration": "49:21",
-    "duration_seconds": 2961,
-    "path": "channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.md",
-    "structured_path": "channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-10-28-$100m-arr-founder-the-next-big-ai-opportunity-st61aKW8P5A.transcript.md"
   }
 ]

@@ -6,8 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-11-13](2026/11/2026-11-13.md) · 1 篇
+## [2026-11-13](2026/11/2026-11-13.md) · 3 篇
 
+- [How Intelligence Measures the Frontier](../channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md) · Y Combinator
+- [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](../channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md) · a16z
 - ["Xia" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero](../channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.md) · 张晓珺
 
 ## [2026-11-12](2026/11/2026-11-12.md) · 2 篇
