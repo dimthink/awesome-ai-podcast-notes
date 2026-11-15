@@ -6,20 +6,26 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-14](2026/11/2026-11-14.md) · 1 篇
+
+- [The Biggest Week in Claude History...](../channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md) · Riley Brown
+
 ## [2026-11-13](2026/11/2026-11-13.md) · 3 篇
 
 - [How Intelligence Measures the Frontier](../channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md) · Y Combinator
 - [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](../channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md) · a16z
 - ["Xia" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero](../channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.md) · 张晓珺
 
-## [2026-11-12](2026/11/2026-11-12.md) · 2 篇
+## [2026-11-12](2026/11/2026-11-12.md) · 3 篇
 
+- [Claude Code Projects is INSANE for Building Apps (From Your Phone)](../channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md) · Riley Brown
 - [Creating A New Universal Standard For Refueling Spacecraft](../channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md) · Y Combinator
 - [How AI Could Bring Halo and Other Classic Games Back to Life](../channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md) · a16z
 
-## [2026-11-11](2026/11/2026-11-11.md) · 3 篇
+## [2026-11-11](2026/11/2026-11-11.md) · 4 篇
 
 - [Use Grok Bot Better Than 99% of People (Full Course)](../channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md) · Greg Isenberg
+- [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](../channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md) · Riley Brown
 - [How Model ML Is Building the AI Operating System For Finance](../channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md) · Y Combinator
 - [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](../channels/a16z/2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md) · a16z
 

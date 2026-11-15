@@ -1,5 +1,30 @@
 [
   {
+    "id": "j5BDkyEcML4",
+    "video_id": "j5BDkyEcML4",
+    "title": "The Biggest Week in Claude History...",
+    "channel": "Riley Brown",
+    "published": "2026-11-14",
+    "source_url": "https://www.youtube.com/watch?v=j5BDkyEcML4",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "Claude",
+      "Anthropic",
+      "AI代理",
+      "生产力工具",
+      "行业趋势"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20972,
+    "duration": "21:44",
+    "duration_seconds": 1304,
+    "path": "channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md",
+    "structured_path": "channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.structured.md",
+    "transcript_path": "channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.transcript.md"
+  },
+  {
     "id": "EWmqL-63tyM",
     "video_id": "EWmqL-63tyM",
     "title": "How Intelligence Measures the Frontier",
@@ -122,6 +147,30 @@
     "transcript_path": "channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.transcript.md"
   },
   {
+    "id": "VnJiHSS5Pjk",
+    "video_id": "VnJiHSS5Pjk",
+    "title": "Claude Code Projects is INSANE for Building Apps (From Your Phone)",
+    "channel": "Riley Brown",
+    "published": "2026-11-12",
+    "source_url": "https://www.youtube.com/watch?v=VnJiHSS5Pjk",
+    "notion_url": "",
+    "tags": [
+      "AI开发",
+      "Claude",
+      "无代码",
+      "产品发布",
+      "工作流自动化"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20431,
+    "duration": "24:36",
+    "duration_seconds": 1476,
+    "path": "channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md",
+    "structured_path": "channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.structured.md",
+    "transcript_path": "channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.transcript.md"
+  },
+  {
     "id": "1cWZ7Ekff6E",
     "video_id": "1cWZ7Ekff6E",
     "title": "Use Grok Bot Better Than 99% of People (Full Course)",
@@ -195,6 +244,32 @@
     "path": "channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md",
     "structured_path": "channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.structured.md",
     "transcript_path": "channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.transcript.md"
+  },
+  {
+    "id": "XQfbNtp67OE",
+    "video_id": "XQfbNtp67OE",
+    "title": "Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)",
+    "channel": "Riley Brown",
+    "published": "2026-11-11",
+    "source_url": "https://www.youtube.com/watch?v=XQfbNtp67OE",
+    "notion_url": "",
+    "tags": [
+      "Claude",
+      "AI视觉智能",
+      "Blender",
+      "视频编辑",
+      "游戏开发",
+      "硬件设计",
+      "vibe coding"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 14654,
+    "duration": "18:53",
+    "duration_seconds": 1133,
+    "path": "channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md",
+    "structured_path": "channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.structured.md",
+    "transcript_path": "channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.transcript.md"
   },
   {
     "id": "s4lXP9IuHjk",

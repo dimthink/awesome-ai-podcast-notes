@@ -13,7 +13,7 @@ Browse notes by podcast, YouTube channel, creator, or publishing source.
 - [Lenny's Podcast](lenny's-podcast/README.md) (67)
 - [Lex Fridman](lex-fridman/README.md) (31)
 - [Matthew Berman](matthew-berman/README.md) (1)
-- [Riley Brown](riley-brown/README.md) (88)
+- [Riley Brown](riley-brown/README.md) (91)
 - [Y Combinator](y-combinator/README.md) (60)
 - [a16z](a16z/README.md) (121)
 - [张晓珺](张晓珺/README.md) (48)

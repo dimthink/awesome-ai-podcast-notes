@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-1026-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-1029-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 1026 |
+| 笔记 | 1029 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 699 |
-| 原始文稿 | 986 |
+| 结构化文稿 | 702 |
+| 原始文稿 | 989 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-11-13 |
-| 仓库更新日期 | 2026-11-14 |
+| 最新来源日期 | 2026-11-14 |
+| 仓库更新日期 | 2026-11-15 |
 
 ## 适合谁
 
@@ -68,11 +68,11 @@
 - 2026-11-10 · [Claude Fable 5.2: How I’d Make Money With It](channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md)
 - 2026-11-09 · [AI Agents are too good at marketing now](channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 88 篇
+### [Riley Brown](channels/riley-brown/README.md) · 91 篇
 
-- 2026-11-08 · [This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)](channels/riley-brown/2026-11-08-this-new-claude-update-changes-everything-(claude-code-from-your-phone)-zU0jqYKTgMs.md)
-- 2026-11-02 · [I Built an App That Watches Me Work (Insane Focus)](channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md)
-- 2026-10-31 · [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](channels/riley-brown/2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md)
+- 2026-11-14 · [The Biggest Week in Claude History...](channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md)
+- 2026-11-12 · [Claude Code Projects is INSANE for Building Apps (From Your Phone)](channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md)
+- 2026-11-11 · [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 67 篇
 
@@ -94,6 +94,10 @@
 
 ## 最新更新
 
+### 2026-11-14
+
+- [The Biggest Week in Claude History...](channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md) · Riley Brown
+
 ### 2026-11-13
 
 - [How Intelligence Measures the Frontier](channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md) · Y Combinator
@@ -104,12 +108,14 @@
 
 - [How AI Could Bring Halo and Other Classic Games Back to Life](channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md) · a16z
 - [Creating A New Universal Standard For Refueling Spacecraft](channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md) · Y Combinator
+- [Claude Code Projects is INSANE for Building Apps (From Your Phone)](channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md) · Riley Brown
 
 ### 2026-11-11
 
 - [Use Grok Bot Better Than 99% of People (Full Course)](channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md) · Greg Isenberg
 - [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](channels/a16z/2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md) · a16z
 - [How Model ML Is Building the AI Operating System For Finance](channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md) · Y Combinator
+- [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md) · Riley Brown
 
 ### 2026-11-10
 
@@ -123,12 +129,6 @@
 ### 2026-11-09
 
 - [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md) · Latent Space
-- [AI Agents are too good at marketing now](channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md) · Greg Isenberg
-
-### 2026-11-08
-
-- [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md) · Latent Space
-- [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md) · Lenny's Podcast
 
 ## 数据与自动更新
 

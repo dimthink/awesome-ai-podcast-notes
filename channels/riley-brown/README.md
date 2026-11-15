@@ -1,9 +1,12 @@
 # Riley Brown
 
-88 notes in this channel.
+91 notes in this channel.
 
-本频道共 88 篇。
+本频道共 91 篇。
 
+- 2026-11-14 · [The Biggest Week in Claude History...](2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md)
+- 2026-11-12 · [Claude Code Projects is INSANE for Building Apps (From Your Phone)](2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md)
+- 2026-11-11 · [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md)
 - 2026-11-08 · [This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)](2026-11-08-this-new-claude-update-changes-everything-(claude-code-from-your-phone)-zU0jqYKTgMs.md)
 - 2026-11-02 · [I Built an App That Watches Me Work (Insane Focus)](2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md)
 - 2026-10-31 · [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md)

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1026 |
+| Notes | 1029 |
 | Channels | 16 |
-| Structured notes | 699 |
-| Raw transcripts | 986 |
+| Structured notes | 702 |
+| Raw transcripts | 989 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-13 |
-| Archive updated | 2026-11-14 |
+| Latest source date | 2026-11-14 |
+| Archive updated | 2026-11-15 |
 
 Each episode can include up to three versions:
 
@@ -57,11 +57,11 @@ Each episode can include up to three versions:
 - 2026-11-10 · [Claude Fable 5.2: How I’d Make Money With It](channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md)
 - 2026-11-09 · [AI Agents are too good at marketing now](channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 88 notes
+### [Riley Brown](channels/riley-brown/README.md) · 91 notes
 
-- 2026-11-08 · [This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)](channels/riley-brown/2026-11-08-this-new-claude-update-changes-everything-(claude-code-from-your-phone)-zU0jqYKTgMs.md)
-- 2026-11-02 · [I Built an App That Watches Me Work (Insane Focus)](channels/riley-brown/2026-11-02-i-built-an-app-that-watches-me-work-(insane-focus)-8QPd6WD9Zzg.md)
-- 2026-10-31 · [ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)](channels/riley-brown/2026-10-31-chatgpt-just-changed-a-lot-again-(here’s-what’s-new)-vMvkR8WEOpE.md)
+- 2026-11-14 · [The Biggest Week in Claude History...](channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md)
+- 2026-11-12 · [Claude Code Projects is INSANE for Building Apps (From Your Phone)](channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md)
+- 2026-11-11 · [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 67 notes
 
@@ -83,6 +83,10 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-11-14
+
+- [The Biggest Week in Claude History...](channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md) · Riley Brown
+
 ### 2026-11-13
 
 - [How Intelligence Measures the Frontier](channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md) · Y Combinator
@@ -93,12 +97,14 @@ Each episode can include up to three versions:
 
 - [How AI Could Bring Halo and Other Classic Games Back to Life](channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md) · a16z
 - [Creating A New Universal Standard For Refueling Spacecraft](channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md) · Y Combinator
+- [Claude Code Projects is INSANE for Building Apps (From Your Phone)](channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md) · Riley Brown
 
 ### 2026-11-11
 
 - [Use Grok Bot Better Than 99% of People (Full Course)](channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md) · Greg Isenberg
 - [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](channels/a16z/2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md) · a16z
 - [How Model ML Is Building the AI Operating System For Finance](channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md) · Y Combinator
+- [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md) · Riley Brown
 
 ### 2026-11-10
 
@@ -112,12 +118,6 @@ Each episode can include up to three versions:
 ### 2026-11-09
 
 - [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md) · Latent Space
-- [AI Agents are too good at marketing now](channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md) · Greg Isenberg
-
-### 2026-11-08
-
-- [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md) · Latent Space
-- [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md) · Lenny's Podcast
 
 ## Data
 

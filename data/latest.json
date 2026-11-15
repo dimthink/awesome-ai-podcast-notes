@@ -1,5 +1,30 @@
 [
   {
+    "id": "j5BDkyEcML4",
+    "video_id": "j5BDkyEcML4",
+    "title": "The Biggest Week in Claude History...",
+    "channel": "Riley Brown",
+    "published": "2026-11-14",
+    "source_url": "https://www.youtube.com/watch?v=j5BDkyEcML4",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "Claude",
+      "Anthropic",
+      "AI代理",
+      "生产力工具",
+      "行业趋势"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20972,
+    "duration": "21:44",
+    "duration_seconds": 1304,
+    "path": "channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md",
+    "structured_path": "channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.structured.md",
+    "transcript_path": "channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.transcript.md"
+  },
+  {
     "id": "EWmqL-63tyM",
     "video_id": "EWmqL-63tyM",
     "title": "How Intelligence Measures the Frontier",
@@ -122,6 +147,30 @@
     "transcript_path": "channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.transcript.md"
   },
   {
+    "id": "VnJiHSS5Pjk",
+    "video_id": "VnJiHSS5Pjk",
+    "title": "Claude Code Projects is INSANE for Building Apps (From Your Phone)",
+    "channel": "Riley Brown",
+    "published": "2026-11-12",
+    "source_url": "https://www.youtube.com/watch?v=VnJiHSS5Pjk",
+    "notion_url": "",
+    "tags": [
+      "AI开发",
+      "Claude",
+      "无代码",
+      "产品发布",
+      "工作流自动化"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 20431,
+    "duration": "24:36",
+    "duration_seconds": 1476,
+    "path": "channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md",
+    "structured_path": "channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.structured.md",
+    "transcript_path": "channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.transcript.md"
+  },
+  {
     "id": "1cWZ7Ekff6E",
     "video_id": "1cWZ7Ekff6E",
     "title": "Use Grok Bot Better Than 99% of People (Full Course)",
@@ -195,6 +244,32 @@
     "path": "channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md",
     "structured_path": "channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.structured.md",
     "transcript_path": "channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.transcript.md"
+  },
+  {
+    "id": "XQfbNtp67OE",
+    "video_id": "XQfbNtp67OE",
+    "title": "Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)",
+    "channel": "Riley Brown",
+    "published": "2026-11-11",
+    "source_url": "https://www.youtube.com/watch?v=XQfbNtp67OE",
+    "notion_url": "",
+    "tags": [
+      "Claude",
+      "AI视觉智能",
+      "Blender",
+      "视频编辑",
+      "游戏开发",
+      "硬件设计",
+      "vibe coding"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 14654,
+    "duration": "18:53",
+    "duration_seconds": 1133,
+    "path": "channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md",
+    "structured_path": "channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.structured.md",
+    "transcript_path": "channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.transcript.md"
   },
   {
     "id": "s4lXP9IuHjk",
@@ -1160,82 +1235,5 @@
     "path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.md",
     "structured_path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.structured.md",
     "transcript_path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.transcript.md"
-  },
-  {
-    "id": "5NRNqjlmnKQ",
-    "video_id": "5NRNqjlmnKQ",
-    "title": "Building AI for the $650B Home Services Market",
-    "channel": "Y Combinator",
-    "published": "2026-10-29",
-    "source_url": "https://www.youtube.com/watch?v=5NRNqjlmnKQ",
-    "notion_url": "",
-    "tags": [
-      "创业",
-      "AI",
-      "家庭服务",
-      "产品市场匹配",
-      "YC",
-      "B2B销售"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 14122,
-    "duration": "31:41",
-    "duration_seconds": 1901,
-    "path": "channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.md",
-    "structured_path": "channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.structured.md",
-    "transcript_path": "channels/y-combinator/2026-10-29-building-ai-for-the-$650b-home-services-market-5NRNqjlmnKQ.transcript.md"
-  },
-  {
-    "id": "zHG6sAss_kE",
-    "video_id": "zHG6sAss_kE",
-    "title": "Why Agents Love Supabase — with Paul Copplestone and Ant Wilson",
-    "channel": "Latent Space",
-    "published": "2026-10-28",
-    "source_url": "https://www.youtube.com/watch?v=zHG6sAss_kE",
-    "notion_url": "",
-    "tags": [
-      "Supabase",
-      "PostgreSQL",
-      "AI Agents",
-      "数据库",
-      "开源商业化",
-      "Vibe Coding",
-      "PLG战略"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 17418,
-    "duration": "1:16:39",
-    "duration_seconds": 4599,
-    "path": "channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.md",
-    "structured_path": "channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.structured.md",
-    "transcript_path": "channels/latent-space/2026-10-28-why-agents-love-supabase-—-with-paul-copplestone-and-ant-wilson-zHG6sAss_kE.transcript.md"
-  },
-  {
-    "id": "5UWDUD6qaM4",
-    "video_id": "5UWDUD6qaM4",
-    "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
-    "channel": "a16z",
-    "published": "2026-10-28",
-    "source_url": "https://www.youtube.com/watch?v=5UWDUD6qaM4",
-    "notion_url": "",
-    "tags": [
-      "Mark Cuban",
-      "AI创业",
-      "医疗保健",
-      "合同透明度",
-      "个性化医疗",
-      "颠覆式创新",
-      "创业机会"
-    ],
-    "rating": 5,
-    "language": "英文",
-    "word_count": 17040,
-    "duration": "1:00:18",
-    "duration_seconds": 3618,
-    "path": "channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.md",
-    "structured_path": "channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.structured.md",
-    "transcript_path": "channels/a16z/2026-10-28-mark-cuban-on-why-ai-could-turn-solo-founders-into-trillionaires-5UWDUD6qaM4.transcript.md"
   }
 ]
