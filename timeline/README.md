@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-15](2026/11/2026-11-15.md) · 1 篇
+
+- [Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos](../channels/lenny's-podcast/2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.md) · Lenny's Podcast
+
 ## [2026-11-14](2026/11/2026-11-14.md) · 1 篇
 
 - [The Biggest Week in Claude History...](../channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md) · Riley Brown

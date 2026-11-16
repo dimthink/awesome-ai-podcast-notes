@@ -1,5 +1,31 @@
 [
   {
+    "id": "WY0cdD4gNoQ",
+    "video_id": "WY0cdD4gNoQ",
+    "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+    "channel": "Lenny's Podcast",
+    "published": "2026-11-15",
+    "source_url": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
+    "notion_url": "",
+    "tags": [
+      "AI产品",
+      "产品管理",
+      "Meta",
+      "用户共情",
+      "大公司创新",
+      "Muse",
+      "智能体"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 14333,
+    "duration": "1:27:16",
+    "duration_seconds": 5236,
+    "path": "channels/lenny's-podcast/2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.md",
+    "structured_path": "channels/lenny's-podcast/2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.transcript.md"
+  },
+  {
     "id": "j5BDkyEcML4",
     "video_id": "j5BDkyEcML4",
     "title": "The Biggest Week in Claude History...",
@@ -1210,30 +1236,5 @@
     "path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md",
     "structured_path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.structured.md",
     "transcript_path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.transcript.md"
-  },
-  {
-    "id": "XcastAK9pDM",
-    "video_id": "XcastAK9pDM",
-    "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
-    "channel": "硅谷101",
-    "published": "2026-10-29",
-    "source_url": "https://www.youtube.com/watch?v=XcastAK9pDM",
-    "notion_url": "",
-    "tags": [
-      "有效利他主义",
-      "AI安全",
-      "理性主义",
-      "Vitalik Buterin",
-      "硅谷",
-      "人工智能治理"
-    ],
-    "rating": 4,
-    "language": "中文",
-    "word_count": 22173,
-    "duration": "1:52:34",
-    "duration_seconds": 6754,
-    "path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.md",
-    "structured_path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.structured.md",
-    "transcript_path": "channels/硅谷101/2026-10-29-e257-对话vitalik-ai安全背后的哲学思想,有效利他主义如何影响硅谷-XcastAK9pDM.transcript.md"
   }
 ]

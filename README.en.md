@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1029 |
+| Notes | 1030 |
 | Channels | 16 |
-| Structured notes | 702 |
-| Raw transcripts | 989 |
+| Structured notes | 703 |
+| Raw transcripts | 990 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-14 |
-| Archive updated | 2026-11-15 |
+| Latest source date | 2026-11-15 |
+| Archive updated | 2026-11-16 |
 
 Each episode can include up to three versions:
 
@@ -63,11 +63,11 @@ Each episode can include up to three versions:
 - 2026-11-12 · [Claude Code Projects is INSANE for Building Apps (From Your Phone)](channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md)
 - 2026-11-11 · [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 67 notes
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 68 notes
 
+- 2026-11-15 · [Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos](channels/lenny's-podcast/2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.md)
 - 2026-11-08 · [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md)
 - 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
-- 2026-10-25 · [An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](channels/lenny's-podcast/2026-10-25-an-86-minute-guide-to-finding-pmf-rob-snyder-(author,-the-power-of-pull)-19qrLchbQEc.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 60 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 
 ## Latest Updates
+
+### 2026-11-15
+
+- [Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos](channels/lenny's-podcast/2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.md) · Lenny's Podcast
 
 ### 2026-11-14
 
@@ -114,10 +118,6 @@ Each episode can include up to three versions:
 - [Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)](channels/ai-explained/2026-11-10-fable-5.2-the-self-improvement-loop-keeps-loopin’-...-(plus-gemini-carbon)-583ThJIqQ7k.md) · AI Explained
 - [Designing for Agents — Zeno Rocha, Resend](channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md) · Latent Space
 - [Claude Fable 5.2: How I’d Make Money With It](channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md) · Greg Isenberg
-
-### 2026-11-09
-
-- [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md) · Latent Space
 
 ## Data
 
