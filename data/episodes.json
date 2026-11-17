@@ -1,5 +1,58 @@
 [
   {
+    "id": "g_67TmQ8lGY",
+    "video_id": "g_67TmQ8lGY",
+    "title": "What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas",
+    "channel": "a16z",
+    "published": "2026-11-16",
+    "source_url": "https://www.youtube.com/watch?v=g_67TmQ8lGY",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "经济学",
+      "增长",
+      "制度",
+      "对齐",
+      "协调",
+      "预测",
+      "技术变革"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 24138,
+    "duration": "1:03:18",
+    "duration_seconds": 3798,
+    "path": "channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md",
+    "structured_path": "channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.structured.md",
+    "transcript_path": "channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.transcript.md"
+  },
+  {
+    "id": "8cGfJOU3AlQ",
+    "video_id": "8cGfJOU3AlQ",
+    "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+    "channel": "Latent Space",
+    "published": "2026-11-16",
+    "source_url": "https://www.youtube.com/watch?v=8cGfJOU3AlQ",
+    "notion_url": "",
+    "tags": [
+      "扩散模型",
+      "Flux",
+      "机器人",
+      "世界模型",
+      "BlackForestLabs",
+      "图像生成",
+      "视频生成"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 18146,
+    "duration": "1:38:24",
+    "duration_seconds": 5904,
+    "path": "channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md",
+    "structured_path": "channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.structured.md",
+    "transcript_path": "channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.transcript.md"
+  },
+  {
     "id": "WY0cdD4gNoQ",
     "video_id": "WY0cdD4gNoQ",
     "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",

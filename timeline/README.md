@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-16](2026/11/2026-11-16.md) · 2 篇
+
+- [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](../channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md) · Latent Space
+- [What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas](../channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md) · a16z
+
 ## [2026-11-15](2026/11/2026-11-15.md) · 1 篇
 
 - [Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos](../channels/lenny's-podcast/2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.md) · Lenny's Podcast

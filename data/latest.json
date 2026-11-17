@@ -1,5 +1,58 @@
 [
   {
+    "id": "g_67TmQ8lGY",
+    "video_id": "g_67TmQ8lGY",
+    "title": "What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas",
+    "channel": "a16z",
+    "published": "2026-11-16",
+    "source_url": "https://www.youtube.com/watch?v=g_67TmQ8lGY",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "经济学",
+      "增长",
+      "制度",
+      "对齐",
+      "协调",
+      "预测",
+      "技术变革"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 24138,
+    "duration": "1:03:18",
+    "duration_seconds": 3798,
+    "path": "channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md",
+    "structured_path": "channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.structured.md",
+    "transcript_path": "channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.transcript.md"
+  },
+  {
+    "id": "8cGfJOU3AlQ",
+    "video_id": "8cGfJOU3AlQ",
+    "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+    "channel": "Latent Space",
+    "published": "2026-11-16",
+    "source_url": "https://www.youtube.com/watch?v=8cGfJOU3AlQ",
+    "notion_url": "",
+    "tags": [
+      "扩散模型",
+      "Flux",
+      "机器人",
+      "世界模型",
+      "BlackForestLabs",
+      "图像生成",
+      "视频生成"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 18146,
+    "duration": "1:38:24",
+    "duration_seconds": 5904,
+    "path": "channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md",
+    "structured_path": "channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.structured.md",
+    "transcript_path": "channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.transcript.md"
+  },
+  {
     "id": "WY0cdD4gNoQ",
     "video_id": "WY0cdD4gNoQ",
     "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
@@ -1187,54 +1240,5 @@
     "path": "channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.md",
     "structured_path": "channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.structured.md",
     "transcript_path": "channels/a16z/2026-10-30-why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-iRMmPjunm3Q.transcript.md"
-  },
-  {
-    "id": "AqqjH_uv-_w",
-    "video_id": "AqqjH_uv-_w",
-    "title": "SaaS is dead?",
-    "channel": "Greg Isenberg",
-    "published": "2026-10-29",
-    "source_url": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
-    "notion_url": "",
-    "tags": [
-      "SaaS",
-      "AI 创业",
-      "商业模式",
-      "免费增值",
-      "智能体"
-    ],
-    "rating": 3,
-    "language": "英文",
-    "word_count": 9019,
-    "duration": "11:13",
-    "duration_seconds": 673,
-    "path": "channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.md",
-    "structured_path": "channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.structured.md",
-    "transcript_path": "channels/greg-isenberg/2026-10-29-saas-is-dead-AqqjH_uv-_w.transcript.md"
-  },
-  {
-    "id": "cRJ7CfaK1Vc",
-    "video_id": "cRJ7CfaK1Vc",
-    "title": "How to Build the Next SpaceX or Tesla",
-    "channel": "a16z",
-    "published": "2026-10-29",
-    "source_url": "https://www.youtube.com/watch?v=cRJ7CfaK1Vc",
-    "notion_url": "",
-    "tags": [
-      "American Dynamism",
-      "工业基础",
-      "国防科技",
-      "AI与制造",
-      "风险投资",
-      "垂直整合"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 30145,
-    "duration": "49:17",
-    "duration_seconds": 2957,
-    "path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.md",
-    "structured_path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.structured.md",
-    "transcript_path": "channels/a16z/2026-10-29-how-to-build-the-next-spacex-or-tesla-cRJ7CfaK1Vc.transcript.md"
   }
 ]

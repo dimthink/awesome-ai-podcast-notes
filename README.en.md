@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1030 |
+| Notes | 1032 |
 | Channels | 16 |
-| Structured notes | 703 |
-| Raw transcripts | 990 |
+| Structured notes | 705 |
+| Raw transcripts | 992 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-15 |
-| Archive updated | 2026-11-16 |
+| Latest source date | 2026-11-16 |
+| Archive updated | 2026-11-17 |
 
 Each episode can include up to three versions:
 
@@ -39,17 +39,17 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 121 notes
+### [a16z](channels/a16z/README.md) · 122 notes
 
+- 2026-11-16 · [What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas](channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md)
 - 2026-11-13 · [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md)
 - 2026-11-12 · [How AI Could Bring Halo and Other Classic Games Back to Life](channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md)
-- 2026-11-11 · [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](channels/a16z/2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md)
 
-### [Latent Space](channels/latent-space/README.md) · 115 notes
+### [Latent Space](channels/latent-space/README.md) · 116 notes
 
+- 2026-11-16 · [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md)
 - 2026-11-10 · [Designing for Agents — Zeno Rocha, Resend](channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md)
 - 2026-11-09 · [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md)
-- 2026-11-08 · [[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](channels/latent-space/2026-11-08-one-million-ai-engineer-special-how-stanford-teaches-ai-native-engineering-—-mihail-eric,-monaco-dpY7YzZo4kE.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 91 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 
 ## Latest Updates
+
+### 2026-11-16
+
+- [What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas](channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md) · a16z
+- [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md) · Latent Space
 
 ### 2026-11-15
 
@@ -116,8 +121,6 @@ Each episode can include up to three versions:
 - [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](channels/lex-fridman/2026-11-10-ukraine-war-putin,-zelenskyy,-trump,-drones-and-the-future-of-warfare-lex-fridman-podcast-504-2hJkprFnzhY.md) · Lex Fridman
 - [How Solve Intelligence Is Building the Future of AI Patent Law](channels/y-combinator/2026-11-10-how-solve-intelligence-is-building-the-future-of-ai-patent-law-27H7XzGx8F8.md) · Y Combinator
 - [Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)](channels/ai-explained/2026-11-10-fable-5.2-the-self-improvement-loop-keeps-loopin’-...-(plus-gemini-carbon)-583ThJIqQ7k.md) · AI Explained
-- [Designing for Agents — Zeno Rocha, Resend](channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md) · Latent Space
-- [Claude Fable 5.2: How I’d Make Money With It](channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md) · Greg Isenberg
 
 ## Data
 
