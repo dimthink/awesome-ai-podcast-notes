@@ -6,6 +6,11 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-17](2026/11/2026-11-17.md) · 2 篇
+
+- [Building the AI Platform for Enterprise Software Implementations](../channels/y-combinator/2026-11-17-building-the-ai-platform-for-enterprise-software-implementations-FmvRhxq2oHE.md) · Y Combinator
+- [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](../channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md) · a16z
+
 ## [2026-11-16](2026/11/2026-11-16.md) · 2 篇
 
 - [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](../channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md) · Latent Space

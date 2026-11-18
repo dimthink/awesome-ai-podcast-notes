@@ -1,5 +1,53 @@
 [
   {
+    "id": "h_aA1-R70E8",
+    "video_id": "h_aA1-R70E8",
+    "title": "OpenAI’s Cofounder & Research Chief Explain Self-Improving AI",
+    "channel": "a16z",
+    "published": "2026-11-17",
+    "source_url": "https://www.youtube.com/watch?v=h_aA1-R70E8",
+    "notion_url": "",
+    "tags": [
+      "AI对齐",
+      "递归自我改进",
+      "研究自动化",
+      "OpenAI",
+      "前沿模型"
+    ],
+    "rating": 5,
+    "language": "英文",
+    "word_count": 17029,
+    "duration": "16:19",
+    "duration_seconds": 979,
+    "path": "channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md",
+    "structured_path": "channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.structured.md",
+    "transcript_path": "channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.transcript.md"
+  },
+  {
+    "id": "FmvRhxq2oHE",
+    "video_id": "FmvRhxq2oHE",
+    "title": "Building the AI Platform for Enterprise Software Implementations",
+    "channel": "Y Combinator",
+    "published": "2026-11-17",
+    "source_url": "https://www.youtube.com/watch?v=FmvRhxq2oHE",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "创业",
+      "企业软件",
+      "SaaS",
+      "YC"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 9574,
+    "duration": "28:41",
+    "duration_seconds": 1721,
+    "path": "channels/y-combinator/2026-11-17-building-the-ai-platform-for-enterprise-software-implementations-FmvRhxq2oHE.md",
+    "structured_path": "channels/y-combinator/2026-11-17-building-the-ai-platform-for-enterprise-software-implementations-FmvRhxq2oHE.structured.md",
+    "transcript_path": "channels/y-combinator/2026-11-17-building-the-ai-platform-for-enterprise-software-implementations-FmvRhxq2oHE.transcript.md"
+  },
+  {
     "id": "g_67TmQ8lGY",
     "video_id": "g_67TmQ8lGY",
     "title": "What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas",

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1032 |
+| Notes | 1034 |
 | Channels | 16 |
-| Structured notes | 705 |
-| Raw transcripts | 992 |
+| Structured notes | 707 |
+| Raw transcripts | 994 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-16 |
-| Archive updated | 2026-11-17 |
+| Latest source date | 2026-11-17 |
+| Archive updated | 2026-11-18 |
 
 Each episode can include up to three versions:
 
@@ -39,11 +39,11 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 122 notes
+### [a16z](channels/a16z/README.md) · 123 notes
 
+- 2026-11-17 · [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md)
 - 2026-11-16 · [What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas](channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md)
 - 2026-11-13 · [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md)
-- 2026-11-12 · [How AI Could Bring Halo and Other Classic Games Back to Life](channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md)
 
 ### [Latent Space](channels/latent-space/README.md) · 116 notes
 
@@ -69,11 +69,11 @@ Each episode can include up to three versions:
 - 2026-11-08 · [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md)
 - 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
 
-### [Y Combinator](channels/y-combinator/README.md) · 60 notes
+### [Y Combinator](channels/y-combinator/README.md) · 61 notes
 
+- 2026-11-17 · [Building the AI Platform for Enterprise Software Implementations](channels/y-combinator/2026-11-17-building-the-ai-platform-for-enterprise-software-implementations-FmvRhxq2oHE.md)
 - 2026-11-13 · [How Intelligence Measures the Frontier](channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md)
 - 2026-11-12 · [Creating A New Universal Standard For Refueling Spacecraft](channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md)
-- 2026-11-11 · [How Model ML Is Building the AI Operating System For Finance](channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md)
 
 ### [张晓珺](channels/张晓珺/README.md) · 48 notes
 
@@ -82,6 +82,11 @@ Each episode can include up to three versions:
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 
 ## Latest Updates
+
+### 2026-11-17
+
+- [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md) · a16z
+- [Building the AI Platform for Enterprise Software Implementations](channels/y-combinator/2026-11-17-building-the-ai-platform-for-enterprise-software-implementations-FmvRhxq2oHE.md) · Y Combinator
 
 ### 2026-11-16
 
@@ -119,8 +124,6 @@ Each episode can include up to three versions:
 
 - [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](channels/a16z/2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md) · a16z
 - [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](channels/lex-fridman/2026-11-10-ukraine-war-putin,-zelenskyy,-trump,-drones-and-the-future-of-warfare-lex-fridman-podcast-504-2hJkprFnzhY.md) · Lex Fridman
-- [How Solve Intelligence Is Building the Future of AI Patent Law](channels/y-combinator/2026-11-10-how-solve-intelligence-is-building-the-future-of-ai-patent-law-27H7XzGx8F8.md) · Y Combinator
-- [Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)](channels/ai-explained/2026-11-10-fable-5.2-the-self-improvement-loop-keeps-loopin’-...-(plus-gemini-carbon)-583ThJIqQ7k.md) · AI Explained
 
 ## Data
 
