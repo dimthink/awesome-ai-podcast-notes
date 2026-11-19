@@ -6,6 +6,17 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-19](2026/11/2026-11-19.md) · 1 篇
+
+- [GTA 6, Crime, Money, Prison Gangs & Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](../channels/lex-fridman/2026-11-19-gta-6,-crime,-money,-prison-gangs-&-biggest-jewelry-thief-in-us-history-lex-fridman-podcast-505-v1X9Fqs5a14.md) · Lex Fridman
+
+## [2026-11-18](2026/11/2026-11-18.md) · 4 篇
+
+- [Build a 1 Person Media Machine With Grok Bot](../channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md) · Greg Isenberg
+- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](../channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md) · Latent Space
+- [Claude Is Taking Over (NEW Artifacts Are Insane)](../channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md) · Riley Brown
+- [What It Takes to Build an AI That Actually Knows You](../channels/a16z/2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md) · a16z
+
 ## [2026-11-17](2026/11/2026-11-17.md) · 2 篇
 
 - [Building the AI Platform for Enterprise Software Implementations](../channels/y-combinator/2026-11-17-building-the-ai-platform-for-enterprise-software-implementations-FmvRhxq2oHE.md) · Y Combinator

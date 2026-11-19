@@ -1,9 +1,10 @@
 # Lex Fridman
 
-31 notes in this channel.
+32 notes in this channel.
 
-本频道共 31 篇。
+本频道共 32 篇。
 
+- 2026-11-19 · [GTA 6, Crime, Money, Prison Gangs & Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](2026-11-19-gta-6,-crime,-money,-prison-gangs-&-biggest-jewelry-thief-in-us-history-lex-fridman-podcast-505-v1X9Fqs5a14.md)
 - 2026-11-10 · [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](2026-11-10-ukraine-war-putin,-zelenskyy,-trump,-drones-and-the-future-of-warfare-lex-fridman-podcast-504-2hJkprFnzhY.md)
 - 2026-10-26 · [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503](2026-10-26-ai-crisis-in-math-navier-stokes,-riemann-hypothesis-&-complexity-theory-lex-fridman-podcast-503-ZAzWPE9CItg.md)
 - 2026-10-13 · [Visiting Taiwan w/ Jensen Huang | Lex Fridman](2026-10-13-visiting-taiwan-w-jensen-huang-lex-fridman-FGCP2F_7rQk.md)

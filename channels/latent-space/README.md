@@ -1,9 +1,10 @@
 # Latent Space
 
-116 notes in this channel.
+117 notes in this channel.
 
-本频道共 116 篇。
+本频道共 117 篇。
 
+- 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)
 - 2026-11-16 · [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md)
 - 2026-11-10 · [Designing for Agents — Zeno Rocha, Resend](2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md)
 - 2026-11-09 · [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md)

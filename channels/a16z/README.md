@@ -1,9 +1,10 @@
 # a16z
 
-123 notes in this channel.
+124 notes in this channel.
 
-本频道共 123 篇。
+本频道共 124 篇。
 
+- 2026-11-18 · [What It Takes to Build an AI That Actually Knows You](2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md)
 - 2026-11-17 · [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md)
 - 2026-11-16 · [What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas](2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md)
 - 2026-11-13 · [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md)

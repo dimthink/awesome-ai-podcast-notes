@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1034 |
+| Notes | 1039 |
 | Channels | 16 |
-| Structured notes | 707 |
-| Raw transcripts | 994 |
+| Structured notes | 712 |
+| Raw transcripts | 999 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-17 |
-| Archive updated | 2026-11-18 |
+| Latest source date | 2026-11-19 |
+| Archive updated | 2026-11-19 |
 
 Each episode can include up to three versions:
 
@@ -39,29 +39,29 @@ Each episode can include up to three versions:
 - 2026-04-25 · [AI 能自我修正嗎？從 decoding、workflow 到 reasoning 的技術發展整理](channels/李弘毅/2026-04-25-ai-能自我修正嗎-從-decoding、workflow-到-reasoning-的技術發展整理-m3i2mk5hs8U.md)
 - 2026-04-12 · [Harness Engineering：有時候語言模型不是不夠聰明，只是沒有人類好好引導](channels/李弘毅/2026-04-12-harness-engineering-有時候語言模型不是不夠聰明,只是沒有人類好好引導-R6fZR_9kmIw.md)
 
-### [a16z](channels/a16z/README.md) · 123 notes
+### [a16z](channels/a16z/README.md) · 124 notes
 
+- 2026-11-18 · [What It Takes to Build an AI That Actually Knows You](channels/a16z/2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md)
 - 2026-11-17 · [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md)
 - 2026-11-16 · [What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas](channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md)
-- 2026-11-13 · [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md)
 
-### [Latent Space](channels/latent-space/README.md) · 116 notes
+### [Latent Space](channels/latent-space/README.md) · 117 notes
 
+- 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)
 - 2026-11-16 · [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md)
 - 2026-11-10 · [Designing for Agents — Zeno Rocha, Resend](channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md)
-- 2026-11-09 · [What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team](channels/latent-space/2026-11-09-what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-—-garrett-lord-&-team-v5IJwVnTxzg.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 91 notes
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 92 notes
 
+- 2026-11-18 · [Build a 1 Person Media Machine With Grok Bot](channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md)
 - 2026-11-11 · [Use Grok Bot Better Than 99% of People (Full Course)](channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md)
 - 2026-11-10 · [Claude Fable 5.2: How I’d Make Money With It](channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md)
-- 2026-11-09 · [AI Agents are too good at marketing now](channels/greg-isenberg/2026-11-09-ai-agents-are-too-good-at-marketing-now-uJuxenfe-NU.md)
 
-### [Riley Brown](channels/riley-brown/README.md) · 91 notes
+### [Riley Brown](channels/riley-brown/README.md) · 92 notes
 
+- 2026-11-18 · [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md)
 - 2026-11-14 · [The Biggest Week in Claude History...](channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md)
 - 2026-11-12 · [Claude Code Projects is INSANE for Building Apps (From Your Phone)](channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md)
-- 2026-11-11 · [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 68 notes
 
@@ -82,6 +82,17 @@ Each episode can include up to three versions:
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 
 ## Latest Updates
+
+### 2026-11-19
+
+- [GTA 6, Crime, Money, Prison Gangs & Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](channels/lex-fridman/2026-11-19-gta-6,-crime,-money,-prison-gangs-&-biggest-jewelry-thief-in-us-history-lex-fridman-podcast-505-v1X9Fqs5a14.md) · Lex Fridman
+
+### 2026-11-18
+
+- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md) · Latent Space
+- [What It Takes to Build an AI That Actually Knows You](channels/a16z/2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md) · a16z
+- [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md) · Riley Brown
+- [Build a 1 Person Media Machine With Grok Bot](channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md) · Greg Isenberg
 
 ### 2026-11-17
 
@@ -116,14 +127,6 @@ Each episode can include up to three versions:
 ### 2026-11-11
 
 - [Use Grok Bot Better Than 99% of People (Full Course)](channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md) · Greg Isenberg
-- [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](channels/a16z/2026-11-11-mike-volpi-on-why-ai-infrastructure-will-outlast-the-hype-cycle-LI3lxzHfRrU.md) · a16z
-- [How Model ML Is Building the AI Operating System For Finance](channels/y-combinator/2026-11-11-how-model-ml-is-building-the-ai-operating-system-for-finance-zIlVzGJZZ5E.md) · Y Combinator
-- [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](channels/riley-brown/2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md) · Riley Brown
-
-### 2026-11-10
-
-- [Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse](channels/a16z/2026-11-10-why-hubspot’s-co-founder-is-betting-against-the-saaspocalypse-s4lXP9IuHjk.md) · a16z
-- [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](channels/lex-fridman/2026-11-10-ukraine-war-putin,-zelenskyy,-trump,-drones-and-the-future-of-warfare-lex-fridman-podcast-504-2hJkprFnzhY.md) · Lex Fridman
 
 ## Data
 

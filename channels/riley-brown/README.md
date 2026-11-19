@@ -1,9 +1,10 @@
 # Riley Brown
 
-91 notes in this channel.
+92 notes in this channel.
 
-本频道共 91 篇。
+本频道共 92 篇。
 
+- 2026-11-18 · [Claude Is Taking Over (NEW Artifacts Are Insane)](2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md)
 - 2026-11-14 · [The Biggest Week in Claude History...](2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md)
 - 2026-11-12 · [Claude Code Projects is INSANE for Building Apps (From Your Phone)](2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md)
 - 2026-11-11 · [Claude Fable 5.2 Feels Like AGI (Here’s Everything It Can Do)](2026-11-11-claude-fable-5.2-feels-like-agi-(here’s-everything-it-can-do)-XQfbNtp67OE.md)
