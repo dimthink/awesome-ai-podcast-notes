@@ -1,9 +1,10 @@
 # AI Explained
 
-36 notes in this channel.
+37 notes in this channel.
 
-本频道共 36 篇。
+本频道共 37 篇。
 
+- 2026-11-19 · [Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story](2026-11-19-anthropic-ipos,-gpt-6.2-astra-arrives,-but-there’s-a-bigger-story-KGA7B_c_S4s.md)
 - 2026-11-10 · [Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)](2026-11-10-fable-5.2-the-self-improvement-loop-keeps-loopin’-...-(plus-gemini-carbon)-583ThJIqQ7k.md)
 - 2026-11-02 · [‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon](2026-11-02-‘we-may-release-models-we-can’t-control’-amodei,-altman-...-and-gemini-carbon-0Kw6_DTZPrY.md)
 - 2026-10-12 · [AI Labs Warn Race Makes Breach ‘Inevitable’](2026-10-12-ai-labs-warn-race-makes-breach-‘inevitable’-C4Sq3Rot8FU.md)

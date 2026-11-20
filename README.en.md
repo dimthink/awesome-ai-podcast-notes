@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1039 |
+| Notes | 1041 |
 | Channels | 16 |
-| Structured notes | 712 |
-| Raw transcripts | 999 |
+| Structured notes | 714 |
+| Raw transcripts | 1001 |
 | Earliest source date | 2016-10-07 |
 | Latest source date | 2026-11-19 |
-| Archive updated | 2026-11-19 |
+| Archive updated | 2026-11-20 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-11-17 · [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md)
 - 2026-11-16 · [What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas](channels/a16z/2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md)
 
-### [Latent Space](channels/latent-space/README.md) · 117 notes
+### [Latent Space](channels/latent-space/README.md) · 118 notes
 
+- 2026-11-19 · [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](channels/latent-space/2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md)
 - 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)
 - 2026-11-16 · [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md)
-- 2026-11-10 · [Designing for Agents — Zeno Rocha, Resend](channels/latent-space/2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 92 notes
 
@@ -85,7 +85,9 @@ Each episode can include up to three versions:
 
 ### 2026-11-19
 
+- [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](channels/latent-space/2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md) · Latent Space
 - [GTA 6, Crime, Money, Prison Gangs & Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](channels/lex-fridman/2026-11-19-gta-6,-crime,-money,-prison-gangs-&-biggest-jewelry-thief-in-us-history-lex-fridman-podcast-505-v1X9Fqs5a14.md) · Lex Fridman
+- [Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story](channels/ai-explained/2026-11-19-anthropic-ipos,-gpt-6.2-astra-arrives,-but-there’s-a-bigger-story-KGA7B_c_S4s.md) · AI Explained
 
 ### 2026-11-18
 
@@ -122,11 +124,6 @@ Each episode can include up to three versions:
 
 - [How AI Could Bring Halo and Other Classic Games Back to Life](channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md) · a16z
 - [Creating A New Universal Standard For Refueling Spacecraft](channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md) · Y Combinator
-- [Claude Code Projects is INSANE for Building Apps (From Your Phone)](channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md) · Riley Brown
-
-### 2026-11-11
-
-- [Use Grok Bot Better Than 99% of People (Full Course)](channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md) · Greg Isenberg
 
 ## Data
 

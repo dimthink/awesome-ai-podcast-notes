@@ -1,9 +1,10 @@
 # Latent Space
 
-117 notes in this channel.
+118 notes in this channel.
 
-本频道共 117 篇。
+本频道共 118 篇。
 
+- 2026-11-19 · [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md)
 - 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)
 - 2026-11-16 · [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md)
 - 2026-11-10 · [Designing for Agents — Zeno Rocha, Resend](2026-11-10-designing-for-agents-—-zeno-rocha,-resend-bdIoODXsu8k.md)

@@ -6,8 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-11-19](2026/11/2026-11-19.md) · 1 篇
+## [2026-11-19](2026/11/2026-11-19.md) · 3 篇
 
+- [Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story](../channels/ai-explained/2026-11-19-anthropic-ipos,-gpt-6.2-astra-arrives,-but-there’s-a-bigger-story-KGA7B_c_S4s.md) · AI Explained
+- [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](../channels/latent-space/2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md) · Latent Space
 - [GTA 6, Crime, Money, Prison Gangs & Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](../channels/lex-fridman/2026-11-19-gta-6,-crime,-money,-prison-gangs-&-biggest-jewelry-thief-in-us-history-lex-fridman-podcast-505-v1X9Fqs5a14.md) · Lex Fridman
 
 ## [2026-11-18](2026/11/2026-11-18.md) · 4 篇
