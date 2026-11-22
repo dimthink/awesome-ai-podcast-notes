@@ -6,6 +6,15 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-21](2026/11/2026-11-21.md) · 1 篇
+
+- [Is Claude Still Worth Paying 30x For? | Billion-Dollar Founder Suhail Doshi](../channels/riley-brown/2026-11-21-is-claude-still-worth-paying-30x-for-billion-dollar-founder-suhail-doshi-K2UEMxBTu9M.md) · Riley Brown
+
+## [2026-11-20](2026/11/2026-11-20.md) · 2 篇
+
+- [Gemini 4 Neon: the most underrated model of the year](../channels/greg-isenberg/2026-11-20-gemini-4-neon-the-most-underrated-model-of-the-year-tCY7zMknCJQ.md) · Greg Isenberg
+- [Google JUST Caught Up To Claude... And It’s HALF the Price](../channels/riley-brown/2026-11-20-google-just-caught-up-to-claude...-and-it’s-half-the-price-LNIrmrZ_0gY.md) · Riley Brown
+
 ## [2026-11-19](2026/11/2026-11-19.md) · 3 篇
 
 - [Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story](../channels/ai-explained/2026-11-19-anthropic-ipos,-gpt-6.2-astra-arrives,-but-there’s-a-bigger-story-KGA7B_c_S4s.md) · AI Explained

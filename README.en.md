@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1041 |
+| Notes | 1044 |
 | Channels | 16 |
-| Structured notes | 714 |
-| Raw transcripts | 1001 |
+| Structured notes | 717 |
+| Raw transcripts | 1004 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-19 |
-| Archive updated | 2026-11-20 |
+| Latest source date | 2026-11-21 |
+| Archive updated | 2026-11-22 |
 
 Each episode can include up to three versions:
 
@@ -51,17 +51,17 @@ Each episode can include up to three versions:
 - 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)
 - 2026-11-16 · [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md)
 
-### [Greg Isenberg](channels/greg-isenberg/README.md) · 92 notes
+### [Riley Brown](channels/riley-brown/README.md) · 94 notes
 
+- 2026-11-21 · [Is Claude Still Worth Paying 30x For? | Billion-Dollar Founder Suhail Doshi](channels/riley-brown/2026-11-21-is-claude-still-worth-paying-30x-for-billion-dollar-founder-suhail-doshi-K2UEMxBTu9M.md)
+- 2026-11-20 · [Google JUST Caught Up To Claude... And It’s HALF the Price](channels/riley-brown/2026-11-20-google-just-caught-up-to-claude...-and-it’s-half-the-price-LNIrmrZ_0gY.md)
+- 2026-11-18 · [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md)
+
+### [Greg Isenberg](channels/greg-isenberg/README.md) · 93 notes
+
+- 2026-11-20 · [Gemini 4 Neon: the most underrated model of the year](channels/greg-isenberg/2026-11-20-gemini-4-neon-the-most-underrated-model-of-the-year-tCY7zMknCJQ.md)
 - 2026-11-18 · [Build a 1 Person Media Machine With Grok Bot](channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md)
 - 2026-11-11 · [Use Grok Bot Better Than 99% of People (Full Course)](channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md)
-- 2026-11-10 · [Claude Fable 5.2: How I’d Make Money With It](channels/greg-isenberg/2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md)
-
-### [Riley Brown](channels/riley-brown/README.md) · 92 notes
-
-- 2026-11-18 · [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md)
-- 2026-11-14 · [The Biggest Week in Claude History...](channels/riley-brown/2026-11-14-the-biggest-week-in-claude-history-j5BDkyEcML4.md)
-- 2026-11-12 · [Claude Code Projects is INSANE for Building Apps (From Your Phone)](channels/riley-brown/2026-11-12-claude-code-projects-is-insane-for-building-apps-(from-your-phone)-VnJiHSS5Pjk.md)
 
 ### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 68 notes
 
@@ -82,6 +82,15 @@ Each episode can include up to three versions:
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 
 ## Latest Updates
+
+### 2026-11-21
+
+- [Is Claude Still Worth Paying 30x For? | Billion-Dollar Founder Suhail Doshi](channels/riley-brown/2026-11-21-is-claude-still-worth-paying-30x-for-billion-dollar-founder-suhail-doshi-K2UEMxBTu9M.md) · Riley Brown
+
+### 2026-11-20
+
+- [Google JUST Caught Up To Claude... And It’s HALF the Price](channels/riley-brown/2026-11-20-google-just-caught-up-to-claude...-and-it’s-half-the-price-LNIrmrZ_0gY.md) · Riley Brown
+- [Gemini 4 Neon: the most underrated model of the year](channels/greg-isenberg/2026-11-20-gemini-4-neon-the-most-underrated-model-of-the-year-tCY7zMknCJQ.md) · Greg Isenberg
 
 ### 2026-11-19
 
@@ -118,12 +127,6 @@ Each episode can include up to three versions:
 
 - [How Intelligence Measures the Frontier](channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md) · Y Combinator
 - [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md) · a16z
-- ["Xia" | A 6-Hour Interview with Soulframe Liang, Producer of Phantom Blade Zero](channels/张晓珺/2026-11-13-xia-a-6-hour-interview-with-soulframe-liang,-producer-of-phantom-blade-zero-4roDSFRJ1Aw.md) · 张晓珺
-
-### 2026-11-12
-
-- [How AI Could Bring Halo and Other Classic Games Back to Life](channels/a16z/2026-11-12-how-ai-could-bring-halo-and-other-classic-games-back-to-life-HDRy6XmE2RQ.md) · a16z
-- [Creating A New Universal Standard For Refueling Spacecraft](channels/y-combinator/2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md) · Y Combinator
 
 ## Data
 

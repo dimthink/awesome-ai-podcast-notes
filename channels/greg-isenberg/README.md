@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-92 notes in this channel.
+93 notes in this channel.
 
-本频道共 92 篇。
+本频道共 93 篇。
 
+- 2026-11-20 · [Gemini 4 Neon: the most underrated model of the year](2026-11-20-gemini-4-neon-the-most-underrated-model-of-the-year-tCY7zMknCJQ.md)
 - 2026-11-18 · [Build a 1 Person Media Machine With Grok Bot](2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md)
 - 2026-11-11 · [Use Grok Bot Better Than 99% of People (Full Course)](2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md)
 - 2026-11-10 · [Claude Fable 5.2: How I’d Make Money With It](2026-11-10-claude-fable-5.2-how-i’d-make-money-with-it-G3i2k6DdI0o.md)
