@@ -1,5 +1,29 @@
 [
   {
+    "id": "hRtmV1mCBSE",
+    "video_id": "hRtmV1mCBSE",
+    "title": "Why “everyone’s a builder” isn’t working | A reality check with Sherif Mansour",
+    "channel": "Lenny's Podcast",
+    "published": "2026-11-22",
+    "source_url": "https://www.youtube.com/watch?v=hRtmV1mCBSE",
+    "notion_url": "",
+    "tags": [
+      "AI 产品管理",
+      "PM 职业发展",
+      "组织设计",
+      "招聘趋势",
+      "产品战略"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 17351,
+    "duration": "1:21:38",
+    "duration_seconds": 4898,
+    "path": "channels/lenny's-podcast/2026-11-22-why-“everyone’s-a-builder”-isn’t-working-a-reality-check-with-sherif-mansour-hRtmV1mCBSE.md",
+    "structured_path": "channels/lenny's-podcast/2026-11-22-why-“everyone’s-a-builder”-isn’t-working-a-reality-check-with-sherif-mansour-hRtmV1mCBSE.structured.md",
+    "transcript_path": "channels/lenny's-podcast/2026-11-22-why-“everyone’s-a-builder”-isn’t-working-a-reality-check-with-sherif-mansour-hRtmV1mCBSE.transcript.md"
+  },
+  {
     "id": "K2UEMxBTu9M",
     "video_id": "K2UEMxBTu9M",
     "title": "Is Claude Still Worth Paying 30x For? | Billion-Dollar Founder Suhail Doshi",
@@ -1218,29 +1242,5 @@
     "path": "channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.md",
     "structured_path": "channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.structured.md",
     "transcript_path": "channels/latent-space/2026-11-03-⚡️-the-2026-software-factory-infra-stack-—-zach-lloyd,-warp.dev-LL0YmIyBKSU.transcript.md"
-  },
-  {
-    "id": "Ezi-nwe6LlY",
-    "video_id": "Ezi-nwe6LlY",
-    "title": "Andrew Huberman on Focus, Energy, and Performing at Your Best",
-    "channel": "a16z",
-    "published": "2026-11-03",
-    "source_url": "https://www.youtube.com/watch?v=Ezi-nwe6LlY",
-    "notion_url": "",
-    "tags": [
-      "健康习惯",
-      "生产力",
-      "神经科学",
-      "创始人",
-      "行为设计"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 15644,
-    "duration": "48:08",
-    "duration_seconds": 2888,
-    "path": "channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.md",
-    "structured_path": "channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.structured.md",
-    "transcript_path": "channels/a16z/2026-11-03-andrew-huberman-on-focus,-energy,-and-performing-at-your-best-Ezi-nwe6LlY.transcript.md"
   }
 ]

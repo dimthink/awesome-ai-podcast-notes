@@ -1,9 +1,10 @@
 # Lenny's Podcast
 
-68 notes in this channel.
+69 notes in this channel.
 
-本频道共 68 篇。
+本频道共 69 篇。
 
+- 2026-11-22 · [Why “everyone’s a builder” isn’t working | A reality check with Sherif Mansour](2026-11-22-why-“everyone’s-a-builder”-isn’t-working-a-reality-check-with-sherif-mansour-hRtmV1mCBSE.md)
 - 2026-11-15 · [Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos](2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.md)
 - 2026-11-08 · [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md)
 - 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)

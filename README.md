@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-1044-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-1045-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 1044 |
+| 笔记 | 1045 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 717 |
-| 原始文稿 | 1004 |
+| 结构化文稿 | 718 |
+| 原始文稿 | 1005 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-11-21 |
-| 仓库更新日期 | 2026-11-22 |
+| 最新来源日期 | 2026-11-22 |
+| 仓库更新日期 | 2026-11-23 |
 
 ## 适合谁
 
@@ -74,11 +74,11 @@
 - 2026-11-18 · [Build a 1 Person Media Machine With Grok Bot](channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md)
 - 2026-11-11 · [Use Grok Bot Better Than 99% of People (Full Course)](channels/greg-isenberg/2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md)
 
-### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 68 篇
+### [Lenny's Podcast](channels/lenny's-podcast/README.md) · 69 篇
 
+- 2026-11-22 · [Why “everyone’s a builder” isn’t working | A reality check with Sherif Mansour](channels/lenny's-podcast/2026-11-22-why-“everyone’s-a-builder”-isn’t-working-a-reality-check-with-sherif-mansour-hRtmV1mCBSE.md)
 - 2026-11-15 · [Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos](channels/lenny's-podcast/2026-11-15-meta’s-muse-how-we-launched-the-most-successful-consumer-product-this-year-mona-sarantakos-WY0cdD4gNoQ.md)
 - 2026-11-08 · [Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](channels/lenny's-podcast/2026-11-08-why-pms-are-suddenly-valuable-again-tulsee-doshi-(head-of-product,-gemini)-qGf2Yvan4Wg.md)
-- 2026-11-01 · [86 minutes of paid-growth alpha | Hector Serrano](channels/lenny's-podcast/2026-11-01-86-minutes-of-paid-growth-alpha-hector-serrano-KzS5Qs7vSMg.md)
 
 ### [Y Combinator](channels/y-combinator/README.md) · 61 篇
 
@@ -93,6 +93,10 @@
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 
 ## 最新更新
+
+### 2026-11-22
+
+- [Why “everyone’s a builder” isn’t working | A reality check with Sherif Mansour](channels/lenny's-podcast/2026-11-22-why-“everyone’s-a-builder”-isn’t-working-a-reality-check-with-sherif-mansour-hRtmV1mCBSE.md) · Lenny's Podcast
 
 ### 2026-11-21
 
@@ -137,7 +141,6 @@
 ### 2026-11-13
 
 - [How Intelligence Measures the Frontier](channels/y-combinator/2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md) · Y Combinator
-- [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](channels/a16z/2026-11-13-cyberattacks-used-to-take-months.-ai-can-do-it-in-minutes-PbD9pVXxsYM.md) · a16z
 
 ## 数据与自动更新
 

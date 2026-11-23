@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-22](2026/11/2026-11-22.md) · 1 篇
+
+- [Why “everyone’s a builder” isn’t working | A reality check with Sherif Mansour](../channels/lenny's-podcast/2026-11-22-why-“everyone’s-a-builder”-isn’t-working-a-reality-check-with-sherif-mansour-hRtmV1mCBSE.md) · Lenny's Podcast
+
 ## [2026-11-21](2026/11/2026-11-21.md) · 1 篇
 
 - [Is Claude Still Worth Paying 30x For? | Billion-Dollar Founder Suhail Doshi](../channels/riley-brown/2026-11-21-is-claude-still-worth-paying-30x-for-billion-dollar-founder-suhail-doshi-K2UEMxBTu9M.md) · Riley Brown
