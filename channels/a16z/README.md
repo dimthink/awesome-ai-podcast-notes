@@ -1,9 +1,12 @@
 # a16z
 
-124 notes in this channel.
+127 notes in this channel.
 
-本频道共 124 篇。
+本频道共 127 篇。
 
+- 2026-11-23 · [Why OpenAI Acquired a Biotech Startup](2026-11-23-why-openai-acquired-a-biotech-startup-RwYz8XhZiu0.md)
+- 2026-11-20 · [Why AI Has DHH Working 16-Hour Days](2026-11-20-why-ai-has-dhh-working-16-hour-days-TtOoLanFzGw.md)
+- 2026-11-19 · [Why Nick Bostrom Thinks Superintelligence Could End Aging](2026-11-19-why-nick-bostrom-thinks-superintelligence-could-end-aging-gDW9An30_c0.md)
 - 2026-11-18 · [What It Takes to Build an AI That Actually Knows You](2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md)
 - 2026-11-17 · [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md)
 - 2026-11-16 · [What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas](2026-11-16-what-history-tells-us-about-the-ai-revolution-tyler-cowen-&-alex-imas-g_67TmQ8lGY.md)

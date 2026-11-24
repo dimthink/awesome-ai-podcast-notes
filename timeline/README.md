@@ -6,6 +6,13 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-23](2026/11/2026-11-23.md) · 4 篇
+
+- [Robots are the new apps (and you’re early)](../channels/greg-isenberg/2026-11-23-robots-are-the-new-apps-(and-you’re-early)-TXzJ4pGW59o.md) · Greg Isenberg
+- [Tennr is AI that Gets Patients Seen](../channels/y-combinator/2026-11-23-tennr-is-ai-that-gets-patients-seen-IEJM55NIY0Y.md) · Y Combinator
+- [Why OpenAI Acquired a Biotech Startup](../channels/a16z/2026-11-23-why-openai-acquired-a-biotech-startup-RwYz8XhZiu0.md) · a16z
+- [E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](../channels/硅谷101/2026-11-23-e259-机械神教与反人性策略-华尔街量化巨头的ai之路-yvV2svDKAEA.md) · 硅谷101
+
 ## [2026-11-22](2026/11/2026-11-22.md) · 1 篇
 
 - [Why “everyone’s a builder” isn’t working | A reality check with Sherif Mansour](../channels/lenny's-podcast/2026-11-22-why-“everyone’s-a-builder”-isn’t-working-a-reality-check-with-sherif-mansour-hRtmV1mCBSE.md) · Lenny's Podcast
@@ -14,16 +21,18 @@ Browse notes by source publish date. Date headings open daily detail pages, and 
 
 - [Is Claude Still Worth Paying 30x For? | Billion-Dollar Founder Suhail Doshi](../channels/riley-brown/2026-11-21-is-claude-still-worth-paying-30x-for-billion-dollar-founder-suhail-doshi-K2UEMxBTu9M.md) · Riley Brown
 
-## [2026-11-20](2026/11/2026-11-20.md) · 2 篇
+## [2026-11-20](2026/11/2026-11-20.md) · 3 篇
 
 - [Gemini 4 Neon: the most underrated model of the year](../channels/greg-isenberg/2026-11-20-gemini-4-neon-the-most-underrated-model-of-the-year-tCY7zMknCJQ.md) · Greg Isenberg
 - [Google JUST Caught Up To Claude... And It’s HALF the Price](../channels/riley-brown/2026-11-20-google-just-caught-up-to-claude...-and-it’s-half-the-price-LNIrmrZ_0gY.md) · Riley Brown
+- [Why AI Has DHH Working 16-Hour Days](../channels/a16z/2026-11-20-why-ai-has-dhh-working-16-hour-days-TtOoLanFzGw.md) · a16z
 
-## [2026-11-19](2026/11/2026-11-19.md) · 3 篇
+## [2026-11-19](2026/11/2026-11-19.md) · 4 篇
 
 - [Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story](../channels/ai-explained/2026-11-19-anthropic-ipos,-gpt-6.2-astra-arrives,-but-there’s-a-bigger-story-KGA7B_c_S4s.md) · AI Explained
 - [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](../channels/latent-space/2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md) · Latent Space
 - [GTA 6, Crime, Money, Prison Gangs & Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](../channels/lex-fridman/2026-11-19-gta-6,-crime,-money,-prison-gangs-&-biggest-jewelry-thief-in-us-history-lex-fridman-podcast-505-v1X9Fqs5a14.md) · Lex Fridman
+- [Why Nick Bostrom Thinks Superintelligence Could End Aging](../channels/a16z/2026-11-19-why-nick-bostrom-thinks-superintelligence-could-end-aging-gDW9An30_c0.md) · a16z
 
 ## [2026-11-18](2026/11/2026-11-18.md) · 4 篇
 

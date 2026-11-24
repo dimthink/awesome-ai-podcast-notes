@@ -1,9 +1,10 @@
 # Greg Isenberg
 
-93 notes in this channel.
+94 notes in this channel.
 
-本频道共 93 篇。
+本频道共 94 篇。
 
+- 2026-11-23 · [Robots are the new apps (and you’re early)](2026-11-23-robots-are-the-new-apps-(and-you’re-early)-TXzJ4pGW59o.md)
 - 2026-11-20 · [Gemini 4 Neon: the most underrated model of the year](2026-11-20-gemini-4-neon-the-most-underrated-model-of-the-year-tCY7zMknCJQ.md)
 - 2026-11-18 · [Build a 1 Person Media Machine With Grok Bot](2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md)
 - 2026-11-11 · [Use Grok Bot Better Than 99% of People (Full Course)](2026-11-11-use-grok-bot-better-than-99-of-people-(full-course)-1cWZ7Ekff6E.md)

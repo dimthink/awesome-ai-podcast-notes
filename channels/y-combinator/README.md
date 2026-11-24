@@ -1,9 +1,10 @@
 # Y Combinator
 
-61 notes in this channel.
+62 notes in this channel.
 
-本频道共 61 篇。
+本频道共 62 篇。
 
+- 2026-11-23 · [Tennr is AI that Gets Patients Seen](2026-11-23-tennr-is-ai-that-gets-patients-seen-IEJM55NIY0Y.md)
 - 2026-11-17 · [Building the AI Platform for Enterprise Software Implementations](2026-11-17-building-the-ai-platform-for-enterprise-software-implementations-FmvRhxq2oHE.md)
 - 2026-11-13 · [How Intelligence Measures the Frontier](2026-11-13-how-intelligence-measures-the-frontier-EWmqL-63tyM.md)
 - 2026-11-12 · [Creating A New Universal Standard For Refueling Spacecraft](2026-11-12-creating-a-new-universal-standard-for-refueling-spacecraft-WkbEMw9EQYs.md)
