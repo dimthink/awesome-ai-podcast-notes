@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-1051-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-1052-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 1051 |
+| 笔记 | 1052 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 724 |
-| 原始文稿 | 1011 |
+| 结构化文稿 | 725 |
+| 原始文稿 | 1012 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-11-23 |
-| 仓库更新日期 | 2026-11-24 |
+| 最新来源日期 | 2026-11-24 |
+| 仓库更新日期 | 2026-11-25 |
 
 ## 适合谁
 
@@ -94,6 +94,10 @@
 
 ## 最新更新
 
+### 2026-11-24
+
+- [Why Superintelligence Will Learn Any Job in Days – Paul Christiano](channels/dwarkesh-patel/2026-11-24-why-superintelligence-will-learn-any-job-in-days-–-paul-christiano-yoSvuJKmKsI.md) · Dwarkesh Patel
+
 ### 2026-11-23
 
 - [Why OpenAI Acquired a Biotech Startup](channels/a16z/2026-11-23-why-openai-acquired-a-biotech-startup-RwYz8XhZiu0.md) · a16z
@@ -128,10 +132,6 @@
 - [What It Takes to Build an AI That Actually Knows You](channels/a16z/2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md) · a16z
 - [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md) · Riley Brown
 - [Build a 1 Person Media Machine With Grok Bot](channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md) · Greg Isenberg
-
-### 2026-11-17
-
-- [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md) · a16z
 
 ## 数据与自动更新
 

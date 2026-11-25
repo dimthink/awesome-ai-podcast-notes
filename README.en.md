@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1051 |
+| Notes | 1052 |
 | Channels | 16 |
-| Structured notes | 724 |
-| Raw transcripts | 1011 |
+| Structured notes | 725 |
+| Raw transcripts | 1012 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-23 |
-| Archive updated | 2026-11-24 |
+| Latest source date | 2026-11-24 |
+| Archive updated | 2026-11-25 |
 
 Each episode can include up to three versions:
 
@@ -83,6 +83,10 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-11-24
+
+- [Why Superintelligence Will Learn Any Job in Days – Paul Christiano](channels/dwarkesh-patel/2026-11-24-why-superintelligence-will-learn-any-job-in-days-–-paul-christiano-yoSvuJKmKsI.md) · Dwarkesh Patel
+
 ### 2026-11-23
 
 - [Why OpenAI Acquired a Biotech Startup](channels/a16z/2026-11-23-why-openai-acquired-a-biotech-startup-RwYz8XhZiu0.md) · a16z
@@ -117,10 +121,6 @@ Each episode can include up to three versions:
 - [What It Takes to Build an AI That Actually Knows You](channels/a16z/2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md) · a16z
 - [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md) · Riley Brown
 - [Build a 1 Person Media Machine With Grok Bot](channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md) · Greg Isenberg
-
-### 2026-11-17
-
-- [OpenAI’s Cofounder & Research Chief Explain Self-Improving AI](channels/a16z/2026-11-17-openai’s-cofounder-&-research-chief-explain-self-improving-ai-h_aA1-R70E8.md) · a16z
 
 ## Data
 

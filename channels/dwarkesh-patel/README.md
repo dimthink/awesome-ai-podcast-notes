@@ -1,9 +1,10 @@
 # Dwarkesh Patel
 
-22 notes in this channel.
+23 notes in this channel.
 
-本频道共 22 篇。
+本频道共 23 篇。
 
+- 2026-11-24 · [Why Superintelligence Will Learn Any Job in Days – Paul Christiano](2026-11-24-why-superintelligence-will-learn-any-job-in-days-–-paul-christiano-yoSvuJKmKsI.md)
 - 2026-10-03 · [Why Spain’s New World Riches Backfired - Si Sheppard](2026-10-03-why-spain’s-new-world-riches-backfired-si-sheppard-KO8JE7XK4Gs.md)
 - 2026-09-24 · [What the Hugging Face Incident Reveals About AI Alignment - Noam Brown](2026-09-24-what-the-hugging-face-incident-reveals-about-ai-alignment-noam-brown-Z88ZUZB2VWs.md)
 - 2026-09-23 · [What If AI Progress Doesn’t Slow Down? - Noam Brown](2026-09-23-what-if-ai-progress-doesn’t-slow-down-noam-brown-LXBrk0F7HC0.md)

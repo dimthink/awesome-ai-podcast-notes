@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-24](2026/11/2026-11-24.md) · 1 篇
+
+- [Why Superintelligence Will Learn Any Job in Days – Paul Christiano](../channels/dwarkesh-patel/2026-11-24-why-superintelligence-will-learn-any-job-in-days-–-paul-christiano-yoSvuJKmKsI.md) · Dwarkesh Patel
+
 ## [2026-11-23](2026/11/2026-11-23.md) · 4 篇
 
 - [Robots are the new apps (and you’re early)](../channels/greg-isenberg/2026-11-23-robots-are-the-new-apps-(and-you’re-early)-TXzJ4pGW59o.md) · Greg Isenberg
