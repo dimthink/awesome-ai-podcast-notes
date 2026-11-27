@@ -1,5 +1,23 @@
 [
   {
+    "id": "Qe9d9dWyED0",
+    "video_id": "Qe9d9dWyED0",
+    "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+    "channel": "Latent Space",
+    "published": "2026-11-25",
+    "source_url": "https://www.youtube.com/watch?v=Qe9d9dWyED0",
+    "notion_url": "",
+    "tags": [],
+    "rating": 0,
+    "language": "英文",
+    "word_count": 1283,
+    "duration": "54:00",
+    "duration_seconds": 3240,
+    "path": "channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md",
+    "structured_path": "channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.structured.md",
+    "transcript_path": "channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.transcript.md"
+  },
+  {
     "id": "yoSvuJKmKsI",
     "video_id": "yoSvuJKmKsI",
     "title": "Why Superintelligence Will Learn Any Job in Days – Paul Christiano",
@@ -1224,30 +1242,5 @@
     "path": "channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.md",
     "structured_path": "channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.structured.md",
     "transcript_path": "channels/a16z/2026-11-06-inside-salesforce’s-acquisition-strategy-for-the-ai-era-y4BdOtm40SA.transcript.md"
-  },
-  {
-    "id": "KgqWyVVH4Oc",
-    "video_id": "KgqWyVVH4Oc",
-    "title": "Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham",
-    "channel": "Latent Space",
-    "published": "2026-11-06",
-    "source_url": "https://www.youtube.com/watch?v=KgqWyVVH4Oc",
-    "notion_url": "",
-    "tags": [
-      "AI基础设施",
-      "文档智能",
-      "PDF解析",
-      "创业管理",
-      "自研模型",
-      "LLM"
-    ],
-    "rating": 4,
-    "language": "英文",
-    "word_count": 10092,
-    "duration": "50:38",
-    "duration_seconds": 3038,
-    "path": "channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.md",
-    "structured_path": "channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.structured.md",
-    "transcript_path": "channels/latent-space/2026-11-06-cooking-with-reducto’s-ceo-why-pdfs-still-break-ai-—-adit-abraham-KgqWyVVH4Oc.transcript.md"
   }
 ]

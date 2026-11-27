@@ -2,7 +2,7 @@
 
 中文 | [English](README.en.md)
 
-![Notes](https://img.shields.io/badge/notes-1052-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
+![Notes](https://img.shields.io/badge/notes-1053-2f6f5e) ![Channels](https://img.shields.io/badge/channels-16-4b7bec) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-6c5ce7) ![Updated](https://img.shields.io/badge/updated-daily-f39c12)
 
 一个面向 AI 从业者、产品经理、研究者和独立开发者的 AI 长播客 / YouTube 深度笔记开放资料库。
 
@@ -12,13 +12,13 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| 笔记 | 1052 |
+| 笔记 | 1053 |
 | 频道 / 播客 | 16 |
-| 结构化文稿 | 725 |
-| 原始文稿 | 1012 |
+| 结构化文稿 | 726 |
+| 原始文稿 | 1013 |
 | 最早来源日期 | 2016-10-07 |
-| 最新来源日期 | 2026-11-24 |
-| 仓库更新日期 | 2026-11-25 |
+| 最新来源日期 | 2026-11-25 |
+| 仓库更新日期 | 2026-11-27 |
 
 ## 适合谁
 
@@ -56,11 +56,11 @@
 - 2026-11-20 · [Why AI Has DHH Working 16-Hour Days](channels/a16z/2026-11-20-why-ai-has-dhh-working-16-hour-days-TtOoLanFzGw.md)
 - 2026-11-19 · [Why Nick Bostrom Thinks Superintelligence Could End Aging](channels/a16z/2026-11-19-why-nick-bostrom-thinks-superintelligence-could-end-aging-gDW9An30_c0.md)
 
-### [Latent Space](channels/latent-space/README.md) · 118 篇
+### [Latent Space](channels/latent-space/README.md) · 119 篇
 
+- 2026-11-25 · [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md)
 - 2026-11-19 · [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](channels/latent-space/2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md)
 - 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)
-- 2026-11-16 · [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 94 篇
 
@@ -93,6 +93,10 @@
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 
 ## 最新更新
+
+### 2026-11-25
+
+- [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md) · Latent Space
 
 ### 2026-11-24
 
@@ -131,7 +135,6 @@
 - [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md) · Latent Space
 - [What It Takes to Build an AI That Actually Knows You](channels/a16z/2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md) · a16z
 - [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md) · Riley Brown
-- [Build a 1 Person Media Machine With Grok Bot](channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md) · Greg Isenberg
 
 ## 数据与自动更新
 

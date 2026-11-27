@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1052 |
+| Notes | 1053 |
 | Channels | 16 |
-| Structured notes | 725 |
-| Raw transcripts | 1012 |
+| Structured notes | 726 |
+| Raw transcripts | 1013 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-24 |
-| Archive updated | 2026-11-25 |
+| Latest source date | 2026-11-25 |
+| Archive updated | 2026-11-27 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-11-20 · [Why AI Has DHH Working 16-Hour Days](channels/a16z/2026-11-20-why-ai-has-dhh-working-16-hour-days-TtOoLanFzGw.md)
 - 2026-11-19 · [Why Nick Bostrom Thinks Superintelligence Could End Aging](channels/a16z/2026-11-19-why-nick-bostrom-thinks-superintelligence-could-end-aging-gDW9An30_c0.md)
 
-### [Latent Space](channels/latent-space/README.md) · 118 notes
+### [Latent Space](channels/latent-space/README.md) · 119 notes
 
+- 2026-11-25 · [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md)
 - 2026-11-19 · [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](channels/latent-space/2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md)
 - 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)
-- 2026-11-16 · [Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](channels/latent-space/2026-11-16-building-visual-intelligence-—-andreas-blattmann-&-dustin-podell,-black-forest-labs-8cGfJOU3AlQ.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 94 notes
 
@@ -82,6 +82,10 @@ Each episode can include up to three versions:
 - 2026-10-15 · [Lindon Gao: Finding Clarity in the Fog of Robotics, Disagreements & Choices, and Wang Yangming](channels/张晓珺/2026-10-15-lindon-gao-finding-clarity-in-the-fog-of-robotics,-disagreements-&-choices,-and-wang-yangming-iDaxRNIddME.md)
 
 ## Latest Updates
+
+### 2026-11-25
+
+- [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md) · Latent Space
 
 ### 2026-11-24
 
@@ -120,7 +124,6 @@ Each episode can include up to three versions:
 - [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md) · Latent Space
 - [What It Takes to Build an AI That Actually Knows You](channels/a16z/2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md) · a16z
 - [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md) · Riley Brown
-- [Build a 1 Person Media Machine With Grok Bot](channels/greg-isenberg/2026-11-18-build-a-1-person-media-machine-with-grok-bot-vKobP6DkC1E.md) · Greg Isenberg
 
 ## Data
 

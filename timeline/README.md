@@ -6,6 +6,10 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
+## [2026-11-25](2026/11/2026-11-25.md) · 1 篇
+
+- [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](../channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md) · Latent Space
+
 ## [2026-11-24](2026/11/2026-11-24.md) · 1 篇
 
 - [Why Superintelligence Will Learn Any Job in Days – Paul Christiano](../channels/dwarkesh-patel/2026-11-24-why-superintelligence-will-learn-any-job-in-days-–-paul-christiano-yoSvuJKmKsI.md) · Dwarkesh Patel
