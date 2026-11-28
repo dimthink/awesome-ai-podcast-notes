@@ -1,5 +1,57 @@
 [
   {
+    "id": "lCtMq8jegvo",
+    "video_id": "lCtMq8jegvo",
+    "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+    "channel": "Latent Space",
+    "published": "2026-11-28",
+    "source_url": "https://www.youtube.com/watch?v=lCtMq8jegvo",
+    "notion_url": "",
+    "tags": [
+      "AI",
+      "训练数据",
+      "RL环境",
+      "前沿实验室",
+      "G2i",
+      "数据市场",
+      "计算资源",
+      "人才网络",
+      "多智能体编排"
+    ],
+    "rating": 4,
+    "language": "英文",
+    "word_count": 17398,
+    "duration": "32:23",
+    "duration_seconds": 1943,
+    "path": "channels/latent-space/2026-11-28-inside-the-ai-training-data-market-—-gabe-greenberg,-g2i-lCtMq8jegvo.md",
+    "structured_path": "channels/latent-space/2026-11-28-inside-the-ai-training-data-market-—-gabe-greenberg,-g2i-lCtMq8jegvo.structured.md",
+    "transcript_path": "channels/latent-space/2026-11-28-inside-the-ai-training-data-market-—-gabe-greenberg,-g2i-lCtMq8jegvo.transcript.md"
+  },
+  {
+    "id": "7uXtzRAf4PM",
+    "video_id": "7uXtzRAf4PM",
+    "title": "E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？",
+    "channel": "硅谷101",
+    "published": "2026-11-27",
+    "source_url": "https://www.youtube.com/watch?v=7uXtzRAf4PM",
+    "notion_url": "",
+    "tags": [
+      "韩妆出海",
+      "美妆产业",
+      "品牌策略",
+      "文化出海",
+      "代工体系"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 12521,
+    "duration": "1:30:23",
+    "duration_seconds": 5423,
+    "path": "channels/硅谷101/2026-11-27-e261-表演有效、组团出海,韩国美妆如何抢占美国市场-7uXtzRAf4PM.md",
+    "structured_path": "channels/硅谷101/2026-11-27-e261-表演有效、组团出海,韩国美妆如何抢占美国市场-7uXtzRAf4PM.structured.md",
+    "transcript_path": "channels/硅谷101/2026-11-27-e261-表演有效、组团出海,韩国美妆如何抢占美国市场-7uXtzRAf4PM.transcript.md"
+  },
+  {
     "id": "Qe9d9dWyED0",
     "video_id": "Qe9d9dWyED0",
     "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
@@ -16,6 +68,30 @@
     "path": "channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md",
     "structured_path": "channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.structured.md",
     "transcript_path": "channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.transcript.md"
+  },
+  {
+    "id": "aZlaPfp_2-U",
+    "video_id": "aZlaPfp_2-U",
+    "title": "E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场",
+    "channel": "硅谷101",
+    "published": "2026-11-25",
+    "source_url": "https://www.youtube.com/watch?v=aZlaPfp_2-U",
+    "notion_url": "",
+    "tags": [
+      "AI基建",
+      "算力融资",
+      "CoreWeave",
+      "英伟达",
+      "信用市场"
+    ],
+    "rating": 4,
+    "language": "中文",
+    "word_count": 17297,
+    "duration": "1:26:26",
+    "duration_seconds": 5186,
+    "path": "channels/硅谷101/2026-11-25-e260-黄仁勋归来之际,深聊英伟达、coreweave和算力信用市场-aZlaPfp_2-U.md",
+    "structured_path": "channels/硅谷101/2026-11-25-e260-黄仁勋归来之际,深聊英伟达、coreweave和算力信用市场-aZlaPfp_2-U.structured.md",
+    "transcript_path": "channels/硅谷101/2026-11-25-e260-黄仁勋归来之际,深聊英伟达、coreweave和算力信用市场-aZlaPfp_2-U.transcript.md"
   },
   {
     "id": "yoSvuJKmKsI",

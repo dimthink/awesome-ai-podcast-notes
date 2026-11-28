@@ -1,9 +1,10 @@
 # Latent Space
 
-119 notes in this channel.
+120 notes in this channel.
 
-本频道共 119 篇。
+本频道共 120 篇。
 
+- 2026-11-28 · [Inside the AI Training Data Market — Gabe Greenberg, G2i](2026-11-28-inside-the-ai-training-data-market-—-gabe-greenberg,-g2i-lCtMq8jegvo.md)
 - 2026-11-25 · [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md)
 - 2026-11-19 · [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md)
 - 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)

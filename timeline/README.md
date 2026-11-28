@@ -6,9 +6,18 @@
 
 Browse notes by source publish date. Date headings open daily detail pages, and article titles open notes directly.
 
-## [2026-11-25](2026/11/2026-11-25.md) · 1 篇
+## [2026-11-28](2026/11/2026-11-28.md) · 1 篇
+
+- [Inside the AI Training Data Market — Gabe Greenberg, G2i](../channels/latent-space/2026-11-28-inside-the-ai-training-data-market-—-gabe-greenberg,-g2i-lCtMq8jegvo.md) · Latent Space
+
+## [2026-11-27](2026/11/2026-11-27.md) · 1 篇
+
+- [E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](../channels/硅谷101/2026-11-27-e261-表演有效、组团出海,韩国美妆如何抢占美国市场-7uXtzRAf4PM.md) · 硅谷101
+
+## [2026-11-25](2026/11/2026-11-25.md) · 2 篇
 
 - [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](../channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md) · Latent Space
+- [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](../channels/硅谷101/2026-11-25-e260-黄仁勋归来之际,深聊英伟达、coreweave和算力信用市场-aZlaPfp_2-U.md) · 硅谷101
 
 ## [2026-11-24](2026/11/2026-11-24.md) · 1 篇
 

@@ -10,13 +10,13 @@ This is not a podcast ranking list. It is a public knowledge archive that turns 
 
 | Metric | Value |
 | --- | ---: |
-| Notes | 1053 |
+| Notes | 1056 |
 | Channels | 16 |
-| Structured notes | 726 |
-| Raw transcripts | 1013 |
+| Structured notes | 729 |
+| Raw transcripts | 1016 |
 | Earliest source date | 2016-10-07 |
-| Latest source date | 2026-11-25 |
-| Archive updated | 2026-11-27 |
+| Latest source date | 2026-11-28 |
+| Archive updated | 2026-11-28 |
 
 Each episode can include up to three versions:
 
@@ -45,11 +45,11 @@ Each episode can include up to three versions:
 - 2026-11-20 · [Why AI Has DHH Working 16-Hour Days](channels/a16z/2026-11-20-why-ai-has-dhh-working-16-hour-days-TtOoLanFzGw.md)
 - 2026-11-19 · [Why Nick Bostrom Thinks Superintelligence Could End Aging](channels/a16z/2026-11-19-why-nick-bostrom-thinks-superintelligence-could-end-aging-gDW9An30_c0.md)
 
-### [Latent Space](channels/latent-space/README.md) · 119 notes
+### [Latent Space](channels/latent-space/README.md) · 120 notes
 
+- 2026-11-28 · [Inside the AI Training Data Market — Gabe Greenberg, G2i](channels/latent-space/2026-11-28-inside-the-ai-training-data-market-—-gabe-greenberg,-g2i-lCtMq8jegvo.md)
 - 2026-11-25 · [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md)
 - 2026-11-19 · [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](channels/latent-space/2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md)
-- 2026-11-18 · [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md)
 
 ### [Greg Isenberg](channels/greg-isenberg/README.md) · 94 notes
 
@@ -83,9 +83,18 @@ Each episode can include up to three versions:
 
 ## Latest Updates
 
+### 2026-11-28
+
+- [Inside the AI Training Data Market — Gabe Greenberg, G2i](channels/latent-space/2026-11-28-inside-the-ai-training-data-market-—-gabe-greenberg,-g2i-lCtMq8jegvo.md) · Latent Space
+
+### 2026-11-27
+
+- [E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](channels/硅谷101/2026-11-27-e261-表演有效、组团出海,韩国美妆如何抢占美国市场-7uXtzRAf4PM.md) · 硅谷101
+
 ### 2026-11-25
 
 - [The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](channels/latent-space/2026-11-25-the-revolution-vs-the-renaissance-—-thariq-shihipar,-openai-Qe9d9dWyED0.md) · Latent Space
+- [E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](channels/硅谷101/2026-11-25-e260-黄仁勋归来之际,深聊英伟达、coreweave和算力信用市场-aZlaPfp_2-U.md) · 硅谷101
 
 ### 2026-11-24
 
@@ -118,12 +127,6 @@ Each episode can include up to three versions:
 - [Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO](channels/latent-space/2026-11-19-scaling-linear's-gtm-to-$100m+-arr-—-cristina-cordova,-coo-x0VSm6IjcDQ.md) · Latent Space
 - [GTA 6, Crime, Money, Prison Gangs & Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](channels/lex-fridman/2026-11-19-gta-6,-crime,-money,-prison-gangs-&-biggest-jewelry-thief-in-us-history-lex-fridman-podcast-505-v1X9Fqs5a14.md) · Lex Fridman
 - [Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story](channels/ai-explained/2026-11-19-anthropic-ipos,-gpt-6.2-astra-arrives,-but-there’s-a-bigger-story-KGA7B_c_S4s.md) · AI Explained
-
-### 2026-11-18
-
-- [⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC](channels/latent-space/2026-11-18-⚡️anthropic-know-before-you-ipo-—-tanay-jaipuria,-wing-vc-wX8nDtGIfYA.md) · Latent Space
-- [What It Takes to Build an AI That Actually Knows You](channels/a16z/2026-11-18-what-it-takes-to-build-an-ai-that-actually-knows-you-kBJe4H_WobA.md) · a16z
-- [Claude Is Taking Over (NEW Artifacts Are Insane)](channels/riley-brown/2026-11-18-claude-is-taking-over-(new-artifacts-are-insane)-7N1AE5Y87GU.md) · Riley Brown
 
 ## Data
 
